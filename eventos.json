@@ -1,66 +1,286 @@
 {
-  "actualizado": "2026-04-15T18:30:00",
-  "total": 6,
+  "actualizado": "2026-04-17T13:35:58.863649",
+  "total": 28,
   "eventos": [
     {
-      "titulo": "Los Estanques + Astro",
-      "fecha": "2026-04-15",
-      "hora": "21:30",
-      "sala": "Sala López",
-      "fuente": "salalopez.com",
-      "url": "https://salalopez.com",
-      "imagen": "",
-      "descripcion": "Los Estanques presentan su nuevo disco con el apoyo de Astro en una noche de rock indie en Sala López."
-    },
-    {
-      "titulo": "Jazz Session Abierta",
-      "fecha": "2026-04-15",
-      "hora": "22:00",
-      "sala": "Ragtime",
-      "fuente": "ragtime",
-      "url": "",
-      "imagen": "",
-      "descripcion": "Sesión de jazz abierta con músicos de la ciudad. Entrada libre."
-    },
-    {
-      "titulo": "Metal Night con DJ set",
-      "fecha": "2026-04-15",
-      "hora": "23:00",
-      "sala": "Pub Utopia",
-      "fuente": "instagram",
-      "url": "",
-      "imagen": "",
-      "descripcion": "Noche metal con sesión de DJ y directos sorpresa."
-    },
-    {
-      "titulo": "La Paloma Mensajera",
-      "fecha": "2026-04-16",
-      "hora": "21:00",
-      "sala": "La Lata de Bombillas",
-      "fuente": "lalatadebombillas.es",
-      "url": "https://lalatadebombillas.es",
-      "imagen": "",
-      "descripcion": "Pop experimental desde Madrid. Segundo álbum en presentación nacional."
-    },
-    {
-      "titulo": "Tributo Pixies · Doolittle",
-      "fecha": "2026-04-16",
-      "hora": "22:00",
-      "sala": "Sala Creedence",
-      "fuente": "creedencesound.com",
-      "url": "https://creedencesound.com",
-      "imagen": "",
-      "descripcion": "Tributo al disco Doolittle de Pixies interpretado íntegramente en directo."
-    },
-    {
-      "titulo": "Blues Brothers Experience",
+      "titulo": "Sharif & Rapsusklei",
       "fecha": "2026-04-17",
-      "hora": "21:30",
-      "sala": "Rock & Blues Café",
-      "fuente": "rockandbluescafe.com",
-      "url": "https://rockandbluescafe.com",
-      "imagen": "",
-      "descripcion": "Show tributo a Blues Brothers con banda de 8 músicos y vestuario original."
+      "hora": "19:00",
+      "sala": "Oasis Club Teatro C/ Basilio Boggiero,28, Zaragoza, Zaragoza, Spain",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/sharif-rapsusklei/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/thumbnail_Cartel-Provisional-ZGZ-Sala-Oasis-17-abril-1-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "ALACRÁN + ASEDIO",
+      "fecha": "2026-04-17",
+      "hora": "20:00",
+      "sala": "La Ley Seca C./ Sevilla, 2, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/alacran-asedio/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/ley-seca-LOGO-1.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "TONACHO – PREFIERO QUEDAR MAL",
+      "fecha": "2026-04-17",
+      "hora": "20:00",
+      "sala": "Belushi C. de Bernardo Fita, 11, Zaragoza, Zaragoza, Spain",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/tonacho-prefiero-quedar-mal/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260417_PREFIERO-QUEDAR-MAL-CARTEL-A3-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LIKE A STONE ROCK&GRUNGE 90’s NIGHT!",
+      "fecha": "2026-04-17",
+      "hora": "20:30",
+      "sala": "Sala Z C/ Felix Latassa, 14, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/like-a-stone-rockgrunge-90s-night-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/like-a-stone-sala-z-2026-1.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Tito Ramírez en concierto",
+      "fecha": "2026-04-17",
+      "hora": "21:00",
+      "sala": "La Casa del Loco C/. Mayor 10, Zaragoza, Zaragoza, Spain",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/tito-ramirez-en-concierto/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/tito-ramirez.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "THE ROADHOUSE",
+      "fecha": "2026-04-17",
+      "hora": "21:00",
+      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/the-roadhouse/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/04f3b221-2cbc-4033-821e-172fbbbc454a-1024x768-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "DIREI",
+      "fecha": "2026-04-17",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/direi/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "SAURA Y LOS IMPERTERRITOS",
+      "fecha": "2026-04-17",
+      "hora": "21:00",
+      "sala": "El Refugio del Crápula C/ Mayor 56, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/saura-y-los-imperterritos-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260417saura-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "KALDERAS – CANALLA EN ZARAGOZA",
+      "fecha": "2026-04-17",
+      "hora": "22:00",
+      "sala": "Belushi C. de Bernardo Fita, 11, Zaragoza, Zaragoza, Spain",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/kalderas-canalla-en-zaragoza/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260417_KALDERAS2-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "ARREÑAL en CONCIERTO VERMÚ",
+      "fecha": "2026-04-18",
+      "hora": "12:30",
+      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/arrenal-en-concierto-vermu/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/658385634_1629978475509301_817024268076518545_n.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "HOTEL DE MARTE",
+      "fecha": "2026-04-18",
+      "hora": "12:30",
+      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/hotel-de-marte-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "El Arrebato",
+      "fecha": "2026-05-07",
+      "hora": "20:30",
+      "sala": "Auditorio",
+      "fuente": "zgzconciertos.com",
+      "url": "https://zgzconciertos.com/concierto/el-arrebato-3/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/arrebato.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Pedro Pastor",
+      "fecha": "2026-05-09",
+      "hora": "20:00",
+      "sala": "Sala López Calle de Sixto Celorrio, 2, Zaragoza, Zaragoza, España",
+      "fuente": "zgzconciertos.com",
+      "url": "https://zgzconciertos.com/concierto/pedro-pastor/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/pedro-pastor.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Dani Martín",
+      "fecha": "2026-05-22",
+      "hora": "21:00",
+      "sala": "Pabellón Príncipe Felipe Av. Cesáreo Alierta, 120, Zaragoza, Zaragoza, España",
+      "fuente": "zgzconciertos.com",
+      "url": "https://zgzconciertos.com/concierto/dani-martin/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2025/06/dani-martin.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Iván Ferreiro",
+      "fecha": "2026-06-26",
+      "hora": "21:00",
+      "sala": "Pabellón Príncipe Felipe Av. Cesáreo Alierta, 120, Zaragoza, Zaragoza, España",
+      "fuente": "zgzconciertos.com",
+      "url": "https://zgzconciertos.com/concierto/ivan-ferreiro/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/ivan-ferreiro.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Hard GZ",
+      "fecha": "2026-10-08",
+      "hora": "22:00",
+      "sala": "Oasis Basilio Boggiero, 28, Zaragoza, Zaragoza, España",
+      "fuente": "zgzconciertos.com",
+      "url": "https://zgzconciertos.com/concierto/hard-gz/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/hard-gz.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Los Delinqüentes",
+      "fecha": "2027-05-29",
+      "hora": "20:00",
+      "sala": "Auditorio",
+      "fuente": "zgzconciertos.com",
+      "url": "https://zgzconciertos.com/concierto/los-delinquentes/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2022/03/LOS-DELINQUENTES.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Bunbury",
+      "fecha": "",
+      "hora": "20:30",
+      "sala": "Pabellón Príncipe Felipe Av. Cesáreo Alierta, 120, Zaragoza, Zaragoza, España",
+      "fuente": "zgzconciertos.com",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "De arrasar en The Wave a seguir conquistando Zaragoza: el nuevo concierto de Copacabana que no te puedes perder",
+      "fecha": "",
+      "hora": "",
+      "sala": "Zaragoza",
+      "fuente": "enjoyzaragoza.es",
+      "url": "https://www.enjoyzaragoza.es/concierto-copacabana-zaragoza/",
+      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Afterwave: el planazo gratuito de The Wave 2026 con conciertos al aire libre en Zaragoza",
+      "fecha": "",
+      "hora": "",
+      "sala": "Zaragoza",
+      "fuente": "enjoyzaragoza.es",
+      "url": "https://www.enjoyzaragoza.es/afterwave/",
+      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Esta es toda la programación musical del festival Zaragoza Florece 2026",
+      "fecha": "",
+      "hora": "",
+      "sala": "Zaragoza",
+      "fuente": "enjoyzaragoza.es",
+      "url": "https://www.enjoyzaragoza.es/programacion-musical-zaragoza-florece/",
+      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Estos son los próximos conciertos en el Pabellón Príncipe Felipe de Zaragoza en 2026",
+      "fecha": "",
+      "hora": "",
+      "sala": "Zaragoza",
+      "fuente": "enjoyzaragoza.es",
+      "url": "https://www.enjoyzaragoza.es/conciertos-pabellon-principe-felipe/",
+      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Vive Latino 2026 en Zaragoza: cartel por días y entradas",
+      "fecha": "",
+      "hora": "",
+      "sala": "Zaragoza",
+      "fuente": "enjoyzaragoza.es",
+      "url": "https://www.enjoyzaragoza.es/programacion-vive-latino-zaragoza/",
+      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
+      "descripcion": ""
+    },
+    {
+      "titulo": "El fenómeno indie Veintiuno llega a Zaragoza: así será su esperado concierto en el Vive Latino 2026",
+      "fecha": "",
+      "hora": "",
+      "sala": "Zaragoza",
+      "fuente": "enjoyzaragoza.es",
+      "url": "https://www.enjoyzaragoza.es/concierto-veintiuno-zaragoza/",
+      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Zaragoza se prepara para recibir a Ed Maverick en el Vive Latino 2026",
+      "fecha": "",
+      "hora": "",
+      "sala": "Zaragoza",
+      "fuente": "enjoyzaragoza.es",
+      "url": "https://www.enjoyzaragoza.es/concierto-ed-maverick-zaragoza/",
+      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
+      "descripcion": ""
+    },
+    {
+      "titulo": "El fenómeno Ojete Calor aterrizará en Vive Latino Zaragoza con su nueva gira",
+      "fecha": "",
+      "hora": "",
+      "sala": "Zaragoza",
+      "fuente": "enjoyzaragoza.es",
+      "url": "https://www.enjoyzaragoza.es/concierto-ojete-calor-zaragoza/",
+      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Cuenta atrás para el gran concierto de Viva Suecia este viernes en Zaragoza: lleno absoluto y máxima expectación",
+      "fecha": "",
+      "hora": "",
+      "sala": "Zaragoza",
+      "fuente": "enjoyzaragoza.es",
+      "url": "https://www.enjoyzaragoza.es/concierto-viva-suecia-zaragoza/",
+      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
+      "descripcion": ""
+    },
+    {
+      "titulo": "La gira de Niña Polaca llegará en septiembre al festival Vive Latino 2026",
+      "fecha": "",
+      "hora": "",
+      "sala": "Zaragoza",
+      "fuente": "enjoyzaragoza.es",
+      "url": "https://www.enjoyzaragoza.es/concierto-nina-polaca-zaragoza/",
+      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
+      "descripcion": ""
     }
   ]
 }
