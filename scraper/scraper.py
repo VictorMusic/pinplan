@@ -368,7 +368,7 @@ def main():
         "total": len(all_events),
         "eventos": all_events
     }
-    with open("../web/eventos.json", "w", encoding="utf-8") as f:
+    with open("../eventos.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     print("Guardado en web/eventos.json ✓")
 
