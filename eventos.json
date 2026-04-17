@@ -1,0 +1,66 @@
+{
+  "actualizado": "2026-04-15T18:30:00",
+  "total": 6,
+  "eventos": [
+    {
+      "titulo": "Los Estanques + Astro",
+      "fecha": "2026-04-15",
+      "hora": "21:30",
+      "sala": "Sala López",
+      "fuente": "salalopez.com",
+      "url": "https://salalopez.com",
+      "imagen": "",
+      "descripcion": "Los Estanques presentan su nuevo disco con el apoyo de Astro en una noche de rock indie en Sala López."
+    },
+    {
+      "titulo": "Jazz Session Abierta",
+      "fecha": "2026-04-15",
+      "hora": "22:00",
+      "sala": "Ragtime",
+      "fuente": "ragtime",
+      "url": "",
+      "imagen": "",
+      "descripcion": "Sesión de jazz abierta con músicos de la ciudad. Entrada libre."
+    },
+    {
+      "titulo": "Metal Night con DJ set",
+      "fecha": "2026-04-15",
+      "hora": "23:00",
+      "sala": "Pub Utopia",
+      "fuente": "instagram",
+      "url": "",
+      "imagen": "",
+      "descripcion": "Noche metal con sesión de DJ y directos sorpresa."
+    },
+    {
+      "titulo": "La Paloma Mensajera",
+      "fecha": "2026-04-16",
+      "hora": "21:00",
+      "sala": "La Lata de Bombillas",
+      "fuente": "lalatadebombillas.es",
+      "url": "https://lalatadebombillas.es",
+      "imagen": "",
+      "descripcion": "Pop experimental desde Madrid. Segundo álbum en presentación nacional."
+    },
+    {
+      "titulo": "Tributo Pixies · Doolittle",
+      "fecha": "2026-04-16",
+      "hora": "22:00",
+      "sala": "Sala Creedence",
+      "fuente": "creedencesound.com",
+      "url": "https://creedencesound.com",
+      "imagen": "",
+      "descripcion": "Tributo al disco Doolittle de Pixies interpretado íntegramente en directo."
+    },
+    {
+      "titulo": "Blues Brothers Experience",
+      "fecha": "2026-04-17",
+      "hora": "21:30",
+      "sala": "Rock & Blues Café",
+      "fuente": "rockandbluescafe.com",
+      "url": "https://rockandbluescafe.com",
+      "imagen": "",
+      "descripcion": "Show tributo a Blues Brothers con banda de 8 músicos y vestuario original."
+    }
+  ]
+}
