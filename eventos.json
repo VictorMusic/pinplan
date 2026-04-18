@@ -1,17 +1,7 @@
 {
-  "actualizado": "2026-04-18T07:16:09.332740",
+  "actualizado": "2026-04-18T14:36:10.351965",
   "total": 29,
   "eventos": [
-    {
-      "titulo": "ARREÑAL en CONCIERTO VERMÚ",
-      "fecha": "2026-04-18",
-      "hora": "12:30",
-      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
-      "fuente": "aragonenvivo.com",
-      "url": "https://aragonenvivo.com/evento/arrenal-en-concierto-vermu/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/658385634_1629978475509301_817024268076518545_n.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "HOTEL DE MARTE",
       "fecha": "2026-04-18",
@@ -120,6 +110,16 @@
       "fuente": "aragonenvivo.com",
       "url": "https://aragonenvivo.com/evento/the-magnetophones/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-110.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LOUIE FONTAINE (EEUU)",
+      "fecha": "2026-04-19",
+      "hora": "12:30",
+      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/louie-fontaine-eeuu/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/louie-1-2.webp",
       "descripcion": ""
     },
     {
