@@ -1,117 +1,7 @@
 {
-  "actualizado": "2026-04-18T14:36:10.351965",
-  "total": 29,
+  "actualizado": "2026-04-19T07:26:46.951687",
+  "total": 28,
   "eventos": [
-    {
-      "titulo": "HOTEL DE MARTE",
-      "fecha": "2026-04-18",
-      "hora": "12:30",
-      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
-      "fuente": "aragonenvivo.com",
-      "url": "https://aragonenvivo.com/evento/hotel-de-marte-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "FELIPE MATEOS – PUES NO ESTOY TAN MAL",
-      "fecha": "2026-04-18",
-      "hora": "19:00",
-      "sala": "Belushi C. de Bernardo Fita, 11, Zaragoza, Zaragoza, Spain",
-      "fuente": "aragonenvivo.com",
-      "url": "https://aragonenvivo.com/evento/felipe-mateos-pues-no-estoy-tan-mal/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260418felippp-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "HEVIA – Platinum Europe Award 25 Aniversario",
-      "fecha": "2026-04-18",
-      "hora": "20:00",
-      "sala": "Teatro de las Esquinas Vía Univérsitas, 30-32, Zaragoza, Zaragoza, España",
-      "fuente": "aragonenvivo.com",
-      "url": "https://aragonenvivo.com/evento/hevia-platinum-europe-award-25-aniversario/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/3330.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "ORIÓN",
-      "fecha": "2026-04-18",
-      "hora": "20:00",
-      "sala": "Sala López C/ Sixto Celorrio, 2, Zaragoza, Zaragoza, España",
-      "fuente": "aragonenvivo.com",
-      "url": "https://aragonenvivo.com/evento/orion/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/zaragoza_01-1-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "HEVIA",
-      "fecha": "2026-04-18",
-      "hora": "20:00",
-      "sala": "Teatro de las Esquinas Vía Univérsitas, 30-32, Zaragoza, Zaragoza, España",
-      "fuente": "aragonenvivo.com",
-      "url": "https://aragonenvivo.com/evento/hevia/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/3330-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Barrabares",
-      "fecha": "2026-04-18",
-      "hora": "21:00",
-      "sala": "Utopia C. de Luis del Valle, 19, Zaragoza, Zaragoza, Spain",
-      "fuente": "aragonenvivo.com",
-      "url": "https://aragonenvivo.com/evento/barrabares/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/1000180019-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "INMIGRANTS",
-      "fecha": "2026-04-18",
-      "hora": "21:00",
-      "sala": "La Ley Seca C./ Sevilla, 2, Zaragoza, Zaragoza, España",
-      "fuente": "aragonenvivo.com",
-      "url": "https://aragonenvivo.com/evento/inmigrants-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/ley-seca-LOGO-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Mala Gestión",
-      "fecha": "2026-04-18",
-      "hora": "21:00",
-      "sala": "La Casa del Loco C/. Mayor 10, Zaragoza, Zaragoza, Spain",
-      "fuente": "aragonenvivo.com",
-      "url": "https://aragonenvivo.com/evento/mala-gestion/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/mala-gestion-en-terra-castellon.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "YGRAM + ROMBOID",
-      "fecha": "2026-04-18",
-      "hora": "21:00",
-      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
-      "fuente": "aragonenvivo.com",
-      "url": "https://aragonenvivo.com/evento/ygram-romboid/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/ygram-724x1024-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LORE NAVARRO – EXTRAORDINARIA",
-      "fecha": "2026-04-18",
-      "hora": "21:00",
-      "sala": "Belushi C. de Bernardo Fita, 11, Zaragoza, Zaragoza, Spain",
-      "fuente": "aragonenvivo.com",
-      "url": "https://aragonenvivo.com/evento/lore-navarro-extraordinaria/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260418_36-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "THE MAGNETOPHONES",
-      "fecha": "2026-04-18",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
-      "fuente": "aragonenvivo.com",
-      "url": "https://aragonenvivo.com/evento/the-magnetophones/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-110.webp",
-      "descripcion": ""
-    },
     {
       "titulo": "LOUIE FONTAINE (EEUU)",
       "fecha": "2026-04-19",
@@ -120,6 +10,106 @@
       "fuente": "aragonenvivo.com",
       "url": "https://aragonenvivo.com/evento/louie-fontaine-eeuu/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/louie-1-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "EL IMITADOR – Julián Fontalvo",
+      "fecha": "2026-04-19",
+      "hora": "18:30",
+      "sala": "Teatro de las Esquinas Vía Univérsitas, 30-32, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/el-imitador-julian-fontalvo/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/imitador1_2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "EL IMITADOR",
+      "fecha": "2026-04-19",
+      "hora": "18:30",
+      "sala": "Teatro de las Esquinas Vía Univérsitas, 30-32, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/el-imitador/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/imitador1_2-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "THIS WILL DESTROY YOUR EARS (FR)",
+      "fecha": "2026-04-19",
+      "hora": "19:00",
+      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/this-will-destroy-your-ears-fr/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/affiche_gig_a3-scaled-e1775042570111-903x1024-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "SERGIO RONDA Y MAJO DEL OLMO – SOMARDAS COMEDY NIGHT",
+      "fecha": "2026-04-19",
+      "hora": "19:00",
+      "sala": "Belushi C. de Bernardo Fita, 11, Zaragoza, Zaragoza, Spain",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/sergio-ronda-y-majo-del-olmo-somardas-comedy-night/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260419_sergioooo-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "FATBEAT",
+      "fecha": "2026-04-19",
+      "hora": "20:00",
+      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/fatbeat/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "UN VIAJE CON DOS VIOLINES POR LA PENINSULA IBERICA – Manuel Guillén y Lorenzo Triviño",
+      "fecha": "2026-04-22",
+      "hora": "20:00",
+      "sala": "Teatro de las Esquinas Vía Univérsitas, 30-32, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/un-viaje-con-dos-violines-por-la-peninsula-iberica-manuel-guillen-y-lorenzo-trivino/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/3347.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "JIMENA",
+      "fecha": "2026-04-22",
+      "hora": "20:00",
+      "sala": "Sala López C/ Sixto Celorrio, 2, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/jimena/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Jimena_anatomiadeunadios_CARTEL-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "The Wyld Tryfles",
+      "fecha": "2026-04-22",
+      "hora": "20:30",
+      "sala": "La Lata de Bombillas C./ Espoz y Mina, 19, Zaragoza, Zaragoza",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/the-wyld-tryfles/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/wyld_tryfles_f504-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "NOCHE FLAMENCO",
+      "fecha": "2026-04-22",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/noche-flamenco-11/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "CERCEGADA",
+      "fecha": "2026-04-23",
+      "hora": "19:00",
+      "sala": "El Refugio del Crápula C/ Mayor 56, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/cercegada-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260423_cerce22-1.webp",
       "descripcion": ""
     },
     {
