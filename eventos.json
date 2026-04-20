@@ -1,67 +1,7 @@
 {
-  "actualizado": "2026-04-19T14:36:35.120199",
+  "actualizado": "2026-04-20T08:17:42.541642",
   "total": 28,
   "eventos": [
-    {
-      "titulo": "LOUIE FONTAINE (EEUU)",
-      "fecha": "2026-04-19",
-      "hora": "12:30",
-      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
-      "fuente": "aragonenvivo.com",
-      "url": "https://aragonenvivo.com/evento/louie-fontaine-eeuu/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/louie-1-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "EL IMITADOR – Julián Fontalvo",
-      "fecha": "2026-04-19",
-      "hora": "18:30",
-      "sala": "Teatro de las Esquinas Vía Univérsitas, 30-32, Zaragoza, Zaragoza, España",
-      "fuente": "aragonenvivo.com",
-      "url": "https://aragonenvivo.com/evento/el-imitador-julian-fontalvo/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/imitador1_2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "EL IMITADOR",
-      "fecha": "2026-04-19",
-      "hora": "18:30",
-      "sala": "Teatro de las Esquinas Vía Univérsitas, 30-32, Zaragoza, Zaragoza, España",
-      "fuente": "aragonenvivo.com",
-      "url": "https://aragonenvivo.com/evento/el-imitador/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/imitador1_2-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "THIS WILL DESTROY YOUR EARS (FR)",
-      "fecha": "2026-04-19",
-      "hora": "19:00",
-      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
-      "fuente": "aragonenvivo.com",
-      "url": "https://aragonenvivo.com/evento/this-will-destroy-your-ears-fr/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/affiche_gig_a3-scaled-e1775042570111-903x1024-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "SERGIO RONDA Y MAJO DEL OLMO – SOMARDAS COMEDY NIGHT",
-      "fecha": "2026-04-19",
-      "hora": "19:00",
-      "sala": "Belushi C. de Bernardo Fita, 11, Zaragoza, Zaragoza, Spain",
-      "fuente": "aragonenvivo.com",
-      "url": "https://aragonenvivo.com/evento/sergio-ronda-y-majo-del-olmo-somardas-comedy-night/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260419_sergioooo-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "FATBEAT",
-      "fecha": "2026-04-19",
-      "hora": "20:00",
-      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
-      "fuente": "aragonenvivo.com",
-      "url": "https://aragonenvivo.com/evento/fatbeat/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "UN VIAJE CON DOS VIOLINES POR LA PENINSULA IBERICA – Manuel Guillén y Lorenzo Triviño",
       "fecha": "2026-04-22",
@@ -110,6 +50,66 @@
       "fuente": "aragonenvivo.com",
       "url": "https://aragonenvivo.com/evento/cercegada-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/20260423_cerce22-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Ken Stringfellow (Homenaje al Grand Prix de Teenage Fanclub)",
+      "fecha": "2026-04-23",
+      "hora": "20:00",
+      "sala": "Sala López C/ Sixto Celorrio, 2, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/ken-stringfellow-homenaje-al-grand-prix-de-teenage-fanclub/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/23_04-Zaragoza_Lopez.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Marina Fages (Argentina)",
+      "fecha": "2026-04-23",
+      "hora": "20:30",
+      "sala": "La Lata de Bombillas C./ Espoz y Mina, 19, Zaragoza, Zaragoza",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/marina-fages-argentina/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/marina_fages-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "PROTEX",
+      "fecha": "2026-04-23",
+      "hora": "21:00",
+      "sala": "Sala Z C/ Felix Latassa, 14, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/protex/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/m_poster-13.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "KING SAPO",
+      "fecha": "2026-04-23",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/king-sapo-4/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-111.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "La Txama",
+      "fecha": "2026-04-24",
+      "hora": "20:00",
+      "sala": "Sala López C/ Sixto Celorrio, 2, Zaragoza, Zaragoza, España",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/la-txama/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/LA-TXAMA-SALA-LOPEZ-1-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LUIS ALVARO – LUIS ÃLVARO EN ZARAGOZA",
+      "fecha": "2026-04-24",
+      "hora": "20:00",
+      "sala": "Belushi C. de Bernardo Fita, 11, Zaragoza, Zaragoza, Spain",
+      "fuente": "aragonenvivo.com",
+      "url": "https://aragonenvivo.com/evento/luis-alvaro-luis-a-lvaro-en-zaragoza/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260424_luis3333-2.webp",
       "descripcion": ""
     },
     {
