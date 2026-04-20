@@ -6,6 +6,16 @@
 <meta name="theme-color" content="#0a0006">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <title>PinPlan · Zaragoza</title>
+<meta name="description" content="Los conciertos de hoy en Zaragoza, en un vistazo. Mira, elige y ve.">
+<meta property="og:title" content="PinPlan · Zaragoza">
+<meta property="og:description" content="Los conciertos de hoy en Zaragoza, en un vistazo.">
+<meta property="og:type" content="website">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<!-- Umami Analytics -->
+<script defer src="https://cloud.umami.is/script.js" data-website-id="6166c3d4-8300-4385-b758-9d9187494425"></script>
+<!-- Cloudflare Web Analytics -->
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "0fa967989c9c42b2afee69bf58ebf8bc"}'></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Plus+Jakarta+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
@@ -32,10 +42,6 @@ body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var
 @keyframes pulse{0%,100%{opacity:1;transform:scale(1);}50%{opacity:.4;transform:scale(.65);}}
 .upd-t{font-size:.6rem;color:var(--muted);}
 .app{position:relative;z-index:1;max-width:420px;margin:0 auto;padding-top:5.5rem;padding-bottom:1rem;}
-.ptr{height:0;overflow:hidden;display:flex;align-items:center;justify-content:center;transition:height .2s;color:var(--muted);font-size:.72rem;gap:.4rem;}
-.ptr.active{height:36px;}
-.ptr-spinner{width:14px;height:14px;border:1.5px solid var(--muted);border-top-color:var(--gold);border-radius:50%;animation:spin .7s linear infinite;}
-@keyframes spin{to{transform:rotate(360deg);}}
 .date-nav{padding:.4rem 1.25rem .7rem;display:flex;align-items:center;justify-content:center;gap:.6rem;}
 .arr{width:36px;height:36px;border-radius:50%;border:1.5px solid rgba(255,255,255,0.35);background:rgba(255,255,255,0.12);color:var(--text);font-size:1.2rem;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;flex-shrink:0;user-select:none;-webkit-user-select:none;}
 .arr:disabled{opacity:.22;cursor:default;}
@@ -106,7 +112,6 @@ body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var
   </div>
 </div>
 <div class="app">
-  <div class="ptr" id="ptr"><div class="ptr-spinner"></div><span>Actualizando…</span></div>
   <div class="date-nav">
     <button class="arr" id="prev" disabled>&#8249;</button>
     <div class="date-main" id="dmain"></div>
@@ -165,48 +170,53 @@ const FALLBACK=[
 ];
 const PIN=`<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>`;
 const _m=['himnosis','.','music','@','gmail','.','com'].join('');
-const cache={};
 let offset=0;
+try{
+  const saved=parseInt(localStorage.getItem('pinplan_offset')||'0');
+  const savedDate=localStorage.getItem('pinplan_offset_date')||'';
+  const todayStr=new Date().toISOString().slice(0,10);
+  if(savedDate===todayStr&&saved>=0)offset=saved;
+  else{localStorage.setItem('pinplan_offset','0');localStorage.setItem('pinplan_offset_date',todayStr);}
+}catch(e){}
+let allEvents=[];
 function nowMadrid(){return new Date(new Date().toLocaleString('en-US',{timeZone:'Europe/Madrid'}));}
 function isoOf(d){return`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;}
 function dateAt(n){const d=nowMadrid();d.setDate(d.getDate()+n);return d;}
 function dateLabel(d,off){const dow=DAYS_S[d.getDay()],day=d.getDate(),mon=MONTHS_A[d.getMonth()];if(off===0)return`${DAYS_L[d.getDay()]} ${day} ${mon}`;if(off===1)return`Mañana · ${dow} ${day} ${mon}`;return`${dow} ${day} ${mon}`;}
 function diaCorto(d){return`${DAYS_S[d.getDay()]} ${d.getDate()}`;}
 function validImg(u){return u&&typeof u==='string'&&u.startsWith('http')&&!u.includes('placeholder')&&!u.includes('lorem')&&!u.includes('default')&&!u.includes('no-image')&&u.length>20;}
-function fallbackFor(titulo,idx){let hash=0;for(let i=0;i<titulo.length;i++)hash=(hash*31+titulo.charCodeAt(i))&0xfffffff;return FALLBACK[(hash+idx)%FALLBACK.length];}
+function fallbackFor(titulo,idx){let h=0;for(let i=0;i<titulo.length;i++)h=(h*31+titulo.charCodeAt(i))&0xfffffff;return FALLBACK[(h+idx)%FALLBACK.length];}
 function showSkeletons(){document.getElementById('event-list').innerHTML=[0,1,2].map(()=>`<div class="skeleton"><div class="sk-img"></div><div class="sk-lines"><div class="sk-line w70"></div><div class="sk-line w45"></div></div></div>`).join('');}
 function dedupEvents(evs){const seen={};return evs.filter(e=>{const key=(e.titulo||'').toLowerCase().replace(/\s+/g,'').slice(0,30)+'|'+e.fecha;if(seen[key])return false;seen[key]=true;return true;});}
-function updateUI(force=false){
-  const d=dateAt(offset);
-  document.getElementById('dmain').textContent=dateLabel(d,offset);
-  document.getElementById('prev').disabled=offset<=0;
-  const key=isoOf(d);
-  if(!force&&cache[key]){renderList(cache[key],d);return;}
+function loadAllEvents(){
   showSkeletons();
   fetch('eventos.json?_='+Date.now())
     .then(r=>r.json())
     .then(data=>{
-      const today=isoOf(d);
-      let evs=(data.eventos||[]).filter(e=>e.fecha===today);
-      evs=dedupEvents(evs);
-      cache[key]=evs;
-      renderList(evs,d);
+      allEvents=dedupEvents(data.eventos||[]);
       if(data.actualizado){const upd=new Date(data.actualizado);const hm=`${String(upd.getHours()).padStart(2,'0')}:${String(upd.getMinutes()).padStart(2,'0')}`;document.getElementById('upd-t').textContent=`Actualizado ${hm}`;document.getElementById('upd').style.display='flex';}
+      renderForOffset();
     })
-    .catch(()=>{cache[key]=[];renderList([],d);});
+    .catch(()=>{allEvents=[];renderForOffset();});
+}
+function renderForOffset(){
+  const d=dateAt(offset);
+  document.getElementById('dmain').textContent=dateLabel(d,offset);
+  document.getElementById('prev').disabled=offset<=0;
+  try{localStorage.setItem('pinplan_offset',String(offset));localStorage.setItem('pinplan_offset_date',isoOf(nowMadrid()));}catch(e){}
+  renderList(allEvents.filter(e=>e.fecha===isoOf(d)),d);
 }
 function loadImg(src,fallback,cb){const im=new Image();im.referrerPolicy='no-referrer';im.crossOrigin='anonymous';im.onload=()=>cb(im);im.onerror=()=>{const fb=new Image();fb.referrerPolicy='no-referrer';fb.onload=()=>cb(fb);fb.onerror=()=>cb(null);fb.src=fallback;};im.src=src;}
 function renderList(evs,d){
   const list=document.getElementById('event-list');
-  if(!evs.length){list.innerHTML=`<div class="empty"><div class="empty-icon">🌅</div><div class="empty-title">Sin planes</div><div class="empty-sub">No hay conciertos para este día.<br>Prueba mañana o tira para actualizar.</div></div>`;return;}
+  if(!evs.length){list.innerHTML=`<div class="empty"><div class="empty-icon">🌅</div><div class="empty-title">Sin planes</div><div class="empty-sub">No hay conciertos para este día.<br>Prueba otro día.</div></div>`;return;}
   list.innerHTML='';
   evs.forEach((ev,i)=>{
     const c=document.createElement('div');c.className='card';
     const fb=fallbackFor(ev.titulo,i);
-    const src=validImg(ev.imagen)?ev.imagen:fb;
     c.innerHTML=`<div class="ev-img" id="th${offset}_${i}"></div><div class="ev-info"><div class="ev-title">${esc(ev.titulo)}</div><div class="ev-sala">${PIN}${esc(ev.sala)}</div></div><div class="hora-wrap"><div class="hora">${ev.hora||'?'}</div><div class="chev">›</div></div>`;
     const th=c.querySelector(`#th${offset}_${i}`);
-    loadImg(src,fb,im=>{if(im){im.style.cssText='width:100%;height:100%;object-fit:cover;display:block;';th.appendChild(im);}else{th.style.background='linear-gradient(135deg,var(--dusk3),var(--sunset1)';}});
+    loadImg(validImg(ev.imagen)?ev.imagen:fb,fb,im=>{if(im){im.style.cssText='width:100%;height:100%;object-fit:cover;display:block;';th.appendChild(im);}else{th.style.background='linear-gradient(135deg,var(--dusk3),var(--sunset1)';}});
     c.addEventListener('click',()=>openPopup(ev,d,i));
     list.appendChild(c);
   });
@@ -214,8 +224,7 @@ function renderList(evs,d){
 function openPopup(ev,d,i){
   const pw=document.getElementById('pimg');pw.innerHTML='';
   const fb=fallbackFor(ev.titulo,i);
-  const src=validImg(ev.imagen)?ev.imagen:fb;
-  loadImg(src,fb,im=>{if(im){im.style.cssText='position:absolute;inset:0;width:100%;height:100%;object-fit:cover;';pw.appendChild(im);}else{pw.style.background='linear-gradient(135deg,var(--dusk3),var(--sunset1))';}});
+  loadImg(validImg(ev.imagen)?ev.imagen:fb,fb,im=>{if(im){im.style.cssText='position:absolute;inset:0;width:100%;height:100%;object-fit:cover;';pw.appendChild(im);}else{pw.style.background='linear-gradient(135deg,var(--dusk3),var(--sunset1))';}});
   document.getElementById('ptitle').textContent=ev.titulo;
   document.getElementById('psala').innerHTML=`${PIN}${esc(ev.sala)}`;
   document.getElementById('pdia').textContent=diaCorto(d);
@@ -230,19 +239,19 @@ function closePopup(){document.getElementById('pov').classList.remove('open');do
 function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
 document.getElementById('pov').addEventListener('click',e=>{if(e.target===e.currentTarget)closePopup();});
 document.getElementById('px').addEventListener('click',closePopup);
-document.getElementById('prev').addEventListener('click',()=>{if(offset>0){offset--;updateUI();}});
-document.getElementById('next').addEventListener('click',()=>{offset++;updateUI();});
-document.getElementById('contact-btn').addEventListener('click',()=>{window.location.href='mailto:'+_m+'?subject=PinPlan feedback';});
+document.getElementById('prev').addEventListener('click',()=>{if(offset>0){offset--;renderForOffset();}});
+document.getElementById('next').addEventListener('click',()=>{offset++;renderForOffset();});
 let tx=0,ty=0;
 document.addEventListener('touchstart',e=>{tx=e.touches[0].clientX;ty=e.touches[0].clientY;},{passive:true});
-document.addEventListener('touchend',e=>{if(document.getElementById('pov').classList.contains('open'))return;const dx=e.changedTouches[0].clientX-tx,dy=Math.abs(e.changedTouches[0].clientY-ty);if(Math.abs(dx)>55&&dy<60){if(dx<0){offset++;updateUI();}else if(offset>0){offset--;updateUI();}}},{passive:true});
-let pyStart=0,pulling=false;
-const ptr=document.getElementById('ptr');
-document.addEventListener('touchstart',e=>{if(window.scrollY===0){pyStart=e.touches[0].clientY;pulling=true;}},{passive:true});
-document.addEventListener('touchmove',e=>{if(!pulling)return;if(e.touches[0].clientY-pyStart>50&&window.scrollY===0)ptr.classList.add('active');},{passive:true});
-document.addEventListener('touchend',()=>{if(pulling&&ptr.classList.contains('active')){ptr.classList.remove('active');delete cache[isoOf(dateAt(offset))];updateUI(true);}pulling=false;});
-document.addEventListener('keydown',e=>{if(e.key==='Escape')closePopup();if(e.key==='ArrowRight'){offset++;updateUI();}if(e.key==='ArrowLeft'&&offset>0){offset--;updateUI();}});
-updateUI();
+document.addEventListener('touchend',e=>{if(document.getElementById('pov').classList.contains('open'))return;const dx=e.changedTouches[0].clientX-tx,dy=Math.abs(e.changedTouches[0].clientY-ty);if(Math.abs(dx)>55&&dy<60){if(dx<0){offset++;renderForOffset();}else if(offset>0){offset--;renderForOffset();}}},{passive:true});
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closePopup();if(e.key==='ArrowRight'){offset++;renderForOffset();}if(e.key==='ArrowLeft'&&offset>0){offset--;renderForOffset();}});
+document.getElementById('contact-btn').addEventListener('click',()=>{window.location.href='mailto:'+_m+'?subject=PinPlan feedback';});
+loadAllEvents();
+</script>
+<script>
+if('serviceWorker' in navigator){
+  window.addEventListener('load',()=>{navigator.serviceWorker.register('sw.js').catch(()=>{});});
+}
 </script>
 </body>
 </html>
