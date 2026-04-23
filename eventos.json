@@ -1,43 +1,7 @@
 {
-  "actualizado": "2026-04-22T15:06:57.862974",
+  "actualizado": "2026-04-23T08:04:47.066049",
   "total": 42,
   "eventos": [
-    {
-      "titulo": "JIMENA",
-      "fecha": "2026-04-22",
-      "hora": "20:00",
-      "sala": "Sala López C/ Sixto Celorrio, 2, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/jimena/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Jimena_anatomiadeunadios_CARTEL-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "UN VIAJE CON DOS VIOLINES POR LA PENINSULA IBERICA",
-      "fecha": "2026-04-22",
-      "hora": "20:00",
-      "sala": "Teatro de las Esquinas Vía Univérsitas, 30-32, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/un-viaje-con-dos-violines-por-la-peninsula-iberica/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/portadawebunviajecondosviolines-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "The Wyld Tryfles",
-      "fecha": "2026-04-22",
-      "hora": "20:30",
-      "sala": "La Lata de Bombillas C./ Espoz y Mina, 19, Zaragoza, Zaragoza",
-      "url": "https://aragonenvivo.com/evento/the-wyld-tryfles/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/wyld_tryfles_f504-1.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "NOCHE FLAMENCO",
-      "fecha": "2026-04-22",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/noche-flamenco-11/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "CERCEGADA",
       "fecha": "2026-04-23",
@@ -108,6 +72,42 @@
       "sala": "La Lata de Bombillas C./ Espoz y Mina, 19, Zaragoza, Zaragoza",
       "url": "https://aragonenvivo.com/evento/m-o-n-k-music-of-new-karatekas-mxrgxn-vito/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/MONK_ZGZ_banner-web-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Ramoncín",
+      "fecha": "2026-04-24",
+      "hora": "20:30",
+      "sala": "Oasis Club Teatro C/ Basilio Boggiero,28, Zaragoza, Zaragoza, Spain",
+      "url": "https://aragonenvivo.com/evento/ramoncin/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/ZARAGOZA26_CARTEL-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LOVE’N’ JOY (UCRANIA)",
+      "fecha": "2026-04-24",
+      "hora": "21:00",
+      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/love-n-joy-ucrania/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/love_n_joy-1.-credits-anna-evstigneeva-1024x683-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "SANDRA BAUTISTA",
+      "fecha": "2026-04-24",
+      "hora": "21:00",
+      "sala": "El Refugio del Crápula C/ Mayor 56, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/sandra-bautista/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260424_SANDRA111-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LAURIE WRIGHT",
+      "fecha": "2026-04-24",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/laurie-wright/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-112.webp",
       "descripcion": ""
     },
     {
