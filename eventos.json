@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-24T08:13:23.572763",
+  "actualizado": "2026-04-24T15:04:59.752363",
   "total": 42,
   "eventos": [
     {
@@ -120,6 +120,33 @@
       "descripcion": ""
     },
     {
+      "titulo": "Vive Latino 2026 en Zaragoza: cartel por días y entradas",
+      "fecha": "",
+      "hora": "",
+      "sala": "Zaragoza",
+      "url": "https://www.enjoyzaragoza.es/programacion-vive-latino-zaragoza/",
+      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Estos son los próximos conciertos en el Pabellón Príncipe Felipe de Zaragoza en 2026",
+      "fecha": "",
+      "hora": "",
+      "sala": "Zaragoza",
+      "url": "https://www.enjoyzaragoza.es/conciertos-pabellon-principe-felipe/",
+      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Esta es toda la programación musical del festival Zaragoza Florece 2026",
+      "fecha": "",
+      "hora": "",
+      "sala": "Zaragoza",
+      "url": "https://www.enjoyzaragoza.es/programacion-musical-zaragoza-florece/",
+      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
+      "descripcion": ""
+    },
+    {
       "titulo": "De arrasar en The Wave a seguir conquistando Zaragoza: el nuevo concierto de Copacabana que no te puedes perder",
       "fecha": "",
       "hora": "",
@@ -134,33 +161,6 @@
       "hora": "",
       "sala": "Zaragoza",
       "url": "https://www.enjoyzaragoza.es/afterwave/",
-      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Esta es toda la programación musical del festival Zaragoza Florece 2026",
-      "fecha": "",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.enjoyzaragoza.es/programacion-musical-zaragoza-florece/",
-      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Estos son los próximos conciertos en el Pabellón Príncipe Felipe de Zaragoza en 2026",
-      "fecha": "",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.enjoyzaragoza.es/conciertos-pabellon-principe-felipe/",
-      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Vive Latino 2026 en Zaragoza: cartel por días y entradas",
-      "fecha": "",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.enjoyzaragoza.es/programacion-vive-latino-zaragoza/",
       "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
       "descripcion": ""
     },
