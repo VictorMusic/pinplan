@@ -1,52 +1,7 @@
 {
-  "actualizado": "2026-04-23T15:46:53.874557",
+  "actualizado": "2026-04-24T08:13:23.572763",
   "total": 42,
   "eventos": [
-    {
-      "titulo": "CERCEGADA",
-      "fecha": "2026-04-23",
-      "hora": "19:00",
-      "sala": "El Refugio del Crápula C/ Mayor 56, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/cercegada-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260423_cerce22-1.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Ken Stringfellow (Homenaje al Grand Prix de Teenage Fanclub)",
-      "fecha": "2026-04-23",
-      "hora": "20:00",
-      "sala": "Sala López C/ Sixto Celorrio, 2, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/ken-stringfellow-homenaje-al-grand-prix-de-teenage-fanclub/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/23_04-Zaragoza_Lopez.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Marina Fages (Argentina)",
-      "fecha": "2026-04-23",
-      "hora": "20:30",
-      "sala": "La Lata de Bombillas C./ Espoz y Mina, 19, Zaragoza, Zaragoza",
-      "url": "https://aragonenvivo.com/evento/marina-fages-argentina/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/marina_fages-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "PROTEX",
-      "fecha": "2026-04-23",
-      "hora": "21:00",
-      "sala": "Sala Z C/ Felix Latassa, 14, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/protex/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/m_poster-13.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "KING SAPO",
-      "fecha": "2026-04-23",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/king-sapo-4/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-111.webp",
-      "descripcion": ""
-    },
     {
       "titulo": "La Txama",
       "fecha": "2026-04-24",
@@ -108,6 +63,51 @@
       "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
       "url": "https://aragonenvivo.com/evento/laurie-wright/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-112.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "ALEX GOZALO – SIN VENIR A CUENTO",
+      "fecha": "2026-04-24",
+      "hora": "22:00",
+      "sala": "Belushi C. de Bernardo Fita, 11, Zaragoza, Zaragoza, Spain",
+      "url": "https://aragonenvivo.com/evento/alex-gozalo-sin-venir-a-cuento/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260424_ALEXG333-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "HUMOR S.O.S – COMEDIA SOLIDARIA",
+      "fecha": "2026-04-25",
+      "hora": "12:00",
+      "sala": "Belushi C. de Bernardo Fita, 11, Zaragoza, Zaragoza, Spain",
+      "url": "https://aragonenvivo.com/evento/humor-s-o-s-comedia-solidaria/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260425SOSC-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "ALEX SALABERRY – SOLO PARA PAREJAS",
+      "fecha": "2026-04-25",
+      "hora": "19:00",
+      "sala": "Belushi C. de Bernardo Fita, 11, Zaragoza, Zaragoza, Spain",
+      "url": "https://aragonenvivo.com/evento/alex-salaberry-solo-para-parejas/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260425_ALEX22-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "CASINO MONTREAL + WAYO",
+      "fecha": "2026-04-25",
+      "hora": "20:00",
+      "sala": "La Ley Seca C./ Sevilla, 2, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/casino-montreal-wayo/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/1.FECHAS.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Ángel Stanich Band",
+      "fecha": "2026-04-25",
+      "hora": "20:00",
+      "sala": "Sala López C/ Sixto Celorrio, 2, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/angel-stanich-band-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Angel-Stanich-Band-Zaragoza-Cartel-scaled-31.webp",
       "descripcion": ""
     },
     {
