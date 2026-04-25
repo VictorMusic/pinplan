@@ -1,79 +1,7 @@
 {
-  "actualizado": "2026-04-24T15:04:59.752363",
+  "actualizado": "2026-04-25T07:26:50.009747",
   "total": 42,
   "eventos": [
-    {
-      "titulo": "La Txama",
-      "fecha": "2026-04-24",
-      "hora": "20:00",
-      "sala": "Sala López C/ Sixto Celorrio, 2, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/la-txama/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/LA-TXAMA-SALA-LOPEZ-1-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LUIS ALVARO – LUIS ÃLVARO EN ZARAGOZA",
-      "fecha": "2026-04-24",
-      "hora": "20:00",
-      "sala": "Belushi C. de Bernardo Fita, 11, Zaragoza, Zaragoza, Spain",
-      "url": "https://aragonenvivo.com/evento/luis-alvaro-luis-a-lvaro-en-zaragoza/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260424_luis3333-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "M.O.N.K. (Music Of New Karatekas) + MXRGXN & VITO",
-      "fecha": "2026-04-24",
-      "hora": "20:30",
-      "sala": "La Lata de Bombillas C./ Espoz y Mina, 19, Zaragoza, Zaragoza",
-      "url": "https://aragonenvivo.com/evento/m-o-n-k-music-of-new-karatekas-mxrgxn-vito/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/MONK_ZGZ_banner-web-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Ramoncín",
-      "fecha": "2026-04-24",
-      "hora": "20:30",
-      "sala": "Oasis Club Teatro C/ Basilio Boggiero,28, Zaragoza, Zaragoza, Spain",
-      "url": "https://aragonenvivo.com/evento/ramoncin/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/ZARAGOZA26_CARTEL-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LOVE’N’ JOY (UCRANIA)",
-      "fecha": "2026-04-24",
-      "hora": "21:00",
-      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/love-n-joy-ucrania/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/love_n_joy-1.-credits-anna-evstigneeva-1024x683-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "SANDRA BAUTISTA",
-      "fecha": "2026-04-24",
-      "hora": "21:00",
-      "sala": "El Refugio del Crápula C/ Mayor 56, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/sandra-bautista/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260424_SANDRA111-1.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LAURIE WRIGHT",
-      "fecha": "2026-04-24",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/laurie-wright/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-112.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "ALEX GOZALO – SIN VENIR A CUENTO",
-      "fecha": "2026-04-24",
-      "hora": "22:00",
-      "sala": "Belushi C. de Bernardo Fita, 11, Zaragoza, Zaragoza, Spain",
-      "url": "https://aragonenvivo.com/evento/alex-gozalo-sin-venir-a-cuento/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260424_ALEXG333-2.webp",
-      "descripcion": ""
-    },
     {
       "titulo": "HUMOR S.O.S – COMEDIA SOLIDARIA",
       "fecha": "2026-04-25",
@@ -108,6 +36,78 @@
       "sala": "Sala López C/ Sixto Celorrio, 2, Zaragoza, Zaragoza, España",
       "url": "https://aragonenvivo.com/evento/angel-stanich-band-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/Angel-Stanich-Band-Zaragoza-Cartel-scaled-31.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Cora Yako + Multipla",
+      "fecha": "2026-04-25",
+      "hora": "20:00",
+      "sala": "Sala López C/ Sixto Celorrio, 2, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/cora-yako-multipla/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/SnapInsta-Ai_3834587408478531973-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Cometa + Emilia Pardo y Bazán",
+      "fecha": "2026-04-25",
+      "hora": "20:30",
+      "sala": "La Lata de Bombillas C./ Espoz y Mina, 19, Zaragoza, Zaragoza",
+      "url": "https://aragonenvivo.com/evento/cometa-emilia-pardo-y-bazan/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/e985cede-0865-4db6-a829-dd7f0e97861c-thumbnail.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "THE DOORS IN CONCERT",
+      "fecha": "2026-04-25",
+      "hora": "21:00",
+      "sala": "La Casa del Loco C/. Mayor 10, Zaragoza, Zaragoza, Spain",
+      "url": "https://aragonenvivo.com/evento/the-doors-in-concert/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Doors.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Paula Mattheus",
+      "fecha": "2026-04-25",
+      "hora": "21:00",
+      "sala": "Oasis Club Teatro C/ Basilio Boggiero,28, Zaragoza, Zaragoza, Spain",
+      "url": "https://aragonenvivo.com/evento/paula-mattheus-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/paulamattheus-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "PEPI LABRADOR – VIVIENDO A TODO GASS",
+      "fecha": "2026-04-25",
+      "hora": "21:00",
+      "sala": "Belushi C. de Bernardo Fita, 11, Zaragoza, Zaragoza, Spain",
+      "url": "https://aragonenvivo.com/evento/pepi-labrador-viviendo-a-todo-gass/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260425_pepilabrador-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "FERRAN EXCESO",
+      "fecha": "2026-04-25",
+      "hora": "21:00",
+      "sala": "El Refugio del Crápula C/ Mayor 56, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/ferran-exceso-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260425_ferranexce33-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LOS JALEO",
+      "fecha": "2026-04-25",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/los-jaleo/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "RAQUEL TORRES Y ANE LINDANE – DESPOTORRE",
+      "fecha": "2026-04-25",
+      "hora": "23:00",
+      "sala": "Belushi C. de Bernardo Fita, 11, Zaragoza, Zaragoza, Spain",
+      "url": "https://aragonenvivo.com/evento/raquel-torres-y-ane-lindane-despotorre/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260425_29-2.webp",
       "descripcion": ""
     },
     {
