@@ -1,52 +1,7 @@
 {
-  "actualizado": "2026-04-26T14:39:00.530624",
+  "actualizado": "2026-04-27T08:34:48.144351",
   "total": 42,
   "eventos": [
-    {
-      "titulo": "QUEENMANIA",
-      "fecha": "2026-04-26",
-      "hora": "12:00",
-      "sala": "Teatro de las Esquinas Vía Univérsitas, 30-32, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/queenmania/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/3370-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "TRIBUTO A SABINA – Jimenos Band",
-      "fecha": "2026-04-26",
-      "hora": "19:00",
-      "sala": "Teatro de las Esquinas Vía Univérsitas, 30-32, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/tributo-a-sabina-jimenos-band-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/jimenosband_1.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "DEATHGEIST (BRASIL)",
-      "fecha": "2026-04-26",
-      "hora": "19:00",
-      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/deathgeist-brasil/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/deatgeist-underworld-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "PATRICIA SORNOSA – DESAPAREZCA AQUI",
-      "fecha": "2026-04-26",
-      "hora": "19:00",
-      "sala": "Belushi C. de Bernardo Fita, 11, Zaragoza, Zaragoza, Spain",
-      "url": "https://aragonenvivo.com/evento/patricia-sornosa-desaparezca-aqui/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260426patriciasornosaa-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LUCIO LUPANO 4TET",
-      "fecha": "2026-04-26",
-      "hora": "20:00",
-      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/lucio-lupano-4tet/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "CONCIERTO SORPRESA",
       "fecha": "2026-04-27",
@@ -54,6 +9,15 @@
       "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
       "url": "https://aragonenvivo.com/evento/concierto-sorpresa/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-138.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "COQUE MALLA",
+      "fecha": "2026-04-27",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/coque-malla-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-139.webp",
       "descripcion": ""
     },
     {
@@ -108,6 +72,42 @@
       "sala": "Teatro de las Esquinas Vía Univérsitas, 30-32, Zaragoza, Zaragoza, España",
       "url": "https://aragonenvivo.com/evento/senora/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/senora4-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "VULGARIA + OUTER TOAD",
+      "fecha": "2026-05-01",
+      "hora": "20:30",
+      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/vulgaria-outer-toad/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/v1-819x1024-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "RUINOSA Y LAS STRIPPERS DE RAHOLA",
+      "fecha": "2026-05-01",
+      "hora": "21:00",
+      "sala": "Sala Z C/ Felix Latassa, 14, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/ruinosa-y-las-strippers-de-rahola/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/MG_1042-Mejorado-NR-1536x1024-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "TELEPHUNKEN",
+      "fecha": "2026-05-01",
+      "hora": "21:00",
+      "sala": "Oasis Club Teatro C/ Basilio Boggiero,28, Zaragoza, Zaragoza, Spain",
+      "url": "https://aragonenvivo.com/evento/telephunken-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/POST-TELEPHUNKEN-OASIS-IG-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LOS BUENOS VALEDORES",
+      "fecha": "2026-05-01",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/los-buenos-valedores/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
       "descripcion": ""
     },
     {
