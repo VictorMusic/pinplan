@@ -12,40 +12,38 @@
 <meta property="og:type" content="website">
 <link rel="manifest" href="manifest.json">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
-<!-- Umami Analytics -->
 <script defer src="https://cloud.umami.is/script.js" data-website-id="6166c3d4-8300-4385-b758-9d9187494425"></script>
-<!-- Cloudflare Web Analytics -->
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "0fa967989c9c42b2afee69bf58ebf8bc"}'></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Plus+Jakarta+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
 <style>
 :root{
-  --black:#000;--surface:#0a0a0a;--card:#0a0a0a;
-  --border:#1a1a1a;--border2:#222;
+  --black:#000;--border:#1a1a1a;--border2:#222;
   --yellow:#F5FF00;
-  --text:#f0f0f0;--subtext:#707070;--muted:#404040;
+  --text:#f0f0f0;--subtext:#707070;
   --card-bg:#0a0a0a;--overlay:rgba(0,0,0,0.9);
   --sk:rgba(255,255,255,0.05);--sk2:rgba(255,255,255,0.1);
   --footer-c:#383838;
 }
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;}
 body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var(--black);overscroll-behavior-y:contain;}
-.app-header{position:fixed;top:0;left:0;right:0;z-index:50;max-width:420px;margin:0 auto;padding:1rem 1.25rem .4rem;display:flex;align-items:flex-end;justify-content:space-between;background:var(--black);}
-.logo-wrap{display:flex;align-items:baseline;gap:.5rem;}
-.logo{font-family:'Bebas Neue',sans-serif;font-size:2.5rem;line-height:1;letter-spacing:.04em;color:var(--yellow);}
-.logo-city{font-size:.68rem;font-weight:500;color:#555;letter-spacing:.14em;text-transform:uppercase;padding-bottom:.3rem;}
-.upd{display:flex;align-items:center;gap:.35rem;padding-bottom:.3rem;}
+.app-header{position:fixed;top:0;left:0;right:0;z-index:50;max-width:420px;margin:0 auto;padding:.75rem 1.25rem .4rem;display:flex;align-items:center;justify-content:space-between;background:var(--black);}
+.logo-svg{height:28px;width:auto;}
+.upd{display:flex;align-items:center;gap:.35rem;}
 .dot{width:5px;height:5px;border-radius:50%;background:var(--yellow);animation:pulse 2.5s ease-in-out infinite;}
 @keyframes pulse{0%,100%{opacity:1;transform:scale(1);}50%{opacity:.4;transform:scale(.65);}}
 .upd-t{font-size:.6rem;color:#444;}
-.app{position:relative;z-index:1;max-width:420px;margin:0 auto;padding-top:5.5rem;padding-bottom:1rem;}
-.date-nav{padding:.4rem 1.25rem .7rem;display:flex;align-items:center;justify-content:center;gap:.6rem;}
-.arr{width:36px;height:36px;border-radius:50%;border:1.5px solid var(--border2);background:rgba(255,255,255,0.04);color:var(--text);font-size:1.2rem;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;flex-shrink:0;user-select:none;-webkit-user-select:none;}
+.app{position:relative;z-index:1;max-width:420px;margin:0 auto;padding-top:4.5rem;padding-bottom:1rem;}
+.date-nav{padding:.4rem 1.25rem .5rem;display:flex;align-items:center;justify-content:center;gap:.6rem;}
+.arr{width:34px;height:34px;border-radius:50%;border:1.5px solid var(--border2);background:rgba(255,255,255,0.04);color:var(--text);font-size:1.2rem;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;flex-shrink:0;user-select:none;-webkit-user-select:none;}
 .arr:disabled{opacity:.2;cursor:default;}
 .arr:not(:disabled):active{background:rgba(255,255,255,.1);transform:scale(.92);}
-@media(hover:none){.arr:not(:disabled):hover{background:rgba(255,255,255,0.04);}}
-.date-main{font-family:'Bebas Neue',sans-serif;font-size:1.3rem;letter-spacing:.06em;line-height:1;color:var(--text);text-align:center;min-width:190px;}
-#event-list{padding:0 1rem;display:flex;flex-direction:column;gap:.5rem;}
+.date-main{font-family:'Bebas Neue',sans-serif;font-size:1.25rem;letter-spacing:.06em;line-height:1;color:var(--text);text-align:center;min-width:180px;}
+.view-tabs{display:flex;gap:0;padding:0 1.25rem .5rem;border-bottom:1px solid var(--border);}
+.tab{flex:1;padding:.45rem;font-size:.72rem;font-weight:600;text-align:center;cursor:pointer;color:#444;letter-spacing:.06em;text-transform:uppercase;border:none;background:none;transition:color .15s;}
+.tab.active{color:var(--yellow);border-bottom:2px solid var(--yellow);}
+#event-list{padding:.6rem 1rem 0;display:flex;flex-direction:column;gap:.5rem;}
 .skeleton{background:var(--card-bg);border:1px solid var(--border);border-radius:14px;padding:.75rem .9rem;display:grid;grid-template-columns:56px 1fr;gap:0 .75rem;align-items:center;}
 .sk-img{width:56px;height:56px;border-radius:10px;background:var(--sk);animation:shimmer 1.4s ease-in-out infinite alternate;}
 .sk-lines{display:flex;flex-direction:column;gap:8px;}
@@ -54,28 +52,44 @@ body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var
 @keyframes shimmer{from{background:var(--sk);}to{background:var(--sk2);}}
 .card{display:grid;grid-template-columns:56px 1fr auto;gap:0 .75rem;background:var(--card-bg);border:1px solid var(--border);border-radius:14px;padding:.75rem .9rem;cursor:pointer;align-items:start;transition:transform .12s;}
 .card:active{background:#111;border-color:#222;transform:scale(.985);}
-@media(hover:none){.card:hover{background:var(--card-bg);border-color:var(--border);}}
 .ev-img{width:56px;height:56px;border-radius:10px;overflow:hidden;flex-shrink:0;background:#111;}
 .ev-img img{width:100%;height:100%;object-fit:cover;display:block;}
 .ev-info{min-width:0;}
 .ev-title{font-size:.93rem;font-weight:600;line-height:1.2;color:var(--text);}
 .ev-sala{font-size:.72rem;color:var(--subtext);display:flex;align-items:center;gap:.25rem;margin-top:.25rem;}
 .ev-sala svg{flex-shrink:0;opacity:.5;}
-.hora-wrap{text-align:right;flex-shrink:0;padding-top:1px;display:flex;flex-direction:column;align-items:flex-end;gap:4px;}
+.hora-wrap{text-align:right;flex-shrink:0;display:flex;flex-direction:column;align-items:flex-end;gap:5px;padding-top:1px;}
 .hora{font-family:'Bebas Neue',sans-serif;font-size:1.35rem;line-height:1;color:var(--yellow);}
+#sala-view{padding:.6rem 1rem 0;display:none;flex-direction:column;gap:.4rem;}
+.sala-chip{background:var(--card-bg);border:1px solid var(--border);border-radius:10px;padding:.6rem .9rem;cursor:pointer;display:flex;align-items:center;justify-content:space-between;}
+.sala-chip:active{border-color:#333;}
+.sala-chip-name{font-size:.88rem;font-weight:600;color:var(--text);}
+.sala-chip-count{font-size:.72rem;color:var(--subtext);}
+.sala-chip-dot{width:6px;height:6px;border-radius:50%;background:var(--yellow);flex-shrink:0;}
+#sala-detail{display:none;flex-direction:column;}
+.sala-back{display:flex;align-items:center;gap:.5rem;padding:.6rem 1.25rem .4rem;cursor:pointer;color:var(--subtext);font-size:.78rem;}
+.sala-detail-title{font-family:'Bebas Neue',sans-serif;font-size:1.4rem;color:var(--yellow);letter-spacing:.04em;padding:0 1.25rem .4rem;}
+#sala-detail-list{padding:0 1rem;display:flex;flex-direction:column;gap:.5rem;}
+#map-view{display:none;padding:.6rem 1rem 0;}
+#map{height:calc(100vh - 180px);border-radius:14px;overflow:hidden;border:1px solid var(--border);}
+.leaflet-tile{filter:invert(1) hue-rotate(180deg) brightness(.7) contrast(1.1);}
+.leaflet-control-attribution{display:none;}
 .cta-box{margin:.25rem 0 0;border:1px dashed #1e1e1e;border-radius:14px;padding:.85rem 1rem;cursor:pointer;}
 .cta-title{font-size:.8rem;font-weight:600;color:var(--yellow);margin-bottom:.2rem;}
 .cta-sub{font-size:.72rem;color:#555;line-height:1.5;}
+.carpe-diem{padding:2rem 1.25rem;text-align:center;}
+.carpe-title{font-family:'Bebas Neue',sans-serif;font-size:1.3rem;color:#222;letter-spacing:.04em;line-height:1.3;}
+.carpe-sub{font-size:.72rem;color:#1a1a1a;margin-top:.4rem;font-style:italic;}
 .empty{padding:2.5rem 1.25rem;text-align:center;}
 .empty-title{font-family:'Bebas Neue',sans-serif;font-size:1.4rem;color:#2a2a2a;letter-spacing:.04em;margin-bottom:.4rem;}
 .empty-sub{font-size:.78rem;color:#333;line-height:1.7;}
-.footer{margin-top:2.5rem;padding:.9rem 1.25rem 2rem;display:flex;align-items:center;justify-content:space-between;border-top:1px solid #111;}
+.footer{margin-top:2rem;padding:.9rem 1.25rem 2rem;display:flex;align-items:center;justify-content:space-between;border-top:1px solid #111;}
 .footer-version,.footer-contact{font-size:.72rem;font-family:'Plus Jakarta Sans',sans-serif;color:var(--footer-c);letter-spacing:.05em;background:none;border:none;outline:none;padding:0;margin:0;cursor:default;}
 .footer-contact{cursor:pointer;text-decoration:underline;text-underline-offset:3px;text-decoration-color:#282828;}
 .footer-contact:active{color:#666;}
-.pop-ov{position:fixed;inset:0;z-index:100;background:var(--overlay);backdrop-filter:blur(6px);display:flex;align-items:flex-start;justify-content:center;padding-top:80px;opacity:0;pointer-events:none;transition:opacity .2s;}
+.pop-ov{position:fixed;inset:0;z-index:100;background:var(--overlay);backdrop-filter:blur(6px);display:flex;align-items:flex-start;justify-content:center;padding-top:70px;opacity:0;pointer-events:none;transition:opacity .2s;}
 .pop-ov.open{opacity:1;pointer-events:all;}
-.pop{width:calc(100% - 2rem);max-width:400px;background:#0a0a0a;border:1px solid #1a1a1a;border-radius:20px;position:relative;max-height:calc(100vh - 96px);overflow-y:auto;transform:translateY(-12px) scale(.97);transition:transform .28s cubic-bezier(.32,.72,0,1);}
+.pop{width:calc(100% - 2rem);max-width:400px;background:#0a0a0a;border:1px solid #1a1a1a;border-radius:20px;position:relative;max-height:calc(100vh - 86px);overflow-y:auto;transform:translateY(-12px) scale(.97);transition:transform .28s cubic-bezier(.32,.72,0,1);}
 .pop-ov.open .pop{transform:translateY(0) scale(1);}
 .pop-x{position:absolute;top:.75rem;right:.75rem;width:30px;height:30px;border-radius:50%;background:rgba(255,255,255,.06);border:none;color:#666;font-size:1.1rem;cursor:pointer;display:flex;align-items:center;justify-content:center;z-index:2;}
 .pop-img-wrap{width:100%;height:190px;border-radius:20px 20px 0 0;overflow:hidden;background:#111;position:relative;}
@@ -99,27 +113,49 @@ body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var
 </head>
 <body>
 <div class="app-header">
-  <div class="logo-wrap">
-    <span class="logo">PinPlan</span>
-    <span class="logo-city">Zaragoza</span>
-  </div>
+  <svg class="logo-svg" viewBox="0 0 623.87 130.92" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#F5FF00" d="M84.27,23.49c8.14,7.08,12.21,17.08,12.21,30.01,0,13.6-4.1,24.16-12.29,31.69-8.19,7.52-19.7,11.29-34.53,11.29h-23.24v33.44H0V12.87h49.66c14.94,0,26.47,3.54,34.61,10.62ZM65.46,69.31c3.96-3.4,5.94-8.39,5.94-14.96s-1.98-11.34-5.94-14.63c-3.96-3.29-9.67-4.93-17.14-4.93h-21.9v39.63h21.9c7.47,0,13.18-1.7,17.14-5.1Z"/>
+    <path fill="#F5FF00" d="M132.63,4.01c2.62,2.67,3.93,6.13,3.93,10.37s-1.31,7.69-3.93,10.37c-2.62,2.67-5.99,4.01-10.12,4.01s-7.33-1.36-9.95-4.1c-2.62-2.73-3.93-6.16-3.93-10.28s1.31-7.69,3.93-10.37c2.62-2.68,5.94-4.01,9.95-4.01s7.5,1.34,10.12,4.01ZM109.8,39.96h25.75v89.96h-25.75V39.96Z"/>
+    <path fill="#F5FF00" d="M235.46,48.32c5.96,6.24,8.95,14.61,8.95,25.08v56.52h-25.75v-48.99c0-5.68-1.59-10.17-4.76-13.46-3.18-3.29-7.5-4.93-12.96-4.93-6.35.11-11.37,2.32-15.05,6.61-3.68,4.29-5.52,9.78-5.52,16.47v44.31h-25.75V39.96h25.75v15.72c6.24-10.92,16.61-16.5,31.1-16.72,10.03,0,18.03,3.12,23.99,9.36Z"/>
+    <path fill="#F5FF00" d="M342.89,21.4c6.85,5.69,10.28,13.71,10.28,24.08s-2.29,19.06-6.85,26.75c-4.57,7.69-11.09,13.66-19.56,17.89-8.47,4.24-18.45,6.35-29.93,6.35h-23.24l-6.69,33.44h-4.74V12.87h51.22c12.82,0,22.66,2.84,29.51,8.53ZM320.15,68.05c4.85-4.24,7.27-10.2,7.27-17.89,0-5.02-1.7-8.83-5.1-11.45-3.4-2.62-8.22-3.93-14.46-3.93h-22.07l-7.86,39.63h21.9c8.7,0,15.47-2.12,20.32-6.35Z"/>
+    <path fill="#F5FF00" d="M406.85,5.85l-24.75,124.07h-25.75l24.75-124.07h25.75Z"/>
+    <path fill="#F5FF00" d="M426.15,125.91c-5.41-3.34-9.61-8.03-12.62-14.04-3.01-6.02-4.51-12.93-4.51-20.73,0-9.7,2.09-18.53,6.27-26.5,4.18-7.97,9.95-14.24,17.31-18.81,7.36-4.57,15.49-6.86,24.41-6.86,7.13,0,13.15,1.48,18.06,4.43,4.9,2.95,8.64,7.27,11.2,12.96l3.18-16.39h25.58l-17.89,89.96h-25.58l2.51-11.37c-8.25,8.25-18,12.37-29.26,12.37-7.02,0-13.24-1.67-18.64-5.02ZM467.54,106.84c4.01-2.56,7.19-6.05,9.53-10.45,2.34-4.4,3.51-9.22,3.51-14.46,0-6.35-1.78-11.42-5.35-15.22-3.57-3.79-8.3-5.69-14.21-5.69-4.68,0-9.03,1.28-13.04,3.85-4.01,2.56-7.19,6.05-9.53,10.45-2.34,4.4-3.51,9.17-3.51,14.3,0,6.47,1.78,11.59,5.35,15.38,3.57,3.79,8.3,5.69,14.21,5.69,4.68,0,9.03-1.28,13.04-3.85Z"/>
+    <path fill="#F5FF00" d="M615.35,46.73c5.68,5.3,8.53,12.4,8.53,21.32,0,2.68-.33,5.63-1,8.86l-10.7,53h-25.58l9.7-49.33c.33-1.67.5-3.29.5-4.85,0-4.46-1.37-8-4.1-10.62-2.73-2.62-6.55-3.93-11.45-3.93-5.69,0-10.73,2.03-15.13,6.1-4.41,4.07-7.27,9.39-8.61,15.97l-9.36,46.65h-25.75l17.72-89.96h25.92l-2.51,12.37c7.36-9.03,16.89-13.54,28.59-13.54,9.81,0,17.56,2.65,23.24,7.94Z"/>
+  </svg>
   <div class="upd" id="upd" style="display:none">
     <div class="dot"></div>
     <span class="upd-t" id="upd-t"></span>
   </div>
 </div>
+
 <div class="app">
   <div class="date-nav">
     <button class="arr" id="prev" disabled>&#8249;</button>
     <div class="date-main" id="dmain"></div>
     <button class="arr" id="next">&#8250;</button>
   </div>
+  <div class="view-tabs">
+    <button class="tab active" id="tab-list" onclick="switchView('list')">Lista</button>
+    <button class="tab" id="tab-salas" onclick="switchView('salas')">Salas</button>
+    <button class="tab" id="tab-map" onclick="switchView('map')">Mapa</button>
+  </div>
   <div id="event-list"></div>
+  <div id="sala-view"></div>
+  <div id="sala-detail">
+    <div class="sala-back" id="sala-back">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+      Todas las salas
+    </div>
+    <div class="sala-detail-title" id="sala-detail-title"></div>
+    <div id="sala-detail-list"></div>
+  </div>
+  <div id="map-view"><div id="map"></div></div>
   <footer class="footer">
     <span class="footer-version">V 0.1 · probando probando</span>
     <button class="footer-contact" id="contact-btn">Contacto</button>
   </footer>
 </div>
+
 <div class="pop-ov" id="pov">
   <div class="pop">
     <button class="pop-x" id="px">×</button>
@@ -149,103 +185,107 @@ body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var
     </div>
   </div>
 </div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
 const DAYS_S=['DOM','LUN','MAR','MIÉ','JUE','VIE','SÁB'];
 const DAYS_L=['Domingo','Lunes','Martes','Miércoles','Jueves','Viernes','Sábado'];
 const MONTHS_A=['ENE','FEB','MAR','ABR','MAY','JUN','JUL','AGO','SEP','OCT','NOV','DIC'];
-const FALLBACK=[
-  'https://images.unsplash.com/photo-1540039155733-5bb30b4f2a96?w=600&q=85',
-  'https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=85',
-  'https://images.unsplash.com/photo-1501386761578-eaa54b915b37?w=600&q=85',
-  'https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=600&q=85',
-  'https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=85',
-  'https://images.unsplash.com/photo-1468164016595-6108e4c60c8b?w=600&q=85',
-  'https://images.unsplash.com/photo-1460723237483-7a6dc9d0b212?w=600&q=85',
-  'https://images.unsplash.com/photo-1598387993441-a364f854c3e1?w=600&q=85',
-  'https://images.unsplash.com/photo-1571397133301-3f1a73cbe57f?w=600&q=85',
-  'https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=600&q=85',
-];
+const FALLBACK=['https://images.unsplash.com/photo-1540039155733-5bb30b4f2a96?w=600&q=85','https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=85','https://images.unsplash.com/photo-1501386761578-eaa54b915b37?w=600&q=85','https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=600&q=85','https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=85','https://images.unsplash.com/photo-1468164016595-6108e4c60c8b?w=600&q=85','https://images.unsplash.com/photo-1460723237483-7a6dc9d0b212?w=600&q=85','https://images.unsplash.com/photo-1598387993441-a364f854c3e1?w=600&q=85','https://images.unsplash.com/photo-1571397133301-3f1a73cbe57f?w=600&q=85','https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=600&q=85'];
 const PIN=`<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>`;
 const _m=['himnosis','.','music','@','gmail','.','com'].join('');
-let offset=0;
-try{
-  const saved=parseInt(localStorage.getItem('pinplan_offset')||'0');
-  const savedDate=localStorage.getItem('pinplan_offset_date')||'';
-  const todayStr=new Date().toISOString().slice(0,10);
-  if(savedDate===todayStr&&saved>=0)offset=saved;
-  else{localStorage.setItem('pinplan_offset','0');localStorage.setItem('pinplan_offset_date',todayStr);}
-}catch(e){}
-let allEvents=[];
+const MAX_DAYS=14;
+let offset=0,allEvents=[],salasDB=[],currentView='list',mapInstance=null,mapInitialized=false;
+try{const saved=parseInt(localStorage.getItem('pinplan_offset')||'0');const savedDate=localStorage.getItem('pinplan_offset_date')||'';const todayStr=new Date().toISOString().slice(0,10);if(savedDate===todayStr&&saved>=0&&saved<MAX_DAYS)offset=saved;else{localStorage.setItem('pinplan_offset','0');localStorage.setItem('pinplan_offset_date',todayStr);}}catch(e){}
 function nowMadrid(){return new Date(new Date().toLocaleString('en-US',{timeZone:'Europe/Madrid'}));}
 function isoOf(d){return`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;}
 function dateAt(n){const d=nowMadrid();d.setDate(d.getDate()+n);return d;}
 function dateLabel(d,off){const dow=DAYS_S[d.getDay()],day=d.getDate(),mon=MONTHS_A[d.getMonth()];if(off===0)return`${DAYS_L[d.getDay()]} ${day} ${mon}`;if(off===1)return`Mañana · ${dow} ${day} ${mon}`;return`${dow} ${day} ${mon}`;}
 function diaCorto(d){return`${DAYS_S[d.getDay()]} ${d.getDate()}`;}
 function validImg(u){return u&&typeof u==='string'&&u.startsWith('http')&&!u.includes('placeholder')&&!u.includes('lorem')&&!u.includes('default')&&!u.includes('no-image')&&u.length>20;}
-function fallbackFor(titulo,idx){let h=0;for(let i=0;i<titulo.length;i++)h=(h*31+titulo.charCodeAt(i))&0xfffffff;return FALLBACK[(h+idx)%FALLBACK.length];}
+function fallbackFor(t,i){let h=0;for(let j=0;j<t.length;j++)h=(h*31+t.charCodeAt(j))&0xfffffff;return FALLBACK[(h+i)%FALLBACK.length];}
+function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+function cleanSala(s){return(s||'').replace(/,?\s*(Zaragoza|Zaragoza\s*,?\s*Espa[nñ]a?|Espa[nñ]a?|Spain|50\d{3})\b/gi,'').replace(/\s{2,}/g,' ').trim();}
 function showSkeletons(){document.getElementById('event-list').innerHTML=[0,1,2].map(()=>`<div class="skeleton"><div class="sk-img"></div><div class="sk-lines"><div class="sk-line w70"></div><div class="sk-line w45"></div></div></div>`).join('');}
 function dedupEvents(evs){const seen={};return evs.filter(e=>{const key=(e.titulo||'').toLowerCase().replace(/\s+/g,'').slice(0,30)+'|'+e.fecha;if(seen[key])return false;seen[key]=true;return true;});}
-function loadAllEvents(){
-  showSkeletons();
-  fetch('eventos.json?_='+Date.now())
-    .then(r=>r.json())
-    .then(data=>{
-      allEvents=dedupEvents(data.eventos||[]);
-      if(data.actualizado){const upd=new Date(data.actualizado);const hm=`${String(upd.getHours()).padStart(2,'0')}:${String(upd.getMinutes()).padStart(2,'0')}`;document.getElementById('upd-t').textContent=`Actualizado ${hm}`;document.getElementById('upd').style.display='flex';}
-      renderForOffset();
-    })
-    .catch(()=>{allEvents=[];renderForOffset();});
-}
-function renderForOffset(){
-  const d=dateAt(offset);
-  document.getElementById('dmain').textContent=dateLabel(d,offset);
-  document.getElementById('prev').disabled=offset<=0;
-  try{localStorage.setItem('pinplan_offset',String(offset));localStorage.setItem('pinplan_offset_date',isoOf(nowMadrid()));}catch(e){}
-  renderList(allEvents.filter(e=>e.fecha===isoOf(d)),d);
-}
 function loadImg(src,fallback,cb){const im=new Image();im.referrerPolicy='no-referrer';im.crossOrigin='anonymous';im.onload=()=>cb(im);im.onerror=()=>{const fb=new Image();fb.referrerPolicy='no-referrer';fb.onload=()=>cb(fb);fb.onerror=()=>cb(null);fb.src=fallback;};im.src=src;}
-function cleanSala(s){return(s||'').replace(/,?\s*(Zaragoza|Zaragoza\s*,?\s*Espa[nñ]a?|Espa[nñ]a?|Spain|50\d{3})\b/gi,'').replace(/\s{2,}/g,' ').trim();}
-async function shareEvent(ev){
-  var texto='¡Planazo para hoy! '+ev.titulo+' en '+cleanSala(ev.sala)+(ev.hora?' a las '+ev.hora:'');
-  var sd={title:'PinPlan · '+ev.titulo,text:texto,url:location.href};
-  if(navigator.share){try{await navigator.share(sd);}catch(e){}}
-  else{try{await navigator.clipboard.writeText(texto+'\n'+sd.url);alert('¡Copiado!');}catch(e){prompt('Copia:',texto);}}
+async function shareEvent(ev){var texto='¡Planazo para hoy! '+ev.titulo+' en '+cleanSala(ev.sala)+(ev.hora?' a las '+ev.hora:'');var sd={title:'PinPlan · '+ev.titulo,text:texto,url:location.href};if(navigator.share){try{await navigator.share(sd);}catch(e){}}else{try{await navigator.clipboard.writeText(texto+'\n'+sd.url);alert('¡Copiado!');}catch(e){prompt('Copia:',texto);}}}
+function getSalaInfo(salaNombre){const s=(salaNombre||'').toLowerCase();return salasDB.find(sala=>sala.keywords.some(kw=>s.includes(kw.toLowerCase())))||null;}
+function switchView(view){
+  currentView=view;
+  ['list','salas','map'].forEach(v=>{document.getElementById('tab-'+v).classList.toggle('active',v===view);});
+  document.getElementById('event-list').style.display=view==='list'?'flex':'none';
+  document.getElementById('sala-view').style.display=view==='salas'?'flex':'none';
+  document.getElementById('sala-detail').style.display='none';
+  document.getElementById('map-view').style.display=view==='map'?'block':'none';
+  const d=dateAt(offset);const evs=allEvents.filter(e=>e.fecha===isoOf(d));
+  if(view==='salas')renderSalas(evs);
+  if(view==='map')renderMap(evs,d);
 }
+function makeCard(ev,d,i){
+  var c=document.createElement('div');c.className='card';
+  var imgDiv=document.createElement('div');imgDiv.className='ev-img';
+  var infoDiv=document.createElement('div');infoDiv.className='ev-info';
+  var titleDiv=document.createElement('div');titleDiv.className='ev-title';titleDiv.textContent=ev.titulo;
+  var salaDiv=document.createElement('div');salaDiv.className='ev-sala';salaDiv.innerHTML=PIN+esc(cleanSala(ev.sala));
+  infoDiv.appendChild(titleDiv);infoDiv.appendChild(salaDiv);
+  var horaWrap=document.createElement('div');horaWrap.style.cssText='display:flex;flex-direction:column;align-items:flex-end;gap:5px;padding-top:1px;';
+  var horaDiv=document.createElement('div');horaDiv.className='hora';horaDiv.textContent=ev.hora||'?';
+  var shareBtn=document.createElement('div');
+  shareBtn.innerHTML='<svg viewBox="0 0 24 24" fill="none" stroke="#3a3a3a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:15px;height:15px;cursor:pointer;"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>';
+  horaWrap.appendChild(horaDiv);horaWrap.appendChild(shareBtn);
+  c.appendChild(imgDiv);c.appendChild(infoDiv);c.appendChild(horaWrap);
+  var fb=fallbackFor(ev.titulo,i);
+  loadImg(validImg(ev.imagen)?ev.imagen:fb,fb,function(im){if(im){im.style.cssText='width:100%;height:100%;object-fit:cover;display:block;';imgDiv.appendChild(im);}else{imgDiv.style.background='#151515';}});
+  shareBtn.addEventListener('click',function(e){e.stopPropagation();shareEvent(ev);});
+  c.addEventListener('click',function(){openPopup(ev,d,i);});
+  return c;
+}
+function makeCTA(){var cta=document.createElement('div');cta.className='cta-box';cta.innerHTML='<div class="cta-title">¿Tocas o tienes una sala?</div><div class="cta-sub">Si subes a un escenario o programas conciertos, hazte oír. Envíanos tu evento.</div>';cta.addEventListener('click',function(){window.location.href='mailto:'+_m+'?subject=PinPlan - Mi concierto';});return cta;}
 function renderList(evs,d){
-  var list=document.getElementById('event-list');
-  list.innerHTML='';
-  if(!evs.length){
-    var empty=document.createElement('div');empty.className='empty';
-    empty.innerHTML='<div class="empty-title">Aquí no suena nada hoy.</div><div class="empty-sub">Prueba otro día o vuelve en un rato.</div>';
-    list.appendChild(empty);
-    var ctaE=document.createElement('div');ctaE.className='cta-box';
-    ctaE.innerHTML='<div class="cta-title">¿Tocas o tienes una sala?</div><div class="cta-sub">Si subes a un escenario o programas conciertos, hazte oír. Envíanos tu evento.</div>';
-    ctaE.addEventListener('click',function(){window.location.href='mailto:'+_m+'?subject=PinPlan - Mi concierto';});
-    list.appendChild(ctaE);return;
-  }
-  evs.forEach(function(ev,i){
-    var c=document.createElement('div');c.className='card';
-    var imgDiv=document.createElement('div');imgDiv.className='ev-img';
-    var infoDiv=document.createElement('div');infoDiv.className='ev-info';
-    var titleDiv=document.createElement('div');titleDiv.className='ev-title';titleDiv.textContent=ev.titulo;
-    var salaDiv=document.createElement('div');salaDiv.className='ev-sala';salaDiv.innerHTML=PIN+esc(cleanSala(ev.sala));
-    infoDiv.appendChild(titleDiv);infoDiv.appendChild(salaDiv);
-    var horaWrap=document.createElement('div');horaWrap.style.cssText='display:flex;flex-direction:column;align-items:flex-end;gap:5px;padding-top:1px;';
-    var horaDiv=document.createElement('div');horaDiv.className='hora';horaDiv.textContent=ev.hora||'?';
-    var shareBtn=document.createElement('div');
-    shareBtn.innerHTML='<svg viewBox="0 0 24 24" fill="none" stroke="#3a3a3a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:15px;height:15px;cursor:pointer;"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>';
-    horaWrap.appendChild(horaDiv);horaWrap.appendChild(shareBtn);
-    c.appendChild(imgDiv);c.appendChild(infoDiv);c.appendChild(horaWrap);
-    var fb=fallbackFor(ev.titulo,i);var src=validImg(ev.imagen)?ev.imagen:fb;
-    loadImg(src,fb,function(im){if(im){im.style.cssText='width:100%;height:100%;object-fit:cover;display:block;';imgDiv.appendChild(im);}else{imgDiv.style.background='#151515';}});
-    shareBtn.addEventListener('click',function(e){e.stopPropagation();shareEvent(ev);});
-    c.addEventListener('click',function(){openPopup(ev,d,i);});
-    list.appendChild(c);
+  var list=document.getElementById('event-list');list.innerHTML='';
+  if(!evs.length){var empty=document.createElement('div');empty.className='empty';empty.innerHTML='<div class="empty-title">Aquí no suena nada hoy.</div><div class="empty-sub">Prueba otro día o vuelve en un rato.</div>';list.appendChild(empty);list.appendChild(makeCTA());return;}
+  evs.forEach(function(ev,i){list.appendChild(makeCard(ev,d,i));});
+  list.appendChild(makeCTA());
+}
+function renderSalas(evs){
+  var view=document.getElementById('sala-view');view.innerHTML='';
+  var bySala={};
+  evs.forEach(function(ev){var key=cleanSala(ev.sala)||'Otros';if(!bySala[key])bySala[key]=[];bySala[key].push(ev);});
+  var salas=Object.keys(bySala).sort();
+  if(!salas.length){var empty=document.createElement('div');empty.className='empty';empty.innerHTML='<div class="empty-title">Sin conciertos hoy.</div>';view.appendChild(empty);return;}
+  salas.forEach(function(salaNombre){
+    var chip=document.createElement('div');chip.className='sala-chip';
+    var evCount=bySala[salaNombre].length;
+    chip.innerHTML='<div style="display:flex;align-items:center;gap:.5rem;"><div class="sala-chip-dot"></div><div class="sala-chip-name">'+esc(salaNombre)+'</div></div><div class="sala-chip-count">'+evCount+' evento'+(evCount!==1?'s':'')+' ›</div>';
+    chip.addEventListener('click',function(){showSalaDetail(salaNombre,bySala[salaNombre],dateAt(offset));});
+    view.appendChild(chip);
   });
-  var cta=document.createElement('div');cta.className='cta-box';
-  cta.innerHTML='<div class="cta-title">¿Tocas o tienes una sala?</div><div class="cta-sub">Si subes a un escenario o programas conciertos, hazte oír. Envíanos tu evento.</div>';
-  cta.addEventListener('click',function(){window.location.href='mailto:'+_m+'?subject=PinPlan - Mi concierto';});
-  list.appendChild(cta);
+}
+function showSalaDetail(nombre,evs,d){
+  document.getElementById('sala-view').style.display='none';
+  var detail=document.getElementById('sala-detail');detail.style.display='flex';
+  document.getElementById('sala-detail-title').textContent=nombre;
+  var list=document.getElementById('sala-detail-list');list.innerHTML='';
+  evs.sort(function(a,b){return(a.hora||'99:99').localeCompare(b.hora||'99:99');});
+  evs.forEach(function(ev,i){list.appendChild(makeCard(ev,d,i));});
+}
+document.getElementById('sala-back').addEventListener('click',function(){document.getElementById('sala-detail').style.display='none';document.getElementById('sala-view').style.display='flex';});
+function renderMap(evs,d){
+  if(!mapInitialized){mapInstance=L.map('map',{zoomControl:true,attributionControl:false}).setView([41.6488,-0.8891],14);L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(mapInstance);mapInitialized=true;}
+  mapInstance.eachLayer(function(l){if(l instanceof L.Marker)mapInstance.removeLayer(l);});
+  var yellowIcon=L.divIcon({html:'<div style="width:12px;height:12px;background:#F5FF00;border-radius:50%;border:2px solid #000;box-shadow:0 0 6px #F5FF00;"></div>',iconSize:[12,12],iconAnchor:[6,6],className:''});
+  var placed={};
+  evs.forEach(function(ev){
+    var sala=getSalaInfo(ev.sala);
+    if(!sala||placed[sala.id])return;
+    placed[sala.id]=true;
+    var marker=L.marker([sala.lat,sala.lng],{icon:yellowIcon}).addTo(mapInstance);
+    var salaEvs=evs.filter(function(e){return cleanSala(e.sala)===sala.nombre;});
+    var popupHtml='<div style="background:#0a0a0a;color:#f0f0f0;border-radius:8px;padding:8px 10px;min-width:160px;font-family:sans-serif;"><div style="font-weight:700;color:#F5FF00;margin-bottom:4px;">'+esc(sala.nombre)+'</div>'+salaEvs.map(function(e){return'<div style="font-size:11px;margin:2px 0;opacity:.8;">'+esc(e.titulo)+(e.hora?' · '+e.hora:'')+'</div>';}).join('')+'</div>';
+    marker.bindPopup(popupHtml,{className:'dark-popup'});
+  });
+  setTimeout(function(){mapInstance.invalidateSize();},100);
 }
 function openPopup(ev,d,i){
   const pw=document.getElementById('pimg');pw.innerHTML='';
@@ -257,28 +297,48 @@ function openPopup(ev,d,i){
   document.getElementById('phora').textContent=ev.hora||'—';
   const desc=ev.descripcion||'';const descEl=document.getElementById('pdesc');descEl.textContent=desc;descEl.style.display=desc?'block':'none';
   document.getElementById('bmaps').onclick=()=>window.open(`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(ev.sala+' Zaragoza')}`,'_blank');
-  document.getElementById('bshare').onclick=async()=>{
-    const sd={title:'PinPlan · '+ev.titulo,text:`¡Planazo para hoy! ${ev.titulo} en ${cleanSala(ev.sala)}${ev.hora?' a las '+ev.hora:''}`,url:location.href};
-    if(navigator.share){try{await navigator.share(sd);}catch(e){}}
-    else{try{await navigator.clipboard.writeText(`${sd.text}\n${sd.url}`);alert('¡Copiado!');}catch(e){prompt('Copia:',sd.text);}}
-  };
+  document.getElementById('bshare').onclick=async()=>{const sd={title:'PinPlan · '+ev.titulo,text:`¡Planazo para hoy! ${ev.titulo} en ${cleanSala(ev.sala)}${ev.hora?' a las '+ev.hora:''}`,url:location.href};if(navigator.share){try{await navigator.share(sd);}catch(e){}}else{try{await navigator.clipboard.writeText(`${sd.text}\n${sd.url}`);alert('¡Copiado!');}catch(e){prompt('Copia:',sd.text);}}};
   document.getElementById('pov').classList.add('open');document.body.style.overflow='hidden';
 }
 function closePopup(){document.getElementById('pov').classList.remove('open');document.body.style.overflow='';}
-function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+function renderForOffset(){
+  const d=dateAt(offset);
+  document.getElementById('dmain').textContent=dateLabel(d,offset);
+  document.getElementById('prev').disabled=offset<=0;
+  document.getElementById('next').disabled=offset>=MAX_DAYS;
+  try{localStorage.setItem('pinplan_offset',String(offset));localStorage.setItem('pinplan_offset_date',isoOf(nowMadrid()));}catch(e){}
+  if(offset>=MAX_DAYS){
+    document.getElementById('event-list').innerHTML='';
+    var cd=document.createElement('div');cd.className='carpe-diem';
+    cd.innerHTML='<div class="carpe-title">¿Por qué hacer planes a largo plazo cuando hay tanta música que disfrutar antes?</div><div class="carpe-sub">CARPE DIEM · Vuelve a los próximos días</div>';
+    document.getElementById('event-list').appendChild(cd);
+    return;
+  }
+  const evs=allEvents.filter(e=>e.fecha===isoOf(d));
+  if(currentView==='list')renderList(evs,d);
+  else if(currentView==='salas')renderSalas(evs);
+  else if(currentView==='map')renderMap(evs,d);
+}
+function loadAllEvents(){
+  showSkeletons();
+  Promise.all([fetch('eventos.json?_='+Date.now()).then(r=>r.json()),fetch('salas.json').then(r=>r.json()).catch(()=>({salas:[]}))])
+  .then(function([data,salasData]){
+    allEvents=dedupEvents(data.eventos||[]);salasDB=salasData.salas||[];
+    if(data.actualizado){const upd=new Date(data.actualizado);const hm=`${String(upd.getHours()).padStart(2,'0')}:${String(upd.getMinutes()).padStart(2,'0')}`;document.getElementById('upd-t').textContent=`Actualizado ${hm}`;document.getElementById('upd').style.display='flex';}
+    renderForOffset();
+  }).catch(function(){allEvents=[];renderForOffset();});
+}
 document.getElementById('pov').addEventListener('click',e=>{if(e.target===e.currentTarget)closePopup();});
 document.getElementById('px').addEventListener('click',closePopup);
 document.getElementById('prev').addEventListener('click',()=>{if(offset>0){offset--;renderForOffset();}});
-document.getElementById('next').addEventListener('click',()=>{offset++;renderForOffset();});
+document.getElementById('next').addEventListener('click',()=>{if(offset<MAX_DAYS){offset++;renderForOffset();}});
 document.getElementById('contact-btn').addEventListener('click',()=>{window.location.href='mailto:'+_m+'?subject=PinPlan feedback';});
 let tx=0,ty=0;
 document.addEventListener('touchstart',e=>{tx=e.touches[0].clientX;ty=e.touches[0].clientY;},{passive:true});
-document.addEventListener('touchend',e=>{if(document.getElementById('pov').classList.contains('open'))return;const dx=e.changedTouches[0].clientX-tx,dy=Math.abs(e.changedTouches[0].clientY-ty);if(Math.abs(dx)>55&&dy<60){if(dx<0){offset++;renderForOffset();}else if(offset>0){offset--;renderForOffset();}}},{passive:true});
-document.addEventListener('keydown',e=>{if(e.key==='Escape')closePopup();if(e.key==='ArrowRight'){offset++;renderForOffset();}if(e.key==='ArrowLeft'&&offset>0){offset--;renderForOffset();}});
+document.addEventListener('touchend',e=>{if(document.getElementById('pov').classList.contains('open'))return;const dx=e.changedTouches[0].clientX-tx,dy=Math.abs(e.changedTouches[0].clientY-ty);if(Math.abs(dx)>55&&dy<60){if(dx<0&&offset<MAX_DAYS){offset++;renderForOffset();}else if(dx>0&&offset>0){offset--;renderForOffset();}}},{passive:true});
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closePopup();if(e.key==='ArrowRight'&&offset<MAX_DAYS){offset++;renderForOffset();}if(e.key==='ArrowLeft'&&offset>0){offset--;renderForOffset();}});
 loadAllEvents();
 </script>
-<script>
-if('serviceWorker' in navigator){window.addEventListener('load',()=>{navigator.serviceWorker.register('sw.js').catch(()=>{});});}
-</script>
+<script>if('serviceWorker' in navigator){window.addEventListener('load',()=>{navigator.serviceWorker.register('sw.js').catch(()=>{});});}</script>
 </body>
 </html>
