@@ -1,0 +1,63 @@
+{
+  "salas": [
+    {
+      "id": "sala-z",
+      "nombre": "Sala Z",
+      "instagram": "@salazaragoza",
+      "keywords": ["sala z", "salaz"],
+      "lat": 41.6513, "lng": -0.8817,
+      "tipo": "sala"
+    },
+    {
+      "id": "sala-creedence",
+      "nombre": "Sala Creedence",
+      "instagram": "@creedencesound",
+      "keywords": ["creedence"],
+      "lat": 41.6530, "lng": -0.8854,
+      "tipo": "sala"
+    },
+    {
+      "id": "sala-lopez",
+      "nombre": "Sala López",
+      "instagram": "@salalopez",
+      "keywords": ["sala lópez", "sala lopez", "salalopez"],
+      "lat": 41.6584, "lng": -0.8748,
+      "tipo": "sala"
+    },
+    {
+      "id": "ley-seca",
+      "nombre": "La Ley Seca",
+      "instagram": "@laleysecazgz",
+      "keywords": ["ley seca", "leyseca"],
+      "lat": 41.6538, "lng": -0.8811,
+      "tipo": "bar"
+    },
+    {
+      "id": "lata-bombillas",
+      "nombre": "La Lata de Bombillas",
+      "instagram": "@lalatadebombillas",
+      "keywords": ["lata de bombillas", "lata bombillas", "lalatadebombillas"],
+      "lat": 41.6433, "lng": -0.8663,
+      "tipo": "sala"
+    },
+    {
+      "id": "sala-lo-intento",
+      "nombre": "Sala lo Intento",
+      "instagram": "@salalointento",
+      "keywords": ["lo intento", "lointento"],
+      "lat": 41.6472, "lng": -0.8812,
+      "tipo": "sala"
+    },
+    {
+      "id": "sala-oasis",
+      "nombre": "Sala Oasis",
+      "instagram": "@salaoasiszgz",
+      "keywords": ["oasis", "salaoasis"],
+      "lat": 41.6520, "lng": -0.8830,
+      "tipo": "sala"
+    },
+    {
+      "id": "rock-blues",
+      "nombre": "Rock & Blues Café",
+      "instagram": "@rockandbluescafe",
+      "keywords": ["rock & blues", "rock and blues", "rockandbluescafe", "r
