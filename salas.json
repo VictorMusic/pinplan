@@ -3,230 +3,174 @@
     {
       "id": "sala-z",
       "nombre": "Sala Z",
+      "direccion": "C. de Félix Latassa, 14",
       "instagram": "@salazaragoza",
-      "keywords": [
-        "sala z",
-        "salaz"
-      ],
-      "lat": 41.6513,
-      "lng": -0.8817,
+      "keywords": ["sala z", "salaz"],
+      "lat": 41.6430, "lng": -0.8920,
       "tipo": "sala"
     },
     {
       "id": "sala-creedence",
       "nombre": "Sala Creedence",
+      "direccion": "Pl. de San Lamberto, 3",
       "instagram": "@creedencesound",
-      "keywords": [
-        "creedence"
-      ],
-      "lat": 41.653,
-      "lng": -0.8854,
+      "keywords": ["creedence"],
+      "lat": 41.6530, "lng": -0.8854,
       "tipo": "sala"
     },
     {
       "id": "sala-lopez",
       "nombre": "Sala López",
+      "direccion": "C. de Sixto Celorrio, 2",
       "instagram": "@salalopez",
-      "keywords": [
-        "sala lópez",
-        "sala lopez",
-        "salalopez"
-      ],
-      "lat": 41.6584,
-      "lng": -0.8748,
+      "keywords": ["sala lópez", "sala lopez", "salalopez"],
+      "lat": 41.6584, "lng": -0.8748,
       "tipo": "sala"
     },
     {
       "id": "ley-seca",
       "nombre": "La Ley Seca",
+      "direccion": "C. de Sevilla, 2",
       "instagram": "@laleysecazgz",
-      "keywords": [
-        "ley seca",
-        "leyseca"
-      ],
-      "lat": 41.6538,
-      "lng": -0.8811,
+      "keywords": ["ley seca", "leyseca", "dry law", "the dry law"],
+      "lat": 41.6387, "lng": -0.8873,
       "tipo": "bar"
     },
     {
       "id": "lata-bombillas",
       "nombre": "La Lata de Bombillas",
+      "direccion": "C. de Espoz y Mina, 19",
       "instagram": "@lalatadebombillas",
-      "keywords": [
-        "lata de bombillas",
-        "lata bombillas",
-        "lalatadebombillas"
-      ],
-      "lat": 41.6433,
-      "lng": -0.8663,
+      "keywords": ["lata de bombillas", "lata bombillas", "lalatadebombillas"],
+      "lat": 41.6549, "lng": -0.8785,
       "tipo": "sala"
     },
     {
       "id": "sala-lo-intento",
       "nombre": "Sala lo Intento",
+      "direccion": "C. de Florentino Ballesteros, 25",
       "instagram": "@salalointento",
-      "keywords": [
-        "lo intento",
-        "lointento"
-      ],
-      "lat": 41.6472,
-      "lng": -0.8812,
+      "keywords": ["lo intento", "lointento"],
+      "lat": 41.6434, "lng": -0.8663,
       "tipo": "sala"
     },
     {
       "id": "sala-oasis",
       "nombre": "Sala Oasis",
+      "direccion": "C. de Basilio Boggiero, 28",
       "instagram": "@salaoasiszgz",
-      "keywords": [
-        "oasis",
-        "salaoasis"
-      ],
-      "lat": 41.652,
-      "lng": -0.883,
+      "keywords": ["oasis", "salaoasis"],
+      "lat": 41.6552, "lng": -0.8857,
       "tipo": "sala"
     },
     {
       "id": "rock-blues",
       "nombre": "Rock & Blues Café",
+      "direccion": "C. del Cuatro de Agosto, 5",
       "instagram": "@rockandbluescafe",
-      "keywords": [
-        "rock & blues",
-        "rock and blues",
-        "rockandbluescafe",
-        "rock blues"
-      ],
-      "lat": 41.6534,
-      "lng": -0.8811,
+      "keywords": ["rock & blues", "rock and blues", "rockandbluescafe", "rock blues"],
+      "lat": 41.6533, "lng": -0.8811,
       "tipo": "bar"
     },
     {
       "id": "pub-utopia",
       "nombre": "Pub Utopia",
+      "direccion": "C. de Luis del Valle, 19",
       "instagram": "@pubutopia",
-      "keywords": [
-        "utopia",
-        "pub utopia",
-        "pubutopia"
-      ],
-      "lat": 41.6435,
-      "lng": -0.8957,
+      "keywords": ["utopia", "pub utopia", "pubutopia"],
+      "lat": 41.6435, "lng": -0.8957,
       "tipo": "bar"
     },
     {
       "id": "campana-underground",
       "nombre": "La Campana Underground",
+      "direccion": "C. de Prudencio, 7",
       "instagram": "@lacampanaunderground",
-      "keywords": [
-        "campana underground",
-        "campana"
-      ],
-      "lat": 41.6564,
-      "lng": -0.8812,
+      "keywords": ["campana underground", "campana"],
+      "lat": 41.6564, "lng": -0.8812,
       "tipo": "sala"
     },
     {
       "id": "sala-arrebato",
       "nombre": "Sala Arrebato",
+      "direccion": "C. de José Palafox, 28",
       "instagram": "@salaarrebato",
-      "keywords": [
-        "arrebato"
-      ],
-      "lat": 41.6501,
-      "lng": -0.8821,
+      "keywords": ["arrebato"],
+      "lat": 41.6532, "lng": -0.8732,
       "tipo": "sala"
     },
     {
       "id": "corazon-verde",
       "nombre": "El Corazón Verde",
+      "direccion": "C. de África, 8",
       "instagram": "@elcorazonverdebar",
-      "keywords": [
-        "corazón verde",
-        "corazon verde",
-        "green heart",
-        "elcorazonverde"
-      ],
-      "lat": 41.6317,
-      "lng": -0.8913,
+      "keywords": ["corazón verde", "corazon verde", "green heart", "elcorazonverde"],
+      "lat": 41.6317, "lng": -0.8913,
       "tipo": "bar"
     },
     {
       "id": "teatro-esquinas",
       "nombre": "Teatro de las Esquinas",
+      "direccion": "Vía Univérsitas, 30-32",
       "instagram": "@teatrodelasesquinas",
-      "keywords": [
-        "teatro de las esquinas",
-        "teatrodelasesquinas",
-        "esquinas"
-      ],
-      "lat": 41.6472,
-      "lng": -0.9077,
+      "keywords": ["teatro de las esquinas", "teatrodelasesquinas", "esquinas"],
+      "lat": 41.6472, "lng": -0.9077,
       "tipo": "teatro"
     },
     {
       "id": "auditorio",
       "nombre": "Auditorio de Zaragoza",
+      "direccion": "C. de Eduardo Ibarra, 3",
       "instagram": "@auditoriozaragoza",
-      "keywords": [
-        "auditorio",
-        "sala mozart",
-        "sala multiusos",
-        "sala galve",
-        "auditoriozaragoza"
-      ],
-      "lat": 41.6378,
-      "lng": -0.9004,
+      "keywords": ["auditorio", "sala mozart", "sala multiusos", "sala galve", "auditoriozaragoza"],
+      "lat": 41.6379, "lng": -0.9004,
       "tipo": "auditorio"
     },
     {
       "id": "pabellon-principe",
       "nombre": "Pabellón Príncipe Felipe",
+      "direccion": "Av. de Cesáreo Alierta, 120",
       "instagram": "@pabellonprincipefelipe",
-      "keywords": [
-        "príncipe felipe",
-        "principe felipe",
-        "pabellón príncipe"
-      ],
-      "lat": 41.6354,
-      "lng": -0.9065,
+      "keywords": ["príncipe felipe", "principe felipe", "pabellón príncipe"],
+      "lat": 41.6354, "lng": -0.8659,
       "tipo": "recinto"
     },
     {
       "id": "jardin-invierno",
       "nombre": "Jardín de Invierno",
+      "direccion": "Parque Grande José Antonio Labordeta",
       "instagram": "@jardindeinviernozgz",
-      "keywords": [
-        "jardín de invierno",
-        "jardin de invierno",
-        "labordeta",
-        "parque labordeta"
-      ],
-      "lat": 41.6478,
-      "lng": -0.9102,
-      "tipo": "espacio"
+      "keywords": ["jardín de invierno", "jardin de invierno", "labordeta", "parque labordeta"],
+      "lat": 41.6317, "lng": -0.8927,
+      "tipo": "exterior"
     },
     {
       "id": "estacion-norte",
       "nombre": "Estación del Norte",
+      "direccion": "C. de Perdiguera, 7",
       "instagram": "@estaciondelnortezgz",
-      "keywords": [
-        "estación del norte",
-        "estacion del norte",
-        "estacion norte"
-      ],
-      "lat": 41.6561,
-      "lng": -0.8734,
+      "keywords": ["estación del norte", "estacion del norte", "estacion norte"],
+      "lat": 41.6601, "lng": -0.8718,
       "tipo": "espacio"
     },
     {
       "id": "ragtime",
       "nombre": "Ragtime",
+      "direccion": "C. de García Galdeano, 8",
       "instagram": "@ragtime_zgz",
-      "keywords": [
-        "ragtime"
-      ],
-      "lat": 41.6544,
-      "lng": -0.8821,
+      "keywords": ["ragtime"],
+      "lat": 41.6503, "lng": -0.8909,
       "tipo": "bar"
+    },
+    {
+      "id": "exterior",
+      "nombre": "Espacio Exterior",
+      "direccion": "Zaragoza",
+      "instagram": "",
+      "keywords": ["plaza", "calle", "exterior", "parque", "al aire libre", "jardín", "paseo"],
+      "lat": 41.6488, "lng": -0.8891,
+      "tipo": "exterior",
+      "etiqueta": "🎶 Música en la calle"
     }
   ]
 }

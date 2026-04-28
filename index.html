@@ -47,10 +47,6 @@ body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var
 .arr:not(:disabled):active{background:rgba(255,255,255,.1);transform:scale(.92);}
 .date-main{font-family:'Bebas Neue',sans-serif;font-size:1.25rem;letter-spacing:.06em;line-height:1;color:var(--text);text-align:center;min-width:180px;}
 
-/* VIEW TOGGLE */
-.view-tabs{display:flex;gap:0;padding:0 1.25rem .5rem;border-bottom:1px solid var(--border);}
-.tab{flex:1;padding:.45rem;font-size:.72rem;font-weight:600;text-align:center;cursor:pointer;color:#444;letter-spacing:.06em;text-transform:uppercase;border:none;background:none;transition:color .15s;}
-.tab.active{color:var(--yellow);border-bottom:2px solid var(--yellow);}
 
 /* EVENT LIST */
 #event-list{padding:.6rem 1rem 0;display:flex;flex-direction:column;gap:.5rem;}
@@ -75,13 +71,6 @@ body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var
 .hora-wrap{text-align:right;flex-shrink:0;display:flex;flex-direction:column;align-items:flex-end;gap:5px;padding-top:1px;}
 .hora{font-family:'Bebas Neue',sans-serif;font-size:1.35rem;line-height:1;color:var(--yellow);}
 
-/* SALA VIEW */
-#sala-view{padding:.6rem 1rem 0;display:none;flex-direction:column;gap:.4rem;}
-.sala-chip{background:var(--card-bg);border:1px solid var(--border);border-radius:10px;padding:.6rem .9rem;cursor:pointer;display:flex;align-items:center;justify-content:space-between;transition:border-color .12s;}
-.sala-chip:active{border-color:#333;}
-.sala-chip-name{font-size:.88rem;font-weight:600;color:var(--text);}
-.sala-chip-count{font-size:.72rem;color:var(--subtext);}
-.sala-chip-dot{width:6px;height:6px;border-radius:50%;background:var(--yellow);flex-shrink:0;}
 
 /* SALA DETAIL */
 #sala-detail{display:none;flex-direction:column;}
@@ -163,23 +152,19 @@ body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var
     <button class="arr" id="next">&#8250;</button>
   </div>
 
-  <div class="view-tabs">
-    <button class="tab active" id="tab-list" onclick="switchView('list')">Lista</button>
-    <button class="tab" id="tab-salas" onclick="switchView('salas')">Salas</button>
-  </div>
+
 
   <!-- LISTA -->
   <div id="event-list"></div>
 
-  <!-- SALAS -->
-  <div id="sala-view"></div>
-  <div id="sala-detail">
+  <!-- SALA DETAIL — accessible from event popup -->
+  <div id="sala-detail" style="display:none;flex-direction:column;">
     <div class="sala-back" id="sala-back">
       <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
-      Todas las salas
+      Volver
     </div>
-    <div class="sala-detail-title" id="sala-detail-title"></div>
-    <div id="sala-detail-list"></div>
+    <div id="sala-detail-header" style="padding:0 1.25rem .6rem;"></div>
+    <div id="sala-detail-list" style="padding:0 1rem;display:flex;flex-direction:column;gap:.5rem;"></div>
   </div>
 
   <footer class="footer">
@@ -197,7 +182,8 @@ body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var
       <div class="pop-main-row">
         <div class="pop-left">
           <div class="pop-title" id="ptitle"></div>
-          <div class="pop-sala" id="psala"></div>
+          <div class="pop-sala" id="psala" style="cursor:pointer;"></div>
+      <div class="pop-dir" id="pdir" style="font-size:.7rem;color:#333;margin-top:2px;display:flex;align-items:center;gap:.25rem;padding-left:1px;"></div>
         </div>
         <div class="pop-right">
           <span class="pop-dia" id="pdia"></span>
@@ -305,13 +291,12 @@ async function shareEvent(ev){
 
 function switchView(view){
   currentView=view;
-  ['list','salas'].forEach(v=>{document.getElementById('tab-'+v).classList.toggle('active',v===view);});
-  document.getElementById('event-list').style.display=view==='list'?'flex':'none';
-  document.getElementById('sala-view').style.display=view==='salas'?'flex':'none';
+  // Hide sala detail, show list
   document.getElementById('sala-detail').style.display='none';
-  document.getElementById('date-nav-wrap').style.display=view==='salas'?'none':'flex';
-  if(view==='salas') renderSalas();
-  else{const d=dateAt(offset);renderList(allEvents.filter(e=>e.fecha===isoOf(d)),d);}
+  document.getElementById('event-list').style.display='flex';
+  document.getElementById('date-nav-wrap').style.display='flex';
+  const d=dateAt(offset);
+  renderList(allEvents.filter(e=>e.fecha===isoOf(d)),d);
 }
 
 // ── CARDS ────────────────────────────────────────────────────────────────
@@ -375,80 +360,39 @@ function renderList(evs,d){
   list.appendChild(makeCTA());
 }
 
-// ── SALAS VIEW — transversal, todos los días ───────────────────────────────
-
-function renderSalas(){
-  var view=document.getElementById('sala-view');view.innerHTML='';
-
-  // Group ALL future events by sala
-  var today=isoOf(nowMadrid());
-  var bySala={};
-  allEvents.filter(e=>e.fecha>=today).forEach(function(ev){
-    var key=cleanSala(ev.sala)||'Otros';
-    if(!bySala[key])bySala[key]=[];
-    bySala[key].push(ev);
-  });
-
-  var salas=Object.keys(bySala).sort();
-  if(!salas.length){
-    var empty=document.createElement('div');empty.className='empty';
-    empty.innerHTML='<div class="empty-title">Sin eventos próximos.</div>';
-    view.appendChild(empty);return;
-  }
-
-  // Header
-  var hdr=document.createElement('div');
-  hdr.style.cssText='padding:.4rem 0 .6rem;font-size:.7rem;color:#333;letter-spacing:.08em;text-transform:uppercase;';
-  hdr.textContent='Próximos eventos por sala';
-  view.appendChild(hdr);
-
-  salas.forEach(function(salaNombre){
-    var chip=document.createElement('div');chip.className='sala-chip';
-    var evCount=bySala[salaNombre].length;
-    var salaInfo=getSalaInfo(salaNombre);
-    var igHandle=salaInfo?'<span style="font-size:.65rem;color:#333;">'+salaInfo.instagram+'</span>':'';
-    chip.innerHTML='<div style="display:flex;align-items:center;gap:.5rem;min-width:0;"><div class="sala-chip-dot"></div><div><div class="sala-chip-name">'+esc(salaNombre)+'</div>'+igHandle+'</div></div><div class="sala-chip-count">'+evCount+' evento'+(evCount!==1?'s':'')+' ›</div>';
-    chip.addEventListener('click',function(){showSalaDetail(salaNombre);});
-    view.appendChild(chip);
-  });
-}
-
 function showSalaDetail(salaNombre){
-  // Can be called from sala view OR from a card's sala click
-  // Switch to salas tab if not already
-  currentView='salas';
-  ['list','salas','map'].forEach(v=>{document.getElementById('tab-'+v).classList.toggle('active',v==='salas');});
   document.getElementById('event-list').style.display='none';
-  document.getElementById('map-view').style.display='none';
   document.getElementById('date-nav-wrap').style.display='none';
-  document.getElementById('sala-view').style.display='none';
 
   var detail=document.getElementById('sala-detail');detail.style.display='flex';
-  document.getElementById('sala-detail-title').textContent=salaNombre;
+
+  // Header with name + address
+  var salaInfo=getSalaInfo(salaNombre);
+  var hdr=document.getElementById('sala-detail-header');
+  hdr.innerHTML='<div style="font-family:Bebas Neue,sans-serif;font-size:1.4rem;color:var(--yellow);letter-spacing:.04em;line-height:1.2;">'+esc(salaNombre)+'</div>'
+    +(salaInfo&&salaInfo.direccion?'<div style="font-size:.75rem;color:#555;margin-top:.2rem;display:flex;align-items:center;gap:.25rem;"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="#555" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>'+esc(salaInfo.direccion)+'</div>':'')
+    +(salaInfo&&salaInfo.instagram?'<div style="font-size:.7rem;color:#333;margin-top:.1rem;">'+esc(salaInfo.instagram)+'</div>':'');
 
   var list=document.getElementById('sala-detail-list');list.innerHTML='';
 
   var today=isoOf(nowMadrid());
-  var evs=allEvents.filter(function(e){return cleanSala(e.sala)===salaNombre&&e.fecha>=today;});
-  evs.sort(function(a,b){return(a.fecha+a.hora).localeCompare(b.fecha+b.hora);});
+  var evs=allEvents.filter(function(e){
+    return cleanSala(e.sala)===salaNombre&&e.fecha>=today;
+  });
+  evs.sort(function(a,b){return(a.fecha+(a.hora||'')).localeCompare(b.fecha+(b.hora||''));});
 
   if(!evs.length){
     var empty=document.createElement('div');empty.className='empty';
     empty.innerHTML='<div class="empty-title">Sin próximos eventos.</div>';
     list.appendChild(empty);return;
   }
-
-  evs.forEach(function(ev,i){
-    // Pass fecha as string so card shows date label
-    list.appendChild(makeCard(ev,ev.fecha,i));
-  });
+  evs.forEach(function(ev,i){list.appendChild(makeCard(ev,ev.fecha,i));});
 }
 
 document.getElementById('sala-back').addEventListener('click',function(){
   document.getElementById('sala-detail').style.display='none';
-  document.getElementById('sala-view').style.display='flex';
-  document.getElementById('date-nav-wrap').style.display='none';
-  renderSalas();
+  document.getElementById('event-list').style.display='flex';
+  document.getElementById('date-nav-wrap').style.display='flex';
 });
 
 // ── MAP VIEW ──────────────────────────────────────────────────────────────
@@ -465,7 +409,16 @@ function openPopup(ev,d,i){
   const fb=fallbackFor(ev.titulo,i);const src=validImg(ev.imagen)?ev.imagen:fb;
   loadImg(src,fb,im=>{if(im){im.style.cssText='position:absolute;inset:0;width:100%;height:100%;object-fit:cover;';pw.appendChild(im);}else{pw.style.background='#151515';}});
   document.getElementById('ptitle').textContent=ev.titulo;
-  document.getElementById('psala').innerHTML=PIN+esc(cleanSala(ev.sala));
+  var salaInfo=getSalaInfo(ev.sala);
+  document.getElementById('psala').innerHTML=PIN+'<span style="text-decoration:underline;text-underline-offset:2px;text-decoration-color:#333;">'+esc(cleanSala(ev.sala))+'</span>';
+  document.getElementById('psala').onclick=function(){closePopup();setTimeout(function(){showSalaDetail(cleanSala(ev.sala));},200);};
+  var dirEl=document.getElementById('pdir');
+  if(salaInfo&&salaInfo.direccion){
+    dirEl.innerHTML='<svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="#444" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>'+esc(salaInfo.direccion);
+    dirEl.style.display='flex';
+  } else {
+    dirEl.style.display='none';
+  }
   document.getElementById('pdia').textContent=diaCorto(d);
   document.getElementById('phora').textContent=ev.hora||'—';
   const desc=ev.descripcion||'';const descEl=document.getElementById('pdesc');descEl.textContent=desc;descEl.style.display=desc?'block':'none';
