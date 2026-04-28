@@ -16,7 +16,6 @@
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "0fa967989c9c42b2afee69bf58ebf8bc"}'></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Plus+Jakarta+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
 <style>
 :root{
   --black:#000;--border:#1a1a1a;--border2:#222;
@@ -91,11 +90,6 @@ body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var
 .sala-detail-title{font-family:'Bebas Neue',sans-serif;font-size:1.4rem;color:var(--yellow);letter-spacing:.04em;padding:0 1.25rem .4rem;}
 #sala-detail-list{padding:0 1rem;display:flex;flex-direction:column;gap:.5rem;}
 
-/* MAP VIEW */
-#map-view{display:none;padding:.6rem 1rem 0;}
-#map{height:calc(100vh - 180px);border-radius:14px;overflow:hidden;border:1px solid var(--border);}
-.leaflet-container{background:#0a0a0a;}
-
 /* CTA */
 .cta-box{margin:.25rem 0 0;border:1px dashed #1e1e1e;border-radius:14px;padding:.85rem 1rem;cursor:pointer;}
 .cta-title{font-size:.8rem;font-weight:600;color:var(--yellow);margin-bottom:.2rem;}
@@ -141,9 +135,6 @@ body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var
 .btn-maps{background:#111;border:1px solid #1e1e1e;color:#555;}
 .btn-share{background:var(--yellow);color:#000;}
 
-/* Leaflet dark overrides */
-.leaflet-tile{filter:invert(1) hue-rotate(180deg) brightness(.7) contrast(1.1);}
-.leaflet-control-attribution{display:none;}
 </style>
 </head>
 <body>
@@ -175,7 +166,6 @@ body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var
   <div class="view-tabs">
     <button class="tab active" id="tab-list" onclick="switchView('list')">Lista</button>
     <button class="tab" id="tab-salas" onclick="switchView('salas')">Salas</button>
-    <button class="tab" id="tab-map" onclick="switchView('map')">Mapa</button>
   </div>
 
   <!-- LISTA -->
@@ -190,11 +180,6 @@ body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var
     </div>
     <div class="sala-detail-title" id="sala-detail-title"></div>
     <div id="sala-detail-list"></div>
-  </div>
-
-  <!-- MAPA -->
-  <div id="map-view">
-    <div id="map"></div>
   </div>
 
   <footer class="footer">
@@ -234,7 +219,6 @@ body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var
   </div>
 </div>
 
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
 const DAYS_S=['DOM','LUN','MAR','MIÉ','JUE','VIE','SÁB'];
 const DAYS_L=['Domingo','Lunes','Martes','Miércoles','Jueves','Viernes','Sábado'];
@@ -244,7 +228,7 @@ const PIN=`<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="c
 const _m=['himnosis','.','music','@','gmail','.','com'].join('');
 const MAX_DAYS=14;
 
-let offset=0,allEvents=[],salasDB=[],currentView='list',mapInstance=null,mapInitialized=false;
+let offset=0,allEvents=[],salasDB=[],currentView='list';
 
 // Restore saved offset
 try{
@@ -321,16 +305,12 @@ async function shareEvent(ev){
 
 function switchView(view){
   currentView=view;
-  ['list','salas','map'].forEach(v=>{document.getElementById('tab-'+v).classList.toggle('active',v===view);});
+  ['list','salas'].forEach(v=>{document.getElementById('tab-'+v).classList.toggle('active',v===view);});
   document.getElementById('event-list').style.display=view==='list'?'flex':'none';
   document.getElementById('sala-view').style.display=view==='salas'?'flex':'none';
   document.getElementById('sala-detail').style.display='none';
-  document.getElementById('map-view').style.display=view==='map'?'block':'none';
-  // Date nav only relevant for list and map
   document.getElementById('date-nav-wrap').style.display=view==='salas'?'none':'flex';
-
   if(view==='salas') renderSalas();
-  else if(view==='map'){const d=dateAt(offset);renderMap(allEvents.filter(e=>e.fecha===isoOf(d)),d);}
   else{const d=dateAt(offset);renderList(allEvents.filter(e=>e.fecha===isoOf(d)),d);}
 }
 
@@ -473,65 +453,6 @@ document.getElementById('sala-back').addEventListener('click',function(){
 
 // ── MAP VIEW ──────────────────────────────────────────────────────────────
 
-// Yellow pin icon SVG for Leaflet
-var pinIconHtml='<svg width="24" height="32" viewBox="0 0 24 32" xmlns="http://www.w3.org/2000/svg"><path d="M12 0C5.37 0 0 5.37 0 12c0 9 12 20 12 20s12-11 12-20C24 5.37 18.63 0 12 0z" fill="#F5FF00" stroke="#000" stroke-width="1"/><circle cx="12" cy="12" r="4" fill="#000"/></svg>';
-
-function renderMap(evs,d){
-  if(!mapInitialized){
-    mapInstance=L.map('map',{zoomControl:true,attributionControl:false}).setView([41.6488,-0.8891],14);
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(mapInstance);
-    mapInitialized=true;
-  }
-  // Clear markers only (not tile layer)
-  mapInstance.eachLayer(function(l){if(l instanceof L.Marker||l instanceof L.CircleMarker)mapInstance.removeLayer(l);});
-
-  var pinIcon=L.divIcon({html:pinIconHtml,iconSize:[24,32],iconAnchor:[12,32],popupAnchor:[0,-32],className:''});
-
-  // Group events by sala — match using original sala name (before cleanSala)
-  var placed={};
-  evs.forEach(function(ev){
-    var sala=getSalaInfo(ev.sala);
-    if(!sala){
-      // Try with cleaned name too
-      sala=getSalaInfo(cleanSala(ev.sala));
-    }
-    if(!sala)return;
-    if(!placed[sala.id])placed[sala.id]=[];
-    placed[sala.id].push(ev);
-  });
-
-  // Place markers
-  Object.keys(placed).forEach(function(salaId){
-    var sala=salasDB.find(function(s){return s.id===salaId;});
-    if(!sala)return;
-    var marker=L.marker([sala.lat,sala.lng],{icon:pinIcon}).addTo(mapInstance);
-    var salaEvs=placed[salaId];
-    var popupHtml='<div style="background:#0a0a0a;color:#f0f0f0;border-radius:8px;padding:8px 10px;min-width:160px;max-width:210px;font-family:sans-serif;">'
-      +'<div style="font-weight:700;color:#F5FF00;margin-bottom:5px;font-size:13px;">'+esc(sala.nombre)+'</div>'
-      +salaEvs.map(function(e){
-        return'<div style="font-size:11px;margin:3px 0;padding-bottom:3px;border-bottom:1px solid #1a1a1a;">'
-          +(e.hora?'<span style="color:#F5FF00;font-weight:700;margin-right:4px;">'+e.hora+'</span>':'')
-          +esc(e.titulo)+'</div>';
-      }).join('')
-      +'</div>';
-    marker.bindPopup(popupHtml,{className:'dark-popup',maxWidth:220});
-  });
-
-  // User location
-  if(navigator.geolocation){
-    navigator.geolocation.getCurrentPosition(function(pos){
-      var lat=pos.coords.latitude,lng=pos.coords.longitude;
-      var userIcon=L.divIcon({
-        html:'<div style="width:14px;height:14px;background:#fff;border-radius:50%;border:3px solid #F5FF00;box-shadow:0 0 8px rgba(245,255,0,.6);"></div>',
-        iconSize:[14,14],iconAnchor:[7,7],className:''
-      });
-      L.marker([lat,lng],{icon:userIcon}).addTo(mapInstance)
-        .bindPopup('<div style="background:#0a0a0a;color:#f0f0f0;padding:6px 10px;border-radius:6px;font-family:sans-serif;font-size:11px;">Estás aquí</div>');
-    },function(){},{enableHighAccuracy:true,timeout:8000});
-  }
-
-  setTimeout(function(){mapInstance.invalidateSize();},150);
-}
 
 // ── POPUP ────────────────────────────────────────────────────────────────
 
