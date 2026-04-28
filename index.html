@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -269,15 +268,30 @@ function cleanSala(s){return(s||'').replace(/,?\s*(Zaragoza|Zaragoza\s*,?\s*Espa
 // Match sala name to salas.json entry — fuzzy
 function getSalaInfo(salaNombre){
   if(!salaNombre||!salasDB.length)return null;
-  const s=cleanSala(salaNombre).toLowerCase();
-  // exact match first
-  let found=salasDB.find(sala=>sala.nombre.toLowerCase()===s);
+  var raw=salaNombre.toLowerCase().trim();
+  var cleaned=cleanSala(salaNombre).toLowerCase().trim();
+  // 1. Exact match on nombre (raw or cleaned)
+  var found=salasDB.find(function(sala){
+    var n=sala.nombre.toLowerCase();
+    return n===raw||n===cleaned;
+  });
   if(found)return found;
-  // keyword match
-  found=salasDB.find(sala=>sala.keywords.some(kw=>s.includes(kw.toLowerCase())||kw.toLowerCase().includes(s)));
+  // 2. Keyword match
+  found=salasDB.find(function(sala){
+    return sala.keywords.some(function(kw){
+      var k=kw.toLowerCase();
+      return raw.includes(k)||cleaned.includes(k)||k.includes(cleaned);
+    });
+  });
   if(found)return found;
-  // partial name match
-  found=salasDB.find(sala=>s.includes(sala.nombre.toLowerCase().split(' ')[0])||sala.nombre.toLowerCase().includes(s.split(' ')[0]));
+  // 3. Partial — first significant word
+  var firstWord=cleaned.split(' ').filter(function(w){return w.length>3;})[0]||'';
+  if(firstWord){
+    found=salasDB.find(function(sala){
+      return sala.nombre.toLowerCase().includes(firstWord)||
+             sala.keywords.some(function(kw){return kw.toLowerCase().includes(firstWord);});
+    });
+  }
   return found||null;
 }
 
@@ -468,31 +482,53 @@ function renderMap(evs,d){
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(mapInstance);
     mapInitialized=true;
   }
-  mapInstance.eachLayer(function(l){if(l instanceof L.Marker)mapInstance.removeLayer(l);});
+  // Clear markers only (not tile layer)
+  mapInstance.eachLayer(function(l){if(l instanceof L.Marker||l instanceof L.CircleMarker)mapInstance.removeLayer(l);});
 
   var pinIcon=L.divIcon({html:pinIconHtml,iconSize:[24,32],iconAnchor:[12,32],popupAnchor:[0,-32],className:''});
 
-  // Place marker for every event that has sala coords
+  // Group events by sala — match using original sala name (before cleanSala)
   var placed={};
   evs.forEach(function(ev){
     var sala=getSalaInfo(ev.sala);
+    if(!sala){
+      // Try with cleaned name too
+      sala=getSalaInfo(cleanSala(ev.sala));
+    }
     if(!sala)return;
-    var key=sala.id;
-    if(!placed[key])placed[key]=[];
-    placed[key].push(ev);
+    if(!placed[sala.id])placed[sala.id]=[];
+    placed[sala.id].push(ev);
   });
 
+  // Place markers
   Object.keys(placed).forEach(function(salaId){
-    var sala=salasDB.find(s=>s.id===salaId);
+    var sala=salasDB.find(function(s){return s.id===salaId;});
     if(!sala)return;
     var marker=L.marker([sala.lat,sala.lng],{icon:pinIcon}).addTo(mapInstance);
     var salaEvs=placed[salaId];
-    var popupHtml='<div style="background:#0a0a0a;color:#f0f0f0;border-radius:8px;padding:8px 10px;min-width:160px;max-width:200px;font-family:sans-serif;">'
+    var popupHtml='<div style="background:#0a0a0a;color:#f0f0f0;border-radius:8px;padding:8px 10px;min-width:160px;max-width:210px;font-family:sans-serif;">'
       +'<div style="font-weight:700;color:#F5FF00;margin-bottom:5px;font-size:13px;">'+esc(sala.nombre)+'</div>'
-      +salaEvs.map(function(e){return'<div style="font-size:11px;margin:3px 0;border-bottom:1px solid #1a1a1a;padding-bottom:3px;"><span style="color:#F5FF00;font-weight:600;">'+(e.hora||'')+'</span> '+esc(e.titulo)+'</div>';}).join('')
+      +salaEvs.map(function(e){
+        return'<div style="font-size:11px;margin:3px 0;padding-bottom:3px;border-bottom:1px solid #1a1a1a;">'
+          +(e.hora?'<span style="color:#F5FF00;font-weight:700;margin-right:4px;">'+e.hora+'</span>':'')
+          +esc(e.titulo)+'</div>';
+      }).join('')
       +'</div>';
     marker.bindPopup(popupHtml,{className:'dark-popup',maxWidth:220});
   });
+
+  // User location
+  if(navigator.geolocation){
+    navigator.geolocation.getCurrentPosition(function(pos){
+      var lat=pos.coords.latitude,lng=pos.coords.longitude;
+      var userIcon=L.divIcon({
+        html:'<div style="width:14px;height:14px;background:#fff;border-radius:50%;border:3px solid #F5FF00;box-shadow:0 0 8px rgba(245,255,0,.6);"></div>',
+        iconSize:[14,14],iconAnchor:[7,7],className:''
+      });
+      L.marker([lat,lng],{icon:userIcon}).addTo(mapInstance)
+        .bindPopup('<div style="background:#0a0a0a;color:#f0f0f0;padding:6px 10px;border-radius:6px;font-family:sans-serif;font-size:11px;">Estás aquí</div>');
+    },function(){},{enableHighAccuracy:true,timeout:8000});
+  }
 
   setTimeout(function(){mapInstance.invalidateSize();},150);
 }
