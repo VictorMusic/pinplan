@@ -1,25 +1,7 @@
 {
-  "actualizado": "2026-04-27T15:30:59.542858",
+  "actualizado": "2026-04-28T08:33:01.437259",
   "total": 42,
   "eventos": [
-    {
-      "titulo": "CONCIERTO SORPRESA",
-      "fecha": "2026-04-27",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/concierto-sorpresa/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-138.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "COQUE MALLA",
-      "fecha": "2026-04-27",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/coque-malla-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-139.webp",
-      "descripcion": ""
-    },
     {
       "titulo": "THE LONG RYDERS",
       "fecha": "2026-04-28",
@@ -108,6 +90,24 @@
       "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
       "url": "https://aragonenvivo.com/evento/los-buenos-valedores/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "PÔSTHUMA",
+      "fecha": "2026-05-02",
+      "hora": "19:00",
+      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/posthuma/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/posthuma-redes1-778x1024-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Edwyn Collins. Gira de despedida. Lata Gourmet.",
+      "fecha": "2026-05-02",
+      "hora": "19:30",
+      "sala": "La Lata de Bombillas C./ Espoz y Mina, 19, Zaragoza, Zaragoza",
+      "url": "https://aragonenvivo.com/evento/edwyn-collins-gira-de-despedida-lata-gourmet/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/EDWYN_COLLINS-2.webp",
       "descripcion": ""
     },
     {
