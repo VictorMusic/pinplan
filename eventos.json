@@ -1,16 +1,7 @@
 {
-  "actualizado": "2026-04-28T16:05:26.413569",
+  "actualizado": "2026-04-29T08:26:56.160969",
   "total": 42,
   "eventos": [
-    {
-      "titulo": "THE LONG RYDERS",
-      "fecha": "2026-04-28",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/the-long-ryders/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-113.webp",
-      "descripcion": ""
-    },
     {
       "titulo": "REVEREND BEAT-MAN & MILAN SLICK",
       "fecha": "2026-04-29",
@@ -108,6 +99,15 @@
       "sala": "La Lata de Bombillas C./ Espoz y Mina, 19, Zaragoza, Zaragoza",
       "url": "https://aragonenvivo.com/evento/edwyn-collins-gira-de-despedida-lata-gourmet/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/EDWYN_COLLINS-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Lafitte",
+      "fecha": "2026-05-02",
+      "hora": "20:30",
+      "sala": "La Lata de Bombillas C./ Espoz y Mina, 19, Zaragoza, Zaragoza",
+      "url": "https://aragonenvivo.com/evento/lafitte-4/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/lafitte-2.webp",
       "descripcion": ""
     },
     {
