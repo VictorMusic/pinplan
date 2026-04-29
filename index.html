@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -15,7 +16,7 @@
 <script defer src="https://cloud.umami.is/script.js" data-website-id="6166c3d4-8300-4385-b758-9d9187494425"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "0fa967989c9c42b2afee69bf58ebf8bc"}'></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Plus+Jakarta+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,800&display=swap" rel="stylesheet">
 <style>
 :root{
   --black:#000;--border:#1a1a1a;--border2:#222;
@@ -26,7 +27,7 @@
   --footer-c:#383838;
 }
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;}
-body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var(--black);overscroll-behavior-y:contain;}
+body{font-family:'Epilogue',sans-serif;color:var(--text);background:var(--black);overscroll-behavior-y:contain;}
 
 /* HEADER */
 .app-header{position:fixed;top:0;left:0;right:0;z-index:50;max-width:420px;margin:0 auto;padding:.75rem 1.25rem .4rem;display:flex;align-items:center;justify-content:space-between;background:var(--black);}
@@ -38,14 +39,14 @@ body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var
 .upd-t{font-size:.6rem;color:#444;}
 
 /* MAIN */
-.app{position:relative;z-index:1;max-width:420px;margin:0 auto;padding-top:4.5rem;padding-bottom:1rem;}
+.app{position:relative;z-index:1;max-width:420px;margin:0 auto;padding-top:4.5rem;padding-bottom:5.5rem;}
 
 /* DATE NAV */
 .date-nav{padding:.4rem 1.25rem .5rem;display:flex;align-items:center;justify-content:center;gap:.6rem;}
 .arr{width:34px;height:34px;border-radius:50%;border:1.5px solid var(--border2);background:rgba(255,255,255,0.04);color:var(--text);font-size:1.2rem;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;flex-shrink:0;user-select:none;-webkit-user-select:none;}
 .arr:disabled{opacity:.2;cursor:default;}
 .arr:not(:disabled):active{background:rgba(255,255,255,.1);transform:scale(.92);}
-.date-main{font-family:'Bebas Neue',sans-serif;font-size:1.25rem;letter-spacing:.06em;line-height:1;color:var(--text);text-align:center;min-width:180px;}
+.date-main{font-family:'Epilogue',sans-serif;font-weight:900;letter-spacing:-.01em;font-size:1.25rem;letter-spacing:.06em;line-height:1;color:var(--text);text-align:center;min-width:180px;}
 
 
 /* EVENT LIST */
@@ -69,15 +70,9 @@ body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var
 .ev-sala{font-size:.72rem;color:var(--subtext);display:flex;align-items:center;gap:.25rem;margin-top:.25rem;}
 .ev-sala svg{flex-shrink:0;opacity:.5;}
 .hora-wrap{text-align:right;flex-shrink:0;display:flex;flex-direction:column;align-items:flex-end;gap:5px;padding-top:1px;}
-.hora{font-family:'Bebas Neue',sans-serif;font-size:1.35rem;line-height:1;color:var(--yellow);}
+.hora{font-family:'Epilogue',sans-serif;font-weight:900;letter-spacing:-.01em;font-size:1.35rem;line-height:1;color:var(--yellow);}
 
 
-/* SALA DETAIL */
-#sala-detail{display:none;flex-direction:column;}
-.sala-back{display:flex;align-items:center;gap:.5rem;padding:.6rem 1.25rem .4rem;cursor:pointer;color:var(--subtext);font-size:.78rem;}
-.sala-back svg{opacity:.6;}
-.sala-detail-title{font-family:'Bebas Neue',sans-serif;font-size:1.4rem;color:var(--yellow);letter-spacing:.04em;padding:0 1.25rem .4rem;}
-#sala-detail-list{padding:0 1rem;display:flex;flex-direction:column;gap:.5rem;}
 
 /* CTA */
 .cta-box{margin:.25rem 0 0;border:1px dashed #1e1e1e;border-radius:14px;padding:.85rem 1rem;cursor:pointer;}
@@ -86,21 +81,43 @@ body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var
 
 /* CARPE DIEM */
 .carpe-diem{padding:2rem 1.25rem;text-align:center;}
-.carpe-title{font-family:'Bebas Neue',sans-serif;font-size:1.3rem;color:#222;letter-spacing:.04em;line-height:1.3;}
+.carpe-title{font-family:'Epilogue',sans-serif;font-weight:900;letter-spacing:-.01em;font-size:1.3rem;color:#222;letter-spacing:.04em;line-height:1.3;}
 .carpe-sub{font-size:.72rem;color:#1a1a1a;margin-top:.4rem;font-style:italic;}
 
 /* EMPTY */
 .empty{padding:2.5rem 1.25rem;text-align:center;}
-.empty-title{font-family:'Bebas Neue',sans-serif;font-size:1.4rem;color:#2a2a2a;letter-spacing:.04em;margin-bottom:.4rem;}
+.empty-title{font-family:'Epilogue',sans-serif;font-weight:900;letter-spacing:-.01em;font-size:1.4rem;color:#2a2a2a;letter-spacing:.04em;margin-bottom:.4rem;}
 .empty-sub{font-size:.78rem;color:#333;line-height:1.7;}
 
 /* FOOTER */
 .footer{margin-top:2rem;padding:.9rem 1.25rem 2rem;display:flex;align-items:center;justify-content:space-between;border-top:1px solid #111;}
-.footer-version,.footer-contact{font-size:.72rem;font-family:'Plus Jakarta Sans',sans-serif;color:var(--footer-c);letter-spacing:.05em;background:none;border:none;outline:none;padding:0;margin:0;cursor:default;}
+.footer-version,.footer-contact{font-size:.72rem;font-family:'Epilogue',sans-serif;color:var(--footer-c);letter-spacing:.05em;background:none;border:none;outline:none;padding:0;margin:0;cursor:default;}
 .footer-contact{cursor:pointer;text-decoration:underline;text-underline-offset:3px;text-decoration-color:#282828;}
 .footer-contact:active{color:#666;}
 
 /* POPUP */
+
+/* DAY CHIPS */
+.day-chips{padding:.5rem 0 .3rem;display:flex;align-items:center;gap:.35rem;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;padding-left:1.25rem;padding-right:1.25rem;}
+.day-chips::-webkit-scrollbar{display:none;}
+.chip{flex-shrink:0;display:flex;flex-direction:column;align-items:center;padding:.4rem .7rem;border-radius:10px;border:1.5px solid #1e1e1e;background:transparent;color:#555;cursor:pointer;user-select:none;-webkit-user-select:none;min-width:50px;-webkit-tap-highlight-color:transparent;}
+.chip:active{transform:scale(.93);}
+.chip.active{background:var(--yellow);border-color:var(--yellow);}
+.chip-name{font-size:.58rem;font-weight:700;letter-spacing:.07em;text-transform:uppercase;line-height:1;}
+.chip.active .chip-name{color:#000;}
+.chip-num{font-family:'Epilogue',sans-serif;font-weight:900;font-size:1.25rem;line-height:1.1;color:var(--text);letter-spacing:-.02em;}
+.chip.active .chip-num{color:#000;}
+.chip-lbl{font-size:.52rem;color:#333;margin-top:1px;}
+.chip.active .chip-lbl{color:rgba(0,0,0,.45);}
+
+/* BOTTOM NAV */
+.bottom-nav{position:fixed;bottom:0;left:0;right:0;z-index:50;max-width:420px;margin:0 auto;background:#000;border-top:1px solid #111;display:flex;padding-bottom:env(safe-area-inset-bottom,0);}
+.bnav-btn{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;padding:.6rem .5rem .55rem;cursor:pointer;border:none;background:none;color:#383838;-webkit-tap-highlight-color:transparent;}
+.bnav-btn:active{opacity:.6;}
+.bnav-btn.active svg,.bnav-btn.active span{color:var(--yellow);}
+.bnav-btn svg{width:20px;height:20px;stroke:currentColor;}
+.bnav-btn span{font-size:.58rem;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:inherit;}
+
 .pop-ov{position:fixed;inset:0;z-index:100;background:var(--overlay);backdrop-filter:blur(6px);display:flex;align-items:flex-start;justify-content:center;padding-top:70px;opacity:0;pointer-events:none;transition:opacity .2s;}
 .pop-ov.open{opacity:1;pointer-events:all;}
 .pop{width:calc(100% - 2rem);max-width:400px;background:#0a0a0a;border:1px solid #1a1a1a;border-radius:20px;position:relative;max-height:calc(100vh - 86px);overflow-y:auto;transform:translateY(-12px) scale(.97);transition:transform .28s cubic-bezier(.32,.72,0,1);}
@@ -115,11 +132,11 @@ body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var
 .pop-sala{font-size:.75rem;color:var(--subtext);margin-top:.3rem;display:flex;align-items:center;gap:.25rem;}
 .pop-sala svg{flex-shrink:0;opacity:.5;}
 .pop-right{text-align:right;flex-shrink:0;}
-.pop-dia{font-family:'Bebas Neue',sans-serif;font-size:1rem;letter-spacing:.1em;color:var(--yellow);line-height:1;display:block;}
-.pop-hora{font-family:'Bebas Neue',sans-serif;font-size:2.2rem;line-height:1.05;color:var(--yellow);letter-spacing:.04em;display:block;}
+.pop-dia{font-family:'Epilogue',sans-serif;font-weight:900;letter-spacing:-.01em;font-size:1rem;letter-spacing:.1em;color:var(--yellow);line-height:1;display:block;}
+.pop-hora{font-family:'Epilogue',sans-serif;font-weight:900;letter-spacing:-.01em;font-size:2.2rem;line-height:1.05;color:var(--yellow);letter-spacing:.04em;display:block;}
 .pop-desc{font-size:.82rem;color:#484848;line-height:1.65;margin-top:.8rem;padding-top:.8rem;border-top:1px solid #141414;}
 .pop-actions{display:grid;grid-template-columns:1fr 1fr;gap:.6rem;padding:.9rem 1.1rem 1.25rem;}
-.btn{display:flex;align-items:center;justify-content:center;gap:.45rem;border-radius:12px;padding:.75rem;font-family:'Plus Jakarta Sans',sans-serif;font-size:.8rem;font-weight:600;cursor:pointer;border:none;}
+.btn{display:flex;align-items:center;justify-content:center;gap:.45rem;border-radius:12px;padding:.75rem;font-family:'Epilogue',sans-serif;font-size:.8rem;font-weight:600;cursor:pointer;border:none;}
 .btn:active{transform:scale(.96);}
 .btn-maps{background:#111;border:1px solid #1e1e1e;color:#555;}
 .btn-share{background:var(--yellow);color:#000;}
@@ -146,31 +163,40 @@ body{font-family:'Plus Jakarta Sans',sans-serif;color:var(--text);background:var
 </div>
 
 <div class="app">
-  <div class="date-nav" id="date-nav-wrap">
-    <button class="arr" id="prev" disabled>&#8249;</button>
-    <div class="date-main" id="dmain"></div>
-    <button class="arr" id="next">&#8250;</button>
-  </div>
+  <div class="day-chips" id="date-nav-wrap"></div>
 
 
 
   <!-- LISTA -->
   <div id="event-list"></div>
 
-  <!-- SALA DETAIL — accessible from event popup -->
-  <div id="sala-detail" style="display:none;flex-direction:column;">
-    <div class="sala-back" id="sala-back">
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
-      Volver
-    </div>
-    <div id="sala-detail-header" style="padding:0 1.25rem .6rem;"></div>
-    <div id="sala-detail-list" style="padding:0 1rem;display:flex;flex-direction:column;gap:.5rem;"></div>
-  </div>
+
 
   <footer class="footer">
     <span class="footer-version">V 0.1 · probando probando</span>
     <button class="footer-contact" id="contact-btn">Contacto</button>
   </footer>
+</div>
+
+<nav class="bottom-nav" id="bottom-nav">
+  <button class="bnav-btn active" id="bnav-lista" onclick="setNavTab('lista')">
+    <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
+    <span>Agenda</span>
+  </button>
+  <button class="bnav-btn" id="bnav-salas" onclick="setNavTab('salas')">
+    <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+    <span>Salas</span>
+  </button>
+</nav>
+
+<!-- SALA OVERLAY -->
+<div class="pop-ov" id="sala-ov">
+  <div class="pop">
+    <button class="pop-x" id="sala-close">×</button>
+    <div id="sala-detail-header" style="padding:1.5rem 1.1rem .6rem;border-bottom:1px solid #141414;"></div>
+    <div id="sala-detail-list" style="padding:.6rem 1rem;display:flex;flex-direction:column;gap:.5rem;overflow-y:auto;max-height:calc(100vh - 200px);"></div>
+    <div id="sala-cta-wrap" style="padding:.5rem 1rem 1.25rem;"></div>
+  </div>
 </div>
 
 <!-- POPUP -->
@@ -342,7 +368,7 @@ function makeCard(ev,d,i){
 
 function makeCTA(){
   var cta=document.createElement('div');cta.className='cta-box';
-  cta.innerHTML='<div class="cta-title">¿Tocas o tienes una sala?</div><div class="cta-sub">Si subes a un escenario o programas conciertos, hazte oír. Envíanos tu evento.</div>';
+  cta.innerHTML='<div class="cta-title">Envíanos tu evento</div><div class="cta-sub">¿Tocas o tienes una sala? Si subes a un escenario o programas conciertos, hazte oír.</div>';
   cta.addEventListener('click',function(){window.location.href='mailto:'+_m+'?subject=PinPlan - Mi concierto';});
   return cta;
 }
@@ -361,20 +387,17 @@ function renderList(evs,d){
 }
 
 function showSalaDetail(salaNombre){
-  document.getElementById('event-list').style.display='none';
-  document.getElementById('date-nav-wrap').style.display='none';
-
-  var detail=document.getElementById('sala-detail');detail.style.display='flex';
-
-  // Header with name + address
+  // Open as overlay (same pattern as event popup)
   var salaInfo=getSalaInfo(salaNombre);
+
+  // Header: name + address + instagram
   var hdr=document.getElementById('sala-detail-header');
-  hdr.innerHTML='<div style="font-family:Bebas Neue,sans-serif;font-size:1.4rem;color:var(--yellow);letter-spacing:.04em;line-height:1.2;">'+esc(salaNombre)+'</div>'
-    +(salaInfo&&salaInfo.direccion?'<div style="font-size:.75rem;color:#555;margin-top:.2rem;display:flex;align-items:center;gap:.25rem;"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="#555" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>'+esc(salaInfo.direccion)+'</div>':'')
-    +(salaInfo&&salaInfo.instagram?'<div style="font-size:.7rem;color:#333;margin-top:.1rem;">'+esc(salaInfo.instagram)+'</div>':'');
+  hdr.innerHTML='<div style="font-family:Epilogue,sans-serif;font-weight:900;letter-spacing:-.01em;font-size:1.5rem;color:var(--yellow);letter-spacing:.04em;line-height:1.1;">'+esc(salaNombre)+'</div>'
+    +(salaInfo&&salaInfo.direccion?'<div style="font-size:.75rem;color:#555;margin-top:.3rem;display:flex;align-items:center;gap:.3rem;"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="#555" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>'+esc(salaInfo.direccion)+'</div>':'')
+    +(salaInfo&&salaInfo.instagram?'<div style="font-size:.7rem;color:#333;margin-top:.15rem;">'+esc(salaInfo.instagram)+'</div>':'');
 
+  // Events list
   var list=document.getElementById('sala-detail-list');list.innerHTML='';
-
   var today=isoOf(nowMadrid());
   var evs=allEvents.filter(function(e){
     return cleanSala(e.sala)===salaNombre&&e.fecha>=today;
@@ -384,16 +407,40 @@ function showSalaDetail(salaNombre){
   if(!evs.length){
     var empty=document.createElement('div');empty.className='empty';
     empty.innerHTML='<div class="empty-title">Sin próximos eventos.</div>';
-    list.appendChild(empty);return;
+    list.appendChild(empty);
+  } else {
+    evs.forEach(function(ev,i){
+      var card=makeCard(ev,ev.fecha,i);
+      // Override click: open event popup from within sala overlay
+      card.addEventListener('click',function(){
+        closeSala();
+        setTimeout(function(){
+          var d=new Date(ev.fecha+'T12:00:00');
+          openPopup(ev,d,i);
+        },250);
+      });
+      list.appendChild(card);
+    });
   }
-  evs.forEach(function(ev,i){list.appendChild(makeCard(ev,ev.fecha,i));});
+
+  // CTA at bottom
+  var ctaWrap=document.getElementById('sala-cta-wrap');
+  ctaWrap.innerHTML='';
+  var cta=makeCTA();
+  ctaWrap.appendChild(cta);
+
+  // Open overlay
+  document.getElementById('sala-ov').classList.add('open');
+  document.body.style.overflow='hidden';
 }
 
-document.getElementById('sala-back').addEventListener('click',function(){
-  document.getElementById('sala-detail').style.display='none';
-  document.getElementById('event-list').style.display='flex';
-  document.getElementById('date-nav-wrap').style.display='flex';
-});
+function closeSala(){
+  document.getElementById('sala-ov').classList.remove('open');
+  document.body.style.overflow='';
+}
+
+document.getElementById('sala-close').addEventListener('click',closeSala);
+document.getElementById('sala-ov').addEventListener('click',function(e){if(e.target===e.currentTarget)closeSala();});
 
 // ── MAP VIEW ──────────────────────────────────────────────────────────────
 
@@ -463,9 +510,7 @@ function checkHash(){
 
 function renderForOffset(){
   const d=dateAt(offset);
-  document.getElementById('dmain').textContent=dateLabel(d,offset);
-  document.getElementById('prev').disabled=offset<=0;
-  document.getElementById('next').disabled=offset>=MAX_DAYS;
+
   try{localStorage.setItem('pinplan_offset',String(offset));localStorage.setItem('pinplan_offset_date',isoOf(nowMadrid()));}catch(e){}
 
   if(offset>=MAX_DAYS){
@@ -481,6 +526,91 @@ function renderForOffset(){
   else if(currentView==='map')renderMap(evs,d);
 }
 
+// ── DAY CHIPS ──────────────────────────────────────────────────────────────
+function buildDayChips(){
+  var nav=document.getElementById('date-nav-wrap');
+  nav.innerHTML='';
+  var today=nowMadrid();
+  for(var i=0;i<=MAX_DAYS;i++){
+    var d=dateAt(i);
+    var chip=document.createElement('button');
+    chip.className='chip'+(i===offset?' active':'');
+    chip.dataset.offset=i;
+    var dayName=DAYS_S[d.getDay()];
+    var dayNum=d.getDate();
+    var mon=MONTHS_A[d.getMonth()];
+    var lbl=i===0?'Hoy':i===1?'Mañana':'';
+    chip.innerHTML='<span class="chip-name">'+dayName+'</span><span class="chip-num">'+dayNum+'</span><span class="chip-lbl">'+(lbl||mon)+'</span>';
+    chip.addEventListener('click',(function(idx){
+      return function(){
+        if(offset===idx)return;
+        offset=idx;
+        buildDayChips();
+        renderForOffset();
+        // Scroll chip into view
+        chip.scrollIntoView({behavior:'smooth',block:'nearest',inline:'center'});
+      };
+    })(i));
+    nav.appendChild(chip);
+  }
+}
+
+// ── BOTTOM NAV ─────────────────────────────────────────────────────────────
+function setNavTab(tab){
+  document.getElementById('bnav-lista').classList.toggle('active',tab==='lista');
+  document.getElementById('bnav-salas').classList.toggle('active',tab==='salas');
+  if(tab==='salas'){
+    // Close sala detail if open, show sala list
+    document.getElementById('sala-detail').style.display='none';
+    document.getElementById('date-nav-wrap').style.display='none';
+    document.getElementById('event-list').style.display='none';
+    // Render salas panel inline
+    showSalasBrowser();
+  } else {
+    document.getElementById('date-nav-wrap').style.display='flex';
+    document.getElementById('event-list').style.display='flex';
+    document.getElementById('sala-detail').style.display='none';
+    if(document.getElementById('sala-browser'))document.getElementById('sala-browser').remove();
+    const d=dateAt(offset);
+    renderList(allEvents.filter(e=>e.fecha===isoOf(d)),d);
+  }
+}
+
+function showSalasBrowser(){
+  // Remove existing
+  var existing=document.getElementById('sala-browser');
+  if(existing)existing.remove();
+
+  var container=document.getElementById('event-list').parentNode;
+  var browser=document.createElement('div');
+  browser.id='sala-browser';
+  browser.style.cssText='padding:.6rem 1rem 0;display:flex;flex-direction:column;gap:.4rem;';
+
+  var hdr=document.createElement('div');
+  hdr.style.cssText='font-size:.65rem;color:#333;letter-spacing:.1em;text-transform:uppercase;padding:.2rem 0 .4rem;font-weight:700;';
+  hdr.textContent='Próximos eventos por sala';
+  browser.appendChild(hdr);
+
+  var today=isoOf(nowMadrid());
+  var bySala={};
+  allEvents.filter(function(e){return e.fecha>=today;}).forEach(function(ev){
+    var key=cleanSala(ev.sala)||'Otros';
+    if(!bySala[key])bySala[key]=[];
+    bySala[key].push(ev);
+  });
+
+  Object.keys(bySala).sort().forEach(function(salaNombre){
+    var chip=document.createElement('div');
+    chip.style.cssText='background:#0a0a0a;border:1px solid #1a1a1a;border-radius:10px;padding:.6rem .9rem;cursor:pointer;display:flex;align-items:center;justify-content:space-between;';
+    var evCount=bySala[salaNombre].length;
+    chip.innerHTML='<div style="display:flex;align-items:center;gap:.5rem;"><div style="width:6px;height:6px;border-radius:50%;background:var(--yellow);flex-shrink:0;"></div><div style="font-size:.88rem;font-weight:700;color:#f0f0f0;">'+esc(salaNombre)+'</div></div><div style="font-size:.72rem;color:#555;">'+evCount+' evento'+(evCount!==1?'s':'')+' ›</div>';
+    chip.addEventListener('click',function(){showSalaDetail(salaNombre);});
+    browser.appendChild(chip);
+  });
+
+  container.insertBefore(browser, document.getElementById('event-list').nextSibling);
+}
+
 function loadAllEvents(){
   showSkeletons();
   Promise.all([
@@ -490,6 +620,7 @@ function loadAllEvents(){
     allEvents=dedupEvents(data.eventos||[]);
     salasDB=salasData.salas||[];
     if(data.actualizado){const upd=new Date(data.actualizado);const hm=String(upd.getHours()).padStart(2,'0')+':'+String(upd.getMinutes()).padStart(2,'0');document.getElementById('upd-t').textContent='Actualizado '+hm;document.getElementById('upd').style.display='flex';}
+    buildDayChips();
     renderForOffset();
     checkHash();
   }).catch(function(){allEvents=[];renderForOffset();});
@@ -497,14 +628,12 @@ function loadAllEvents(){
 
 document.getElementById('pov').addEventListener('click',e=>{if(e.target===e.currentTarget)closePopup();});
 document.getElementById('px').addEventListener('click',closePopup);
-document.getElementById('prev').addEventListener('click',()=>{if(offset>0){offset--;renderForOffset();}});
-document.getElementById('next').addEventListener('click',()=>{if(offset<MAX_DAYS){offset++;renderForOffset();}});
 document.getElementById('contact-btn').addEventListener('click',()=>{window.location.href='mailto:'+_m+'?subject=PinPlan feedback';});
 
 let tx=0,ty=0;
 document.addEventListener('touchstart',e=>{tx=e.touches[0].clientX;ty=e.touches[0].clientY;},{passive:true});
-document.addEventListener('touchend',e=>{if(document.getElementById('pov').classList.contains('open'))return;const dx=e.changedTouches[0].clientX-tx,dy=Math.abs(e.changedTouches[0].clientY-ty);if(Math.abs(dx)>55&&dy<60){if(dx<0&&offset<MAX_DAYS){offset++;renderForOffset();}else if(dx>0&&offset>0){offset--;renderForOffset();}}},{passive:true});
-document.addEventListener('keydown',e=>{if(e.key==='Escape')closePopup();if(e.key==='ArrowRight'&&offset<MAX_DAYS){offset++;renderForOffset();}if(e.key==='ArrowLeft'&&offset>0){offset--;renderForOffset();}});
+document.addEventListener('touchend',e=>{if(document.getElementById('pov').classList.contains('open'))return;const dx=e.changedTouches[0].clientX-tx,dy=Math.abs(e.changedTouches[0].clientY-ty);if(Math.abs(dx)>55&&dy<60){if(dx<0&&offset<MAX_DAYS){offset++;buildDayChips();renderForOffset();}else if(dx>0&&offset>0){offset--;buildDayChips();renderForOffset();}}},{passive:true});
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closePopup();if(e.key==='ArrowRight'&&offset<MAX_DAYS){offset++;buildDayChips();renderForOffset();}if(e.key==='ArrowLeft'&&offset>0){offset--;buildDayChips();renderForOffset();}});
 
 loadAllEvents();
 </script>
