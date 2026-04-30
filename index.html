@@ -21,10 +21,10 @@
 :root{
   --black:#000;--border:#1a1a1a;--border2:#222;
   --yellow:#F5FF00;
-  --text:#f0f0f0;--subtext:#707070;
+  --text:#f0f0f0;--subtext:#909090;
   --card-bg:#0a0a0a;--overlay:rgba(0,0,0,0.9);
   --sk:rgba(255,255,255,0.05);--sk2:rgba(255,255,255,0.1);
-  --footer-c:#383838;
+  --footer-c:#585858;
 }
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;}
 body{font-family:'Epilogue',sans-serif;color:var(--text);background:var(--black);overscroll-behavior-y:contain;}
@@ -36,7 +36,7 @@ body{font-family:'Epilogue',sans-serif;color:var(--text);background:var(--black)
 .upd{display:flex;align-items:center;gap:.35rem;}
 .dot{width:5px;height:5px;border-radius:50%;background:var(--yellow);animation:pulse 2.5s ease-in-out infinite;}
 @keyframes pulse{0%,100%{opacity:1;transform:scale(1);}50%{opacity:.4;transform:scale(.65);}}
-.upd-t{font-size:.6rem;color:#444;}
+.upd-t{font-size:.6rem;color:#777;}
 
 /* MAIN */
 .app{position:relative;z-index:1;max-width:420px;margin:0 auto;padding-top:4.5rem;padding-bottom:5.5rem;}
@@ -77,7 +77,7 @@ body{font-family:'Epilogue',sans-serif;color:var(--text);background:var(--black)
 /* CTA */
 .cta-box{margin:.25rem 0 0;border:1px dashed #1e1e1e;border-radius:14px;padding:.85rem 1rem;cursor:pointer;}
 .cta-title{font-size:.8rem;font-weight:600;color:var(--yellow);margin-bottom:.2rem;}
-.cta-sub{font-size:.72rem;color:#555;line-height:1.5;}
+.cta-sub{font-size:.72rem;color:#888;line-height:1.5;}
 
 /* CARPE DIEM */
 .carpe-diem{padding:2rem 1.25rem;text-align:center;}
@@ -87,7 +87,7 @@ body{font-family:'Epilogue',sans-serif;color:var(--text);background:var(--black)
 /* EMPTY */
 .empty{padding:2.5rem 1.25rem;text-align:center;}
 .empty-title{font-family:'Epilogue',sans-serif;font-weight:900;letter-spacing:-.01em;font-size:1.4rem;color:#2a2a2a;letter-spacing:.04em;margin-bottom:.4rem;}
-.empty-sub{font-size:.78rem;color:#333;line-height:1.7;}
+.empty-sub{font-size:.78rem;color:#666;line-height:1.7;}
 
 /* FOOTER */
 .footer{margin-top:2rem;padding:.9rem 1.25rem 2rem;display:flex;align-items:center;justify-content:space-between;border-top:1px solid #111;}
@@ -100,14 +100,14 @@ body{font-family:'Epilogue',sans-serif;color:var(--text);background:var(--black)
 /* DAY CHIPS */
 .day-chips{padding:.5rem 0 .3rem;display:flex;align-items:center;gap:.35rem;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;padding-left:1.25rem;padding-right:1.25rem;}
 .day-chips::-webkit-scrollbar{display:none;}
-.chip{flex-shrink:0;display:flex;flex-direction:column;align-items:center;padding:.4rem .7rem;border-radius:10px;border:1.5px solid #1e1e1e;background:transparent;color:#555;cursor:pointer;user-select:none;-webkit-user-select:none;min-width:50px;-webkit-tap-highlight-color:transparent;}
+.chip{flex-shrink:0;display:flex;flex-direction:column;align-items:center;padding:.4rem .7rem;border-radius:10px;border:1.5px solid #1e1e1e;background:transparent;color:#888;cursor:pointer;user-select:none;-webkit-user-select:none;min-width:50px;-webkit-tap-highlight-color:transparent;}
 .chip:active{transform:scale(.93);}
 .chip.active{background:var(--yellow);border-color:var(--yellow);}
 .chip-name{font-size:.58rem;font-weight:700;letter-spacing:.07em;text-transform:uppercase;line-height:1;}
 .chip.active .chip-name{color:#000;}
 .chip-num{font-family:'Epilogue',sans-serif;font-weight:900;font-size:1.25rem;line-height:1.1;color:var(--text);letter-spacing:-.02em;}
 .chip.active .chip-num{color:#000;}
-.chip-lbl{font-size:.52rem;color:#333;margin-top:1px;}
+.chip-lbl{font-size:.52rem;color:#666;margin-top:1px;}
 .chip.active .chip-lbl{color:rgba(0,0,0,.45);}
 
 /* BOTTOM NAV */
@@ -134,11 +134,11 @@ body{font-family:'Epilogue',sans-serif;color:var(--text);background:var(--black)
 .pop-right{text-align:right;flex-shrink:0;}
 .pop-dia{font-family:'Epilogue',sans-serif;font-weight:900;letter-spacing:-.01em;font-size:1rem;letter-spacing:.1em;color:var(--yellow);line-height:1;display:block;}
 .pop-hora{font-family:'Epilogue',sans-serif;font-weight:900;letter-spacing:-.01em;font-size:2.2rem;line-height:1.05;color:var(--yellow);letter-spacing:.04em;display:block;}
-.pop-desc{font-size:.82rem;color:#484848;line-height:1.65;margin-top:.8rem;padding-top:.8rem;border-top:1px solid #141414;}
+.pop-desc{font-size:.82rem;color:#808080;line-height:1.65;margin-top:.8rem;padding-top:.8rem;border-top:1px solid #141414;}
 .pop-actions{display:grid;grid-template-columns:1fr 1fr;gap:.6rem;padding:.9rem 1.1rem 1.25rem;}
 .btn{display:flex;align-items:center;justify-content:center;gap:.45rem;border-radius:12px;padding:.75rem;font-family:'Epilogue',sans-serif;font-size:.8rem;font-weight:600;cursor:pointer;border:none;}
 .btn:active{transform:scale(.96);}
-.btn-maps{background:#111;border:1px solid #1e1e1e;color:#555;}
+.btn-maps{background:#111;border:1px solid #1e1e1e;color:#888;}
 .btn-share{background:var(--yellow);color:#000;}
 
 </style>
@@ -169,8 +169,6 @@ body{font-family:'Epilogue',sans-serif;color:var(--text);background:var(--black)
 
   <!-- LISTA -->
   <div id="event-list"></div>
-
-
 
   <footer class="footer">
     <span class="footer-version">V 0.1 · probando probando</span>
@@ -209,7 +207,7 @@ body{font-family:'Epilogue',sans-serif;color:var(--text);background:var(--black)
         <div class="pop-left">
           <div class="pop-title" id="ptitle"></div>
           <div class="pop-sala" id="psala" style="cursor:pointer;"></div>
-      <div class="pop-dir" id="pdir" style="font-size:.7rem;color:#333;margin-top:2px;display:flex;align-items:center;gap:.25rem;padding-left:1px;"></div>
+      <div class="pop-dir" id="pdir" style="font-size:.7rem;color:#666;margin-top:2px;display:flex;align-items:center;gap:.25rem;padding-left:1px;"></div>
         </div>
         <div class="pop-right">
           <span class="pop-dia" id="pdia"></span>
@@ -318,7 +316,7 @@ async function shareEvent(ev){
 function switchView(view){
   currentView=view;
   // Hide sala detail, show list
-  document.getElementById('sala-detail').style.display='none';
+  // sala-detail handled by sala-ov overlay
   document.getElementById('event-list').style.display='flex';
   document.getElementById('date-nav-wrap').style.display='flex';
   const d=dateAt(offset);
@@ -344,7 +342,7 @@ function makeCard(ev,d,i){
 
   // Date label for sala detail view (cross-day)
   var dateLabel2=document.createElement('div');
-  dateLabel2.style.cssText='font-size:.65rem;color:#444;text-align:right;';
+  dateLabel2.style.cssText='font-size:.65rem;color:#777;text-align:right;';
   if(d){
     var dd=typeof d==='string'?new Date(d+'T12:00:00'):d;
     dateLabel2.textContent=DAYS_S[dd.getDay()]+' '+dd.getDate()+' '+MONTHS_A[dd.getMonth()];
@@ -393,8 +391,8 @@ function showSalaDetail(salaNombre){
   // Header: name + address + instagram
   var hdr=document.getElementById('sala-detail-header');
   hdr.innerHTML='<div style="font-family:Epilogue,sans-serif;font-weight:900;letter-spacing:-.01em;font-size:1.5rem;color:var(--yellow);letter-spacing:.04em;line-height:1.1;">'+esc(salaNombre)+'</div>'
-    +(salaInfo&&salaInfo.direccion?'<div style="font-size:.75rem;color:#555;margin-top:.3rem;display:flex;align-items:center;gap:.3rem;"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="#555" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>'+esc(salaInfo.direccion)+'</div>':'')
-    +(salaInfo&&salaInfo.instagram?'<div style="font-size:.7rem;color:#333;margin-top:.15rem;">'+esc(salaInfo.instagram)+'</div>':'');
+    +(salaInfo&&salaInfo.direccion?'<div style="font-size:.75rem;color:#888;margin-top:.3rem;display:flex;align-items:center;gap:.3rem;"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="#555" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>'+esc(salaInfo.direccion)+'</div>':'')
+    +(salaInfo&&salaInfo.instagram?'<div style="font-size:.7rem;color:#666;margin-top:.15rem;">'+esc(salaInfo.instagram)+'</div>':'');
 
   // Events list
   var list=document.getElementById('sala-detail-list');list.innerHTML='';
@@ -457,7 +455,7 @@ function openPopup(ev,d,i){
   loadImg(src,fb,im=>{if(im){im.style.cssText='position:absolute;inset:0;width:100%;height:100%;object-fit:cover;';pw.appendChild(im);}else{pw.style.background='#151515';}});
   document.getElementById('ptitle').textContent=ev.titulo;
   var salaInfo=getSalaInfo(ev.sala);
-  document.getElementById('psala').innerHTML=PIN+'<span style="text-decoration:underline;text-underline-offset:2px;text-decoration-color:#333;">'+esc(cleanSala(ev.sala))+'</span>';
+  document.getElementById('psala').innerHTML=PIN+'<span style="text-decoration:underline;text-underline-offset:2px;text-decoration-color:#666;">'+esc(cleanSala(ev.sala))+'</span>';
   document.getElementById('psala').onclick=function(){closePopup();setTimeout(function(){showSalaDetail(cleanSala(ev.sala));},200);};
   var dirEl=document.getElementById('pdir');
   if(salaInfo&&salaInfo.direccion){
@@ -565,7 +563,7 @@ function setNavTab(tab){
   document.getElementById('bnav-salas').classList.toggle('active',tab==='salas');
   if(tab==='salas'){
     // Close sala detail if open, show sala list
-    document.getElementById('sala-detail').style.display='none';
+    // sala-detail handled by sala-ov overlay
     document.getElementById('date-nav-wrap').style.display='none';
     document.getElementById('event-list').style.display='none';
     // Render salas panel inline
@@ -573,7 +571,7 @@ function setNavTab(tab){
   } else {
     document.getElementById('date-nav-wrap').style.display='flex';
     document.getElementById('event-list').style.display='flex';
-    document.getElementById('sala-detail').style.display='none';
+    // sala-detail handled by sala-ov overlay
     if(document.getElementById('sala-browser'))document.getElementById('sala-browser').remove();
     const d=dateAt(offset);
     renderList(allEvents.filter(e=>e.fecha===isoOf(d)),d);
@@ -591,7 +589,7 @@ function showSalasBrowser(){
   browser.style.cssText='padding:.6rem 1rem 0;display:flex;flex-direction:column;gap:.4rem;';
 
   var hdr=document.createElement('div');
-  hdr.style.cssText='font-size:.65rem;color:#333;letter-spacing:.1em;text-transform:uppercase;padding:.2rem 0 .4rem;font-weight:700;';
+  hdr.style.cssText='font-size:.65rem;color:#666;letter-spacing:.1em;text-transform:uppercase;padding:.2rem 0 .4rem;font-weight:700;';
   hdr.textContent='Próximos eventos por sala';
   browser.appendChild(hdr);
 
@@ -607,7 +605,7 @@ function showSalasBrowser(){
     var chip=document.createElement('div');
     chip.style.cssText='background:#0a0a0a;border:1px solid #1a1a1a;border-radius:10px;padding:.6rem .9rem;cursor:pointer;display:flex;align-items:center;justify-content:space-between;';
     var evCount=bySala[salaNombre].length;
-    chip.innerHTML='<div style="display:flex;align-items:center;gap:.5rem;"><div style="width:6px;height:6px;border-radius:50%;background:var(--yellow);flex-shrink:0;"></div><div style="font-size:.88rem;font-weight:700;color:#f0f0f0;">'+esc(salaNombre)+'</div></div><div style="font-size:.72rem;color:#555;">'+evCount+' evento'+(evCount!==1?'s':'')+' ›</div>';
+    chip.innerHTML='<div style="display:flex;align-items:center;gap:.5rem;"><div style="width:6px;height:6px;border-radius:50%;background:var(--yellow);flex-shrink:0;"></div><div style="font-size:.88rem;font-weight:700;color:#f0f0f0;">'+esc(salaNombre)+'</div></div><div style="font-size:.72rem;color:#888;">'+evCount+' evento'+(evCount!==1?'s':'')+' ›</div>';
     chip.addEventListener('click',function(){showSalaDetail(salaNombre);});
     browser.appendChild(chip);
   });
