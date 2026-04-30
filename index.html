@@ -301,7 +301,7 @@ function eventUrl(ev){
   return location.origin+location.pathname+'#ev-'+eventId(ev);
 }
 
-function showSkeletons(){document.getElementById('event-list').innerHTML=[0,1,2].map(()=>`<div class="skeleton"><div class="sk-img"></div><div class="sk-lines"><div class="sk-line w70"></div><div class="sk-line w45"></div></div></div>`).join('');}
+function showSkeletons(){var l=document.getElementById('event-list');l.style.display='flex';l.innerHTML=[0,1,2].map(()=>`<div class="skeleton"><div class="sk-img"></div><div class="sk-lines"><div class="sk-line w70"></div><div class="sk-line w45"></div></div></div>`).join('');}
 function dedupEvents(evs){const seen={};return evs.filter(e=>{const key=(e.titulo||'').toLowerCase().replace(/\s+/g,'').slice(0,30)+'|'+e.fecha;if(seen[key])return false;seen[key]=true;return true;});}
 function loadImg(src,fallback,cb){const im=new Image();im.referrerPolicy='no-referrer';im.crossOrigin='anonymous';im.onload=()=>cb(im);im.onerror=()=>{const fb=new Image();fb.referrerPolicy='no-referrer';fb.onload=()=>cb(fb);fb.onerror=()=>cb(null);fb.src=fallback;};im.src=src;}
 
@@ -510,20 +510,24 @@ function checkHash(){
 
 function renderForOffset(){
   const d=dateAt(offset);
-
   try{localStorage.setItem('pinplan_offset',String(offset));localStorage.setItem('pinplan_offset_date',isoOf(nowMadrid()));}catch(e){}
 
+  // Always show event-list when in list view
+  var list=document.getElementById('event-list');
+  list.style.display='flex';
+  document.getElementById('date-nav-wrap').style.display='flex';
+  if(document.getElementById('sala-browser'))document.getElementById('sala-browser').style.display='none';
+
   if(offset>=MAX_DAYS){
-    document.getElementById('event-list').innerHTML='';
+    list.innerHTML='';
     var cd=document.createElement('div');cd.className='carpe-diem';
     cd.innerHTML='<div class="carpe-title">¿Por qué hacer planes a largo plazo cuando hay tanta música que disfrutar antes?</div><div class="carpe-sub">CARPE DIEM · Vuelve a los próximos días</div>';
-    document.getElementById('event-list').appendChild(cd);
+    list.appendChild(cd);
     return;
   }
 
   const evs=allEvents.filter(e=>e.fecha===isoOf(d));
-  if(currentView==='list')renderList(evs,d);
-  else if(currentView==='map')renderMap(evs,d);
+  renderList(evs,d);
 }
 
 // ── DAY CHIPS ──────────────────────────────────────────────────────────────
