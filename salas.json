@@ -5,8 +5,12 @@
       "nombre": "Sala Z",
       "direccion": "C. de Félix Latassa, 14",
       "instagram": "@salazaragoza",
-      "keywords": ["sala z", "salaz"],
-      "lat": 41.6430, "lng": -0.8920,
+      "keywords": [
+        "sala z",
+        "salaz"
+      ],
+      "lat": 41.643,
+      "lng": -0.892,
       "tipo": "sala"
     },
     {
@@ -14,8 +18,11 @@
       "nombre": "Sala Creedence",
       "direccion": "Pl. de San Lamberto, 3",
       "instagram": "@creedencesound",
-      "keywords": ["creedence"],
-      "lat": 41.6530, "lng": -0.8854,
+      "keywords": [
+        "creedence"
+      ],
+      "lat": 41.653,
+      "lng": -0.8854,
       "tipo": "sala"
     },
     {
@@ -23,8 +30,13 @@
       "nombre": "Sala López",
       "direccion": "C. de Sixto Celorrio, 2",
       "instagram": "@salalopez",
-      "keywords": ["sala lópez", "sala lopez", "salalopez"],
-      "lat": 41.6584, "lng": -0.8748,
+      "keywords": [
+        "sala lópez",
+        "sala lopez",
+        "salalopez"
+      ],
+      "lat": 41.6584,
+      "lng": -0.8748,
       "tipo": "sala"
     },
     {
@@ -32,8 +44,14 @@
       "nombre": "La Ley Seca",
       "direccion": "C. de Sevilla, 2",
       "instagram": "@laleysecazgz",
-      "keywords": ["ley seca", "leyseca", "dry law", "the dry law"],
-      "lat": 41.6387, "lng": -0.8873,
+      "keywords": [
+        "ley seca",
+        "leyseca",
+        "dry law",
+        "the dry law"
+      ],
+      "lat": 41.6387,
+      "lng": -0.8873,
       "tipo": "bar"
     },
     {
@@ -41,8 +59,13 @@
       "nombre": "La Lata de Bombillas",
       "direccion": "C. de Espoz y Mina, 19",
       "instagram": "@lalatadebombillas",
-      "keywords": ["lata de bombillas", "lata bombillas", "lalatadebombillas"],
-      "lat": 41.6549, "lng": -0.8785,
+      "keywords": [
+        "lata de bombillas",
+        "lata bombillas",
+        "lalatadebombillas"
+      ],
+      "lat": 41.6549,
+      "lng": -0.8785,
       "tipo": "sala"
     },
     {
@@ -50,8 +73,12 @@
       "nombre": "Sala lo Intento",
       "direccion": "C. de Florentino Ballesteros, 25",
       "instagram": "@salalointento",
-      "keywords": ["lo intento", "lointento"],
-      "lat": 41.6434, "lng": -0.8663,
+      "keywords": [
+        "lo intento",
+        "lointento"
+      ],
+      "lat": 41.6434,
+      "lng": -0.8663,
       "tipo": "sala"
     },
     {
@@ -59,8 +86,12 @@
       "nombre": "Sala Oasis",
       "direccion": "C. de Basilio Boggiero, 28",
       "instagram": "@salaoasiszgz",
-      "keywords": ["oasis", "salaoasis"],
-      "lat": 41.6552, "lng": -0.8857,
+      "keywords": [
+        "oasis",
+        "salaoasis"
+      ],
+      "lat": 41.6552,
+      "lng": -0.8857,
       "tipo": "sala"
     },
     {
@@ -68,8 +99,14 @@
       "nombre": "Rock & Blues Café",
       "direccion": "C. del Cuatro de Agosto, 5",
       "instagram": "@rockandbluescafe",
-      "keywords": ["rock & blues", "rock and blues", "rockandbluescafe", "rock blues"],
-      "lat": 41.6533, "lng": -0.8811,
+      "keywords": [
+        "rock & blues",
+        "rock and blues",
+        "rockandbluescafe",
+        "rock blues"
+      ],
+      "lat": 41.6533,
+      "lng": -0.8811,
       "tipo": "bar"
     },
     {
@@ -77,8 +114,13 @@
       "nombre": "Pub Utopia",
       "direccion": "C. de Luis del Valle, 19",
       "instagram": "@pubutopia",
-      "keywords": ["utopia", "pub utopia", "pubutopia"],
-      "lat": 41.6435, "lng": -0.8957,
+      "keywords": [
+        "utopia",
+        "pub utopia",
+        "pubutopia"
+      ],
+      "lat": 41.6435,
+      "lng": -0.8957,
       "tipo": "bar"
     },
     {
@@ -86,8 +128,12 @@
       "nombre": "La Campana Underground",
       "direccion": "C. de Prudencio, 7",
       "instagram": "@lacampanaunderground",
-      "keywords": ["campana underground", "campana"],
-      "lat": 41.6564, "lng": -0.8812,
+      "keywords": [
+        "campana underground",
+        "campana"
+      ],
+      "lat": 41.6564,
+      "lng": -0.8812,
       "tipo": "sala"
     },
     {
@@ -95,8 +141,11 @@
       "nombre": "Sala Arrebato",
       "direccion": "C. de José Palafox, 28",
       "instagram": "@salaarrebato",
-      "keywords": ["arrebato"],
-      "lat": 41.6532, "lng": -0.8732,
+      "keywords": [
+        "arrebato"
+      ],
+      "lat": 41.6532,
+      "lng": -0.8732,
       "tipo": "sala"
     },
     {
@@ -104,8 +153,14 @@
       "nombre": "El Corazón Verde",
       "direccion": "C. de África, 8",
       "instagram": "@elcorazonverdebar",
-      "keywords": ["corazón verde", "corazon verde", "green heart", "elcorazonverde"],
-      "lat": 41.6317, "lng": -0.8913,
+      "keywords": [
+        "corazón verde",
+        "corazon verde",
+        "green heart",
+        "elcorazonverde"
+      ],
+      "lat": 41.6317,
+      "lng": -0.8913,
       "tipo": "bar"
     },
     {
@@ -113,8 +168,13 @@
       "nombre": "Teatro de las Esquinas",
       "direccion": "Vía Univérsitas, 30-32",
       "instagram": "@teatrodelasesquinas",
-      "keywords": ["teatro de las esquinas", "teatrodelasesquinas", "esquinas"],
-      "lat": 41.6472, "lng": -0.9077,
+      "keywords": [
+        "teatro de las esquinas",
+        "teatrodelasesquinas",
+        "esquinas"
+      ],
+      "lat": 41.6472,
+      "lng": -0.9077,
       "tipo": "teatro"
     },
     {
@@ -122,8 +182,15 @@
       "nombre": "Auditorio de Zaragoza",
       "direccion": "C. de Eduardo Ibarra, 3",
       "instagram": "@auditoriozaragoza",
-      "keywords": ["auditorio", "sala mozart", "sala multiusos", "sala galve", "auditoriozaragoza"],
-      "lat": 41.6379, "lng": -0.9004,
+      "keywords": [
+        "auditorio",
+        "sala mozart",
+        "sala multiusos",
+        "sala galve",
+        "auditoriozaragoza"
+      ],
+      "lat": 41.6379,
+      "lng": -0.9004,
       "tipo": "auditorio"
     },
     {
@@ -131,8 +198,13 @@
       "nombre": "Pabellón Príncipe Felipe",
       "direccion": "Av. de Cesáreo Alierta, 120",
       "instagram": "@pabellonprincipefelipe",
-      "keywords": ["príncipe felipe", "principe felipe", "pabellón príncipe"],
-      "lat": 41.6354, "lng": -0.8659,
+      "keywords": [
+        "príncipe felipe",
+        "principe felipe",
+        "pabellón príncipe"
+      ],
+      "lat": 41.6354,
+      "lng": -0.8659,
       "tipo": "recinto"
     },
     {
@@ -140,8 +212,14 @@
       "nombre": "Jardín de Invierno",
       "direccion": "Parque Grande José Antonio Labordeta",
       "instagram": "@jardindeinviernozgz",
-      "keywords": ["jardín de invierno", "jardin de invierno", "labordeta", "parque labordeta"],
-      "lat": 41.6317, "lng": -0.8927,
+      "keywords": [
+        "jardín de invierno",
+        "jardin de invierno",
+        "labordeta",
+        "parque labordeta"
+      ],
+      "lat": 41.6317,
+      "lng": -0.8927,
       "tipo": "exterior"
     },
     {
@@ -149,8 +227,13 @@
       "nombre": "Estación del Norte",
       "direccion": "C. de Perdiguera, 7",
       "instagram": "@estaciondelnortezgz",
-      "keywords": ["estación del norte", "estacion del norte", "estacion norte"],
-      "lat": 41.6601, "lng": -0.8718,
+      "keywords": [
+        "estación del norte",
+        "estacion del norte",
+        "estacion norte"
+      ],
+      "lat": 41.6601,
+      "lng": -0.8718,
       "tipo": "espacio"
     },
     {
@@ -158,8 +241,11 @@
       "nombre": "Ragtime",
       "direccion": "C. de García Galdeano, 8",
       "instagram": "@ragtime_zgz",
-      "keywords": ["ragtime"],
-      "lat": 41.6503, "lng": -0.8909,
+      "keywords": [
+        "ragtime"
+      ],
+      "lat": 41.6503,
+      "lng": -0.8909,
       "tipo": "bar"
     },
     {
@@ -167,10 +253,34 @@
       "nombre": "Espacio Exterior",
       "direccion": "Zaragoza",
       "instagram": "",
-      "keywords": ["plaza", "calle", "exterior", "parque", "al aire libre", "jardín", "paseo"],
-      "lat": 41.6488, "lng": -0.8891,
+      "keywords": [
+        "plaza",
+        "calle",
+        "exterior",
+        "parque",
+        "al aire libre",
+        "jardín",
+        "paseo"
+      ],
+      "lat": 41.6488,
+      "lng": -0.8891,
       "tipo": "exterior",
       "etiqueta": "🎶 Música en la calle"
+    },
+    {
+      "id": "refugio-crapula",
+      "nombre": "El Refugio del Crápula",
+      "direccion": "C. de Méndez Núñez, 39",
+      "instagram": "@elrefugiodeltcrapula",
+      "keywords": [
+        "refugio del crápula",
+        "refugio crapula",
+        "crapula",
+        "crápula"
+      ],
+      "lat": 41.6558,
+      "lng": -0.8792,
+      "tipo": "bar"
     }
   ]
 }
