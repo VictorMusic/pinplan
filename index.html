@@ -238,9 +238,9 @@ const PIN=`<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="c
 const _m=['himnosis','.','music','@','gmail','.','com'].join('');
 const MAX_DAYS=14;
 
-let offset=0,allEvents=[],salasDB=[],currentView='list';
+let offset=0,allEvents=[],salasDB=[],currentTab='lista';
 
-// Restore saved offset
+// ── OFFSET PERSISTENCE ──────────────────────────────────────────────────────
 try{
   const saved=parseInt(localStorage.getItem('pinplan_offset')||'0');
   const savedDate=localStorage.getItem('pinplan_offset_date')||'';
@@ -249,6 +249,7 @@ try{
   else{localStorage.setItem('pinplan_offset','0');localStorage.setItem('pinplan_offset_date',todayStr);}
 }catch(e){}
 
+// ── UTILS ───────────────────────────────────────────────────────────────────
 function nowMadrid(){return new Date(new Date().toLocaleString('en-US',{timeZone:'Europe/Madrid'}));}
 function isoOf(d){return`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;}
 function dateAt(n){const d=nowMadrid();d.setDate(d.getDate()+n);return d;}
@@ -258,109 +259,98 @@ function validImg(u){return u&&typeof u==='string'&&u.startsWith('http')&&!u.inc
 function fallbackFor(t,i){let h=0;for(let j=0;j<t.length;j++)h=(h*31+t.charCodeAt(j))&0xfffffff;return FALLBACK[(h+i)%FALLBACK.length];}
 function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
 function cleanSala(s){return(s||'').replace(/,?\s*(Zaragoza|Zaragoza\s*,?\s*Espa[nñ]a?|Espa[nñ]a?|Spain|50\d{3})\b/gi,'').replace(/\s{2,}/g,' ').trim();}
-
-// Match sala name to salas.json entry — fuzzy
 function getSalaInfo(salaNombre){
   if(!salaNombre||!salasDB.length)return null;
-  var raw=salaNombre.toLowerCase().trim();
+  var raw=(salaNombre||'').toLowerCase().trim();
   var cleaned=cleanSala(salaNombre).toLowerCase().trim();
-  // 1. Exact match on nombre (raw or cleaned)
-  var found=salasDB.find(function(sala){
-    var n=sala.nombre.toLowerCase();
-    return n===raw||n===cleaned;
-  });
+  var found=salasDB.find(function(s){var n=s.nombre.toLowerCase();return n===raw||n===cleaned;});
   if(found)return found;
-  // 2. Keyword match
-  found=salasDB.find(function(sala){
-    return sala.keywords.some(function(kw){
-      var k=kw.toLowerCase();
-      return raw.includes(k)||cleaned.includes(k)||k.includes(cleaned);
-    });
-  });
+  found=salasDB.find(function(s){return s.keywords.some(function(kw){var k=kw.toLowerCase();return raw.includes(k)||cleaned.includes(k)||k.includes(cleaned);});});
   if(found)return found;
-  // 3. Partial — first significant word
   var firstWord=cleaned.split(' ').filter(function(w){return w.length>3;})[0]||'';
-  if(firstWord){
-    found=salasDB.find(function(sala){
-      return sala.nombre.toLowerCase().includes(firstWord)||
-             sala.keywords.some(function(kw){return kw.toLowerCase().includes(firstWord);});
-    });
-  }
+  if(firstWord)found=salasDB.find(function(s){return s.nombre.toLowerCase().includes(firstWord)||s.keywords.some(function(kw){return kw.toLowerCase().includes(firstWord);});});
   return found||null;
 }
-
-// Generate stable event ID from titulo+fecha
-function eventId(ev){
-  return btoa(encodeURIComponent((ev.titulo+ev.fecha+ev.sala).slice(0,40))).replace(/[^a-zA-Z0-9]/g,'').slice(0,16);
-}
-
-// Event URL using hash
-function eventUrl(ev){
-  return location.origin+location.pathname+'#ev-'+eventId(ev);
-}
-
-function showSkeletons(){var l=document.getElementById('event-list');l.style.display='flex';l.innerHTML=[0,1,2].map(()=>`<div class="skeleton"><div class="sk-img"></div><div class="sk-lines"><div class="sk-line w70"></div><div class="sk-line w45"></div></div></div>`).join('');}
+function eventId(ev){var s=(ev.titulo+ev.fecha+ev.sala).slice(0,40);var h=0;for(var i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))&0x7fffffff;return h.toString(36);}
+function eventUrl(ev){return location.origin+location.pathname+'#ev-'+eventId(ev);}
 function dedupEvents(evs){const seen={};return evs.filter(e=>{const key=(e.titulo||'').toLowerCase().replace(/\s+/g,'').slice(0,30)+'|'+e.fecha;if(seen[key])return false;seen[key]=true;return true;});}
 function loadImg(src,fallback,cb){const im=new Image();im.referrerPolicy='no-referrer';im.crossOrigin='anonymous';im.onload=()=>cb(im);im.onerror=()=>{const fb=new Image();fb.referrerPolicy='no-referrer';fb.onload=()=>cb(fb);fb.onerror=()=>cb(null);fb.src=fallback;};im.src=src;}
+async function shareEvent(ev){var texto='¡Planazo! '+ev.titulo+' en '+cleanSala(ev.sala)+(ev.hora?' a las '+ev.hora:'');var url=eventUrl(ev);var sd={title:'PinPlan · '+ev.titulo,text:texto,url:url};if(navigator.share){try{await navigator.share(sd);}catch(e){}}else{try{await navigator.clipboard.writeText(texto+'\n'+url);alert('¡Copiado!');}catch(e){prompt('Copia:',texto+' '+url);}}}
 
-async function shareEvent(ev){
-  var texto='¡Planazo! '+ev.titulo+' en '+cleanSala(ev.sala)+(ev.hora?' a las '+ev.hora:'');
-  var url=eventUrl(ev);
-  var sd={title:'PinPlan · '+ev.titulo,text:texto,url:url};
-  if(navigator.share){try{await navigator.share(sd);}catch(e){}}
-  else{try{await navigator.clipboard.writeText(texto+'\n'+url);alert('¡Copiado!');}catch(e){prompt('Copia:',texto+' '+url);}}
+// ── DAY CHIPS ───────────────────────────────────────────────────────────────
+function buildDayChips(){
+  var nav=document.getElementById('date-nav-wrap');
+  if(!nav)return;
+  nav.innerHTML='';
+  for(var i=0;i<=MAX_DAYS;i++){
+    var d=dateAt(i);
+    var chip=document.createElement('button');
+    chip.className='chip'+(i===offset?' active':'');
+    var lbl=i===0?'Hoy':i===1?'Mañana':'';
+    chip.innerHTML='<span class="chip-name">'+DAYS_S[d.getDay()]+'</span><span class="chip-num">'+d.getDate()+'</span><span class="chip-lbl">'+(lbl||MONTHS_A[d.getMonth()])+'</span>';
+    (function(idx,el){
+      el.addEventListener('click',function(){
+        if(offset===idx)return;
+        offset=idx;
+        try{localStorage.setItem('pinplan_offset',String(offset));localStorage.setItem('pinplan_offset_date',isoOf(nowMadrid()));}catch(e){}
+        buildDayChips();
+        renderAgenda();
+        el.scrollIntoView({behavior:'smooth',block:'nearest',inline:'center'});
+      });
+    })(i,chip);
+    nav.appendChild(chip);
+  }
 }
 
-// ── VIEWS ─────────────────────────────────────────────────────────────────
-
-function switchView(view){
-  currentView=view;
-  // Hide sala detail, show list
-  // sala-detail handled by sala-ov overlay
-  document.getElementById('event-list').style.display='flex';
-  document.getElementById('date-nav-wrap').style.display='flex';
-  const d=dateAt(offset);
-  renderList(allEvents.filter(e=>e.fecha===isoOf(d)),d);
+// ── BOTTOM NAV ──────────────────────────────────────────────────────────────
+function setNavTab(tab){
+  currentTab=tab;
+  document.getElementById('bnav-lista').classList.toggle('active',tab==='lista');
+  document.getElementById('bnav-salas').classList.toggle('active',tab==='salas');
+  if(tab==='lista'){
+    document.getElementById('event-list').style.display='flex';
+    document.getElementById('date-nav-wrap').style.display='flex';
+    var sb=document.getElementById('sala-browser');if(sb)sb.remove();
+    renderAgenda();
+  } else {
+    document.getElementById('event-list').style.display='none';
+    document.getElementById('date-nav-wrap').style.display='none';
+    renderSalasBrowser();
+  }
 }
 
-// ── CARDS ────────────────────────────────────────────────────────────────
+// ── SKELETONS ───────────────────────────────────────────────────────────────
+function showSkeletons(){
+  var l=document.getElementById('event-list');
+  l.style.display='flex';
+  l.innerHTML=[0,1,2].map(()=>`<div class="skeleton"><div class="sk-img"></div><div class="sk-lines"><div class="sk-line w70"></div><div class="sk-line w45"></div></div></div>`).join('');
+}
 
+// ── CARDS ────────────────────────────────────────────────────────────────────
 function makeCard(ev,d,i){
   var c=document.createElement('div');c.className='card';
   var imgDiv=document.createElement('div');imgDiv.className='ev-img';
   var infoDiv=document.createElement('div');infoDiv.className='ev-info';
   var titleDiv=document.createElement('div');titleDiv.className='ev-title';titleDiv.textContent=ev.titulo;
-
-  // Sala — clickable to show sala profile
-  var salaDiv=document.createElement('div');salaDiv.className='ev-sala';salaDiv.innerHTML=PIN+esc(cleanSala(ev.sala));
+  var salaDiv=document.createElement('div');salaDiv.className='ev-sala';
+  salaDiv.innerHTML=PIN+esc(cleanSala(ev.sala));
   salaDiv.style.cursor='pointer';
   salaDiv.addEventListener('click',function(e){e.stopPropagation();showSalaDetail(cleanSala(ev.sala));});
-
   infoDiv.appendChild(titleDiv);infoDiv.appendChild(salaDiv);
   var horaWrap=document.createElement('div');horaWrap.style.cssText='display:flex;flex-direction:column;align-items:flex-end;gap:5px;padding-top:1px;';
   var horaDiv=document.createElement('div');horaDiv.className='hora';horaDiv.textContent=ev.hora||'?';
-
-  // Date label for sala detail view (cross-day)
-  var dateLabel2=document.createElement('div');
-  dateLabel2.style.cssText='font-size:.65rem;color:#777;text-align:right;';
-  if(d){
-    var dd=typeof d==='string'?new Date(d+'T12:00:00'):d;
-    dateLabel2.textContent=DAYS_S[dd.getDay()]+' '+dd.getDate()+' '+MONTHS_A[dd.getMonth()];
-  }
-
+  var dateLabel2=document.createElement('div');dateLabel2.style.cssText='font-size:.65rem;color:#888;text-align:right;';
+  if(d&&typeof d==='string'){var dd=new Date(d+'T12:00:00');dateLabel2.textContent=DAYS_S[dd.getDay()]+' '+dd.getDate()+' '+MONTHS_A[dd.getMonth()];}
   var shareBtn=document.createElement('div');
-  shareBtn.innerHTML='<svg viewBox="0 0 24 24" fill="none" stroke="#3a3a3a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:15px;height:15px;cursor:pointer;"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>';
+  shareBtn.innerHTML='<svg viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:15px;height:15px;cursor:pointer;"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>';
   horaWrap.appendChild(horaDiv);
-  if(!d||typeof d==='string')horaWrap.appendChild(dateLabel2);
+  if(typeof d==='string')horaWrap.appendChild(dateLabel2);
   horaWrap.appendChild(shareBtn);
   c.appendChild(imgDiv);c.appendChild(infoDiv);c.appendChild(horaWrap);
   var fb=fallbackFor(ev.titulo,i);
   loadImg(validImg(ev.imagen)?ev.imagen:fb,fb,function(im){if(im){im.style.cssText='width:100%;height:100%;object-fit:cover;display:block;';imgDiv.appendChild(im);}else{imgDiv.style.background='#151515';}});
   shareBtn.addEventListener('click',function(e){e.stopPropagation();shareEvent(ev);});
-  c.addEventListener('click',function(){
-    var dateObj=d?(typeof d==='string'?new Date(d+'T12:00:00'):d):new Date(ev.fecha+'T12:00:00');
-    openPopup(ev,dateObj,i);
-  });
+  c.addEventListener('click',function(){var dateObj=d?(typeof d==='string'?new Date(d+'T12:00:00'):d):new Date(ev.fecha+'T12:00:00');openPopup(ev,dateObj,i);});
   return c;
 }
 
@@ -371,228 +361,46 @@ function makeCTA(){
   return cta;
 }
 
-// ── LIST VIEW ─────────────────────────────────────────────────────────────
-
-function renderList(evs,d){
-  var list=document.getElementById('event-list');list.innerHTML='';
-  if(!evs.length){
-    var empty=document.createElement('div');empty.className='empty';
-    empty.innerHTML='<div class="empty-title">Aquí no suena nada hoy.</div><div class="empty-sub">Prueba otro día o vuelve en un rato.</div>';
-    list.appendChild(empty);list.appendChild(makeCTA());return;
-  }
-  evs.forEach(function(ev,i){list.appendChild(makeCard(ev,d,i));});
-  list.appendChild(makeCTA());
-}
-
-function showSalaDetail(salaNombre){
-  // Open as overlay (same pattern as event popup)
-  var salaInfo=getSalaInfo(salaNombre);
-
-  // Header: name + address + instagram
-  var hdr=document.getElementById('sala-detail-header');
-  hdr.innerHTML='<div style="font-family:Epilogue,sans-serif;font-weight:900;letter-spacing:-.01em;font-size:1.5rem;color:var(--yellow);letter-spacing:.04em;line-height:1.1;">'+esc(salaNombre)+'</div>'
-    +(salaInfo&&salaInfo.direccion?'<div style="font-size:.75rem;color:#888;margin-top:.3rem;display:flex;align-items:center;gap:.3rem;"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="#555" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>'+esc(salaInfo.direccion)+'</div>':'')
-    +(salaInfo&&salaInfo.instagram?'<div style="font-size:.7rem;color:#666;margin-top:.15rem;">'+esc(salaInfo.instagram)+'</div>':'');
-
-  // Events list
-  var list=document.getElementById('sala-detail-list');list.innerHTML='';
-  var today=isoOf(nowMadrid());
-  var evs=allEvents.filter(function(e){
-    return cleanSala(e.sala)===salaNombre&&e.fecha>=today;
-  });
-  evs.sort(function(a,b){return(a.fecha+(a.hora||'')).localeCompare(b.fecha+(b.hora||''));});
-
-  if(!evs.length){
-    var empty=document.createElement('div');empty.className='empty';
-    empty.innerHTML='<div class="empty-title">Sin próximos eventos.</div>';
-    list.appendChild(empty);
-  } else {
-    evs.forEach(function(ev,i){
-      var card=makeCard(ev,ev.fecha,i);
-      // Override click: open event popup from within sala overlay
-      card.addEventListener('click',function(){
-        closeSala();
-        setTimeout(function(){
-          var d=new Date(ev.fecha+'T12:00:00');
-          openPopup(ev,d,i);
-        },250);
-      });
-      list.appendChild(card);
-    });
-  }
-
-  // CTA at bottom
-  var ctaWrap=document.getElementById('sala-cta-wrap');
-  ctaWrap.innerHTML='';
-  var cta=makeCTA();
-  ctaWrap.appendChild(cta);
-
-  // Open overlay
-  document.getElementById('sala-ov').classList.add('open');
-  document.body.style.overflow='hidden';
-}
-
-function closeSala(){
-  document.getElementById('sala-ov').classList.remove('open');
-  document.body.style.overflow='';
-}
-
-document.getElementById('sala-close').addEventListener('click',closeSala);
-document.getElementById('sala-ov').addEventListener('click',function(e){if(e.target===e.currentTarget)closeSala();});
-
-// ── MAP VIEW ──────────────────────────────────────────────────────────────
-
-
-// ── POPUP ────────────────────────────────────────────────────────────────
-
-function openPopup(ev,d,i){
-  // Set URL hash for sharing
-  var evHash='ev-'+eventId(ev);
-  history.replaceState(null,'','#'+evHash);
-
-  const pw=document.getElementById('pimg');pw.innerHTML='';
-  const fb=fallbackFor(ev.titulo,i);const src=validImg(ev.imagen)?ev.imagen:fb;
-  loadImg(src,fb,im=>{if(im){im.style.cssText='position:absolute;inset:0;width:100%;height:100%;object-fit:cover;';pw.appendChild(im);}else{pw.style.background='#151515';}});
-  document.getElementById('ptitle').textContent=ev.titulo;
-  var salaInfo=getSalaInfo(ev.sala);
-  document.getElementById('psala').innerHTML=PIN+'<span style="text-decoration:underline;text-underline-offset:2px;text-decoration-color:#666;">'+esc(cleanSala(ev.sala))+'</span>';
-  document.getElementById('psala').onclick=function(){closePopup();setTimeout(function(){showSalaDetail(cleanSala(ev.sala));},200);};
-  var dirEl=document.getElementById('pdir');
-  if(salaInfo&&salaInfo.direccion){
-    dirEl.innerHTML='<svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="#444" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>'+esc(salaInfo.direccion);
-    dirEl.style.display='flex';
-  } else {
-    dirEl.style.display='none';
-  }
-  document.getElementById('pdia').textContent=diaCorto(d);
-  document.getElementById('phora').textContent=ev.hora||'—';
-  const desc=ev.descripcion||'';const descEl=document.getElementById('pdesc');descEl.textContent=desc;descEl.style.display=desc?'block':'none';
-  document.getElementById('bmaps').onclick=()=>window.open('https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(ev.sala+' Zaragoza'),'_blank');
-  document.getElementById('bshare').onclick=async()=>{
-    var url=eventUrl(ev);
-    var texto='¡Planazo! '+ev.titulo+' en '+cleanSala(ev.sala)+(ev.hora?' a las '+ev.hora:'');
-    var sd={title:'PinPlan · '+ev.titulo,text:texto,url:url};
-    if(navigator.share){try{await navigator.share(sd);}catch(e){}}
-    else{try{await navigator.clipboard.writeText(texto+'\n'+url);alert('¡Copiado!');}catch(e){prompt('Copia:',texto+' '+url);}}
-  };
-  document.getElementById('pov').classList.add('open');document.body.style.overflow='hidden';
-}
-
-function closePopup(){
-  document.getElementById('pov').classList.remove('open');
-  document.body.style.overflow='';
-  // Remove hash
-  history.replaceState(null,'',location.pathname+location.search);
-}
-
-function eventId(ev){
-  var s=(ev.titulo+ev.fecha+ev.sala).slice(0,40);
-  var h=0;for(var i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))&0x7fffffff;
-  return h.toString(36);
-}
-function eventUrl(ev){return location.origin+location.pathname+'#ev-'+eventId(ev);}
-
-// Check hash on load — open event if found
-function checkHash(){
-  var hash=location.hash;
-  if(!hash||!hash.startsWith('#ev-'))return;
-  var targetId=hash.slice(4);
-  var ev=allEvents.find(function(e){return eventId(e)===targetId;});
-  if(ev){
-    var d=new Date(ev.fecha+'T12:00:00');
-    openPopup(ev,d,0);
-  }
-}
-
-// ── MAIN ──────────────────────────────────────────────────────────────────
-
-function renderForOffset(){
-  const d=dateAt(offset);
-  try{localStorage.setItem('pinplan_offset',String(offset));localStorage.setItem('pinplan_offset_date',isoOf(nowMadrid()));}catch(e){}
-
-  // Always show event-list when in list view
+// ── AGENDA (LIST) ────────────────────────────────────────────────────────────
+function renderAgenda(){
   var list=document.getElementById('event-list');
+  if(!list)return;
   list.style.display='flex';
-  document.getElementById('date-nav-wrap').style.display='flex';
-  if(document.getElementById('sala-browser'))document.getElementById('sala-browser').style.display='none';
+  list.innerHTML='';
 
   if(offset>=MAX_DAYS){
-    list.innerHTML='';
     var cd=document.createElement('div');cd.className='carpe-diem';
     cd.innerHTML='<div class="carpe-title">¿Por qué hacer planes a largo plazo cuando hay tanta música que disfrutar antes?</div><div class="carpe-sub">CARPE DIEM · Vuelve a los próximos días</div>';
     list.appendChild(cd);
     return;
   }
 
-  const evs=allEvents.filter(e=>e.fecha===isoOf(d));
-  renderList(evs,d);
-}
+  var d=dateAt(offset);
+  var evs=allEvents.filter(function(e){return e.fecha===isoOf(d);});
 
-// ── DAY CHIPS ──────────────────────────────────────────────────────────────
-function buildDayChips(){
-  var nav=document.getElementById('date-nav-wrap');
-  nav.innerHTML='';
-  var today=nowMadrid();
-  for(var i=0;i<=MAX_DAYS;i++){
-    var d=dateAt(i);
-    var chip=document.createElement('button');
-    chip.className='chip'+(i===offset?' active':'');
-    chip.dataset.offset=i;
-    var dayName=DAYS_S[d.getDay()];
-    var dayNum=d.getDate();
-    var mon=MONTHS_A[d.getMonth()];
-    var lbl=i===0?'Hoy':i===1?'Mañana':'';
-    chip.innerHTML='<span class="chip-name">'+dayName+'</span><span class="chip-num">'+dayNum+'</span><span class="chip-lbl">'+(lbl||mon)+'</span>';
-    chip.addEventListener('click',(function(idx){
-      return function(){
-        if(offset===idx)return;
-        offset=idx;
-        buildDayChips();
-        renderForOffset();
-        // Scroll chip into view
-        chip.scrollIntoView({behavior:'smooth',block:'nearest',inline:'center'});
-      };
-    })(i));
-    nav.appendChild(chip);
+  if(!evs.length){
+    var empty=document.createElement('div');empty.className='empty';
+    empty.innerHTML='<div class="empty-title">Aquí no suena nada hoy.</div><div class="empty-sub">Prueba otro día o vuelve en un rato.</div>';
+    list.appendChild(empty);
+    list.appendChild(makeCTA());
+    return;
   }
+  evs.forEach(function(ev,i){list.appendChild(makeCard(ev,d,i));});
+  list.appendChild(makeCTA());
 }
 
-// ── BOTTOM NAV ─────────────────────────────────────────────────────────────
-function setNavTab(tab){
-  document.getElementById('bnav-lista').classList.toggle('active',tab==='lista');
-  document.getElementById('bnav-salas').classList.toggle('active',tab==='salas');
-  if(tab==='salas'){
-    // Close sala detail if open, show sala list
-    // sala-detail handled by sala-ov overlay
-    document.getElementById('date-nav-wrap').style.display='none';
-    document.getElementById('event-list').style.display='none';
-    // Render salas panel inline
-    showSalasBrowser();
-  } else {
-    document.getElementById('date-nav-wrap').style.display='flex';
-    document.getElementById('event-list').style.display='flex';
-    // sala-detail handled by sala-ov overlay
-    if(document.getElementById('sala-browser'))document.getElementById('sala-browser').remove();
-    const d=dateAt(offset);
-    renderList(allEvents.filter(e=>e.fecha===isoOf(d)),d);
-  }
-}
-
-function showSalasBrowser(){
-  // Remove existing
+// ── SALAS BROWSER ────────────────────────────────────────────────────────────
+function renderSalasBrowser(){
   var existing=document.getElementById('sala-browser');
   if(existing)existing.remove();
-
-  var container=document.getElementById('event-list').parentNode;
+  var container=document.querySelector('.app');
   var browser=document.createElement('div');
   browser.id='sala-browser';
   browser.style.cssText='padding:.6rem 1rem 0;display:flex;flex-direction:column;gap:.4rem;';
-
   var hdr=document.createElement('div');
-  hdr.style.cssText='font-size:.65rem;color:#666;letter-spacing:.1em;text-transform:uppercase;padding:.2rem 0 .4rem;font-weight:700;';
+  hdr.style.cssText='font-size:.62rem;color:#666;letter-spacing:.1em;text-transform:uppercase;padding:.2rem 0 .5rem;font-weight:700;';
   hdr.textContent='Próximos eventos por sala';
   browser.appendChild(hdr);
-
   var today=isoOf(nowMadrid());
   var bySala={};
   allEvents.filter(function(e){return e.fecha>=today;}).forEach(function(ev){
@@ -600,7 +408,6 @@ function showSalasBrowser(){
     if(!bySala[key])bySala[key]=[];
     bySala[key].push(ev);
   });
-
   Object.keys(bySala).sort().forEach(function(salaNombre){
     var chip=document.createElement('div');
     chip.style.cssText='background:#0a0a0a;border:1px solid #1a1a1a;border-radius:10px;padding:.6rem .9rem;cursor:pointer;display:flex;align-items:center;justify-content:space-between;';
@@ -609,10 +416,64 @@ function showSalasBrowser(){
     chip.addEventListener('click',function(){showSalaDetail(salaNombre);});
     browser.appendChild(chip);
   });
-
-  container.insertBefore(browser, document.getElementById('event-list').nextSibling);
+  var listEl=document.getElementById('event-list');
+  listEl.parentNode.insertBefore(browser,listEl.nextSibling);
 }
 
+// ── SALA DETAIL ──────────────────────────────────────────────────────────────
+function showSalaDetail(salaNombre){
+  var salaInfo=getSalaInfo(salaNombre);
+  var hdr=document.getElementById('sala-detail-header');
+  hdr.innerHTML='<div style="font-family:Epilogue,sans-serif;font-weight:900;font-size:1.5rem;color:var(--yellow);letter-spacing:-.01em;line-height:1.1;">'+esc(salaNombre)+'</div>'
+    +(salaInfo&&salaInfo.direccion?'<div style="font-size:.75rem;color:#888;margin-top:.3rem;display:flex;align-items:center;gap:.3rem;"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>'+esc(salaInfo.direccion)+'</div>':'')
+    +(salaInfo&&salaInfo.instagram?'<div style="font-size:.7rem;color:#666;margin-top:.1rem;">'+esc(salaInfo.instagram)+'</div>':'');
+  var listEl=document.getElementById('sala-detail-list');listEl.innerHTML='';
+  var today=isoOf(nowMadrid());
+  var evs=allEvents.filter(function(e){return cleanSala(e.sala)===salaNombre&&e.fecha>=today;});
+  evs.sort(function(a,b){return(a.fecha+(a.hora||'')).localeCompare(b.fecha+(b.hora||''));});
+  if(!evs.length){
+    var empty=document.createElement('div');empty.className='empty';
+    empty.innerHTML='<div class="empty-title">Sin próximos eventos.</div>';
+    listEl.appendChild(empty);
+  } else {
+    evs.forEach(function(ev,i){
+      var card=makeCard(ev,ev.fecha,i);
+      card.addEventListener('click',function(){closeSala();setTimeout(function(){var d=new Date(ev.fecha+'T12:00:00');openPopup(ev,d,i);},250);});
+      listEl.appendChild(card);
+    });
+  }
+  var ctaWrap=document.getElementById('sala-cta-wrap');ctaWrap.innerHTML='';ctaWrap.appendChild(makeCTA());
+  document.getElementById('sala-ov').classList.add('open');
+  document.body.style.overflow='hidden';
+}
+
+function closeSala(){document.getElementById('sala-ov').classList.remove('open');document.body.style.overflow='';}
+
+// ── POPUP ─────────────────────────────────────────────────────────────────
+function openPopup(ev,d,i){
+  history.replaceState(null,'','#ev-'+eventId(ev));
+  const pw=document.getElementById('pimg');pw.innerHTML='';
+  const fb=fallbackFor(ev.titulo,i);const src=validImg(ev.imagen)?ev.imagen:fb;
+  loadImg(src,fb,im=>{if(im){im.style.cssText='position:absolute;inset:0;width:100%;height:100%;object-fit:cover;';pw.appendChild(im);}else{pw.style.background='#151515';}});
+  document.getElementById('ptitle').textContent=ev.titulo;
+  var salaInfo=getSalaInfo(ev.sala);
+  document.getElementById('psala').innerHTML=PIN+'<span style="text-decoration:underline;text-underline-offset:2px;text-decoration-color:#444;">'+esc(cleanSala(ev.sala))+'</span>';
+  document.getElementById('psala').onclick=function(){closePopup();setTimeout(function(){showSalaDetail(cleanSala(ev.sala));},200);};
+  var dirEl=document.getElementById('pdir');
+  if(salaInfo&&salaInfo.direccion){dirEl.innerHTML='<svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="#666" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>'+esc(salaInfo.direccion);dirEl.style.display='flex';}
+  else{dirEl.style.display='none';}
+  document.getElementById('pdia').textContent=diaCorto(d);
+  document.getElementById('phora').textContent=ev.hora||'—';
+  const desc=ev.descripcion||'';const descEl=document.getElementById('pdesc');descEl.textContent=desc;descEl.style.display=desc?'block':'none';
+  document.getElementById('bmaps').onclick=()=>window.open('https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(ev.sala+' Zaragoza'),'_blank');
+  document.getElementById('bshare').onclick=async()=>{var url=eventUrl(ev);var texto='¡Planazo! '+ev.titulo+' en '+cleanSala(ev.sala)+(ev.hora?' a las '+ev.hora:'');var sd={title:'PinPlan · '+ev.titulo,text:texto,url:url};if(navigator.share){try{await navigator.share(sd);}catch(e){}}else{try{await navigator.clipboard.writeText(texto+'\n'+url);alert('¡Copiado!');}catch(e){prompt('Copia:',texto+' '+url);}}};
+  document.getElementById('pov').classList.add('open');document.body.style.overflow='hidden';
+}
+function closePopup(){document.getElementById('pov').classList.remove('open');document.body.style.overflow='';history.replaceState(null,'',location.pathname+location.search);}
+
+function checkHash(){var hash=location.hash;if(!hash||!hash.startsWith('#ev-'))return;var targetId=hash.slice(4);var ev=allEvents.find(function(e){return eventId(e)===targetId;});if(ev){var d=new Date(ev.fecha+'T12:00:00');openPopup(ev,d,0);}}
+
+// ── MAIN ─────────────────────────────────────────────────────────────────────
 function loadAllEvents(){
   showSkeletons();
   Promise.all([
@@ -623,20 +484,33 @@ function loadAllEvents(){
     salasDB=salasData.salas||[];
     if(data.actualizado){const upd=new Date(data.actualizado);const hm=String(upd.getHours()).padStart(2,'0')+':'+String(upd.getMinutes()).padStart(2,'0');document.getElementById('upd-t').textContent='Actualizado '+hm;document.getElementById('upd').style.display='flex';}
     buildDayChips();
-    renderForOffset();
+    renderAgenda();
     checkHash();
-  }).catch(function(){allEvents=[];renderForOffset();});
+  }).catch(function(err){console.error('PinPlan load error:',err);allEvents=[];renderAgenda();});
 }
 
+// ── EVENT LISTENERS ──────────────────────────────────────────────────────────
 document.getElementById('pov').addEventListener('click',e=>{if(e.target===e.currentTarget)closePopup();});
 document.getElementById('px').addEventListener('click',closePopup);
+document.getElementById('sala-ov').addEventListener('click',function(e){if(e.target===e.currentTarget)closeSala();});
+document.getElementById('sala-close').addEventListener('click',closeSala);
 document.getElementById('contact-btn').addEventListener('click',()=>{window.location.href='mailto:'+_m+'?subject=PinPlan feedback';});
 
 let tx=0,ty=0;
 document.addEventListener('touchstart',e=>{tx=e.touches[0].clientX;ty=e.touches[0].clientY;},{passive:true});
-document.addEventListener('touchend',e=>{if(document.getElementById('pov').classList.contains('open'))return;const dx=e.changedTouches[0].clientX-tx,dy=Math.abs(e.changedTouches[0].clientY-ty);if(Math.abs(dx)>55&&dy<60){if(dx<0&&offset<MAX_DAYS){offset++;buildDayChips();renderForOffset();}else if(dx>0&&offset>0){offset--;buildDayChips();renderForOffset();}}},{passive:true});
-document.addEventListener('keydown',e=>{if(e.key==='Escape')closePopup();if(e.key==='ArrowRight'&&offset<MAX_DAYS){offset++;buildDayChips();renderForOffset();}if(e.key==='ArrowLeft'&&offset>0){offset--;buildDayChips();renderForOffset();}});
+document.addEventListener('touchend',e=>{
+  if(document.getElementById('pov').classList.contains('open')||document.getElementById('sala-ov').classList.contains('open'))return;
+  const dx=e.changedTouches[0].clientX-tx,dy=Math.abs(e.changedTouches[0].clientY-ty);
+  if(Math.abs(dx)>55&&dy<60){
+    if(dx<0&&offset<MAX_DAYS){offset++;buildDayChips();renderAgenda();}
+    else if(dx>0&&offset>0){offset--;buildDayChips();renderAgenda();}
+  }
+},{passive:true});
+document.addEventListener('keydown',e=>{
+  if(e.key==='Escape'){closePopup();closeSala();}
+  if(e.key==='ArrowRight'&&offset<MAX_DAYS){offset++;buildDayChips();renderAgenda();}
+  if(e.key==='ArrowLeft'&&offset>0){offset--;buildDayChips();renderAgenda();}
+});
 
 loadAllEvents();
 </script>
-
