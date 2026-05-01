@@ -1,34 +1,7 @@
 {
-  "actualizado": "2026-04-30T15:45:28.780597",
-  "total": 42,
+  "actualizado": "2026-05-01T08:21:54.716990",
+  "total": 49,
   "eventos": [
-    {
-      "titulo": "UN DIA FELIZ",
-      "fecha": "2026-04-30",
-      "hora": "20:00",
-      "sala": "Teatro de las Esquinas Vía Univérsitas, 30-32, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/un-dia-feliz/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/3353-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Lex Lüger junto a The Bastard Vampires",
-      "fecha": "2026-04-30",
-      "hora": "21:00",
-      "sala": "Utopia C. de Luis del Valle, 19, Zaragoza, Zaragoza, Spain",
-      "url": "https://aragonenvivo.com/evento/lex-luger-junto-a-the-bastard-vampires/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/1000177955-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "THE CRUZ & THE DUKES OF HARLEM",
-      "fecha": "2026-04-30",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/the-cruz-the-dukes-of-harlem/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "SEÑORA",
       "fecha": "2026-05-01",
@@ -111,12 +84,48 @@
       "descripcion": ""
     },
     {
+      "titulo": "ANNA DUKKE",
+      "fecha": "2026-05-02",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/anna-dukke-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "JOSÉ INSACIABLE + Party Vermú con Sam Tejuelas.",
+      "fecha": "2026-05-03",
+      "hora": "12:30",
+      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/jose-insaciable-party-vermu-con-sam-tejuelas/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-jose-683x1024-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "JAZZ & JAM VOL 5 – IRENE REIG",
+      "fecha": "2026-05-03",
+      "hora": "20:00",
+      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/jazz-jam-vol-5-irene-reig/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "close",
       "fecha": "",
       "hora": "",
       "sala": "Zaragoza",
       "url": "https://www.enjoyzaragoza.es/#",
       "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202012%202161'%3E%3C/svg%3E",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Música al Raso 2026: esta es la programación de conciertos gratuitos en Zaragoza para mayo y junio",
+      "fecha": "",
+      "hora": "",
+      "sala": "Zaragoza",
+      "url": "https://www.enjoyzaragoza.es/programacion-musica-al-raso/",
+      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
       "descripcion": ""
     },
     {
@@ -152,15 +161,6 @@
       "hora": "",
       "sala": "Zaragoza",
       "url": "https://www.enjoyzaragoza.es/concierto-ralphie-choo-zaragoza/",
-      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Música al Raso 2026: esta es la programación de conciertos gratuitos en Zaragoza para mayo y junio",
-      "fecha": "",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.enjoyzaragoza.es/programacion-musica-al-raso/",
       "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
       "descripcion": ""
     },
@@ -228,114 +228,6 @@
       "descripcion": ""
     },
     {
-      "titulo": "MARTÍN GARCÍA GARCÍA",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/martin-garcia-garcia-2/?occurrence=2026-04-08",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/01/Martin-Garcia-Garcia-scaled-e1769777006100-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "KATHARSIS ENSEMBLE",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/katharsis-ensemble-2/?occurrence=2026-04-09",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/08/KENSEMBLE-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "UNA NOCHE DE AMOR DESESPERADA",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/una-noche-de-amor-desesperada/?occurrence=2026-04-09",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/08/AAFF-ZAR-TRI-ENTRADA-Y-O-CARTEL-1280X720-TRIANA-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "ÁNGEL MARTÍN",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/angel-martin-3/?occurrence=2026-04-10",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/05/angel-martin-nuevo-material-zaragoza-6819f9a3a5fe52.36559723-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "FILM SYMPHONY ORCHESTRA: TOON STORY",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/film-symphony-orchestra-toon-story-2/?occurrence=2026-04-11",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/06/toonstory_1240x480-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "DAVID PUERTO",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/david-puerto/?occurrence=2026-04-11",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/09/David-Puerto_post-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "‘¡Martita Sea! Mi Estampa’ Martita de Graná",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/martita-sea-mi-estampa-martita-de-grana/?occurrence=2026-04-12",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/04/16.9-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "AL AYRE ESPAÑOL",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/al-ayre-espanol-7/?occurrence=2026-04-13",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/06/13-ABR-Al-Ayre-Espanol-©-Michal-Novak-2023_MG_1507-1-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Madrid, bajo el volcán",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/madrid-bajo-el-volcan/?occurrence=2026-04-14",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/11/31-temp-Grupo-Enigma-169-2-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "PACHANGA DE LA BUENA",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/pachanga-de-la-buena/?occurrence=2026-04-18",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/11/PACHANGA1200-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "CARLOS MENA & ITXASO SAINZ DE LA MAZA",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/mena-maza/?occurrence=2026-04-20",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/08/Carlos-Mena-150x150.jpeg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "DJ SYMPHONIC & ROYAL FILM CONCERT ORCHESTRA",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/dj-symphonic-royal-film-concert-orchestra-4/?occurrence=2026-04-25",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/11/WEB-ZARA-DJ-SYMPHONIC-1200x675-25-ABR-150x150.jpg",
-      "descripcion": ""
-    },
-    {
       "titulo": "BBC NATIONAL ORCHESTRA OF WALES",
       "fecha": "",
       "hora": "",
@@ -378,6 +270,177 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/bertin-osborne-3/?occurrence=2026-05-02",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/03/BERTIN-OSBORNE-SRA_3-150x150.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "MENTES EXPERTAS CON VÍCTOR KUPPERS",
+      "fecha": "",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/mentes-expertas-con-victor-kuppers-5/?occurrence=2026-05-05",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2020/02/kuppersME-150x150.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "EL ARREBATO",
+      "fecha": "",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/el-arrebato/?occurrence=2026-05-07",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/04/TPYKXFDV5JEA7FYQ5TP2DGUKHE-150x150.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "SEXTO CERTAMEN POP-ROCK 90’S",
+      "fecha": "",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/sexto-certamen-pop-rock-90s/?occurrence=2026-05-09",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/05/Captura-150x150.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "La revolución es una eztétyka",
+      "fecha": "",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/la-revolucion-es-una-eztetyka/?occurrence=2026-05-11",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/12/31-temp-Grupo-Enigma-169-3-150x150.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Led Varela «POPULAR»",
+      "fecha": "",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/led-varela-popular/?occurrence=2026-05-11",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/04/16.9-led-150x150.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "ME CUESTA TANTO OLVIDARTE. HOMENAJE A MECANO",
+      "fecha": "",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/me-cuesta-tanto-olvidarte-homenaje-a-mecano-2/?occurrence=2026-05-15&time=1778877000",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/02/MecanoMovilZaragoza15Mar_prb1-150x150.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LA RUINA",
+      "fecha": "",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/la-ruina/?occurrence=2026-05-16",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2024/10/RUINAZGZ-150x150.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "DELAOSSA",
+      "fecha": "",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/delaossa/?occurrence=2026-05-16",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/04/Delaossa1-150x150.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "PACO MONTALVO",
+      "fecha": "",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/paco-montalvo-2/?occurrence=2026-05-17",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/03/montalvo26-150x150.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "JUDITH JÁUREGUI & QUARTET GERHARD",
+      "fecha": "",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/jauregui-gerhard/?occurrence=2026-05-18",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/08/PORT-ART-SCA-26-1024x536-1-150x150.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "ENRIQUE BAGARIA ORQUESTA CÁMARA VIENA",
+      "fecha": "",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/enrique-bagaria-orquesta-camara-viena/?occurrence=2026-05-19",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/01/ENRIQUE-BAGARIA-150x150.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "ORQUESTA GÜRZENICH DE COLONIA",
+      "fecha": "",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/orquesta-gurzenich-de-colonia/?occurrence=2026-05-21",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/06/21-MAY-ORQUESTA-GURZENICH-DE-COLONIA-ANDRES-OROZCO-ESTRADA-150x150.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Juan Dávila «EL PALACIO DEL PECADO 2.0»",
+      "fecha": "",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/juan-davila-el-palacio-del-pecado-2-0/?occurrence=2026-05-22",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/04/16.9-1-150x150.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Comandante Lara & Cía «VIAJE CON NOSOTROS»",
+      "fecha": "",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/comandante-lara-cia-viaje-con-nosotros/?occurrence=2026-05-23",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/04/16.9-comandante-150x150.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "SÉPTIMO CERTáMEN POP ROCK 90s",
+      "fecha": "",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/septimo-certamen-pop-rock-90s/?occurrence=2026-05-23",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/09/1200x675-150x150.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "CONCIERTO MUSETHICA",
+      "fecha": "",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/concierto-musethica-15/?occurrence=2026-05-23",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/04/Mariano-Garcia-150x150.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "ORQUESTA CONSTELLATIONS",
+      "fecha": "",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/orquesta-constellations/?occurrence=2026-05-29",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/06/29-MAYO-JOHN-ELIOT-GARDINER-150x150.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "100 AÑOS DE CINE",
+      "fecha": "",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/100-anos-de-cine/?occurrence=2026-05-30",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/01/WEB-ZARA-100-ANOS-CINE-41200x675-30-MAY-150x150.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "VÍCTOR MANUEL",
+      "fecha": "",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/victor-manuel-2/?occurrence=2026-05-31",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/10/cad693161eb7bb2fc8cd416a70efcc53-150x150.jpg",
       "descripcion": ""
     }
   ]
