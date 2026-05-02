@@ -1,52 +1,7 @@
 {
-  "actualizado": "2026-05-01T14:49:33.273592",
+  "actualizado": "2026-05-02T07:52:21.322697",
   "total": 49,
   "eventos": [
-    {
-      "titulo": "SEÑORA",
-      "fecha": "2026-05-01",
-      "hora": "20:00",
-      "sala": "Teatro de las Esquinas Vía Univérsitas, 30-32, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/senora/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/senora4-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "VULGARIA + OUTER TOAD",
-      "fecha": "2026-05-01",
-      "hora": "20:30",
-      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/vulgaria-outer-toad/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/v1-819x1024-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "RUINOSA Y LAS STRIPPERS DE RAHOLA",
-      "fecha": "2026-05-01",
-      "hora": "21:00",
-      "sala": "Sala Z C/ Felix Latassa, 14, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/ruinosa-y-las-strippers-de-rahola/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/MG_1042-Mejorado-NR-1536x1024-1.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "TELEPHUNKEN",
-      "fecha": "2026-05-01",
-      "hora": "21:00",
-      "sala": "Oasis Club Teatro C/ Basilio Boggiero,28, Zaragoza, Zaragoza, Spain",
-      "url": "https://aragonenvivo.com/evento/telephunken-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/POST-TELEPHUNKEN-OASIS-IG-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LOS BUENOS VALEDORES",
-      "fecha": "2026-05-01",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/los-buenos-valedores/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "PÔSTHUMA",
       "fecha": "2026-05-02",
@@ -108,6 +63,51 @@
       "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
       "url": "https://aragonenvivo.com/evento/jazz-jam-vol-5-irene-reig/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LOS PALMS (AUSTRALIA)",
+      "fecha": "2026-05-06",
+      "hora": "21:00",
+      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/los-palms-australia/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/press-shot-3-bw-819x1024-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "QUIQUE GOMEZ AND HIS VIPERS",
+      "fecha": "2026-05-06",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/quique-gomez-and-his-vipers/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
+      "fecha": "2026-05-07",
+      "hora": "19:00",
+      "sala": "Teatro de la Estación C./ Domingo Figueras Jariod, 8-10, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "CALLUM BEATTIE",
+      "fecha": "2026-05-07",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/callum-beattie/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "D Valentino",
+      "fecha": "2026-05-07",
+      "hora": "21:00",
+      "sala": "Oasis Club Teatro C/ Basilio Boggiero,28, Zaragoza, Zaragoza, Spain",
+      "url": "https://aragonenvivo.com/evento/d-valentino/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/D.VALENTINO-POST.jpg-2.webp",
       "descripcion": ""
     },
     {
