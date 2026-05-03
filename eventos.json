@@ -1,7 +1,115 @@
 {
-  "actualizado": "2026-05-03T08:09:01.160402",
-  "total": 36,
+  "actualizado": "2026-05-03T14:43:26.393862",
+  "total": 48,
   "eventos": [
+    {
+      "titulo": "JOSÉ INSACIABLE + Party Vermú con Sam Tejuelas.",
+      "fecha": "2026-05-03",
+      "hora": "12:30",
+      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/jose-insaciable-party-vermu-con-sam-tejuelas/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-jose-683x1024-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "JAZZ & JAM VOL 5 – IRENE REIG",
+      "fecha": "2026-05-03",
+      "hora": "20:00",
+      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/jazz-jam-vol-5-irene-reig/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LOS PALMS (AUSTRALIA)",
+      "fecha": "2026-05-06",
+      "hora": "21:00",
+      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/los-palms-australia/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/press-shot-3-bw-819x1024-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "QUIQUE GOMEZ AND HIS VIPERS",
+      "fecha": "2026-05-06",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/quique-gomez-and-his-vipers/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
+      "fecha": "2026-05-07",
+      "hora": "19:00",
+      "sala": "Teatro de la Estación C./ Domingo Figueras Jariod, 8-10, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "CALLUM BEATTIE",
+      "fecha": "2026-05-07",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/callum-beattie/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "D Valentino",
+      "fecha": "2026-05-07",
+      "hora": "21:00",
+      "sala": "Oasis Club Teatro C/ Basilio Boggiero,28, Zaragoza, Zaragoza, Spain",
+      "url": "https://aragonenvivo.com/evento/d-valentino/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/D.VALENTINO-POST.jpg-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
+      "fecha": "2026-05-08",
+      "hora": "19:00",
+      "sala": "Teatro de la Estación C./ Domingo Figueras Jariod, 8-10, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "GUADALUPE PLATA",
+      "fecha": "2026-05-08",
+      "hora": "20:00",
+      "sala": "Sala López C/ Sixto Celorrio, 2, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/guadalupe-plata-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Cartel-Guadalupe-Plata-ZAragoza-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "JUAN MORENO – SE ACABÃ LA SIESTA",
+      "fecha": "2026-05-08",
+      "hora": "20:00",
+      "sala": "Belushi C. de Bernardo Fita, 11, Zaragoza, Zaragoza, Spain",
+      "url": "https://aragonenvivo.com/evento/juan-moreno-se-acaba-la-siesta/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260508_seaca-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Higino + Pedriñanes 77. Fiesta 15 años de Hurrah! Música",
+      "fecha": "2026-05-08",
+      "hora": "20:30",
+      "sala": "La Lata de Bombillas C./ Espoz y Mina, 19, Zaragoza, Zaragoza",
+      "url": "https://aragonenvivo.com/evento/higino-pedrinanes-77-fiesta-15-anos-de-hurrah-musica/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/hurrah.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "SLAPPY AV",
+      "fecha": "2026-05-08",
+      "hora": "21:00",
+      "sala": "La Casa del Loco C/. Mayor 10, Zaragoza, Zaragoza, Spain",
+      "url": "https://aragonenvivo.com/evento/slappy-av-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/664d9d23-bb62-4cda-ab27-1dd06dca6460.avif",
+      "descripcion": ""
+    },
     {
       "titulo": "close",
       "fecha": "",
