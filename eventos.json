@@ -1,25 +1,7 @@
 {
-  "actualizado": "2026-05-03T14:43:26.393862",
+  "actualizado": "2026-05-04T08:37:16.472314",
   "total": 48,
   "eventos": [
-    {
-      "titulo": "JOSÉ INSACIABLE + Party Vermú con Sam Tejuelas.",
-      "fecha": "2026-05-03",
-      "hora": "12:30",
-      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/jose-insaciable-party-vermu-con-sam-tejuelas/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-jose-683x1024-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "JAZZ & JAM VOL 5 – IRENE REIG",
-      "fecha": "2026-05-03",
-      "hora": "20:00",
-      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/jazz-jam-vol-5-irene-reig/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "LOS PALMS (AUSTRALIA)",
       "fecha": "2026-05-06",
@@ -108,6 +90,24 @@
       "sala": "La Casa del Loco C/. Mayor 10, Zaragoza, Zaragoza, Spain",
       "url": "https://aragonenvivo.com/evento/slappy-av-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/664d9d23-bb62-4cda-ab27-1dd06dca6460.avif",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LINKOLN PARK (TRIBUTO A LINKIN PARK)",
+      "fecha": "2026-05-08",
+      "hora": "21:00",
+      "sala": "Oasis Club Teatro C/ Basilio Boggiero,28, Zaragoza, Zaragoza, Spain",
+      "url": "https://aragonenvivo.com/evento/linkoln-park-tributo-a-linkin-park-4/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/A3-IMPRESION-Carteles-Gira-25-26-Linkoln-Park-43-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "HERMANA FURIA",
+      "fecha": "2026-05-08",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/hermana-furia-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
       "descripcion": ""
     },
     {
