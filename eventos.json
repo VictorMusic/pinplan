@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-04T08:37:16.472314",
+  "actualizado": "2026-05-04T15:56:48.333575",
   "total": 48,
   "eventos": [
     {
@@ -27,6 +27,15 @@
       "sala": "Teatro de la Estación C./ Domingo Figueras Jariod, 8-10, Zaragoza, Zaragoza, España",
       "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Quintana Dead Blues eXperience",
+      "fecha": "2026-05-07",
+      "hora": "21:00",
+      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/quintana-dead-blues-experience-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/684896783_1676361011159849_7544698228321480698_n.jpg",
       "descripcion": ""
     },
     {
@@ -84,6 +93,15 @@
       "descripcion": ""
     },
     {
+      "titulo": "HELLMINDS & OJOS NEGROS",
+      "fecha": "2026-05-08",
+      "hora": "21:00",
+      "sala": "La Ley Seca C./ Sevilla, 2, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/hellminds-ojos-negros/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/ley-seca-LOGO-1.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "SLAPPY AV",
       "fecha": "2026-05-08",
       "hora": "21:00",
@@ -93,30 +111,21 @@
       "descripcion": ""
     },
     {
-      "titulo": "LINKOLN PARK (TRIBUTO A LINKIN PARK)",
-      "fecha": "2026-05-08",
-      "hora": "21:00",
-      "sala": "Oasis Club Teatro C/ Basilio Boggiero,28, Zaragoza, Zaragoza, Spain",
-      "url": "https://aragonenvivo.com/evento/linkoln-park-tributo-a-linkin-park-4/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/A3-IMPRESION-Carteles-Gira-25-26-Linkoln-Park-43-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "HERMANA FURIA",
-      "fecha": "2026-05-08",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
-      "url": "https://aragonenvivo.com/evento/hermana-furia-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
-    {
       "titulo": "close",
       "fecha": "",
       "hora": "",
       "sala": "Zaragoza",
       "url": "https://www.enjoyzaragoza.es/#",
       "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202012%202161'%3E%3C/svg%3E",
+      "descripcion": ""
+    },
+    {
+      "titulo": "15 artistas internacionales que actuaron en Zaragoza y que quizás no recuerdas",
+      "fecha": "",
+      "hora": "",
+      "sala": "Zaragoza",
+      "url": "https://www.enjoyzaragoza.es/conciertos-grupos-famosos-zaragoza/",
+      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20315%20400'%3E%3C/svg%3E",
       "descripcion": ""
     },
     {
@@ -197,15 +206,6 @@
       "hora": "",
       "sala": "Zaragoza",
       "url": "https://www.enjoyzaragoza.es/concierto-copacabana-zaragoza/",
-      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Afterwave: el planazo gratuito de The Wave 2026 con conciertos al aire libre en Zaragoza",
-      "fecha": "",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.enjoyzaragoza.es/afterwave/",
       "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
       "descripcion": ""
     },
