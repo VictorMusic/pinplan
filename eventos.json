@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-04T15:56:48.333575",
+  "actualizado": "2026-05-05T08:19:18.206882",
   "total": 48,
   "eventos": [
     {
@@ -84,6 +84,15 @@
       "descripcion": ""
     },
     {
+      "titulo": "FIESTA DISNEY",
+      "fecha": "2026-05-08",
+      "hora": "20:00",
+      "sala": "Sala López C/ Sixto Celorrio, 2, Zaragoza, Zaragoza, España",
+      "url": "https://aragonenvivo.com/evento/fiesta-disney/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_Zaragoza_Lopez-2.webp",
+      "descripcion": ""
+    },
+    {
       "titulo": "Higino + Pedriñanes 77. Fiesta 15 años de Hurrah! Música",
       "fecha": "2026-05-08",
       "hora": "20:30",
@@ -99,15 +108,6 @@
       "sala": "La Ley Seca C./ Sevilla, 2, Zaragoza, Zaragoza, España",
       "url": "https://aragonenvivo.com/evento/hellminds-ojos-negros/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/ley-seca-LOGO-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "SLAPPY AV",
-      "fecha": "2026-05-08",
-      "hora": "21:00",
-      "sala": "La Casa del Loco C/. Mayor 10, Zaragoza, Zaragoza, Spain",
-      "url": "https://aragonenvivo.com/evento/slappy-av-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/664d9d23-bb62-4cda-ab27-1dd06dca6460.avif",
       "descripcion": ""
     },
     {
