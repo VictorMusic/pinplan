@@ -1,4 +1,4 @@
-const CACHE = 'pinplan-v1';
+const CACHE = 'pinplan-v4';
 const STATIC = ['/', '/index.html', '/manifest.json'];
 
 self.addEventListener('install', e => {
@@ -16,11 +16,8 @@ self.addEventListener('activate', e => {
 });
 
 self.addEventListener('fetch', e => {
-  const url = new URL(e.request.url);
-  if (url.pathname.includes('eventos.json')) {
-    e.respondWith(
-      fetch(e.request).catch(() => caches.match(e.request))
-    );
+  if (e.request.url.includes('eventos.json') || e.request.url.includes('salas.json')) {
+    e.respondWith(fetch(e.request).catch(() => caches.match(e.request)));
     return;
   }
   e.respondWith(
