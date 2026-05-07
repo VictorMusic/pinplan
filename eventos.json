@@ -1,21 +1,30 @@
 {
-  "actualizado": "2026-05-07T08:41:57.937630",
-  "total": 48,
+  "actualizado": "2026-05-07T13:57:24.760445",
+  "total": 18,
   "eventos": [
     {
       "titulo": "LLUEVE Y HACE SOL EN PARÍS",
       "fecha": "2026-05-07",
       "hora": "19:00",
-      "sala": "Teatro de la Estación C./ Domingo Figueras Jariod, 8-10, Zaragoza, Zaragoza, España",
+      "sala": "Zaragoza",
       "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "El Arrebato",
+      "fecha": "2026-05-07",
+      "hora": "20:30",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/el-arrebato-3/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/arrebato.jpg",
       "descripcion": ""
     },
     {
       "titulo": "Quintana Dead Blues eXperience",
       "fecha": "2026-05-07",
       "hora": "21:00",
-      "sala": "Sala Creedence Plaza San Lamberto, 3, Zaragoza, Zaragoza, España",
+      "sala": "Zaragoza",
       "url": "https://aragonenvivo.com/evento/quintana-dead-blues-experience-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/684896783_1676361011159849_7544698228321480698_n.jpg",
       "descripcion": ""
@@ -24,7 +33,7 @@
       "titulo": "CALLUM BEATTIE",
       "fecha": "2026-05-07",
       "hora": "21:00",
-      "sala": "Rock & Blues Café C./ Cuatro de Agosto, 5, Zaragoza, Zaragoza, España",
+      "sala": "Zaragoza",
       "url": "https://aragonenvivo.com/evento/callum-beattie/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
       "descripcion": ""
@@ -33,7 +42,7 @@
       "titulo": "D Valentino",
       "fecha": "2026-05-07",
       "hora": "21:00",
-      "sala": "Oasis Club Teatro C/ Basilio Boggiero,28, Zaragoza, Zaragoza, Spain",
+      "sala": "Zaragoza",
       "url": "https://aragonenvivo.com/evento/d-valentino/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/D.VALENTINO-POST.jpg-2.webp",
       "descripcion": ""
@@ -42,7 +51,7 @@
       "titulo": "LLUEVE Y HACE SOL EN PARÍS",
       "fecha": "2026-05-08",
       "hora": "19:00",
-      "sala": "Teatro de la Estación C./ Domingo Figueras Jariod, 8-10, Zaragoza, Zaragoza, España",
+      "sala": "Zaragoza",
       "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
       "descripcion": ""
@@ -51,7 +60,7 @@
       "titulo": "GUADALUPE PLATA",
       "fecha": "2026-05-08",
       "hora": "20:00",
-      "sala": "Sala López C/ Sixto Celorrio, 2, Zaragoza, Zaragoza, España",
+      "sala": "Zaragoza",
       "url": "https://aragonenvivo.com/evento/guadalupe-plata-3/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/Cartel-Guadalupe-Plata-ZAragoza-2.webp",
       "descripcion": ""
@@ -60,7 +69,7 @@
       "titulo": "JUAN MORENO – SE ACABÃ LA SIESTA",
       "fecha": "2026-05-08",
       "hora": "20:00",
-      "sala": "Belushi C. de Bernardo Fita, 11, Zaragoza, Zaragoza, Spain",
+      "sala": "Zaragoza",
       "url": "https://aragonenvivo.com/evento/juan-moreno-se-acaba-la-siesta/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/20260508_seaca-2.webp",
       "descripcion": ""
@@ -69,7 +78,7 @@
       "titulo": "FIESTA DISNEY",
       "fecha": "2026-05-08",
       "hora": "20:00",
-      "sala": "Sala López C/ Sixto Celorrio, 2, Zaragoza, Zaragoza, España",
+      "sala": "Zaragoza",
       "url": "https://aragonenvivo.com/evento/fiesta-disney/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_Zaragoza_Lopez-2.webp",
       "descripcion": ""
@@ -78,7 +87,7 @@
       "titulo": "Higino + Pedriñanes 77. Fiesta 15 años de Hurrah! Música",
       "fecha": "2026-05-08",
       "hora": "20:30",
-      "sala": "La Lata de Bombillas C./ Espoz y Mina, 19, Zaragoza, Zaragoza",
+      "sala": "Zaragoza",
       "url": "https://aragonenvivo.com/evento/higino-pedrinanes-77-fiesta-15-anos-de-hurrah-musica/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/hurrah.webp",
       "descripcion": ""
@@ -87,7 +96,7 @@
       "titulo": "HELLMINDS & OJOS NEGROS",
       "fecha": "2026-05-08",
       "hora": "21:00",
-      "sala": "La Ley Seca C./ Sevilla, 2, Zaragoza, Zaragoza, España",
+      "sala": "Zaragoza",
       "url": "https://aragonenvivo.com/evento/hellminds-ojos-negros/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/ley-seca-LOGO-1.jpg",
       "descripcion": ""
@@ -96,7 +105,7 @@
       "titulo": "SLAPPY AV",
       "fecha": "2026-05-08",
       "hora": "21:00",
-      "sala": "La Casa del Loco C/. Mayor 10, Zaragoza, Zaragoza, Spain",
+      "sala": "Zaragoza",
       "url": "https://aragonenvivo.com/evento/slappy-av-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/664d9d23-bb62-4cda-ab27-1dd06dca6460.avif",
       "descripcion": ""
@@ -105,333 +114,54 @@
       "titulo": "LINKOLN PARK (TRIBUTO A LINKIN PARK)",
       "fecha": "2026-05-08",
       "hora": "21:00",
-      "sala": "Oasis Club Teatro C/ Basilio Boggiero,28, Zaragoza, Zaragoza, Spain",
+      "sala": "Zaragoza",
       "url": "https://aragonenvivo.com/evento/linkoln-park-tributo-a-linkin-park-4/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/A3-IMPRESION-Carteles-Gira-25-26-Linkoln-Park-43-2.webp",
       "descripcion": ""
     },
     {
-      "titulo": "close",
-      "fecha": "",
+      "titulo": "Saltar al contenido",
+      "fecha": "2026-05-08",
       "hora": "",
       "sala": "Zaragoza",
-      "url": "https://www.enjoyzaragoza.es/#",
-      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202012%202161'%3E%3C/svg%3E",
+      "url": "https://aragonenvivo.com/#content",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/logo-aragon-en-vivo.svg",
       "descripcion": ""
     },
     {
-      "titulo": "15 artistas internacionales que actuaron en Zaragoza y que quizás no recuerdas",
-      "fecha": "",
+      "titulo": "Lista",
+      "fecha": "2026-05-08",
       "hora": "",
       "sala": "Zaragoza",
-      "url": "https://www.enjoyzaragoza.es/conciertos-grupos-famosos-zaragoza/",
-      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20315%20400'%3E%3C/svg%3E",
+      "url": "https://aragonenvivo.com/eventos/lista/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
       "descripcion": ""
     },
     {
-      "titulo": "Música al Raso 2026: esta es la programación de conciertos gratuitos en Zaragoza para mayo y junio",
-      "fecha": "",
-      "hora": "",
+      "titulo": "Pedro Pastor",
+      "fecha": "2026-05-09",
+      "hora": "20:00",
       "sala": "Zaragoza",
-      "url": "https://www.enjoyzaragoza.es/programacion-musica-al-raso/",
-      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
+      "url": "https://zgzconciertos.com/concierto/pedro-pastor/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/pedro-pastor.jpg",
       "descripcion": ""
     },
     {
-      "titulo": "“Nuevos Escenarios Musicales”: conciertos gratis de jazz, electrónica y vanguardia en un templo histórico de Zaragoza",
-      "fecha": "",
+      "titulo": "Melon Diesel",
+      "fecha": "2026-05-09",
       "hora": "",
+      "sala": "Sala Oasis",
+      "url": "https://www.setlist.fm/setlist/melon-diesel/2026/sala-oasis-zaragoza-spain-34bc507.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Dani Martín",
+      "fecha": "2026-05-22",
+      "hora": "21:00",
       "sala": "Zaragoza",
-      "url": "https://www.enjoyzaragoza.es/festival-nuevos-escenarios-musicales/",
-      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Silvana Estrada: una de las voces más destacadas del panorama latinoamericano actual llega a Zaragoza con un concierto en mayo",
-      "fecha": "",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.enjoyzaragoza.es/concierto-silvana-estrada-zaragoza/",
-      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
-      "descripcion": ""
-    },
-    {
-      "titulo": "María Arnal: una de las voces más innovadoras del panorama actual ofrecerá un concierto en Zaragoza",
-      "fecha": "",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.enjoyzaragoza.es/concierto-maria-arnal-zaragoza/",
-      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Ralphie Choo: uno de los nombres más influyentes de la nueva escena urbana española actuará en Zaragoza",
-      "fecha": "",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.enjoyzaragoza.es/concierto-ralphie-choo-zaragoza/",
-      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Vive Latino 2026 en Zaragoza: cartel por días y entradas",
-      "fecha": "",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.enjoyzaragoza.es/programacion-vive-latino-zaragoza/",
-      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Estos son los próximos conciertos en el Pabellón Príncipe Felipe de Zaragoza en 2026",
-      "fecha": "",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.enjoyzaragoza.es/conciertos-pabellon-principe-felipe/",
-      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Esta es toda la programación musical del festival Zaragoza Florece 2026",
-      "fecha": "",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.enjoyzaragoza.es/programacion-musical-zaragoza-florece/",
-      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
-      "descripcion": ""
-    },
-    {
-      "titulo": "De arrasar en The Wave a seguir conquistando Zaragoza: el nuevo concierto de Copacabana que no te puedes perder",
-      "fecha": "",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.enjoyzaragoza.es/concierto-copacabana-zaragoza/",
-      "imagen": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20840%20500'%3E%3C/svg%3E",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Ver la Agenda",
-      "fecha": "",
-      "hora": "",
-      "sala": "Sala Creedence",
-      "url": "https://creedencesound.com/sala-creedence-conciertos-y-sesiones",
-      "imagen": "https://creedencesound.com/wp-content/uploads/2024/02/concierto_creedence_jaime_oriz-1024x1024.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "CONOCE LA LATA",
-      "fecha": "",
-      "hora": "",
-      "sala": "La Lata de Bombillas",
-      "url": "https://lalatadebombillas.es/la-sala/",
-      "imagen": "//lalatadebombillas.es/wp-content/plugins/revslider/public/assets/assets/dummy.png",
-      "descripcion": ""
-    },
-    {
-      "titulo": "BBC NATIONAL ORCHESTRA OF WALES",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/bbc-national-orchestra-of-wales/?occurrence=2026-04-27",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/06/27-ABRIL-bbc-nacional-orchestra-Akiko-Suwanai_007-c-Marco-Borggreve-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "GALA MUJERES",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/gala-mujeres-2/?occurrence=2026-04-28",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/04/mujeres2026-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "CLAUDIO CONSTANTINI & DANA ZEMTSOV",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/constantini-mentsov/?occurrence=2026-04-30",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/08/ZEMTSOV-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LA GRABACIÓN",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/la-grabacion/?occurrence=2026-05-02",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/03/CARTEL-LA-GRABACION-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "BERTÍN OSBORNE",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/bertin-osborne-3/?occurrence=2026-05-02",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/03/BERTIN-OSBORNE-SRA_3-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "MENTES EXPERTAS CON VÍCTOR KUPPERS",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/mentes-expertas-con-victor-kuppers-5/?occurrence=2026-05-05",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2020/02/kuppersME-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "EL ARREBATO",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/el-arrebato/?occurrence=2026-05-07",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/04/TPYKXFDV5JEA7FYQ5TP2DGUKHE-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "SEXTO CERTAMEN POP-ROCK 90’S",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/sexto-certamen-pop-rock-90s/?occurrence=2026-05-09",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/05/Captura-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "La revolución es una eztétyka",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/la-revolucion-es-una-eztetyka/?occurrence=2026-05-11",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/12/31-temp-Grupo-Enigma-169-3-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Led Varela «POPULAR»",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/led-varela-popular/?occurrence=2026-05-11",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/04/16.9-led-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "ME CUESTA TANTO OLVIDARTE. HOMENAJE A MECANO",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/me-cuesta-tanto-olvidarte-homenaje-a-mecano-2/?occurrence=2026-05-15&time=1778877000",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/02/MecanoMovilZaragoza15Mar_prb1-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LA RUINA",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/la-ruina/?occurrence=2026-05-16",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2024/10/RUINAZGZ-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "DELAOSSA",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/delaossa/?occurrence=2026-05-16",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/04/Delaossa1-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "JUDITH JÁUREGUI & QUARTET GERHARD",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/jauregui-gerhard/?occurrence=2026-05-18",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/08/PORT-ART-SCA-26-1024x536-1-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "ENRIQUE BAGARIA ORQUESTA CÁMARA VIENA",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/enrique-bagaria-orquesta-camara-viena/?occurrence=2026-05-19",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/01/ENRIQUE-BAGARIA-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "ORQUESTA GÜRZENICH DE COLONIA",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/orquesta-gurzenich-de-colonia/?occurrence=2026-05-21",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/06/21-MAY-ORQUESTA-GURZENICH-DE-COLONIA-ANDRES-OROZCO-ESTRADA-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Juan Dávila «EL PALACIO DEL PECADO 2.0»",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/juan-davila-el-palacio-del-pecado-2-0/?occurrence=2026-05-22",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/04/16.9-1-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Comandante Lara & Cía «VIAJE CON NOSOTROS»",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/comandante-lara-cia-viaje-con-nosotros/?occurrence=2026-05-23",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/04/16.9-comandante-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "SÉPTIMO CERTáMEN POP ROCK 90s",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/septimo-certamen-pop-rock-90s/?occurrence=2026-05-23",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/09/1200x675-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "CONCIERTO MUSETHICA",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/concierto-musethica-15/?occurrence=2026-05-23",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/04/Mariano-Garcia-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "ORQUESTA CONSTELLATIONS",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/orquesta-constellations/?occurrence=2026-05-29",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/06/29-MAYO-JOHN-ELIOT-GARDINER-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "100 AÑOS DE CINE",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/100-anos-de-cine/?occurrence=2026-05-30",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/01/WEB-ZARA-100-ANOS-CINE-41200x675-30-MAY-150x150.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "VÍCTOR MANUEL",
-      "fecha": "",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/victor-manuel-2/?occurrence=2026-05-31",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/10/cad693161eb7bb2fc8cd416a70efcc53-150x150.jpg",
+      "url": "https://zgzconciertos.com/concierto/dani-martin/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2025/06/dani-martin.jpg",
       "descripcion": ""
     }
   ]
