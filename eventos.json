@@ -1,16 +1,7 @@
 {
-  "actualizado": "2026-05-08T16:17:39.368157",
-  "total": 15,
+  "actualizado": "2026-05-08T20:53:02.687918",
+  "total": 17,
   "eventos": [
-    {
-      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
-      "fecha": "2026-05-08",
-      "hora": "19:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "GUADALUPE PLATA",
       "fecha": "2026-05-08",
@@ -111,12 +102,39 @@
       "descripcion": ""
     },
     {
+      "titulo": "BLANDËNGUES",
+      "fecha": "2026-05-09",
+      "hora": "12:30",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/blandengues/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/diseno-sin-titulo-2-724x1024-1.webp",
+      "descripcion": ""
+    },
+    {
       "titulo": "Pedro Pastor",
       "fecha": "2026-05-09",
       "hora": "20:00",
       "sala": "Zaragoza",
       "url": "https://zgzconciertos.com/concierto/pedro-pastor/",
       "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/pedro-pastor.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Saltar al contenido",
+      "fecha": "2026-05-09",
+      "hora": "",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/#content",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/logo-aragon-en-vivo.svg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Lista",
+      "fecha": "2026-05-09",
+      "hora": "",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/eventos/lista/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Cartel-Guadalupe-Plata-ZAragoza-2.webp",
       "descripcion": ""
     },
     {
