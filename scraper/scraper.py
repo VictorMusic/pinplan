@@ -9,6 +9,7 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
 }
 
+# Load salas for name normalization
 _SALAS = []
 _salas_file = pathlib.Path(__file__).parent.parent / 'salas.json'
 if _salas_file.exists():
@@ -96,14 +97,34 @@ def extract_tribe(soup, sala_default, base_url):
         if items: articles = items; break
     for art in articles:
         title_el = art.select_one("h2 a, h3 a, .entry-title a, .tribe-events-list-event-title a")
-        date_el = art.select_one("time[datetime], .tribe-event-date-start, [class*='tribe-event-date']")
-        loc_el = art.select_one(".tribe-venue, [class*='tribe-venue']")
+        # Try multiple date selectors aggressively
+        date_el = art.select_one(
+            "time[datetime], abbr[title], .tribe-event-date-start, "
+            "[class*='tribe-event-date'], [class*='event-date'], "
+            "[class*='date-start'], .entry-date, .published"
+        )
+        loc_el = art.select_one(".tribe-venue, [class*='tribe-venue'], [class*='venue']")
         img_el = art.select_one("img")
         link_el = art.select_one("a[href]")
         title = normalize(title_el.get_text()) if title_el else ""
         if not title or len(title) < 3: continue
-        fecha_raw = (date_el.get("datetime","") or date_el.get_text()) if date_el else ""
-        hora_el = art.select_one("[class*='time'], .tribe-events-schedule")
+        
+        # Get date from multiple sources
+        fecha_raw = ""
+        if date_el:
+            fecha_raw = (date_el.get("datetime","") or 
+                        date_el.get("title","") or 
+                        date_el.get("content","") or 
+                        date_el.get_text())
+        
+        # Also check link URL for date pattern (many WP sites have /2025/05/15/ in URL)
+        if not parse_date(fecha_raw) and link_el:
+            href_date = link_el.get("href","")
+            m = re.search(r"/(202[0-9])/(\d{2})/(\d{2})/", href_date)
+            if m:
+                fecha_raw = f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
+        
+        hora_el = art.select_one("[class*='time'], .tribe-events-schedule, [class*='hora']")
         hora_raw = hora_el.get_text() if hora_el else fecha_raw
         sala = normalize(loc_el.get_text()) if loc_el else sala_default
         href = link_el["href"] if link_el else base_url
@@ -111,6 +132,7 @@ def extract_tribe(soup, sala_default, base_url):
         img = (img_el.get("src","") or img_el.get("data-src","")) if img_el else ""
         events.append(make_event(title, parse_date(fecha_raw) or "", parse_time(hora_raw), sala or sala_default, href, img))
     return events
+
 
 def scrape_generic(url, sala_name, base_url):
     r = get(url)
@@ -120,17 +142,28 @@ def scrape_generic(url, sala_name, base_url):
     if not evs:
         for art in soup.select("article, .event, [class*='event'], [class*='concierto']"):
             title_el = art.select_one("h2 a, h3 a, h4 a, .entry-title a, a")
-            date_el = art.select_one("time, [class*='date'], [class*='fecha']")
+            date_el = art.select_one(
+                "time, [class*='date'], [class*='fecha'], "
+                "abbr[title], [itemprop='startDate'], [class*='cuando']"
+            )
             img_el = art.select_one("img")
             link_el = art.select_one("a[href]")
             title = normalize(title_el.get_text()) if title_el else ""
             if not title or len(title) < 3: continue
-            fecha_raw = (date_el.get("datetime","") or date_el.get_text()) if date_el else ""
+            fecha_raw = ""
+            if date_el:
+                fecha_raw = (date_el.get("datetime","") or date_el.get("title","") or
+                            date_el.get("content","") or date_el.get_text())
+            # Try URL date pattern
+            if not parse_date(fecha_raw) and link_el:
+                m = re.search(r"/(202[0-9])/(\d{2})/(\d{2})/", link_el.get("href",""))
+                if m: fecha_raw = f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
             href = link_el["href"] if link_el else base_url
             if href and not href.startswith("http"): href = base_url.rstrip("/") + "/" + href.lstrip("/")
             evs.append(make_event(title, parse_date(fecha_raw) or "", parse_time(fecha_raw),
                 sala_name, href, img_el.get("src","") if img_el else ""))
     return evs
+
 
 def scrape_zgzconciertos():
     evs = scrape_generic("https://zgzconciertos.com/agenda/lista/", "Zaragoza", "https://zgzconciertos.com")
@@ -236,41 +269,82 @@ def scrape_setlistfm(api_key=None):
         api_key = os.environ.get('SETLISTFM_API_KEY','')
     if not api_key:
         print('  setlist.fm: no API key'); return []
+    """Setlist.fm — upcoming concerts in Zaragoza."""
     events = []
-    headers = {"x-api-key": api_key, "Accept": "application/json", "Accept-Language": "es"}
+    headers = {
+        "x-api-key": api_key,
+        "Accept": "application/json",
+        "Accept-Language": "es"
+    }
     today = date.today().isoformat()
     cutoff = (date.today() + timedelta(days=30)).isoformat()
+
     try:
-        r = requests.get("https://api.setlist.fm/rest/1.0/search/setlists",
-            headers=headers, params={"cityName":"Zaragoza","countryCode":"ES","p":1}, timeout=12)
+        # Search upcoming events in Zaragoza
+        url = "https://api.setlist.fm/rest/1.0/search/setlists"
+        params = {
+            "cityName": "Zaragoza",
+            "countryCode": "ES",
+            "p": 1
+        }
+        r = requests.get(url, headers=headers, params=params, timeout=12)
         if r.status_code != 200:
-            print(f"  setlist.fm: HTTP {r.status_code}"); return events
-        for sl in r.json().get("setlist", []):
-            fecha_raw = sl.get("eventDate","")
+            print(f"  setlist.fm: HTTP {r.status_code}")
+            return events
+        data = r.json()
+        setlists = data.get("setlist", [])
+        for sl in setlists:
+            # eventDate format: dd-MM-yyyy
+            fecha_raw = sl.get("eventDate", "")
             if fecha_raw:
                 parts = fecha_raw.split("-")
-                if len(parts) == 3: fecha = f"{parts[2]}-{parts[1]}-{parts[0]}"
-                else: continue
-            else: continue
-            if fecha < today or fecha > cutoff: continue
-            artist = sl.get("artist",{}).get("name","")
-            if not artist: continue
-            venue = sl.get("venue",{})
-            if venue.get("city",{}).get("name","").lower() != "zaragoza": continue
-            events.append(make_event(artist, fecha, "", venue.get("name","Zaragoza"), sl.get("url",""), "", ""))
+                if len(parts) == 3:
+                    fecha = f"{parts[2]}-{parts[1]}-{parts[0]}"
+                else:
+                    continue
+            else:
+                continue
+            # Only future events
+            if fecha < today or fecha > cutoff:
+                continue
+            artist = sl.get("artist", {}).get("name", "")
+            if not artist:
+                continue
+            venue = sl.get("venue", {})
+            sala = venue.get("name", "Zaragoza")
+            ciudad = venue.get("city", {}).get("name", "")
+            if ciudad.lower() != "zaragoza":
+                continue
+            events.append(make_event(
+                artist,
+                fecha,
+                "",  # setlist.fm doesn't provide time
+                sala,
+                sl.get("url", ""),
+                "",
+                ""
+            ))
     except Exception as e:
         print(f"  setlist.fm error: {e}")
-    print(f"  setlist.fm: {len(events)}"); return events
+
+    print(f"  setlist.fm: {len(events)}")
+    return events
+
 
 def normalize_title(t):
+    """Normalize title for dedup comparison."""
     t = t.lower().strip()
+    # Remove common suffixes like "+ support", "en directo", etc.
     t = re.sub(r'\s*[+&]\s*.{1,30}$', '', t)
     t = re.sub(r'\s+(en\s+directo|directo|live|tour|\d{4})\s*$', '', t)
+    # Remove all non-alphanumeric
     t = re.sub(r'[^a-záéíóúüñ0-9]', '', t)
     return t[:30]
 
 def deduplicate(events):
+    # First pass: remove events with no fecha
     events = [e for e in events if e["fecha"]]
+    
     seen = {}
     for e in events:
         key = (normalize_title(e["titulo"]), e["fecha"])
@@ -321,10 +395,15 @@ def main():
         time.sleep(1.5)
 
     print(f"\nBruto: {len(all_events)}")
+    con_fecha = [e for e in all_events if e["fecha"]]
+    print(f"  Con fecha: {len(con_fecha)} / Sin fecha: {len(all_events)-len(con_fecha)}")
     all_events = deduplicate(all_events)
     all_events = filter_future(all_events)
     all_events = sort_events(all_events)
     print(f"Limpio: {len(all_events)}")
+    if all_events:
+        fechas = sorted(set(e["fecha"] for e in all_events))
+        print(f"  Fechas: {fechas[0]} → {fechas[-1]}")
 
     output = {"actualizado": datetime.now().isoformat(), "total": len(all_events), "eventos": all_events}
     out_path = pathlib.Path(__file__).parent.parent / 'eventos.json'
