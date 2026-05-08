@@ -342,12 +342,11 @@ def normalize_title(t):
     return t[:30]
 
 def deduplicate(events):
-    # First pass: remove events with no fecha
     events = [e for e in events if e["fecha"]]
-    
     seen = {}
     for e in events:
-        key = (normalize_title(e["titulo"]), e["fecha"])
+        title_key = e["titulo"].lower().strip()[:50]
+        key = (title_key, e["fecha"])
         if key not in seen:
             seen[key] = e
         else:
