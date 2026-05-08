@@ -1,34 +1,7 @@
 {
-  "actualizado": "2026-05-07T21:01:10.092125",
-  "total": 18,
+  "actualizado": "2026-05-08T05:17:09.999551",
+  "total": 15,
   "eventos": [
-    {
-      "titulo": "El Arrebato",
-      "fecha": "2026-05-07",
-      "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/el-arrebato-3/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/arrebato.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "CALLUM BEATTIE",
-      "fecha": "2026-05-07",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/callum-beattie/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "D Valentino",
-      "fecha": "2026-05-07",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/d-valentino/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/D.VALENTINO-POST.jpg-2.webp",
-      "descripcion": ""
-    },
     {
       "titulo": "LLUEVE Y HACE SOL EN PARÍS",
       "fecha": "2026-05-08",
@@ -120,21 +93,21 @@
       "descripcion": ""
     },
     {
-      "titulo": "Saltar al contenido",
+      "titulo": "ALGO TÓXICO + GO TO THE DOGS",
       "fecha": "2026-05-08",
-      "hora": "",
+      "hora": "21:00",
       "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/#content",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/logo-aragon-en-vivo.svg",
+      "url": "https://aragonenvivo.com/evento/algo-toxico-go-to-the-dogs/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/cartel-go-to-the-dog-767x1024-1.webp",
       "descripcion": ""
     },
     {
-      "titulo": "Lista",
+      "titulo": "JAVI DURÃN – JAVI DURAN",
       "fecha": "2026-05-08",
-      "hora": "",
+      "hora": "22:00",
       "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/eventos/lista/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "url": "https://aragonenvivo.com/evento/javi-dura-n-javi-duran/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260508_JAVIDURANDOPAMINA-2.webp",
       "descripcion": ""
     },
     {
