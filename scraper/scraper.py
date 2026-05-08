@@ -342,11 +342,12 @@ def normalize_title(t):
     return t[:30]
 
 def deduplicate(events):
+    # First pass: remove events with no fecha
     events = [e for e in events if e["fecha"]]
+    
     seen = {}
     for e in events:
-        title_key = e["titulo"].lower().strip()[:50]
-        key = (title_key, e["fecha"])
+        key = (normalize_title(e["titulo"]), e["fecha"])
         if key not in seen:
             seen[key] = e
         else:
@@ -396,6 +397,12 @@ def main():
     print(f"\nBruto: {len(all_events)}")
     con_fecha = [e for e in all_events if e["fecha"]]
     print(f"  Con fecha: {len(con_fecha)} / Sin fecha: {len(all_events)-len(con_fecha)}")
+    # Show unique titles before dedup
+    titulos_con_fecha = [(e["titulo"][:40], e["fecha"]) for e in con_fecha]
+    from collections import Counter
+    title_counts = Counter(e["titulo"].lower().strip()[:50] for e in con_fecha)
+    print(f"  Titulos unicos con fecha: {len(title_counts)}")
+    print(f"  Top repetidos: {title_counts.most_common(5)}")
     all_events = deduplicate(all_events)
     all_events = filter_future(all_events)
     all_events = sort_events(all_events)
