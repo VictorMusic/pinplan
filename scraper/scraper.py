@@ -369,7 +369,7 @@ def deduplicate(events):
     
     seen = {}
     for e in events:
-        key = (normalize_title(e["titulo"]), e["fecha"])
+        key = (e["titulo"].lower().strip()[:50], e["fecha"])
         if key not in seen:
             seen[key] = e
         else:
