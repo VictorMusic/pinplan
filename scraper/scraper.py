@@ -182,18 +182,23 @@ def scrape_enjoyzaragoza():
 
 def scrape_sala_lopez():
     evs = []
-    for url in ["https://salalopez.com/eventos/", "https://salalopez.com/conciertos/", "https://salalopez.com/"]:
+    for url in ["https://salalopez.com/eventos/"]:
         evs = scrape_generic(url, "Sala López", "https://salalopez.com")
         if evs: break
     print(f"  sala lopez: {len(evs)}"); return evs
 
 def scrape_sala_oasis():
-    evs = scrape_generic("https://www.salaoasis.com/agenda-oasis/", "Sala Oasis", "https://www.salaoasis.com")
+    evs = []
+    for url in ["https://www.salaoasis.com/agenda-oasis/",
+                "https://www.salaoasis.com/agenda/",
+                "https://www.salaoasis.com/"]:
+        evs = scrape_generic(url, "Sala Oasis", "https://www.salaoasis.com")
+        if evs: break
     print(f"  sala oasis: {len(evs)}"); return evs
 
 def scrape_creedence():
     evs = []
-    for url in ["https://creedencesound.com/eventos/", "https://creedencesound.com/conciertos/", "https://creedencesound.com/"]:
+    for url in ["https://creedencesound.com/sala-creedence-conciertos-y-sesiones", "https://creedencesound.com/"]:
         evs = scrape_generic(url, "Sala Creedence", "https://creedencesound.com")
         if evs: break
     print(f"  creedence: {len(evs)}"); return evs
@@ -208,16 +213,15 @@ def scrape_lata_bombillas():
 
 def scrape_rock_blues():
     evs = []
-    for url in ["https://www.rockandbluescafe.com/conciertos/", "https://www.rockandbluescafe.com/"]:
+    for url in ["https://www.rockandbluescafe.com/", "https://www.rockandbluescafe.com/agenda/", "https://www.rockandbluescafe.com/eventos/"]:
         evs = scrape_generic(url, "Rock & Blues Café", "https://www.rockandbluescafe.com")
         if evs: break
     print(f"  rock&blues: {len(evs)}"); return evs
 
 def scrape_teatro_esquinas():
     evs = []
-    for url in ["https://www.teatrodelasesquinas.com/es/programacion-de-teatro-y-conciertos.html",
-                "https://www.teatrodelasesquinas.com/es/programacion/",
-                "https://www.teatrodelasesquinas.com/"]:
+    for url in ["https://www.teatrodelasesquinas.com/es/programacion-de-teatro-y-conciertos.html?ordre=data_propera_funcio&daterange=&filtre_espais%5B%5D=all&cf%5B9%5D%5B%5D=17&filtre_historic=0",
+                "https://www.teatrodelasesquinas.com/es/programacion-de-teatro-y-conciertos.html"]:
         evs = scrape_generic(url, "Teatro de las Esquinas", "https://www.teatrodelasesquinas.com")
         if evs: break
     print(f"  teatro esquinas: {len(evs)}"); return evs
@@ -330,6 +334,24 @@ def scrape_setlistfm(api_key=None):
     print(f"  setlist.fm: {len(events)}")
     return events
 
+def scrape_casa_loco():
+    evs = []
+    for url in ["https://www.locozaragozadiscoteca.com/",
+                "https://www.arenarock.es/sala/la-casa-del-loco/",
+                "https://lacasadelloco.es/"]:
+        evs = scrape_generic(url, "La Casa del Loco", "https://www.locozaragozadiscoteca.com")
+        if evs: break
+    print(f"  casa del loco: {len(evs)}"); return evs
+
+def scrape_arenarock():
+    """Arenarock.es - aggregator for Zaragoza venues."""
+    evs = scrape_generic("https://www.arenarock.es/eventos/", "Zaragoza", "https://www.arenarock.es")
+    # Filter only Zaragoza events
+    evs = [e for e in evs if not e["sala"] or "zaragoza" in e["sala"].lower()
+           or e["sala"] in ["Zaragoza", "La Casa del Loco", "Sala Z", "Sala Oasis",
+                             "Rock & Blues Café", "Sala Creedence"]]
+    print(f"  arenarock: {len(evs)}"); return evs
+
 
 def normalize_title(t):
     """Normalize title for dedup comparison."""
@@ -342,11 +364,12 @@ def normalize_title(t):
     return t[:30]
 
 def deduplicate(events):
+    # First pass: remove events with no fecha
     events = [e for e in events if e["fecha"]]
+    
     seen = {}
     for e in events:
-        title_key = e["titulo"].lower().strip()[:50]
-        key = (title_key, e["fecha"])
+        key = (normalize_title(e["titulo"]), e["fecha"])
         if key not in seen:
             seen[key] = e
         else:
@@ -383,6 +406,8 @@ def main():
         ("Songkick",             scrape_songkick),
         ("Green Heart",          scrape_green_heart),
         ("Setlist.fm",           scrape_setlistfm),
+        ("La Casa del Loco",    scrape_casa_loco),
+        ("Arenarock",           scrape_arenarock),
     ]
     for name, fn in scrapers:
         print(f"\n[{name}]")
