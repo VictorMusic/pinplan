@@ -1,34 +1,7 @@
 {
-  "actualizado": "2026-05-09T11:52:02.796517",
-  "total": 16,
+  "actualizado": "2026-05-09T15:58:39.695295",
+  "total": 3,
   "eventos": [
-    {
-      "titulo": "BLANDËNGUES",
-      "fecha": "2026-05-09",
-      "hora": "12:30",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/blandengues/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/diseno-sin-titulo-2-724x1024-1.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
-      "fecha": "2026-05-09",
-      "hora": "19:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-3/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LUDWING GOMEZ",
-      "fecha": "2026-05-09",
-      "hora": "19:30",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/ludwing-gomez-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/2026050920-1.webp",
-      "descripcion": ""
-    },
     {
       "titulo": "Pedro Pastor",
       "fecha": "2026-05-09",
@@ -39,102 +12,12 @@
       "descripcion": ""
     },
     {
-      "titulo": "Melon Diesel: La gira de Mr Bond",
-      "fecha": "2026-05-09",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/melon-diesel-la-gira-de-mr-bond/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/23791b68-1c7c-4b64-8f64-72c6048249cb-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "ELNIÃO DE LA HIPOTECA – EL NIÃO DE LA HIPOTECA",
-      "fecha": "2026-05-09",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/elnia-o-de-la-hipoteca-el-nia-o-de-la-hipoteca/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260509hip1-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "EH, MERTXE!",
-      "fecha": "2026-05-09",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/eh-mertxe-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/ehmertze-zaragoza-a3-e1776188065331-932x1024-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "MAD MARTÍN TRIO",
-      "fecha": "2026-05-09",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/mad-martin-trio-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "UÑA Y CARNE",
-      "fecha": "2026-05-09",
-      "hora": "21:30",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/una-y-carne/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/imgi_1_descarga.jpeg",
-      "descripcion": ""
-    },
-    {
       "titulo": "Melon Diesel",
       "fecha": "2026-05-09",
       "hora": "",
       "sala": "Sala Oasis",
       "url": "https://www.setlist.fm/setlist/melon-diesel/2026/sala-oasis-zaragoza-spain-34bc507.html",
       "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Chris Stamey (dB’s, Big Star Quintet/USA)",
-      "fecha": "2026-05-10",
-      "hora": "18:30",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/chris-stamey-db-s-big-star-quintet-usa/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/CHRIS_STAMEY_659c-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
-      "fecha": "2026-05-10",
-      "hora": "19:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-4/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "DAVID RODRI – SIEMPRE PUEDE SER PEOR",
-      "fecha": "2026-05-10",
-      "hora": "19:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/david-rodri-siempre-puede-ser-peor/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260510_DAVIDR-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Saltar al contenido",
-      "fecha": "2026-05-10",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/#content",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/logo-aragon-en-vivo.svg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Lista",
-      "fecha": "2026-05-10",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/eventos/lista/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/diseno-sin-titulo-2-724x1024-1.webp",
       "descripcion": ""
     },
     {
