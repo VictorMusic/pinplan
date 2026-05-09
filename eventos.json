@@ -1,106 +1,7 @@
 {
-  "actualizado": "2026-05-08T20:53:02.687918",
-  "total": 17,
+  "actualizado": "2026-05-09T08:27:16.451470",
+  "total": 16,
   "eventos": [
-    {
-      "titulo": "GUADALUPE PLATA",
-      "fecha": "2026-05-08",
-      "hora": "20:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/guadalupe-plata-3/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Cartel-Guadalupe-Plata-ZAragoza-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "JUAN MORENO – SE ACABÃ LA SIESTA",
-      "fecha": "2026-05-08",
-      "hora": "20:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/juan-moreno-se-acaba-la-siesta/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260508_seaca-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "FIESTA DISNEY",
-      "fecha": "2026-05-08",
-      "hora": "20:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/fiesta-disney/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_Zaragoza_Lopez-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Higino + Pedriñanes 77. Fiesta 15 años de Hurrah! Música",
-      "fecha": "2026-05-08",
-      "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/higino-pedrinanes-77-fiesta-15-anos-de-hurrah-musica/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/hurrah.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "HELLMINDS & OJOS NEGROS",
-      "fecha": "2026-05-08",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/hellminds-ojos-negros/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/ley-seca-LOGO-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "SLAPPY AV",
-      "fecha": "2026-05-08",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/slappy-av-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/664d9d23-bb62-4cda-ab27-1dd06dca6460.avif",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LINKOLN PARK (TRIBUTO A LINKIN PARK)",
-      "fecha": "2026-05-08",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/linkoln-park-tributo-a-linkin-park-4/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/A3-IMPRESION-Carteles-Gira-25-26-Linkoln-Park-43-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "HERMANA FURIA",
-      "fecha": "2026-05-08",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/hermana-furia-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "RICHI Y LOS RICHIS",
-      "fecha": "2026-05-08",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/richi-y-los-richis-4/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260508_RICHIIIII.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "ALGO TÓXICO + GO TO THE DOGS",
-      "fecha": "2026-05-08",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/algo-toxico-go-to-the-dogs/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/cartel-go-to-the-dog-767x1024-1.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "JAVI DURÃN – JAVI DURAN",
-      "fecha": "2026-05-08",
-      "hora": "22:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/javi-dura-n-javi-duran/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260508_JAVIDURANDOPAMINA-2.webp",
-      "descripcion": ""
-    },
     {
       "titulo": "BLANDËNGUES",
       "fecha": "2026-05-09",
@@ -108,6 +9,24 @@
       "sala": "Zaragoza",
       "url": "https://aragonenvivo.com/evento/blandengues/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/diseno-sin-titulo-2-724x1024-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
+      "fecha": "2026-05-09",
+      "hora": "19:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LUDWING GOMEZ",
+      "fecha": "2026-05-09",
+      "hora": "19:30",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/ludwing-gomez-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/2026050920-1.webp",
       "descripcion": ""
     },
     {
@@ -120,21 +39,48 @@
       "descripcion": ""
     },
     {
-      "titulo": "Saltar al contenido",
+      "titulo": "Melon Diesel: La gira de Mr Bond",
       "fecha": "2026-05-09",
-      "hora": "",
+      "hora": "21:00",
       "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/#content",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/logo-aragon-en-vivo.svg",
+      "url": "https://aragonenvivo.com/evento/melon-diesel-la-gira-de-mr-bond/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/23791b68-1c7c-4b64-8f64-72c6048249cb-2.webp",
       "descripcion": ""
     },
     {
-      "titulo": "Lista",
+      "titulo": "ELNIÃO DE LA HIPOTECA – EL NIÃO DE LA HIPOTECA",
       "fecha": "2026-05-09",
-      "hora": "",
+      "hora": "21:00",
       "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/eventos/lista/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Cartel-Guadalupe-Plata-ZAragoza-2.webp",
+      "url": "https://aragonenvivo.com/evento/elnia-o-de-la-hipoteca-el-nia-o-de-la-hipoteca/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260509hip1-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "EH, MERTXE!",
+      "fecha": "2026-05-09",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/eh-mertxe-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/ehmertze-zaragoza-a3-e1776188065331-932x1024-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "MAD MARTÍN TRIO",
+      "fecha": "2026-05-09",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/mad-martin-trio-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "UÑA Y CARNE",
+      "fecha": "2026-05-09",
+      "hora": "21:30",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/una-y-carne/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/imgi_1_descarga.jpeg",
       "descripcion": ""
     },
     {
@@ -144,6 +90,51 @@
       "sala": "Sala Oasis",
       "url": "https://www.setlist.fm/setlist/melon-diesel/2026/sala-oasis-zaragoza-spain-34bc507.html",
       "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Chris Stamey (dB’s, Big Star Quintet/USA)",
+      "fecha": "2026-05-10",
+      "hora": "18:30",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/chris-stamey-db-s-big-star-quintet-usa/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/CHRIS_STAMEY_659c-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
+      "fecha": "2026-05-10",
+      "hora": "19:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-4/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "DAVID RODRI – SIEMPRE PUEDE SER PEOR",
+      "fecha": "2026-05-10",
+      "hora": "19:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/david-rodri-siempre-puede-ser-peor/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260510_DAVIDR-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Saltar al contenido",
+      "fecha": "2026-05-10",
+      "hora": "",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/#content",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/logo-aragon-en-vivo.svg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Lista",
+      "fecha": "2026-05-10",
+      "hora": "",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/eventos/lista/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/diseno-sin-titulo-2-724x1024-1.webp",
       "descripcion": ""
     },
     {
