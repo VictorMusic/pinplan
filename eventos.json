@@ -1,61 +1,7 @@
 {
-  "actualizado": "2026-05-10T15:59:02.870918",
-  "total": 16,
+  "actualizado": "2026-05-10T20:44:15.633406",
+  "total": 2,
   "eventos": [
-    {
-      "titulo": "Chris Stamey (dB’s, Big Star Quintet/USA)",
-      "fecha": "2026-05-10",
-      "hora": "18:30",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/chris-stamey-db-s-big-star-quintet-usa/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/CHRIS_STAMEY_659c-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
-      "fecha": "2026-05-10",
-      "hora": "19:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-4/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "DAVID RODRI – SIEMPRE PUEDE SER PEOR",
-      "fecha": "2026-05-10",
-      "hora": "19:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/david-rodri-siempre-puede-ser-peor/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260510_DAVIDR-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "ROBERTO GANDUL Y LAURA RUIZ – Giulietta & Federico «Canzone Italiane per Tutti»",
-      "fecha": "2026-05-10",
-      "hora": "19:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/roberto-gandul-y-laura-ruiz-giulietta-federico-canzone-italiane-per-tutti/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260510_robertog.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "PREMIER PIGS",
-      "fecha": "2026-05-10",
-      "hora": "20:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/premier-pigs/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "THE LORDS OF ALTAMONT (EEUU)",
-      "fecha": "2026-05-12",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/the-lords-of-altamont-eeuu/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-promo-02-1024x1024-3.webp",
-      "descripcion": ""
-    },
     {
       "titulo": "The Lords of Altamont",
       "fecha": "2026-05-12",
@@ -63,78 +9,6 @@
       "sala": "Sala Creedence",
       "url": "https://www.setlist.fm/setlist/the-lords-of-altamont/2026/sala-creedence-zaragoza-spain-534beb61.html",
       "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Brad Marino (USA)",
-      "fecha": "2026-05-13",
-      "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/brad-marino-usa/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/brad_marino-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
-      "fecha": "2026-05-14",
-      "hora": "19:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-5/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Rata Blanca",
-      "fecha": "2026-05-14",
-      "hora": "20:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/rata-blanca/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/zarag-post-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "DIEGO PENA JAVIER ZAPATER SEGIO JABATO – LA COMUNIDAD",
-      "fecha": "2026-05-14",
-      "hora": "20:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/diego-pena-javier-zapater-segio-jabato-la-comunidad/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260326_LACOMUNIDADDD.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Marion Raw (Méx/USA)",
-      "fecha": "2026-05-14",
-      "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/marion-raw-mex-usa/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Marion_Raw-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "WILLE AND THE BANDITS",
-      "fecha": "2026-05-14",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/wille-and-the-bandits/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Saltar al contenido",
-      "fecha": "2026-05-14",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/#content",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/logo-aragon-en-vivo.svg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Lista",
-      "fecha": "2026-05-14",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/eventos/lista/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/CHRIS_STAMEY_659c-2.webp",
       "descripcion": ""
     },
     {
