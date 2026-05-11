@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-05-11T07:22:35.120800",
-  "total": 17,
+  "actualizado": "2026-05-11T07:48:21.648473",
+  "total": 19,
   "eventos": [
     {
       "titulo": "THE LORDS OF ALTAMONT (EEUU)",
@@ -153,6 +153,24 @@
       "sala": "Zaragoza",
       "url": "https://zgzconciertos.com/concierto/dani-martin/",
       "imagen": "https://zgzconciertos.com/wp-content/uploads/2025/06/dani-martin.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Iván Ferreiro",
+      "fecha": "2026-06-26",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/ivan-ferreiro/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/ivan-ferreiro.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Hard GZ",
+      "fecha": "2026-10-08",
+      "hora": "22:00",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/hard-gz/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/hard-gz.jpg",
       "descripcion": ""
     }
   ]
