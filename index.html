@@ -249,7 +249,7 @@ const MONTHS_A=['ENE','FEB','MAR','ABR','MAY','JUN','JUL','AGO','SEP','OCT','NOV
 const FALLBACK=['https://images.unsplash.com/photo-1540039155733-5bb30b4f2a96?w=600&q=85','https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=85','https://images.unsplash.com/photo-1501386761578-eaa54b915b37?w=600&q=85','https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=600&q=85','https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=85','https://images.unsplash.com/photo-1468164016595-6108e4c60c8b?w=600&q=85','https://images.unsplash.com/photo-1460723237483-7a6dc9d0b212?w=600&q=85','https://images.unsplash.com/photo-1598387993441-a364f854c3e1?w=600&q=85','https://images.unsplash.com/photo-1571397133301-3f1a73cbe57f?w=600&q=85','https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=600&q=85'];
 const PIN=`<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>`;
 const _m=['himnosis','.','music','@','gmail','.','com'].join('');
-const MAX_DAYS=14;
+const MAX_DAYS=90;
 
 let offset=0,allEvents=[],salasDB=[],currentTab='lista';
 
@@ -389,7 +389,7 @@ function renderAgenda(){
 
   if(offset>=MAX_DAYS){
     var cd=document.createElement('div');cd.className='carpe-diem';
-    cd.innerHTML='<div class="carpe-title">¿Por qué hacer planes a largo plazo cuando hay tanta música que disfrutar antes?</div><div class="carpe-sub">CARPE DIEM · Vuelve a los próximos días</div>';
+    cd.innerHTML='<div class="carpe-title">¿Tan lejos quieres mirar? Seguro que hay algo antes que te mola más.</div><div class="carpe-sub">CARPE DIEM · Vuelve a los próximos días</div>';
     list.appendChild(cd);
     return;
   }
