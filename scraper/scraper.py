@@ -1,4 +1,3 @@
-
 import requests
 from bs4 import BeautifulSoup
 import json, re, time, os, pathlib
@@ -380,7 +379,8 @@ def deduplicate(events):
 
 def filter_future(events):
     today = date.today().isoformat()
-    cutoff = (date.today() + timedelta(days=30)).isoformat()
+    cutoff = (date.today() + timedelta(days=180)).isoformat()
+    # Filter out past events and events more than 6 months away
     return [e for e in events if e["fecha"] and today <= e["fecha"] <= cutoff]
 
 def sort_events(events):
