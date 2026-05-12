@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-12T13:05:15.239253",
+  "actualizado": "2026-05-12T17:14:52.122612",
   "total": 19,
   "eventos": [
     {
@@ -50,10 +50,10 @@
     {
       "titulo": "Rata Blanca",
       "fecha": "2026-05-14",
-      "hora": "20:00",
+      "hora": "19:00",
       "sala": "Zaragoza",
       "url": "https://aragonenvivo.com/evento/rata-blanca/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/zarag-post-2.webp",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/zarag-post-3.webp",
       "descripcion": ""
     },
     {
@@ -62,7 +62,7 @@
       "hora": "20:00",
       "sala": "Zaragoza",
       "url": "https://aragonenvivo.com/evento/diego-pena-javier-zapater-segio-jabato-la-comunidad/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260326_LACOMUNIDADDD.webp",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260326_LACOMUNIDADDD-1.webp",
       "descripcion": ""
     },
     {
@@ -93,12 +93,21 @@
       "descripcion": ""
     },
     {
+      "titulo": "Martín Urrutia",
+      "fecha": "2026-05-15",
+      "hora": "19:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/martin-urrutia/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/insolacion-3.webp",
+      "descripcion": ""
+    },
+    {
       "titulo": "FELIPE TORRES Y MARIANO BARTOLOME – 2 KINDERS GUENOS",
       "fecha": "2026-05-15",
       "hora": "19:00",
       "sala": "Zaragoza",
       "url": "https://aragonenvivo.com/evento/felipe-torres-y-mariano-bartolome-2-kinders-guenos/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260515felipeyyomayo26.webp",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260515felipeyyomayo26-1.webp",
       "descripcion": ""
     },
     {
@@ -117,15 +126,6 @@
       "sala": "Zaragoza",
       "url": "https://aragonenvivo.com/evento/festival-partiendo-la-pana/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/BANNER-FESTIVAL-ESTOPA-MELENDI-ZARGOZA-copia-1-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LINDA BURNETTI Y LOS HULIGANS",
-      "fecha": "2026-05-15",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/linda-burnetti-y-los-huligans/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/ley-seca-LOGO-1.jpg",
       "descripcion": ""
     },
     {
