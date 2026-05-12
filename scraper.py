@@ -29,10 +29,7 @@ MONTHS = {
     "julio":7,"agosto":8,"septiembre":9,"octubre":10,"noviembre":11,"diciembre":12,
     "ene":1,"feb":2,"mar":3,"abr":4,"may":5,"jun":6,
     "jul":7,"ago":8,"sep":9,"oct":10,"nov":11,"dic":12,
-    "january":1,"february":2,"march":3,"april":4,"may":5,"june":6,
-    "july":7,"august":8,"september":9,"october":10,"november":11,"december":12,
-    "jan":1,"feb":2,"mar":3,"apr":4,"jun":6,
-    "jul":7,"aug":8,"sep":9,"oct":10,"nov":11,"dec":12,
+    "jan":1,"apr":4,"aug":8,"dec":12
 }
 
 def normalize(t):
@@ -441,6 +438,81 @@ def scrape_auditorio_detail():
     return events
 
 
+def scrape_auditorio_rss():
+    """Auditorio Zaragoza RSS feed - fechas fiables."""
+    import xml.etree.ElementTree as ET
+    events = []
+    urls = [
+        "https://auditoriozaragoza.com/agenda/conciertos/feed/",
+        "https://auditoriozaragoza.com/feed/",
+    ]
+    for url in urls:
+        r = get(url)
+        if not r: continue
+        try:
+            root = ET.fromstring(r.content)
+            ns = {'content': 'http://purl.org/rss/1.0/modules/content/',
+                  'dc': 'http://purl.org/dc/elements/1.1/'}
+            for item in root.findall('.//item'):
+                title = (item.findtext('title') or '').strip()
+                if not title or len(title) < 3: continue
+                link = (item.findtext('link') or '').strip()
+                # Try multiple date fields
+                fecha_raw = (item.findtext('pubDate') or
+                            item.findtext('dc:date', namespaces=ns) or
+                            item.findtext('{http://purl.org/dc/elements/1.1/}date') or '')
+                # pubDate format: "Mon, 16 May 2026 10:00:00 +0000"
+                fecha = parse_date(fecha_raw)
+                if not fecha: continue
+                img_el = None
+                enclosure = item.find('enclosure')
+                img = enclosure.get('url','') if enclosure is not None else ''
+                desc = (item.findtext('description') or '').strip()
+                from bs4 import BeautifulSoup as BS
+                if desc:
+                    img_soup = BS(desc, 'html.parser')
+                    img_tag = img_soup.find('img')
+                    if img_tag and not img:
+                        img = img_tag.get('src','')
+                events.append(make_event(title, fecha, '', 'Auditorio de Zaragoza', link, img))
+            if events: break
+        except Exception as e:
+            print(f"  auditorio_rss error: {e}")
+            continue
+    print(f"  auditorio_rss: {len(events)}")
+    return events
+
+def scrape_ibercaja_auditorio():
+    """Entradas Ibercaja - Auditorio de Zaragoza."""
+    evs = scrape_generic(
+        "https://entradas.ibercaja.es/eventos/zaragoza/auditorio-de-zaragoza-princesa-leonor/",
+        "Auditorio de Zaragoza",
+        "https://entradas.ibercaja.es"
+    )
+    print(f"  ibercaja_auditorio: {len(evs)}")
+    return evs
+
+def scrape_taquilla_zgz():
+    """Taquilla.com - conciertos en Zaragoza."""
+    evs = []
+    for url in [
+        "https://www.taquilla.com/conciertos?t10city=Zaragoza",
+        "https://www.taquilla.com/zaragoza/auditorio-de-zaragoza",
+    ]:
+        batch = scrape_generic(url, "Zaragoza", "https://www.taquilla.com")
+        evs.extend(batch)
+    # deduplicate within this source
+    seen = set()
+    unique = []
+    for e in evs:
+        k = (e["titulo"].lower()[:40], e["fecha"])
+        if k not in seen:
+            seen.add(k)
+            unique.append(e)
+    print(f"  taquilla_zgz: {len(unique)}")
+    return unique
+
+
 def normalize_title(t):
     """Normalize title for dedup comparison."""
     t = t.lower().strip()
@@ -493,6 +565,9 @@ def main():
         ("Rock & Blues Café",    scrape_rock_blues),
         ("Teatro Esquinas",      scrape_teatro_esquinas),
         ("Auditorio Zaragoza",   scrape_auditorio),
+        ("Auditorio RSS",       scrape_auditorio_rss),
+        ("Ibercaja Auditorio",  scrape_ibercaja_auditorio),
+        ("Taquilla ZGZ",        scrape_taquilla_zgz),
         ("Aragón Musical",       scrape_aragonmusical),
         ("Taquilla.com",         scrape_taquilla),
         ("Songkick",             scrape_songkick),
