@@ -1,14 +1,14 @@
 {
-  "actualizado": "2026-05-12T21:19:19.201625",
-  "total": 3,
+  "actualizado": "2026-05-13T09:44:46.092867",
+  "total": 21,
   "eventos": [
     {
-      "titulo": "The Lords of Altamont",
-      "fecha": "2026-05-12",
-      "hora": "",
-      "sala": "Sala Creedence",
-      "url": "https://www.setlist.fm/setlist/the-lords-of-altamont/2026/sala-creedence-zaragoza-spain-534beb61.html",
-      "imagen": "",
+      "titulo": "Brad Marino (USA)",
+      "fecha": "2026-05-13",
+      "hora": "20:30",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/brad-marino-usa/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/brad_marino-2.webp",
       "descripcion": ""
     },
     {
@@ -21,12 +21,174 @@
       "descripcion": ""
     },
     {
+      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
+      "fecha": "2026-05-14",
+      "hora": "19:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-5/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "Rata Blanca",
       "fecha": "2026-05-14",
+      "hora": "19:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/rata-blanca/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/zarag-post-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "DIEGO PENA JAVIER ZAPATER SEGIO JABATO – LA COMUNIDAD",
+      "fecha": "2026-05-14",
+      "hora": "20:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/diego-pena-javier-zapater-segio-jabato-la-comunidad/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260326_LACOMUNIDADDD-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Marion Raw (Méx/USA)",
+      "fecha": "2026-05-14",
+      "hora": "20:30",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/marion-raw-mex-usa/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Marion_Raw-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "WILLE AND THE BANDITS",
+      "fecha": "2026-05-14",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/wille-and-the-bandits/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
+      "fecha": "2026-05-15",
+      "hora": "19:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-6/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Martín Urrutia",
+      "fecha": "2026-05-15",
+      "hora": "19:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/martin-urrutia/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/insolacion-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "FELIPE TORRES Y MARIANO BARTOLOME – 2 KINDERS GUENOS",
+      "fecha": "2026-05-15",
+      "hora": "19:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/felipe-torres-y-mariano-bartolome-2-kinders-guenos/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260515felipeyyomayo26-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Queralt Lahoz – FAVOROSA TOUR",
+      "fecha": "2026-05-15",
+      "hora": "20:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/queralt-lahoz-favorosa-tour/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/POST-ZARAGOZA-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "FESTIVAL «PARTIENDO LA PANA»",
+      "fecha": "2026-05-15",
+      "hora": "20:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/festival-partiendo-la-pana/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/BANNER-FESTIVAL-ESTOPA-MELENDI-ZARGOZA-copia-1-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LINDA BURNETTI Y LOS HULIGANS",
+      "fecha": "2026-05-15",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/linda-burnetti-y-los-huligans/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/ley-seca-LOGO-1.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Saltar al contenido",
+      "fecha": "2026-05-15",
+      "hora": "",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/#content",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/logo-aragon-en-vivo.svg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Lista",
+      "fecha": "2026-05-15",
+      "hora": "",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/eventos/lista/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/brad_marino-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Martin",
+      "fecha": "2026-05-15",
       "hora": "",
       "sala": "Sala Oasis",
-      "url": "https://www.setlist.fm/setlist/rata-blanca/2026/sala-oasis-zaragoza-spain-734a2691.html",
+      "url": "https://www.setlist.fm/setlist/martin/2026/sala-oasis-zaragoza-spain-b49b5f2.html",
       "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Supercremalleras",
+      "fecha": "2026-05-15",
+      "hora": "",
+      "sala": "La Lata de Bombillas",
+      "url": "https://www.setlist.fm/setlist/supercremalleras/2026/la-lata-de-bombillas-zaragoza-spain-34add23.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Queralt Lahoz",
+      "fecha": "2026-05-15",
+      "hora": "",
+      "sala": "Sala López",
+      "url": "https://www.setlist.fm/setlist/queralt-lahoz/2026/sala-lopez-zaragoza-spain-1b4e2198.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Dani Martín",
+      "fecha": "2026-05-22",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/dani-martin/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2025/06/dani-martin.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Iván Ferreiro",
+      "fecha": "2026-06-26",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/ivan-ferreiro/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/ivan-ferreiro.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Hard GZ",
+      "fecha": "2026-10-08",
+      "hora": "22:00",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/hard-gz/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/hard-gz.jpg",
       "descripcion": ""
     }
   ]
