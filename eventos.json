@@ -1,25 +1,7 @@
 {
-  "actualizado": "2026-05-13T21:21:48.397947",
-  "total": 21,
+  "actualizado": "2026-05-14T09:34:23.936812",
+  "total": 25,
   "eventos": [
-    {
-      "titulo": "Brad Marino (USA)",
-      "fecha": "2026-05-13",
-      "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/brad-marino-usa/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/brad_marino-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Brad Marino",
-      "fecha": "2026-05-13",
-      "hora": "",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.setlist.fm/setlist/brad-marino/2026/la-lata-de-bombillas-zaragoza-spain-34a8103.html",
-      "imagen": "",
-      "descripcion": ""
-    },
     {
       "titulo": "LLUEVE Y HACE SOL EN PARÍS",
       "fecha": "2026-05-14",
@@ -120,6 +102,15 @@
       "descripcion": ""
     },
     {
+      "titulo": "CORDOVAS",
+      "fecha": "2026-05-15",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/cordovas-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-114.webp",
+      "descripcion": ""
+    },
+    {
       "titulo": "Saltar al contenido",
       "fecha": "2026-05-15",
       "hora": "",
@@ -134,7 +125,7 @@
       "hora": "",
       "sala": "Zaragoza",
       "url": "https://aragonenvivo.com/eventos/lista/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/brad_marino-2.webp",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
       "descripcion": ""
     },
     {
@@ -161,6 +152,51 @@
       "hora": "",
       "sala": "Sala López",
       "url": "https://www.setlist.fm/setlist/queralt-lahoz/2026/sala-lopez-zaragoza-spain-1b4e2198.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "McEnroe",
+      "fecha": "2026-05-16",
+      "hora": "",
+      "sala": "Sala López",
+      "url": "https://www.setlist.fm/setlist/mcenroe/2026/sala-lopez-zaragoza-spain-634dd2db.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Armenian",
+      "fecha": "2026-05-16",
+      "hora": "",
+      "sala": "Sala Oasis",
+      "url": "https://www.setlist.fm/setlist/armenian/2026/sala-oasis-zaragoza-spain-534cdf3d.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Carmesí",
+      "fecha": "2026-05-16",
+      "hora": "",
+      "sala": "La Lata de Bombillas",
+      "url": "https://www.setlist.fm/setlist/carmesi/2026/la-lata-de-bombillas-zaragoza-spain-334b6461.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Valiente Bosque",
+      "fecha": "2026-05-16",
+      "hora": "",
+      "sala": "La Ley Seca",
+      "url": "https://www.setlist.fm/setlist/valiente-bosque/2026/la-ley-seca-zaragoza-spain-2b77dc4e.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "RATA",
+      "fecha": "2026-05-16",
+      "hora": "",
+      "sala": "La Lata de Bombillas",
+      "url": "https://www.setlist.fm/setlist/rata/2026/la-lata-de-bombillas-zaragoza-spain-134d4d65.html",
       "imagen": "",
       "descripcion": ""
     },
