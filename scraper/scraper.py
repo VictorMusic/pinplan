@@ -179,20 +179,22 @@ def scrape_aragonenvivo():
         if listing_evs: break
     
     # Visit each event page to get sala from JSON-LD
+    enriched = 0
     for ev in listing_evs[:40]:  # limit to 40 to avoid timeout
-        if not ev["url"] or ev["url"] == "https://aragonenvivo.com":
-            evs.append(ev)
-            continue
-        r = get(ev["url"], timeout=8)
+        url = ev.get("url","")
+        # Skip nav/listing URLs
+        if not url or "/eventos/" in url or "/#" in url or url == "https://aragonenvivo.com":
+            continue  # skip garbage entries entirely
+        r = get(url, timeout=8)
         if not r:
             evs.append(ev)
             continue
         from bs4 import BeautifulSoup as BS2
         soup2 = BS2(r.text, "html.parser")
-        # Try JSON-LD first
         sala = ev["sala"]
         fecha = ev["fecha"]
         hora = ev["hora"]
+        img = ev.get("imagen","")
         for script in soup2.find_all("script", type="application/ld+json"):
             try:
                 data = _json.loads(script.string or "")
@@ -202,10 +204,14 @@ def scrape_aragonenvivo():
                         loc = item.get("location", {})
                         if isinstance(loc, dict) and loc.get("name"):
                             sala = loc["name"]
+                            enriched += 1
                         sd = item.get("startDate", "")
                         if sd:
                             fecha = parse_date(sd) or fecha
                             hora = parse_time(sd) or hora
+                        if not img and item.get("image"):
+                            img_val = item["image"]
+                            img = img_val if isinstance(img_val, str) else (img_val[0] if img_val else "")
                         break
             except:
                 pass
@@ -213,8 +219,10 @@ def scrape_aragonenvivo():
         ev2["sala"] = normalize_sala(sala)
         ev2["fecha"] = fecha
         ev2["hora"] = hora
+        ev2["imagen"] = img
         evs.append(ev2)
         time.sleep(0.3)
+    print(f"    (enriched {enriched} with sala from JSON-LD)")
     
     print(f"  aragonenvivo: {len(evs)}")
     return evs
@@ -569,9 +577,26 @@ def normalize_title(t):
 GARBAGE_TITLES = {
     "saltar al contenido", "lista", "ver todos", "entradas", "comprar",
     "más info", "agenda", "eventos", "conciertos", "programación", "inicio",
-    "home", "inicio", "menu", "menú", "siguiente", "anterior", "cerrar",
+    "home", "menu", "menú", "siguiente", "anterior", "cerrar",
     "leer más", "read more", "ver más", "ver todo", "all events",
+    "día", "mes", "semana", "hoy", "mañana", "week", "month", "day",
+    "próximos eventos", "próximos conciertos", "próximas actuaciones",
 }
+
+GARBAGE_URL_PATTERNS = ["/eventos/hoy", "/eventos/mes", "/eventos/semana", 
+                         "/agenda/hoy", "/agenda/mes", "/#content"]
+
+def is_garbage(titulo, url=""):
+    t = titulo.lower().strip()
+    if t in GARBAGE_TITLES: return True
+    if len(t) < 3: return True
+    if t.startswith("saltar") or t.startswith("skip"): return True
+    # Single common word
+    if t in {"día", "mes", "hoy", "semana", "año", "lista", "todo"}: return True
+    # Garbage URLs
+    for pat in GARBAGE_URL_PATTERNS:
+        if pat in url: return True
+    return False
 
 def is_garbage(titulo):
     t = titulo.lower().strip()
@@ -583,7 +608,7 @@ def is_garbage(titulo):
 
 def deduplicate(events):
     events = [e for e in events if e["fecha"]]
-    events = [e for e in events if not is_garbage(e["titulo"])]
+    events = [e for e in events if not is_garbage(e["titulo"], e.get("url",""))]
     seen = {}
     for e in events:
         key = (e["titulo"].lower().strip()[:50], e["fecha"])
