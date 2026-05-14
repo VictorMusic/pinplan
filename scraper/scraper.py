@@ -170,11 +170,54 @@ def scrape_zgzconciertos():
     print(f"  zgzconciertos: {len(evs)}"); return evs
 
 def scrape_aragonenvivo():
+    import json as _json
     evs = []
+    # Get listing first
+    listing_evs = []
     for url in ["https://aragonenvivo.com/eventos/", "https://aragonenvivo.com/agenda/"]:
-        evs = scrape_generic(url, "Zaragoza", "https://aragonenvivo.com")
-        if evs: break
-    print(f"  aragonenvivo: {len(evs)}"); return evs
+        listing_evs = scrape_generic(url, "Zaragoza", "https://aragonenvivo.com")
+        if listing_evs: break
+    
+    # Visit each event page to get sala from JSON-LD
+    for ev in listing_evs[:40]:  # limit to 40 to avoid timeout
+        if not ev["url"] or ev["url"] == "https://aragonenvivo.com":
+            evs.append(ev)
+            continue
+        r = get(ev["url"], timeout=8)
+        if not r:
+            evs.append(ev)
+            continue
+        from bs4 import BeautifulSoup as BS2
+        soup2 = BS2(r.text, "html.parser")
+        # Try JSON-LD first
+        sala = ev["sala"]
+        fecha = ev["fecha"]
+        hora = ev["hora"]
+        for script in soup2.find_all("script", type="application/ld+json"):
+            try:
+                data = _json.loads(script.string or "")
+                items = data if isinstance(data, list) else [data]
+                for item in items:
+                    if item.get("@type") in ("Event", "MusicEvent"):
+                        loc = item.get("location", {})
+                        if isinstance(loc, dict) and loc.get("name"):
+                            sala = loc["name"]
+                        sd = item.get("startDate", "")
+                        if sd:
+                            fecha = parse_date(sd) or fecha
+                            hora = parse_time(sd) or hora
+                        break
+            except:
+                pass
+        ev2 = dict(ev)
+        ev2["sala"] = normalize_sala(sala)
+        ev2["fecha"] = fecha
+        ev2["hora"] = hora
+        evs.append(ev2)
+        time.sleep(0.3)
+    
+    print(f"  aragonenvivo: {len(evs)}")
+    return evs
 
 def scrape_enjoyzaragoza():
     evs = scrape_generic("https://www.enjoyzaragoza.es/conciertos-zaragoza/", "Zaragoza", "https://www.enjoyzaragoza.es")
@@ -353,6 +396,166 @@ def scrape_arenarock():
     print(f"  arenarock: {len(evs)}"); return evs
 
 
+def scrape_shazam():
+    """Shazam events for Zaragoza."""
+    events = []
+    try:
+        url = "https://www.shazam.com/es-es/events/zaragoza-espa%C3%B1a"
+        r = get(url)
+        if not r: print("  shazam: 0"); return events
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(r.text, "html.parser")
+        # Shazam uses JSON-LD for events
+        import json as _json
+        for script in soup.find_all("script", type="application/ld+json"):
+            try:
+                data = _json.loads(script.string or "")
+                items = data if isinstance(data, list) else [data]
+                for item in items:
+                    if item.get("@type") not in ("Event", "MusicEvent"): continue
+                    title = item.get("name","")
+                    fecha_raw = item.get("startDate","")
+                    location = item.get("location",{})
+                    sala = location.get("name","Zaragoza") if isinstance(location, dict) else "Zaragoza"
+                    img = ""
+                    if isinstance(item.get("image"), str): img = item["image"]
+                    elif isinstance(item.get("image"), list) and item["image"]: img = item["image"][0]
+                    href = item.get("url","")
+                    if title and fecha_raw:
+                        events.append(make_event(title, parse_date(fecha_raw) or "", parse_time(fecha_raw), sala, href, img))
+            except: pass
+        # Also try to find events in page data
+        if not events:
+            for el in soup.select("[data-testid*='event'], .event-card, [class*='EventCard']"):
+                title_el = el.select_one("h2, h3, [class*='title'], [class*='name']")
+                date_el = el.select_one("time, [class*='date'], [class*='Date']")
+                title = normalize(title_el.get_text()) if title_el else ""
+                if not title or len(title) < 2: continue
+                fecha_raw = (date_el.get("datetime","") or date_el.get_text()) if date_el else ""
+                events.append(make_event(title, parse_date(fecha_raw) or "", "", "Zaragoza", url))
+    except Exception as e:
+        print(f"  shazam error: {e}")
+    print(f"  shazam: {len(events)}")
+    return events
+
+def scrape_auditorio_detail():
+    """Auditorio Zaragoza - visit each event page to get the date."""
+    events = []
+    try:
+        r = get("https://auditoriozaragoza.com/agenda/conciertos/")
+        if not r: print("  auditorio_detail: 0"); return events
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(r.text, "html.parser")
+        # Get all event links
+        links = []
+        for a in soup.select("a[href*='/programacion/'], a[href*='/evento/'], a[href*='/concierto/']"):
+            href = a.get("href","")
+            if href and href not in links:
+                links.append(href)
+        links = links[:30]  # Max 30 to avoid timeout
+        for href in links:
+            if not href.startswith("http"):
+                href = "https://auditoriozaragoza.com" + href
+            ev_r = get(href, timeout=8)
+            if not ev_r: continue
+            ev_soup = BeautifulSoup(ev_r.text, "html.parser")
+            title_el = ev_soup.select_one("h1, .entry-title, [class*='title']")
+            title = normalize(title_el.get_text()) if title_el else ""
+            if not title or len(title) < 3: continue
+            # Find date
+            fecha_raw = ""
+            date_el = ev_soup.select_one("time[datetime], [itemprop='startDate'], [class*='fecha'], [class*='date']")
+            if date_el:
+                fecha_raw = date_el.get("datetime","") or date_el.get("content","") or date_el.get_text()
+            # Try meta tags
+            if not parse_date(fecha_raw):
+                meta = ev_soup.find("meta", {"itemprop": "startDate"}) or ev_soup.find("meta", {"property": "event:start_time"})
+                if meta: fecha_raw = meta.get("content","")
+            img_el = ev_soup.select_one("meta[property='og:image']")
+            img = img_el.get("content","") if img_el else ""
+            events.append(make_event(title, parse_date(fecha_raw) or "", "", "Auditorio de Zaragoza", href, img))
+            time.sleep(0.5)
+    except Exception as e:
+        print(f"  auditorio_detail error: {e}")
+    print(f"  auditorio_detail: {len(events)}")
+    return events
+
+
+def scrape_auditorio_rss():
+    """Auditorio Zaragoza RSS feed - fechas fiables."""
+    import xml.etree.ElementTree as ET
+    events = []
+    urls = [
+        "https://auditoriozaragoza.com/agenda/conciertos/feed/",
+        "https://auditoriozaragoza.com/feed/",
+    ]
+    for url in urls:
+        r = get(url)
+        if not r: continue
+        try:
+            root = ET.fromstring(r.content)
+            ns = {'content': 'http://purl.org/rss/1.0/modules/content/',
+                  'dc': 'http://purl.org/dc/elements/1.1/'}
+            for item in root.findall('.//item'):
+                title = (item.findtext('title') or '').strip()
+                if not title or len(title) < 3: continue
+                link = (item.findtext('link') or '').strip()
+                # Try multiple date fields
+                fecha_raw = (item.findtext('pubDate') or
+                            item.findtext('dc:date', namespaces=ns) or
+                            item.findtext('{http://purl.org/dc/elements/1.1/}date') or '')
+                # pubDate format: "Mon, 16 May 2026 10:00:00 +0000"
+                fecha = parse_date(fecha_raw)
+                if not fecha: continue
+                img_el = None
+                enclosure = item.find('enclosure')
+                img = enclosure.get('url','') if enclosure is not None else ''
+                desc = (item.findtext('description') or '').strip()
+                from bs4 import BeautifulSoup as BS
+                if desc:
+                    img_soup = BS(desc, 'html.parser')
+                    img_tag = img_soup.find('img')
+                    if img_tag and not img:
+                        img = img_tag.get('src','')
+                events.append(make_event(title, fecha, '', 'Auditorio de Zaragoza', link, img))
+            if events: break
+        except Exception as e:
+            print(f"  auditorio_rss error: {e}")
+            continue
+    print(f"  auditorio_rss: {len(events)}")
+    return events
+
+def scrape_ibercaja_auditorio():
+    """Entradas Ibercaja - Auditorio de Zaragoza."""
+    evs = scrape_generic(
+        "https://entradas.ibercaja.es/eventos/zaragoza/auditorio-de-zaragoza-princesa-leonor/",
+        "Auditorio de Zaragoza",
+        "https://entradas.ibercaja.es"
+    )
+    print(f"  ibercaja_auditorio: {len(evs)}")
+    return evs
+
+def scrape_taquilla_zgz():
+    """Taquilla.com - conciertos en Zaragoza."""
+    evs = []
+    for url in [
+        "https://www.taquilla.com/conciertos?t10city=Zaragoza",
+        "https://www.taquilla.com/zaragoza/auditorio-de-zaragoza",
+    ]:
+        batch = scrape_generic(url, "Zaragoza", "https://www.taquilla.com")
+        evs.extend(batch)
+    # deduplicate within this source
+    seen = set()
+    unique = []
+    for e in evs:
+        k = (e["titulo"].lower()[:40], e["fecha"])
+        if k not in seen:
+            seen.add(k)
+            unique.append(e)
+    print(f"  taquilla_zgz: {len(unique)}")
+    return unique
+
+
 def normalize_title(t):
     """Normalize title for dedup comparison."""
     t = t.lower().strip()
@@ -363,8 +566,24 @@ def normalize_title(t):
     t = re.sub(r'[^a-záéíóúüñ0-9]', '', t)
     return t[:30]
 
+GARBAGE_TITLES = {
+    "saltar al contenido", "lista", "ver todos", "entradas", "comprar",
+    "más info", "agenda", "eventos", "conciertos", "programación", "inicio",
+    "home", "inicio", "menu", "menú", "siguiente", "anterior", "cerrar",
+    "leer más", "read more", "ver más", "ver todo", "all events",
+}
+
+def is_garbage(titulo):
+    t = titulo.lower().strip()
+    if t in GARBAGE_TITLES: return True
+    if len(t) < 3: return True
+    # Nav links / skip links
+    if t.startswith("saltar") or t.startswith("skip"): return True
+    return False
+
 def deduplicate(events):
     events = [e for e in events if e["fecha"]]
+    events = [e for e in events if not is_garbage(e["titulo"])]
     seen = {}
     for e in events:
         key = (e["titulo"].lower().strip()[:50], e["fecha"])
@@ -400,6 +619,9 @@ def main():
         ("Rock & Blues Café",    scrape_rock_blues),
         ("Teatro Esquinas",      scrape_teatro_esquinas),
         ("Auditorio Zaragoza",   scrape_auditorio),
+        ("Auditorio RSS",       scrape_auditorio_rss),
+        ("Ibercaja Auditorio",  scrape_ibercaja_auditorio),
+        ("Taquilla ZGZ",        scrape_taquilla_zgz),
         ("Aragón Musical",       scrape_aragonmusical),
         ("Taquilla.com",         scrape_taquilla),
         ("Songkick",             scrape_songkick),
