@@ -1,131 +1,50 @@
 {
-  "actualizado": "2026-05-14T10:11:35.381254",
-  "total": 18,
+  "actualizado": "2026-05-19T06:07:50.183010",
+  "total": 8,
   "eventos": [
     {
-      "titulo": "Día",
-      "fecha": "2026-05-14",
-      "hora": "19:00",
-      "sala": "Teatro de la Estación",
-      "url": "https://aragonenvivo.com/eventos/hoy/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
-      "fecha": "2026-05-14",
+      "titulo": "CON V DE VOZ",
+      "fecha": "2026-05-19",
       "hora": "19:00",
       "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-5/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Rata Blanca",
-      "fecha": "2026-05-14",
-      "hora": "19:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/rata-blanca/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/zarag-post-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "DIEGO PENA JAVIER ZAPATER SEGIO JABATO – LA COMUNIDAD",
-      "fecha": "2026-05-14",
-      "hora": "20:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/diego-pena-javier-zapater-segio-jabato-la-comunidad/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260326_LACOMUNIDADDD-1.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Marion Raw (Méx/USA)",
-      "fecha": "2026-05-14",
-      "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/marion-raw-mex-usa/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Marion_Raw-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "WILLE AND THE BANDITS",
-      "fecha": "2026-05-14",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/wille-and-the-bandits/",
+      "url": "https://aragonenvivo.com/evento/con-v-de-voz-4/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
       "descripcion": ""
     },
     {
-      "titulo": "Martin",
-      "fecha": "2026-05-15",
-      "hora": "",
-      "sala": "Sala Oasis",
-      "url": "https://www.setlist.fm/setlist/martin/2026/sala-oasis-zaragoza-spain-b49b5f2.html",
-      "imagen": "",
+      "titulo": "NOCHE FLAMENCO",
+      "fecha": "2026-05-20",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/noche-flamenco-12/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
       "descripcion": ""
     },
     {
-      "titulo": "Supercremalleras",
-      "fecha": "2026-05-15",
-      "hora": "",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.setlist.fm/setlist/supercremalleras/2026/la-lata-de-bombillas-zaragoza-spain-34add23.html",
-      "imagen": "",
+      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
+      "fecha": "2026-05-21",
+      "hora": "19:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-9/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
       "descripcion": ""
     },
     {
-      "titulo": "Queralt Lahoz",
-      "fecha": "2026-05-15",
-      "hora": "",
-      "sala": "Sala López",
-      "url": "https://www.setlist.fm/setlist/queralt-lahoz/2026/sala-lopez-zaragoza-spain-1b4e2198.html",
-      "imagen": "",
+      "titulo": "BIGBLACK RHINO",
+      "fecha": "2026-05-21",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/bigblack-rhino-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/unnamed-2-5.jpg",
       "descripcion": ""
     },
     {
-      "titulo": "McEnroe",
-      "fecha": "2026-05-16",
-      "hora": "",
-      "sala": "Sala López",
-      "url": "https://www.setlist.fm/setlist/mcenroe/2026/sala-lopez-zaragoza-spain-634dd2db.html",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Armenian",
-      "fecha": "2026-05-16",
-      "hora": "",
-      "sala": "Sala Oasis",
-      "url": "https://www.setlist.fm/setlist/armenian/2026/sala-oasis-zaragoza-spain-534cdf3d.html",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Carmesí",
-      "fecha": "2026-05-16",
-      "hora": "",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.setlist.fm/setlist/carmesi/2026/la-lata-de-bombillas-zaragoza-spain-334b6461.html",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Valiente Bosque",
-      "fecha": "2026-05-16",
-      "hora": "",
-      "sala": "La Ley Seca",
-      "url": "https://www.setlist.fm/setlist/valiente-bosque/2026/la-ley-seca-zaragoza-spain-2b77dc4e.html",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "RATA",
-      "fecha": "2026-05-16",
-      "hora": "",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.setlist.fm/setlist/rata/2026/la-lata-de-bombillas-zaragoza-spain-134d4d65.html",
-      "imagen": "",
+      "titulo": "REDD KROSS",
+      "fecha": "2026-05-21",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/redd-kross/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-115.webp",
       "descripcion": ""
     },
     {
@@ -135,15 +54,6 @@
       "sala": "Zaragoza",
       "url": "https://zgzconciertos.com/concierto/dani-martin/",
       "imagen": "https://zgzconciertos.com/wp-content/uploads/2025/06/dani-martin.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Mes",
-      "fecha": "2026-05-31",
-      "hora": "18:30",
-      "sala": "La Lata de Bombillas",
-      "url": "https://aragonenvivo.com/eventos/mes/",
-      "imagen": "",
       "descripcion": ""
     },
     {
