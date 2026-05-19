@@ -176,7 +176,17 @@ def scrape_aragonenvivo():
     
     # Try REST API first (The Events Calendar exposes /wp-json/tribe/events/v1/events)
     api_url = "https://aragonenvivo.com/wp-json/tribe/events/v1/events"
-    r = get(api_url + "?per_page=50&status=publish&start_date=" + __import__('datetime').date.today().isoformat())
+    evs_api = []
+for page in range(1, 4):  # 3 páginas x 50 = 150 eventos
+    r = get(api_url + f"?per_page=50&status=publish&page={page}&start_date=" + __import__('datetime').date.today().isoformat())
+    if not r or len(r.text) < 100: break
+    try:
+        data = _json.loads(r.text)
+        batch = data.get("events", [])
+        if not batch: break
+        evs_api.extend(batch)
+        if len(batch) < 50: break  # última página
+    except: break
     if r and len(r.text) > 100:
         try:
             data = _json.loads(r.text)
