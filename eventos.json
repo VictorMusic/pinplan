@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-05-19T06:07:50.183010",
-  "total": 8,
+  "actualizado": "2026-05-19T09:01:10.679800",
+  "total": 53,
   "eventos": [
     {
       "titulo": "CON V DE VOZ",
       "fecha": "2026-05-19",
       "hora": "19:00",
-      "sala": "Zaragoza",
+      "sala": "Rock &#038; Blues Café",
       "url": "https://aragonenvivo.com/evento/con-v-de-voz-4/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
       "descripcion": ""
@@ -15,7 +15,7 @@
       "titulo": "NOCHE FLAMENCO",
       "fecha": "2026-05-20",
       "hora": "21:00",
-      "sala": "Zaragoza",
+      "sala": "Rock &#038; Blues Café",
       "url": "https://aragonenvivo.com/evento/noche-flamenco-12/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
       "descripcion": ""
@@ -24,27 +24,72 @@
       "titulo": "LLUEVE Y HACE SOL EN PARÍS",
       "fecha": "2026-05-21",
       "hora": "19:00",
-      "sala": "Zaragoza",
+      "sala": "Teatro de la Estación",
       "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-9/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "BIGBLACK RHINO",
-      "fecha": "2026-05-21",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/bigblack-rhino-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/unnamed-2-5.jpg",
       "descripcion": ""
     },
     {
       "titulo": "REDD KROSS",
       "fecha": "2026-05-21",
       "hora": "21:00",
-      "sala": "Zaragoza",
+      "sala": "Rock &#038; Blues Café",
       "url": "https://aragonenvivo.com/evento/redd-kross/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-115.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "SEISCA",
+      "fecha": "2026-05-21",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/seisca-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/img-20260414-wa0000.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "BIGBLACK RHINO",
+      "fecha": "2026-05-21",
+      "hora": "21:00",
+      "sala": "Sala Z",
+      "url": "https://aragonenvivo.com/evento/bigblack-rhino-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/unnamed-2-5.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
+      "fecha": "2026-05-22",
+      "hora": "19:00",
+      "sala": "Teatro de la Estación",
+      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-10/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Samantha Hudson",
+      "fecha": "2026-05-22",
+      "hora": "19:00",
+      "sala": "Sala Oasis",
+      "url": "https://aragonenvivo.com/evento/samantha-hudson-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/samantha-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "El Diablo de Shangai + Erin Memento",
+      "fecha": "2026-05-22",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://aragonenvivo.com/evento/el-diablo-de-shangai-erin-memento/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Diablo-Shangai-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "AL TRAN TRAN",
+      "fecha": "2026-05-22",
+      "hora": "20:00",
+      "sala": "Belushi",
+      "url": "https://aragonenvivo.com/evento/al-tran-tran/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260522ALTRAAA-1.webp",
       "descripcion": ""
     },
     {
@@ -54,6 +99,366 @@
       "sala": "Zaragoza",
       "url": "https://zgzconciertos.com/concierto/dani-martin/",
       "imagen": "https://zgzconciertos.com/wp-content/uploads/2025/06/dani-martin.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "A BURIAL AT SEA (UK) EN SALA CREEDENCE – ZARAGOZA",
+      "fecha": "2026-05-22",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/a-burial-at-sea-uk-en-sala-creedence-zaragoza/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/newhvn-poster-blank-724x1024-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "WHISKY CARAVAN",
+      "fecha": "2026-05-22",
+      "hora": "21:00",
+      "sala": "Rock &#038; Blues Café",
+      "url": "https://aragonenvivo.com/evento/whisky-caravan-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-116.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "ROLY BERRIO",
+      "fecha": "2026-05-22",
+      "hora": "21:00",
+      "sala": "El Refugio del Crápula",
+      "url": "https://aragonenvivo.com/evento/roly-berrio/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260522_roly2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LEO DEXTER BAND +CONTRA EL VIENTO",
+      "fecha": "2026-05-22",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/leo-dexter-band-contra-el-viento/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/ley-seca-LOGO-1.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "MOLISSESION EN ELÉCTRICO CON FRANKI",
+      "fecha": "2026-05-22",
+      "hora": "21:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/molissesion-en-electrico-con-franki/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "SARA DRAMA &#8211; MARUJINDIE",
+      "fecha": "2026-05-22",
+      "hora": "22:00",
+      "sala": "Belushi",
+      "url": "https://aragonenvivo.com/evento/sara-drama-marujindie/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260424_saradrama222-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "IN MATERIA",
+      "fecha": "2026-05-23",
+      "hora": "12:30",
+      "sala": "Rock &#038; Blues Café",
+      "url": "https://aragonenvivo.com/evento/in-materia-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
+      "fecha": "2026-05-23",
+      "hora": "19:00",
+      "sala": "Teatro de la Estación",
+      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-11/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Robot Rock Alive (Daft Punk Tribute)",
+      "fecha": "2026-05-23",
+      "hora": "19:00",
+      "sala": "Sala Oasis",
+      "url": "https://aragonenvivo.com/evento/robot-rock-alive-daft-punk-tribute/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Robot_alive-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "CARLITOS &#8211; MASTER SEX",
+      "fecha": "2026-05-23",
+      "hora": "19:00",
+      "sala": "Belushi",
+      "url": "https://aragonenvivo.com/evento/carlitos-master-sex/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260523_CARLITOSMASTER-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Pedro LaDroga",
+      "fecha": "2026-05-23",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://aragonenvivo.com/evento/pedro-ladroga/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Cartel-Pedro-Ladroga-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LOS ROMEOS",
+      "fecha": "2026-05-23",
+      "hora": "21:00",
+      "sala": "La Casa del Loco",
+      "url": "https://aragonenvivo.com/evento/los-romeos/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/m_poster-12.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "FRAN PEREA",
+      "fecha": "2026-05-23",
+      "hora": "21:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/fran-perea-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/2965-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "SONNY VINCENT",
+      "fecha": "2026-05-23",
+      "hora": "21:00",
+      "sala": "Rock &#038; Blues Café",
+      "url": "https://aragonenvivo.com/evento/sonny-vincent/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "FREEDIVERS",
+      "fecha": "2026-05-23",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/freedivers-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/freedivers-press-photos_5-1024x797-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "VÓRTICE CERO MARIA BONILLA",
+      "fecha": "2026-05-23",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/vortice-cero-maria-bonilla/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/ley-seca-LOGO-1.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "FOUR AFTER 909",
+      "fecha": "2026-05-23",
+      "hora": "21:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/four-after-909/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "MAITE WOPPER DJ",
+      "fecha": "2026-05-23",
+      "hora": "23:30",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/maite-wopper-dj/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/ley-seca-LOGO-1.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "CLAVE DE DOS",
+      "fecha": "2026-05-24",
+      "hora": "12:30",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/clave-de-dos/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/683001283_1654987923008356_750785916616325089_n.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "NURIA HERNÁNDEZ",
+      "fecha": "2026-05-24",
+      "hora": "13:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/nuria-hernandez/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Candelabro (Chile). Primer pase. 19h.",
+      "fecha": "2026-05-24",
+      "hora": "18:30",
+      "sala": "La Lata de Bombillas",
+      "url": "https://aragonenvivo.com/evento/candelabro-chile-primer-pase-19h/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/candelabro-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "ANAKENA (VNZ)",
+      "fecha": "2026-05-24",
+      "hora": "19:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/anakena-vnz/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/anakena-1024x1024-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
+      "fecha": "2026-05-24",
+      "hora": "19:00",
+      "sala": "Teatro de la Estación",
+      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-12/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "CLARA GIL",
+      "fecha": "2026-05-24",
+      "hora": "20:00",
+      "sala": "Rock &#038; Blues Café",
+      "url": "https://aragonenvivo.com/evento/clara-gil/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Candelabro (Chile). Segundo pase. 21h.",
+      "fecha": "2026-05-24",
+      "hora": "20:30",
+      "sala": "La Lata de Bombillas",
+      "url": "https://aragonenvivo.com/evento/candelabro-chile-segundo-pase-21h/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/candelabro_ebde-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "RAFAEL CAMPOS y JUAN LUIS SALDAÑA",
+      "fecha": "2026-05-28",
+      "hora": "19:00",
+      "sala": "Teatro de la Estación",
+      "url": "https://aragonenvivo.com/evento/rafael-campos-y-juan-luis-saldana/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Jueves-de-Poesia_Rafael-Campos-scaled.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Ruta 80 Live – Invisible Limits",
+      "fecha": "2026-05-28",
+      "hora": "19:00",
+      "sala": "Sala Oasis",
+      "url": "https://aragonenvivo.com/evento/ruta-80-live-invisible-limits/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/invisible_cartel-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "JUAN AMODEO",
+      "fecha": "2026-05-28",
+      "hora": "20:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/juan-amodeo/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/juanamodeoportadaweb-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "BASEMENT SAINTS",
+      "fecha": "2026-05-28",
+      "hora": "21:00",
+      "sala": "Rock &#038; Blues Café",
+      "url": "https://aragonenvivo.com/evento/basement-saints/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Nacho Vegas",
+      "fecha": "2026-05-29",
+      "hora": "19:00",
+      "sala": "Sala Oasis",
+      "url": "https://aragonenvivo.com/evento/nacho-vegas/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Tour_NV_zaragoza-01-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Tributo: NIRVANA (Neverminders), GREEN DAY (Suburbia) y THE OFFSPRING (Smash).",
+      "fecha": "2026-05-29",
+      "hora": "20:00",
+      "sala": "La Casa del Loco",
+      "url": "https://aragonenvivo.com/evento/tributo-nirvana-neverminders-green-day-suburbia-y-the-offspring-smash/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/AMERICAN-PUNK-ROCK-ZGZ-29-MAYO-26-1-2.svg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Au d&#8217;Astí!",
+      "fecha": "2026-05-29",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://aragonenvivo.com/evento/au-d-asti/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Au-dAsti-Mayo-2026.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "REVOLVER",
+      "fecha": "2026-05-29",
+      "hora": "21:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/revolver-4/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/revolver-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "MANGO WOOD",
+      "fecha": "2026-05-29",
+      "hora": "21:00",
+      "sala": "Rock &#038; Blues Café",
+      "url": "https://aragonenvivo.com/evento/mango-wood/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-117.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "THE STRIPP (AUSTRALIA)",
+      "fecha": "2026-05-29",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/the-stripp-australia/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/stripp-new-album-ok-1024x1024-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "CRUDO",
+      "fecha": "2026-05-29",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/crudo/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/ley-seca-LOGO-1.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "MOLISSESION EN ELÉCTRICO CON FRANKI",
+      "fecha": "2026-05-29",
+      "hora": "21:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/molissesion-en-electrico-con-franki-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Tchotchke (USA) al vermú.",
+      "fecha": "2026-05-30",
+      "hora": "12:30",
+      "sala": "La Lata de Bombillas",
+      "url": "https://aragonenvivo.com/evento/tchotchke-usa-al-vermu/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/TCHOTCHKE-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LOS COMBOS DE VOZETICA",
+      "fecha": "2026-05-30",
+      "hora": "12:30",
+      "sala": "Rock &#038; Blues Café",
+      "url": "https://aragonenvivo.com/evento/los-combos-de-vozetica/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "INDUMA / DIREI",
+      "fecha": "2026-05-30",
+      "hora": "13:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/induma-direi/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
       "descripcion": ""
     },
     {
