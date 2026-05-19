@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-19T17:41:03.494819",
+  "actualizado": "2026-05-19T21:14:39.060424",
   "total": 152,
   "eventos": [
     {
@@ -930,6 +930,15 @@
       "descripcion": ""
     },
     {
+      "titulo": "ACANTHA LANG. LA NUEVA REINA REINA DEL SOUL.",
+      "fecha": "2026-06-27",
+      "hora": "21:00",
+      "sala": "La Casa del Loco",
+      "url": "https://aragonenvivo.com/evento/acantha-lang-la-nueva-reina-reina-del-soul/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/ACANTHA-2.jpeg",
+      "descripcion": ""
+    },
+    {
       "titulo": "WAX &#038; BOOGIE",
       "fecha": "2026-06-28",
       "hora": "20:00",
@@ -1359,15 +1368,6 @@
       "sala": "Sala López",
       "url": "https://aragonenvivo.com/evento/steve-n-seagulls/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/STEVE-B-SEAGULLS-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "EL IMITADOR",
-      "fecha": "2026-10-22",
-      "hora": "20:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://aragonenvivo.com/evento/el-imitador/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/imitador1_2-4.webp",
       "descripcion": ""
     }
   ]
