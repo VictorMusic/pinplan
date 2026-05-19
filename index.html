@@ -60,16 +60,16 @@ body{font-family:'Epilogue',sans-serif;color:var(--text);background:var(--black)
 @keyframes shimmer{from{background:var(--sk);}to{background:var(--sk2);}}
 
 /* CARDS */
-.card{display:grid;grid-template-columns:56px 1fr auto;gap:0 .75rem;background:var(--card-bg);border:1px solid var(--border);border-radius:14px;padding:.75rem .9rem;cursor:pointer;align-items:start;transition:transform .12s;}
+.card{display:grid;grid-template-columns:80px 1fr auto;gap:0 .75rem;background:var(--card-bg);border:1px solid var(--border);border-radius:14px;padding:.65rem .9rem;cursor:pointer;align-items:start;transition:transform .12s;}
 .card:active{background:#111;border-color:#222;transform:scale(.985);}
-.ev-img{width:56px;height:56px;border-radius:10px;overflow:hidden;flex-shrink:0;background:#111;}
+.ev-img{width:80px;height:52px;border-radius:10px;overflow:hidden;flex-shrink:0;background:#111;}
 .ev-img img{width:100%;height:100%;object-fit:cover;display:block;}
 .ev-info{min-width:0;}
 .ev-title{font-size:.93rem;font-weight:600;line-height:1.2;color:var(--text);}
 .ev-sala{font-size:.72rem;color:var(--subtext);display:flex;align-items:center;gap:.25rem;margin-top:.25rem;}
 .ev-sala svg{flex-shrink:0;opacity:.5;}
 .hora-wrap{text-align:right;flex-shrink:0;display:flex;flex-direction:column;align-items:flex-end;gap:5px;padding-top:1px;}
-.hora{font-family:'Epilogue',sans-serif;font-weight:900;letter-spacing:-.01em;font-size:1.35rem;line-height:1;color:var(--yellow);}
+.hora{font-family:'Epilogue',sans-serif;font-weight:900;letter-spacing:-.01em;font-size:1rem;line-height:1;color:var(--yellow);}
 
 
 
@@ -352,16 +352,17 @@ function makeCard(ev,d,i){
   var infoDiv=document.createElement('div');infoDiv.className='ev-info';
   var titleDiv=document.createElement('div');titleDiv.className='ev-title';titleDiv.textContent=ev.titulo;
   var salaDiv=document.createElement('div');salaDiv.className='ev-sala';
-  salaDiv.innerHTML=PIN+esc(cleanSala(ev.sala));
+  var salaClean=cleanSala(ev.sala);
+  if(salaClean){salaDiv.innerHTML=PIN+esc(salaClean);}else{salaDiv.style.display='none';}
   salaDiv.style.cursor='pointer';
-  salaDiv.addEventListener('click',function(e){e.stopPropagation();showSalaDetail(cleanSala(ev.sala));});
+  if(salaClean){salaDiv.addEventListener('click',function(e){e.stopPropagation();showSalaDetail(salaClean);});}
   infoDiv.appendChild(titleDiv);infoDiv.appendChild(salaDiv);
   var horaWrap=document.createElement('div');horaWrap.style.cssText='display:flex;flex-direction:column;align-items:flex-end;gap:5px;padding-top:1px;';
   var horaDiv=document.createElement('div');horaDiv.className='hora';horaDiv.textContent=ev.hora||'?';
   var dateLabel2=document.createElement('div');dateLabel2.style.cssText='font-size:.65rem;color:#888;text-align:right;';
   if(d&&typeof d==='string'){var dd=new Date(d+'T12:00:00');dateLabel2.textContent=DAYS_S[dd.getDay()]+' '+dd.getDate()+' '+MONTHS_A[dd.getMonth()];}
   var shareBtn=document.createElement('div');
-  shareBtn.innerHTML='<svg viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:15px;height:15px;cursor:pointer;"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>';
+  shareBtn.innerHTML='<button class="btn btn-share" style="margin-left:8px;padding:4px 10px;font-size:12px;display:flex;align-items:center;gap:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:13px;height:13px;"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg> Compartir</button>';
   horaWrap.appendChild(horaDiv);
   if(typeof d==='string')horaWrap.appendChild(dateLabel2);
   horaWrap.appendChild(shareBtn);
