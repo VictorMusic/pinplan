@@ -183,7 +183,7 @@ def scrape_aragonenvivo():
     for ev in listing_evs[:40]:  # limit to 40 to avoid timeout
         url = ev.get("url","")
         # Skip nav/listing URLs
-        if not url or url == "https://aragonenvivo.com" or "/#" in url or (("/eventos/" in url) and not "/evento/" in url)
+        if not url or "/#" in url or url == "https://aragonenvivo.com" or ("/eventos/" in url and "/evento/" not in url):
             continue  # skip garbage entries entirely
         r = get(url, timeout=8)
         if not r:
@@ -597,6 +597,8 @@ def is_garbage(titulo, url=""):
     for pat in GARBAGE_URL_PATTERNS:
         if pat in url: return True
     return False
+
+
 
 def deduplicate(events):
     events = [e for e in events if e["fecha"]]
