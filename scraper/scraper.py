@@ -170,62 +170,75 @@ def scrape_zgzconciertos():
     print(f"  zgzconciertos: {len(evs)}"); return evs
 
 def scrape_aragonenvivo():
+    """Aragón en Vivo - usando API REST de The Events Calendar."""
     import json as _json
     evs = []
-    # Get listing first
-    listing_evs = []
-    for url in ["https://aragonenvivo.com/eventos/", "https://aragonenvivo.com/agenda/"]:
-        listing_evs = scrape_generic(url, "Zaragoza", "https://aragonenvivo.com")
-        if listing_evs: break
     
-    # Visit each event page to get sala from JSON-LD
-    enriched = 0
-    for ev in listing_evs[:40]:  # limit to 40 to avoid timeout
-        url = ev.get("url","")
-        # Skip nav/listing URLs
-        if not url or "/#" in url or url == "https://aragonenvivo.com" or ("/eventos/" in url and "/evento/" not in url):
-            continue  # skip garbage entries entirely
-        r = get(url, timeout=8)
-        if not r:
-            evs.append(ev)
-            continue
-        from bs4 import BeautifulSoup as BS2
-        soup2 = BS2(r.text, "html.parser")
-        sala = ev["sala"]
-        fecha = ev["fecha"]
-        hora = ev["hora"]
-        img = ev.get("imagen","")
-        for script in soup2.find_all("script", type="application/ld+json"):
+    # Try REST API first (The Events Calendar exposes /wp-json/tribe/events/v1/events)
+    api_url = "https://aragonenvivo.com/wp-json/tribe/events/v1/events"
+    r = get(api_url + "?per_page=50&status=publish&start_date=" + __import__('datetime').date.today().isoformat())
+    if r and len(r.text) > 100:
+        try:
+            data = _json.loads(r.text)
+            for ev in data.get("events", []):
+                title = ev.get("title", "").strip()
+                if not title or len(title) < 3: continue
+                start = ev.get("start_date", "")
+                fecha = parse_date(start) or ""
+                hora = parse_time(start) or ""
+                venue = ev.get("venue", {})
+                sala = venue.get("venue", "") if isinstance(venue, dict) else ""
+                url = ev.get("url", "")
+                img = ""
+                img_data = ev.get("image", {})
+                if isinstance(img_data, dict):
+                    img = img_data.get("url", "")
+                evs.append(make_event(title, fecha, hora, sala or "Zaragoza", url, img))
+            print(f"  aragonenvivo (API): {len(evs)}")
+            if evs: return evs
+        except Exception as e:
+            print(f"  aragonenvivo API error: {e}")
+    
+    # Fallback: scrape listing (without individual page visits)
+    for url in ["https://aragonenvivo.com/eventos/", "https://aragonenvivo.com/agenda/"]:
+        batch = []
+        r2 = get(url)
+        if not r2: continue
+        from bs4 import BeautifulSoup as BS
+        soup = BS(r2.text, "html.parser")
+        # Extract from JSON-LD in the listing page itself
+        for script in soup.find_all("script", type="application/ld+json"):
             try:
                 data = _json.loads(script.string or "")
                 items = data if isinstance(data, list) else [data]
                 for item in items:
                     if item.get("@type") in ("Event", "MusicEvent"):
-                        loc = item.get("location", {})
-                        if isinstance(loc, dict) and loc.get("name"):
-                            sala = loc["name"]
-                            enriched += 1
-                        sd = item.get("startDate", "")
-                        if sd:
-                            fecha = parse_date(sd) or fecha
-                            hora = parse_time(sd) or hora
-                        if not img and item.get("image"):
-                            img_val = item["image"]
-                            img = img_val if isinstance(img_val, str) else (img_val[0] if img_val else "")
-                        break
-            except:
-                pass
-        ev2 = dict(ev)
-        ev2["sala"] = normalize_sala(sala)
-        ev2["fecha"] = fecha
-        ev2["hora"] = hora
-        ev2["imagen"] = img
-        evs.append(ev2)
-        time.sleep(0.3)
-    print(f"    (enriched {enriched} with sala from JSON-LD)")
+                        title = item.get("name","").strip()
+                        if not title: continue
+                        sd = item.get("startDate","")
+                        fecha = parse_date(sd) or ""
+                        hora = parse_time(sd) or ""
+                        loc = item.get("location",{})
+                        sala = loc.get("name","Zaragoza") if isinstance(loc,dict) else "Zaragoza"
+                        url2 = item.get("url","")
+                        img = ""
+                        img_val = item.get("image","")
+                        img = img_val if isinstance(img_val,str) else (img_val[0] if isinstance(img_val,list) and img_val else "")
+                        batch.append(make_event(title, fecha, hora, sala, url2, img))
+            except: pass
+        if batch:
+            evs = batch
+            break
+    
+    # If still no results, use generic scraper
+    if not evs:
+        for url in ["https://aragonenvivo.com/eventos/", "https://aragonenvivo.com/agenda/"]:
+            evs = scrape_generic(url, "Zaragoza", "https://aragonenvivo.com")
+            if evs: break
     
     print(f"  aragonenvivo: {len(evs)}")
     return evs
+
 
 def scrape_enjoyzaragoza():
     evs = scrape_generic("https://www.enjoyzaragoza.es/conciertos-zaragoza/", "Zaragoza", "https://www.enjoyzaragoza.es")
