@@ -74,9 +74,11 @@ body{font-family:'Epilogue',sans-serif;color:var(--text);background:var(--black)
 
 
 /* CTA */
-.cta-box{margin:.25rem 0 0;border:1px dashed #1e1e1e;border-radius:14px;padding:.85rem 1rem;cursor:pointer;}
-.cta-title{font-size:.8rem;font-weight:600;color:var(--yellow);margin-bottom:.2rem;}
-.cta-sub{font-size:.72rem;color:#888;line-height:1.5;}
+.cta-box{margin:.25rem 0 0;border:1px solid #1a1a1a;border-radius:14px;padding:.7rem 1rem;cursor:pointer;display:flex;align-items:center;justify-content:space-between;background:#0a0a0a;transition:border-color .15s;}
+.cta-box:active{border-color:#333;}
+.cta-title{font-size:.78rem;font-weight:500;color:#555;}
+.cta-sub{display:none;}
+.cta-arrow{font-size:.7rem;color:#333;}
 
 /* CARPE DIEM */
 .carpe-diem{padding:2rem 1.25rem;text-align:center;}
@@ -370,12 +372,12 @@ function makeCard(ev,d,i){
 }
 
 function makeCTA(){
-  var wrap=document.createElement('div');
+  var wrap=document.createElement('div');wrap.style.marginTop='.5rem';
   var cta1=document.createElement('div');cta1.className='cta-box';
-  cta1.innerHTML='<div class="cta-title">Publica tu concierto</div><div class="cta-sub">¿Tocas o programas? Hazte oír en Zaragoza.</div>';
+  cta1.innerHTML='<div class="cta-title">Publica tu concierto</div><div class="cta-arrow">→</div>';
   cta1.addEventListener('click',function(){window.location.href='mailto:'+_m+'?subject=PinPlan - Publicar concierto';});
-  var cta2=document.createElement('div');cta2.className='cta-box';cta2.style.marginTop='.5rem';
-  cta2.innerHTML='<div class="cta-title">Anúnciate aquí</div><div class="cta-sub">Llega a los amantes de la música en vivo de Zaragoza.</div>';
+  var cta2=document.createElement('div');cta2.className='cta-box';cta2.style.marginTop='.4rem';
+  cta2.innerHTML='<div class="cta-title">Anúnciate aquí</div><div class="cta-arrow">→</div>';
   cta2.addEventListener('click',function(){window.location.href='mailto:'+_m+'?subject=PinPlan - Publicidad';});
   wrap.appendChild(cta1);wrap.appendChild(cta2);
   return wrap;
