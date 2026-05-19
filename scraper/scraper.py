@@ -173,82 +173,40 @@ def scrape_aragonenvivo():
     """Aragón en Vivo - usando API REST de The Events Calendar."""
     import json as _json
     evs = []
-    
-    # Try REST API first (The Events Calendar exposes /wp-json/tribe/events/v1/events)
     api_url = "https://aragonenvivo.com/wp-json/tribe/events/v1/events"
     evs_api = []
-for page in range(1, 4):  # 3 páginas x 50 = 150 eventos
-    r = get(api_url + f"?per_page=50&status=publish&page={page}&start_date=" + __import__('datetime').date.today().isoformat())
-    if not r or len(r.text) < 100: break
-    try:
-        data = _json.loads(r.text)
-        batch = data.get("events", [])
-        if not batch: break
-        evs_api.extend(batch)
-        if len(batch) < 50: break  # última página
-    except: break
-    if r and len(r.text) > 100:
+    for page in range(1, 4):
+        r = get(api_url + f"?per_page=50&status=publish&page={page}&start_date=" + __import__('datetime').date.today().isoformat())
+        if not r or len(r.text) < 100: break
         try:
             data = _json.loads(r.text)
-            for ev in data.get("events", []):
-                title = ev.get("title", "").strip()
-                if not title or len(title) < 3: continue
-                start = ev.get("start_date", "")
-                fecha = parse_date(start) or ""
-                hora = parse_time(start) or ""
-                venue = ev.get("venue", {})
-                sala = venue.get("venue", "") if isinstance(venue, dict) else ""
-                url = ev.get("url", "")
-                img = ""
-                img_data = ev.get("image", {})
-                if isinstance(img_data, dict):
-                    img = img_data.get("url", "")
-                evs.append(make_event(title, fecha, hora, sala or "Zaragoza", url, img))
-            print(f"  aragonenvivo (API): {len(evs)}")
-            if evs: return evs
-        except Exception as e:
-            print(f"  aragonenvivo API error: {e}")
-    
-    # Fallback: scrape listing (without individual page visits)
+            batch = data.get("events", [])
+            if not batch: break
+            evs_api.extend(batch)
+            if len(batch) < 50: break
+        except: break
+    if evs_api:
+        for ev in evs_api:
+            title = ev.get("title", "").strip()
+            if not title or len(title) < 3: continue
+            start = ev.get("start_date", "")
+            fecha = parse_date(start) or ""
+            hora = parse_time(start) or ""
+            venue = ev.get("venue", {})
+            sala = venue.get("venue", "") if isinstance(venue, dict) else ""
+            url = ev.get("url", "")
+            img_data = ev.get("image", {})
+            img = img_data.get("url", "") if isinstance(img_data, dict) else ""
+            evs.append(make_event(title, fecha, hora, sala or "Zaragoza", url, img))
+        print(f"  aragonenvivo (API): {len(evs)}")
+        return evs
     for url in ["https://aragonenvivo.com/eventos/", "https://aragonenvivo.com/agenda/"]:
-        batch = []
-        r2 = get(url)
-        if not r2: continue
-        from bs4 import BeautifulSoup as BS
-        soup = BS(r2.text, "html.parser")
-        # Extract from JSON-LD in the listing page itself
-        for script in soup.find_all("script", type="application/ld+json"):
-            try:
-                data = _json.loads(script.string or "")
-                items = data if isinstance(data, list) else [data]
-                for item in items:
-                    if item.get("@type") in ("Event", "MusicEvent"):
-                        title = item.get("name","").strip()
-                        if not title: continue
-                        sd = item.get("startDate","")
-                        fecha = parse_date(sd) or ""
-                        hora = parse_time(sd) or ""
-                        loc = item.get("location",{})
-                        sala = loc.get("name","Zaragoza") if isinstance(loc,dict) else "Zaragoza"
-                        url2 = item.get("url","")
-                        img = ""
-                        img_val = item.get("image","")
-                        img = img_val if isinstance(img_val,str) else (img_val[0] if isinstance(img_val,list) and img_val else "")
-                        batch.append(make_event(title, fecha, hora, sala, url2, img))
-            except: pass
+        batch = scrape_generic(url, "Zaragoza", "https://aragonenvivo.com")
         if batch:
             evs = batch
             break
-    
-    # If still no results, use generic scraper
-    if not evs:
-        for url in ["https://aragonenvivo.com/eventos/", "https://aragonenvivo.com/agenda/"]:
-            evs = scrape_generic(url, "Zaragoza", "https://aragonenvivo.com")
-            if evs: break
-    
     print(f"  aragonenvivo: {len(evs)}")
     return evs
-
 
 def scrape_enjoyzaragoza():
     evs = scrape_generic("https://www.enjoyzaragoza.es/conciertos-zaragoza/", "Zaragoza", "https://www.enjoyzaragoza.es")
