@@ -1,16 +1,7 @@
 {
-  "actualizado": "2026-05-19T21:14:39.060424",
-  "total": 152,
+  "actualizado": "2026-05-20T10:25:16.406066",
+  "total": 154,
   "eventos": [
-    {
-      "titulo": "CON V DE VOZ",
-      "fecha": "2026-05-19",
-      "hora": "19:00",
-      "sala": "Rock &#038; Blues Café",
-      "url": "https://aragonenvivo.com/evento/con-v-de-voz-4/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "NOCHE FLAMENCO",
       "fecha": "2026-05-20",
@@ -153,6 +144,24 @@
       "sala": "Belushi",
       "url": "https://aragonenvivo.com/evento/sara-drama-marujindie/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/20260424_saradrama222-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "El Diablo de Shanghai",
+      "fecha": "2026-05-22",
+      "hora": "",
+      "sala": "Sala López",
+      "url": "https://www.setlist.fm/setlist/el-diablo-de-shanghai/2026/sala-lopez-zaragoza-spain-5b76a730.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Pol 3.14",
+      "fecha": "2026-05-22",
+      "hora": "",
+      "sala": "La Casa del Loco",
+      "url": "https://www.setlist.fm/setlist/pol-314/2026/la-casa-del-loco-zaragoza-spain-434b2ba3.html",
+      "imagen": "",
       "descripcion": ""
     },
     {
@@ -585,6 +594,15 @@
       "sala": "Belushi",
       "url": "https://aragonenvivo.com/evento/marta-y-mariano-bartoloma-humor-generacional/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/20260531_BARTOLOMES-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "UNI BOYS + PLASTIC FAMILY.",
+      "fecha": "2026-06-03",
+      "hora": "21:00",
+      "sala": "La Lata de Bombillas",
+      "url": "https://aragonenvivo.com/evento/uni-boys-plastic-family/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Uni-Boys-nuevo-disco-gira-espana-2026.jpg",
       "descripcion": ""
     },
     {
@@ -1101,6 +1119,15 @@
       "descripcion": ""
     },
     {
+      "titulo": "FLAMIN&#8217; GROOVIES.",
+      "fecha": "2026-09-01",
+      "hora": "21:00",
+      "sala": "Rock &#038; Blues Café",
+      "url": "https://aragonenvivo.com/evento/flamin-groovies-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/F-Groovies-Zgza.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "STONE FOUNDATION",
       "fecha": "2026-09-09",
       "hora": "21:00",
@@ -1359,15 +1386,6 @@
       "sala": "Sala Oasis",
       "url": "https://aragonenvivo.com/evento/javi-medina-gato-negro-tour/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/javi-medina-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Steve’n’Seagulls",
-      "fecha": "2026-10-22",
-      "hora": "20:00",
-      "sala": "Sala López",
-      "url": "https://aragonenvivo.com/evento/steve-n-seagulls/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/STEVE-B-SEAGULLS-2.webp",
       "descripcion": ""
     }
   ]
