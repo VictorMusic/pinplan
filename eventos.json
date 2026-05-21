@@ -1,16 +1,7 @@
 {
-  "actualizado": "2026-05-20T21:47:34.583156",
-  "total": 154,
+  "actualizado": "2026-05-21T10:40:27.551430",
+  "total": 159,
   "eventos": [
-    {
-      "titulo": "NOCHE FLAMENCO",
-      "fecha": "2026-05-20",
-      "hora": "21:00",
-      "sala": "Rock &#038; Blues Café",
-      "url": "https://aragonenvivo.com/evento/noche-flamenco-12/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "LLUEVE Y HACE SOL EN PARÍS",
       "fecha": "2026-05-21",
@@ -270,6 +261,51 @@
       "sala": "La Ley Seca",
       "url": "https://aragonenvivo.com/evento/maite-wopper-dj/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/ley-seca-LOGO-1.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Dani Martín",
+      "fecha": "2026-05-23",
+      "hora": "",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.setlist.fm/setlist/dani-martin/2026/pabellon-principe-felipe-zaragoza-spain-7b48e28c.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Celia Becks",
+      "fecha": "2026-05-23",
+      "hora": "",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://www.setlist.fm/setlist/celia-becks/2026/teatro-de-las-esquinas-zaragoza-spain-7348cebd.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Soziedad Alkoholika",
+      "fecha": "2026-05-23",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://www.setlist.fm/setlist/soziedad-alkoholika/2026/sala-multiusos-zaragoza-spain-73418661.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Juventude",
+      "fecha": "2026-05-23",
+      "hora": "",
+      "sala": "La Lata de Bombillas",
+      "url": "https://www.setlist.fm/setlist/juventude/2026/la-lata-de-bombillas-zaragoza-spain-534d9769.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Linaje",
+      "fecha": "2026-05-23",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://www.setlist.fm/setlist/linaje/2026/sala-multiusos-zaragoza-spain-1b777920.html",
+      "imagen": "",
       "descripcion": ""
     },
     {
@@ -1386,6 +1422,15 @@
       "sala": "Sala Oasis",
       "url": "https://aragonenvivo.com/evento/javi-medina-gato-negro-tour/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/javi-medina-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Steve’n’Seagulls",
+      "fecha": "2026-10-22",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://aragonenvivo.com/evento/steve-n-seagulls/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/STEVE-B-SEAGULLS-2.webp",
       "descripcion": ""
     }
   ]
