@@ -1,43 +1,7 @@
 {
-  "actualizado": "2026-05-21T21:24:17.029096",
+  "actualizado": "2026-05-22T10:24:54.811256",
   "total": 159,
   "eventos": [
-    {
-      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
-      "fecha": "2026-05-21",
-      "hora": "19:00",
-      "sala": "Teatro de la Estación",
-      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-9/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "REDD KROSS",
-      "fecha": "2026-05-21",
-      "hora": "21:00",
-      "sala": "Rock &#038; Blues Café",
-      "url": "https://aragonenvivo.com/evento/redd-kross/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-115.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "SEISCA",
-      "fecha": "2026-05-21",
-      "hora": "21:00",
-      "sala": "Sala Creedence",
-      "url": "https://aragonenvivo.com/evento/seisca-3/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/img-20260414-wa0000.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "BIGBLACK RHINO",
-      "fecha": "2026-05-21",
-      "hora": "21:00",
-      "sala": "Sala Z",
-      "url": "https://aragonenvivo.com/evento/bigblack-rhino-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/unnamed-2-5.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "LLUEVE Y HACE SOL EN PARÍS",
       "fecha": "2026-05-22",
@@ -1431,6 +1395,42 @@
       "sala": "Sala López",
       "url": "https://aragonenvivo.com/evento/steve-n-seagulls/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/STEVE-B-SEAGULLS-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "EL IMITADOR",
+      "fecha": "2026-10-22",
+      "hora": "20:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/el-imitador/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/imitador1_2-4.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "HOSS&#038;SWET 1987",
+      "fecha": "2026-10-22",
+      "hora": "21:00",
+      "sala": "Rock &#038; Blues Café",
+      "url": "https://aragonenvivo.com/evento/hoss-swet-1987/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-133.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Guille Toledano",
+      "fecha": "2026-10-23",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://aragonenvivo.com/evento/guille-toledano/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Guille-toledano-concierto-zaragoza-CARTEL.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "ANA POPOVIC",
+      "fecha": "2026-10-23",
+      "hora": "21:00",
+      "sala": "Rock &#038; Blues Café",
+      "url": "https://aragonenvivo.com/evento/ana-popovic/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-134.webp",
       "descripcion": ""
     }
   ]
