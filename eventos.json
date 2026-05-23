@@ -1,124 +1,7 @@
 {
-  "actualizado": "2026-05-22T21:05:38.814957",
-  "total": 159,
+  "actualizado": "2026-05-23T09:02:26.783998",
+  "total": 155,
   "eventos": [
-    {
-      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
-      "fecha": "2026-05-22",
-      "hora": "19:00",
-      "sala": "Teatro de la Estación",
-      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-10/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Samantha Hudson",
-      "fecha": "2026-05-22",
-      "hora": "19:00",
-      "sala": "Sala Oasis",
-      "url": "https://aragonenvivo.com/evento/samantha-hudson-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/samantha-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "El Diablo de Shangai + Erin Memento",
-      "fecha": "2026-05-22",
-      "hora": "20:00",
-      "sala": "Sala López",
-      "url": "https://aragonenvivo.com/evento/el-diablo-de-shangai-erin-memento/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Diablo-Shangai-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "AL TRAN TRAN",
-      "fecha": "2026-05-22",
-      "hora": "20:00",
-      "sala": "Belushi",
-      "url": "https://aragonenvivo.com/evento/al-tran-tran/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260522ALTRAAA-1.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Dani Martín",
-      "fecha": "2026-05-22",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/dani-martin/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2025/06/dani-martin.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "A BURIAL AT SEA (UK) EN SALA CREEDENCE – ZARAGOZA",
-      "fecha": "2026-05-22",
-      "hora": "21:00",
-      "sala": "Sala Creedence",
-      "url": "https://aragonenvivo.com/evento/a-burial-at-sea-uk-en-sala-creedence-zaragoza/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/newhvn-poster-blank-724x1024-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "WHISKY CARAVAN",
-      "fecha": "2026-05-22",
-      "hora": "21:00",
-      "sala": "Rock &#038; Blues Café",
-      "url": "https://aragonenvivo.com/evento/whisky-caravan-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-116.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "ROLY BERRIO",
-      "fecha": "2026-05-22",
-      "hora": "21:00",
-      "sala": "El Refugio del Crápula",
-      "url": "https://aragonenvivo.com/evento/roly-berrio/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260522_roly2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LEO DEXTER BAND +CONTRA EL VIENTO",
-      "fecha": "2026-05-22",
-      "hora": "21:00",
-      "sala": "La Ley Seca",
-      "url": "https://aragonenvivo.com/evento/leo-dexter-band-contra-el-viento/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/ley-seca-LOGO-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "MOLISSESION EN ELÉCTRICO CON FRANKI",
-      "fecha": "2026-05-22",
-      "hora": "21:00",
-      "sala": "Moliner 7 Cafe&#038;Copas",
-      "url": "https://aragonenvivo.com/evento/molissesion-en-electrico-con-franki/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "SARA DRAMA &#8211; MARUJINDIE",
-      "fecha": "2026-05-22",
-      "hora": "22:00",
-      "sala": "Belushi",
-      "url": "https://aragonenvivo.com/evento/sara-drama-marujindie/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260424_saradrama222-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "El Diablo de Shanghai",
-      "fecha": "2026-05-22",
-      "hora": "",
-      "sala": "Sala López",
-      "url": "https://www.setlist.fm/setlist/el-diablo-de-shanghai/2026/sala-lopez-zaragoza-spain-5b76a730.html",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Pol 3.14",
-      "fecha": "2026-05-22",
-      "hora": "",
-      "sala": "La Casa del Loco",
-      "url": "https://www.setlist.fm/setlist/pol-314/2026/la-casa-del-loco-zaragoza-spain-434b2ba3.html",
-      "imagen": "",
-      "descripcion": ""
-    },
     {
       "titulo": "IN MATERIA",
       "fecha": "2026-05-23",
@@ -260,15 +143,6 @@
       "hora": "",
       "sala": "La Lata de Bombillas",
       "url": "https://www.setlist.fm/setlist/juventude/2026/la-lata-de-bombillas-zaragoza-spain-534d9769.html",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Linaje",
-      "fecha": "2026-05-23",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.setlist.fm/setlist/linaje/2026/sala-multiusos-zaragoza-spain-1b777920.html",
       "imagen": "",
       "descripcion": ""
     },
@@ -1431,6 +1305,96 @@
       "sala": "Rock &#038; Blues Café",
       "url": "https://aragonenvivo.com/evento/ana-popovic/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-134.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Muerdo",
+      "fecha": "2026-10-24",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://aragonenvivo.com/evento/muerdo/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/24_10-Zaragoza_Muerdo-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "AURUM. BANDAS SONORAS A LA LUZ DE LAS VELAS",
+      "fecha": "2026-10-24",
+      "hora": "20:30",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/aurum-bandas-sonoras-a-la-luz-de-las-velas/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/TEATRO-ESQUINAS.png",
+      "descripcion": ""
+    },
+    {
+      "titulo": "THE SILENCERS. Banda mítica de los 80.",
+      "fecha": "2026-10-24",
+      "hora": "21:00",
+      "sala": "La Casa del Loco",
+      "url": "https://aragonenvivo.com/evento/the-silencers-banda-mitica-de-los-80/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/SILENCERS-POSTER-scaled.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "HIMAR ARMAS Y JORGE SANTOS",
+      "fecha": "2026-10-25",
+      "hora": "19:00",
+      "sala": "Belushi",
+      "url": "https://aragonenvivo.com/evento/himar-armas-y-jorge-santos/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20261025_Te-lo-dijo-A4-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "No Te Va Gustar",
+      "fecha": "2026-10-27",
+      "hora": "20:00",
+      "sala": "Sala Oasis",
+      "url": "https://aragonenvivo.com/evento/no-te-va-gustar/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/590427327_18546209734004249_7802672503500436689_n-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "RAFA SANCHEZ &#8211; LA UNIÓN &#8211; Biografía",
+      "fecha": "2026-10-30",
+      "hora": "20:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/rafa-sanchez-la-union-biografia/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rafalaunion.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "RAFA SANCHEZ &#8211; LA UNIÓN",
+      "fecha": "2026-10-30",
+      "hora": "20:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/rafa-sanchez-la-union/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rafalaunion-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Funzo",
+      "fecha": "2026-10-30",
+      "hora": "20:00",
+      "sala": "Sala Oasis",
+      "url": "https://aragonenvivo.com/evento/funzo/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/ZARAGOZA-POST-FUNZO-scaled-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Kelley Stoltz (USA)",
+      "fecha": "2026-10-30",
+      "hora": "20:30",
+      "sala": "La Lata de Bombillas",
+      "url": "https://aragonenvivo.com/evento/kelley-stoltz-usa/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/kelley-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "CINEMA STEREO",
+      "fecha": "2026-10-30",
+      "hora": "21:00",
+      "sala": "Rock &#038; Blues Café",
+      "url": "https://aragonenvivo.com/evento/cinema-stereo/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
       "descripcion": ""
     }
   ]
