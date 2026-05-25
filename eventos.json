@@ -1,68 +1,14 @@
 {
-  "actualizado": "2026-05-24T20:46:49.114981",
+  "actualizado": "2026-05-25T11:10:42.715813",
   "total": 151,
   "eventos": [
     {
-      "titulo": "CLAVE DE DOS",
-      "fecha": "2026-05-24",
-      "hora": "12:30",
-      "sala": "Sala Creedence",
-      "url": "https://aragonenvivo.com/evento/clave-de-dos/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/683001283_1654987923008356_750785916616325089_n.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "NURIA HERNÁNDEZ",
-      "fecha": "2026-05-24",
-      "hora": "13:00",
-      "sala": "Moliner 7 Cafe&#038;Copas",
-      "url": "https://aragonenvivo.com/evento/nuria-hernandez/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Candelabro (Chile). Primer pase. 19h.",
-      "fecha": "2026-05-24",
-      "hora": "18:30",
-      "sala": "La Lata de Bombillas",
-      "url": "https://aragonenvivo.com/evento/candelabro-chile-primer-pase-19h/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/candelabro-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "ANAKENA (VNZ)",
-      "fecha": "2026-05-24",
-      "hora": "19:00",
-      "sala": "Sala Creedence",
-      "url": "https://aragonenvivo.com/evento/anakena-vnz/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/anakena-1024x1024-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LLUEVE Y HACE SOL EN PARÍS",
-      "fecha": "2026-05-24",
-      "hora": "19:00",
-      "sala": "Teatro de la Estación",
-      "url": "https://aragonenvivo.com/evento/llueve-y-hace-sol-en-paris-12/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Llueve-y-hace-sol_cartel-scaled.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "CLARA GIL",
-      "fecha": "2026-05-24",
-      "hora": "20:00",
-      "sala": "Rock &#038; Blues Café",
-      "url": "https://aragonenvivo.com/evento/clara-gil/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Candelabro (Chile). Segundo pase. 21h.",
-      "fecha": "2026-05-24",
-      "hora": "20:30",
-      "sala": "La Lata de Bombillas",
-      "url": "https://aragonenvivo.com/evento/candelabro-chile-segundo-pase-21h/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/candelabro_ebde-2.webp",
+      "titulo": "Arena Activity Club: «Arena en Escena: El Arte del Movimiento»",
+      "fecha": "2026-05-26",
+      "hora": "18:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/arena-activity-club-arena-en-escena-el-arte-del-movimiento/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/3440.png-1070x713-1.png",
       "descripcion": ""
     },
     {
@@ -273,15 +219,6 @@
       "descripcion": ""
     },
     {
-      "titulo": "CHINA CRISIS. LO MEJOR DE LOS 80.",
-      "fecha": "2026-05-30",
-      "hora": "21:00",
-      "sala": "La Casa del Loco",
-      "url": "https://aragonenvivo.com/evento/china-crisis-lo-mejor-de-los-80/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/China-Crisis-Poster.jpg",
-      "descripcion": ""
-    },
-    {
       "titulo": "CAPITAN ADHOC",
       "fecha": "2026-05-31",
       "hora": "13:00",
@@ -363,6 +300,15 @@
       "descripcion": ""
     },
     {
+      "titulo": "VINOS CHUECA",
+      "fecha": "2026-06-05",
+      "hora": "20:30",
+      "sala": "La Campana Underground",
+      "url": "https://aragonenvivo.com/evento/vinos-chueca/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/LA-CAMPANA-UNDERGROUND.png",
+      "descripcion": ""
+    },
+    {
       "titulo": "NIÑOS DEL BRASIL",
       "fecha": "2026-06-05",
       "hora": "21:00",
@@ -378,6 +324,15 @@
       "sala": "Sala Creedence",
       "url": "https://aragonenvivo.com/evento/mr-sanchez-en-sala-creedence-reddesalas-inaem/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/mr.-sanchez-cartel-a3-vertical-e1777917723712-1008x1024-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "MOLISSESION EN ELÉCTRICO CON FRANKI",
+      "fecha": "2026-06-05",
+      "hora": "21:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/molissesion-en-electrico-con-franki-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
       "descripcion": ""
     },
     {
@@ -423,6 +378,24 @@
       "sala": "Rock &#038; Blues Café",
       "url": "https://aragonenvivo.com/evento/principles-of-joy-time/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "VIOSNA",
+      "fecha": "2026-06-06",
+      "hora": "21:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/viosna-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "BUSY BLUESMEN",
+      "fecha": "2026-06-07",
+      "hora": "13:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/busy-bluesmen-4/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
       "descripcion": ""
     },
     {
@@ -498,6 +471,15 @@
       "descripcion": ""
     },
     {
+      "titulo": "MOLISSESION EN ELÉCTRICO CON FRANKI",
+      "fecha": "2026-06-12",
+      "hora": "21:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/molissesion-en-electrico-con-franki-4/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-1.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "TERGAL",
       "fecha": "2026-06-13",
       "hora": "12:30",
@@ -531,6 +513,24 @@
       "sala": "La Casa del Loco",
       "url": "https://aragonenvivo.com/evento/pedro-botero/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/v-pedro-botero-la-casa-del-loco-arena-rock-junio-2026-zgz-.svg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "BOLTANCHEROS",
+      "fecha": "2026-06-14",
+      "hora": "13:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/boltancheros/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "TRIP&#038;CREATION",
+      "fecha": "2026-06-14",
+      "hora": "13:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/tripcreation/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
       "descripcion": ""
     },
     {
@@ -579,6 +579,24 @@
       "descripcion": ""
     },
     {
+      "titulo": "MOLISSESION EN ELÉCTRICO CON FRANKI",
+      "fecha": "2026-06-19",
+      "hora": "21:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/molissesion-en-electrico-con-franki-5/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LOS GARCÍA (TRIBUTO EXTREMODURO)",
+      "fecha": "2026-06-20",
+      "hora": "13:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/los-garcia-tributo-extremoduro/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-1.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "SAUL ANDREU QUARTET",
       "fecha": "2026-06-20",
       "hora": "19:00",
@@ -603,6 +621,15 @@
       "sala": "La Casa del Loco",
       "url": "https://aragonenvivo.com/evento/sin-soda-homenaje-soda-stereo-3/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/SIN-SODA-SODA-STEREO-ZARAGOZA-2026-2.svg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "THE BONS VIVANTS",
+      "fecha": "2026-06-21",
+      "hora": "20:00",
+      "sala": "La Campana Underground",
+      "url": "https://aragonenvivo.com/evento/the-bons-vivants-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/LA-CAMPANA-UNDERGROUND.png",
       "descripcion": ""
     },
     {
@@ -660,6 +687,33 @@
       "descripcion": ""
     },
     {
+      "titulo": "MOLISSESION EN ELÉCTRICO CON FRANKI",
+      "fecha": "2026-06-26",
+      "hora": "21:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/molissesion-en-electrico-con-franki-6/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-1.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "JESUS FORCÉ (Tributo Neil Young)",
+      "fecha": "2026-06-27",
+      "hora": "13:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/jesus-force-tributo-neil-young/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "OSCAR BALLESTER",
+      "fecha": "2026-06-27",
+      "hora": "13:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/oscar-ballester/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "MERY SIN MAS &#8211; SEÃORA YO?",
       "fecha": "2026-06-27",
       "hora": "19:00",
@@ -687,6 +741,15 @@
       "descripcion": ""
     },
     {
+      "titulo": "LEO SUSANA",
+      "fecha": "2026-06-28",
+      "hora": "13:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/leo-susana-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "WAX &#038; BOOGIE",
       "fecha": "2026-06-28",
       "hora": "20:00",
@@ -711,6 +774,15 @@
       "sala": "La Lata de Bombillas",
       "url": "https://aragonenvivo.com/evento/the-pains-of-being-pure-at-heart-usa/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/pains-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "VIERNES MOLISSESION EN ELÉCTRICO CON FRANKI",
+      "fecha": "2026-07-03",
+      "hora": "21:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/viernes-molissesion-en-electrico-con-franki/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-1.jpg",
       "descripcion": ""
     },
     {
@@ -768,6 +840,15 @@
       "descripcion": ""
     },
     {
+      "titulo": "VIERNES MOLISSESION EN ELÉCTRICO CON FRANKI",
+      "fecha": "2026-07-10",
+      "hora": "21:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/viernes-molissesion-en-electrico-con-franki-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-1.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "DOGHOUSE SAM",
       "fecha": "2026-07-12",
       "hora": "20:00",
@@ -783,6 +864,15 @@
       "sala": "Sala Creedence",
       "url": "https://aragonenvivo.com/evento/l-abime-nait-l-aube-suiza/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/de-l-abime-nait-laube-suiza-983x1024-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "VIERNES MOLISSESION EN ELÉCTRICO CON FRANKI",
+      "fecha": "2026-07-17",
+      "hora": "21:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/viernes-molissesion-en-electrico-con-franki-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-1.jpg",
       "descripcion": ""
     },
     {
@@ -822,6 +912,15 @@
       "descripcion": ""
     },
     {
+      "titulo": "VIERNES MOLISSESION EN ELÉCTRICO CON FRANKI",
+      "fecha": "2026-07-31",
+      "hora": "21:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/viernes-molissesion-en-electrico-con-franki-4/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-1.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "RubÃ©n Sierra, Fisicomic &#8211; DESTROZANDO TU INFANCIA",
       "fecha": "2026-08-06",
       "hora": "20:00",
@@ -831,12 +930,48 @@
       "descripcion": ""
     },
     {
+      "titulo": "VIERNES MOLISSESION EN ELÉCTRICO CON FRANKI",
+      "fecha": "2026-08-07",
+      "hora": "21:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/viernes-molissesion-en-electrico-con-franki-5/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "VIERNES MOLISSESION EN ELÉCTRICO CON FRANKI",
+      "fecha": "2026-08-14",
+      "hora": "21:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/viernes-molissesion-en-electrico-con-franki-6/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-1.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "VIERNES MOLISSESION EN ELÉCTRICO CON FRANKI",
+      "fecha": "2026-08-21",
+      "hora": "21:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/viernes-molissesion-en-electrico-con-franki-7/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-1.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "COPACABANA",
       "fecha": "2026-08-27",
       "hora": "21:00",
       "sala": "Rock &#038; Blues Café",
       "url": "https://aragonenvivo.com/evento/copacabana-7/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-125.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "VIERNES MOLISSESION EN ELÉCTRICO CON FRANKI",
+      "fecha": "2026-08-28",
+      "hora": "21:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/viernes-molissesion-en-electrico-con-franki-8/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-1.jpg",
       "descripcion": ""
     },
     {
@@ -1224,141 +1359,6 @@
       "sala": "Teatro de las Esquinas",
       "url": "https://aragonenvivo.com/evento/rafa-sanchez-la-union/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/rafalaunion-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Funzo",
-      "fecha": "2026-10-30",
-      "hora": "20:00",
-      "sala": "Sala Oasis",
-      "url": "https://aragonenvivo.com/evento/funzo/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/ZARAGOZA-POST-FUNZO-scaled-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Kelley Stoltz (USA)",
-      "fecha": "2026-10-30",
-      "hora": "20:30",
-      "sala": "La Lata de Bombillas",
-      "url": "https://aragonenvivo.com/evento/kelley-stoltz-usa/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/kelley-1.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "CINEMA STEREO",
-      "fecha": "2026-10-30",
-      "hora": "21:00",
-      "sala": "Rock &#038; Blues Café",
-      "url": "https://aragonenvivo.com/evento/cinema-stereo/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "ASÍ SE BAILA",
-      "fecha": "2026-11-01",
-      "hora": "20:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://aragonenvivo.com/evento/asi-se-baila/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/3541.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "PARADISE (TRIBUTO A COLDPLAY)",
-      "fecha": "2026-11-01",
-      "hora": "20:00",
-      "sala": "Sala Oasis",
-      "url": "https://aragonenvivo.com/evento/paradise-tributo-a-coldplay/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/paradise-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "ASÍ SE BAILA EL TANGO",
-      "fecha": "2026-11-01",
-      "hora": "20:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://aragonenvivo.com/evento/asi-se-baila-el-tango/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/TEATRO-ESQUINAS.png",
-      "descripcion": ""
-    },
-    {
-      "titulo": "MONSTRUO LABERINTO",
-      "fecha": "2026-11-06",
-      "hora": "21:00",
-      "sala": "Rock &#038; Blues Café",
-      "url": "https://aragonenvivo.com/evento/monstruo-laberinto/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Ángel Stanich Band",
-      "fecha": "2026-11-07",
-      "hora": "20:00",
-      "sala": "Sala López",
-      "url": "https://aragonenvivo.com/evento/angel-stanich-band-3/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Angel-Stanich-Band-Zaragoza-Cartel-scaled-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Walls",
-      "fecha": "2026-11-07",
-      "hora": "20:00",
-      "sala": "Sala Oasis",
-      "url": "https://aragonenvivo.com/evento/walls/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Q-ws2Z-g-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "SANTERO Y LOS MUCHACHOS &#8211; Gira Todas las Luces",
-      "fecha": "2026-11-07",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://aragonenvivo.com/evento/santero-y-los-muchachos-gira-todas-las-luces/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/3333.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "SANTERO Y LOS MUCHACHOS",
-      "fecha": "2026-11-07",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://aragonenvivo.com/evento/santero-y-los-muchachos-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/3333-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "DIRTY SOUND MAGNET",
-      "fecha": "2026-11-07",
-      "hora": "21:00",
-      "sala": "Rock &#038; Blues Café",
-      "url": "https://aragonenvivo.com/evento/dirty-sound-magnet/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-135.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Walls",
-      "fecha": "2026-11-08",
-      "hora": "20:00",
-      "sala": "Sala Oasis",
-      "url": "https://aragonenvivo.com/evento/walls-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/ZARAGOZA-2-scaled-4.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "SOFIA ELLAR &#8211; Ellar",
-      "fecha": "2026-11-13",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://aragonenvivo.com/evento/sofia-ellar-ellar/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/3280.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "SOFIA ELLAR",
-      "fecha": "2026-11-13",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://aragonenvivo.com/evento/sofia-ellar/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/3280-3.webp",
       "descripcion": ""
     }
   ]
