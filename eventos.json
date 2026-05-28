@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-05-27T21:48:17.950162",
-  "total": 153,
+  "actualizado": "2026-05-28T10:56:25.078616",
+  "total": 156,
   "eventos": [
     {
       "titulo": "RAFAEL CAMPOS y JUAN LUIS SALDAÑA",
@@ -225,6 +225,33 @@
       "sala": "Belushi",
       "url": "https://aragonenvivo.com/evento/xavi-daura-y-vanessa-valero-gato-y-mono/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/20260530_VANXAVIMAYO26-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Tchotchke",
+      "fecha": "2026-05-30",
+      "hora": "",
+      "sala": "La Lata de Bombillas",
+      "url": "https://www.setlist.fm/setlist/tchotchke/2026/la-lata-de-bombillas-zaragoza-spain-b7595a6.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Diagnóstico Binario",
+      "fecha": "2026-05-30",
+      "hora": "",
+      "sala": "La Lata de Bombillas",
+      "url": "https://www.setlist.fm/setlist/diagnostico-binario/2026/la-lata-de-bombillas-zaragoza-spain-6b48fe3e.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "China Crisis",
+      "fecha": "2026-05-30",
+      "hora": "",
+      "sala": "La Casa del Loco",
+      "url": "https://www.setlist.fm/setlist/china-crisis/2026/la-casa-del-loco-zaragoza-spain-2b74788a.html",
+      "imagen": "",
       "descripcion": ""
     },
     {
