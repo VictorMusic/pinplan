@@ -1,43 +1,7 @@
 {
-  "actualizado": "2026-05-28T21:52:39.866895",
-  "total": 156,
+  "actualizado": "2026-05-29T10:46:03.089101",
+  "total": 160,
   "eventos": [
-    {
-      "titulo": "RAFAEL CAMPOS y JUAN LUIS SALDAÑA",
-      "fecha": "2026-05-28",
-      "hora": "19:00",
-      "sala": "Teatro de la Estación",
-      "url": "https://aragonenvivo.com/evento/rafael-campos-y-juan-luis-saldana/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Jueves-de-Poesia_Rafael-Campos-scaled.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Ruta 80 Live – Invisible Limits",
-      "fecha": "2026-05-28",
-      "hora": "19:00",
-      "sala": "Sala Oasis",
-      "url": "https://aragonenvivo.com/evento/ruta-80-live-invisible-limits/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/invisible_cartel-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "JUAN AMODEO",
-      "fecha": "2026-05-28",
-      "hora": "20:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://aragonenvivo.com/evento/juan-amodeo/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/juanamodeoportadaweb-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "BASEMENT SAINTS",
-      "fecha": "2026-05-28",
-      "hora": "21:00",
-      "sala": "Rock &#038; Blues Café",
-      "url": "https://aragonenvivo.com/evento/basement-saints/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "Nacho Vegas",
       "fecha": "2026-05-29",
@@ -297,6 +261,42 @@
       "sala": "Belushi",
       "url": "https://aragonenvivo.com/evento/marta-y-mariano-bartoloma-humor-generacional/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/20260531_BARTOLOMES-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Zack Keim",
+      "fecha": "2026-05-31",
+      "hora": "",
+      "sala": "La Lata de Bombillas",
+      "url": "https://www.setlist.fm/setlist/zack-keim/2026/la-lata-de-bombillas-zaragoza-spain-b742112.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Benditos Malditos",
+      "fecha": "2026-05-31",
+      "hora": "",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://www.setlist.fm/setlist/benditos-malditos/2026/teatro-de-las-esquinas-zaragoza-spain-7b4ad698.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Víctor Manuel",
+      "fecha": "2026-05-31",
+      "hora": "",
+      "sala": "Mozart Hall",
+      "url": "https://www.setlist.fm/setlist/victor-manuel/2026/mozart-hall-zaragoza-spain-734856d9.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Bewis de la Rosa",
+      "fecha": "2026-05-31",
+      "hora": "",
+      "sala": "Espacio Exterior",
+      "url": "https://www.setlist.fm/setlist/bewis-de-la-rosa/2026/plaza-de-san-bruno-zaragoza-spain-3374f4f1.html",
+      "imagen": "",
       "descripcion": ""
     },
     {
@@ -1404,6 +1404,42 @@
       "sala": "Sala Oasis",
       "url": "https://aragonenvivo.com/evento/funzo/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/ZARAGOZA-POST-FUNZO-scaled-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Kelley Stoltz (USA)",
+      "fecha": "2026-10-30",
+      "hora": "20:30",
+      "sala": "La Lata de Bombillas",
+      "url": "https://aragonenvivo.com/evento/kelley-stoltz-usa/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/kelley-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "CINEMA STEREO",
+      "fecha": "2026-10-30",
+      "hora": "21:00",
+      "sala": "Rock &#038; Blues Café",
+      "url": "https://aragonenvivo.com/evento/cinema-stereo/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "ASÍ SE BAILA",
+      "fecha": "2026-11-01",
+      "hora": "20:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/asi-se-baila/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/3541.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "PARADISE (TRIBUTO A COLDPLAY)",
+      "fecha": "2026-11-01",
+      "hora": "20:00",
+      "sala": "Sala Oasis",
+      "url": "https://aragonenvivo.com/evento/paradise-tributo-a-coldplay/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/paradise-3.webp",
       "descripcion": ""
     }
   ]
