@@ -1,133 +1,7 @@
 {
-  "actualizado": "2026-05-30T20:49:50.737370",
-  "total": 158,
+  "actualizado": "2026-05-31T09:47:24.501667",
+  "total": 150,
   "eventos": [
-    {
-      "titulo": "Tchotchke (USA) al vermú.",
-      "fecha": "2026-05-30",
-      "hora": "12:30",
-      "sala": "La Lata de Bombillas",
-      "url": "https://aragonenvivo.com/evento/tchotchke-usa-al-vermu/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/TCHOTCHKE-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LOS COMBOS DE VOZETICA",
-      "fecha": "2026-05-30",
-      "hora": "12:30",
-      "sala": "Rock &#038; Blues Café",
-      "url": "https://aragonenvivo.com/evento/los-combos-de-vozetica/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "INDUMA / DIREI",
-      "fecha": "2026-05-30",
-      "hora": "13:00",
-      "sala": "Moliner 7 Cafe&#038;Copas",
-      "url": "https://aragonenvivo.com/evento/induma-direi/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Marlon",
-      "fecha": "2026-05-30",
-      "hora": "19:00",
-      "sala": "Sala Oasis",
-      "url": "https://aragonenvivo.com/evento/marlon/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/589074844_18541344841030174_7663188236950607850_n-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "CRISTINA GOMEZ &#8211; TONTA",
-      "fecha": "2026-05-30",
-      "hora": "19:00",
-      "sala": "Belushi",
-      "url": "https://aragonenvivo.com/evento/cristina-gomez-tonta/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260530_CRSITINA-GOMEZ11-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "KOZAI",
-      "fecha": "2026-05-30",
-      "hora": "20:00",
-      "sala": "Sala López",
-      "url": "https://aragonenvivo.com/evento/kozai-3/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/zARAGOZA-kOZAI-MAYO-POST-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "HOMBRE DEL SACO + VELADURA",
-      "fecha": "2026-05-30",
-      "hora": "21:00",
-      "sala": "Sala Creedence",
-      "url": "https://aragonenvivo.com/evento/hombre-del-saco-veladura/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/img_4864.jpg-scaled-e1775584708907-1024x953-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "CHINA CHANA",
-      "fecha": "2026-05-30",
-      "hora": "21:00",
-      "sala": "Rock &#038; Blues Café",
-      "url": "https://aragonenvivo.com/evento/china-chana-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-118.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "SUNFAIA + BANK",
-      "fecha": "2026-05-30",
-      "hora": "21:00",
-      "sala": "La Ley Seca",
-      "url": "https://aragonenvivo.com/evento/sunfaia-bank/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/ley-seca-LOGO-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "CHINA CRISIS: TECHNO-POP ELEGANTE DE LOS 80",
-      "fecha": "2026-05-30",
-      "hora": "21:00",
-      "sala": "La Casa del Loco",
-      "url": "https://aragonenvivo.com/evento/china-crisis-techno-pop-elegante-de-los-80/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/m_poster-1-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "XAVI DAURA Y VANESSA VALERO &#8211; GATO Y MONO",
-      "fecha": "2026-05-30",
-      "hora": "21:00",
-      "sala": "Belushi",
-      "url": "https://aragonenvivo.com/evento/xavi-daura-y-vanessa-valero-gato-y-mono/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260530_VANXAVIMAYO26-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Tchotchke",
-      "fecha": "2026-05-30",
-      "hora": "",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.setlist.fm/setlist/tchotchke/2026/la-lata-de-bombillas-zaragoza-spain-b7595a6.html",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Diagnóstico Binario",
-      "fecha": "2026-05-30",
-      "hora": "",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.setlist.fm/setlist/diagnostico-binario/2026/la-lata-de-bombillas-zaragoza-spain-6b48fe3e.html",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "China Crisis",
-      "fecha": "2026-05-30",
-      "hora": "",
-      "sala": "La Casa del Loco",
-      "url": "https://www.setlist.fm/setlist/china-crisis/2026/la-casa-del-loco-zaragoza-spain-2b74788a.html",
-      "imagen": "",
-      "descripcion": ""
-    },
     {
       "titulo": "CAPITAN ADHOC",
       "fecha": "2026-05-31",
@@ -1422,6 +1296,60 @@
       "sala": "Sala Oasis",
       "url": "https://aragonenvivo.com/evento/walls-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/ZARAGOZA-2-scaled-4.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "SOFIA ELLAR &#8211; Ellar",
+      "fecha": "2026-11-13",
+      "hora": "21:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/sofia-ellar-ellar/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/3280.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "SOFIA ELLAR",
+      "fecha": "2026-11-13",
+      "hora": "21:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/sofia-ellar/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/3280-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "JAIME CARAVACA",
+      "fecha": "2026-11-13",
+      "hora": "22:00",
+      "sala": "Belushi",
+      "url": "https://aragonenvivo.com/evento/jaime-caravaca/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20261113jaimeca444-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Temples. Ciclo Lata Gourmet",
+      "fecha": "2026-11-18",
+      "hora": "19:30",
+      "sala": "La Lata de Bombillas",
+      "url": "https://aragonenvivo.com/evento/temples-ciclo-lata-gourmet/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/TEMPLES_CAB.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "MANEL FUENTES | ¿PORQUE LE LLAMAN THE BOSS?",
+      "fecha": "2026-11-22",
+      "hora": "19:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/manel-fuentes-porque-le-llaman-the-boss/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/TEATRO-ESQUINAS.png",
+      "descripcion": ""
+    },
+    {
+      "titulo": "FRANKIE AND THE WITCH FINGERS",
+      "fecha": "2026-11-26",
+      "hora": "21:00",
+      "sala": "Rock &#038; Blues Café",
+      "url": "https://aragonenvivo.com/evento/frankie-and-the-witch-fingers/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-136.webp",
       "descripcion": ""
     }
   ]
