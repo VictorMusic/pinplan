@@ -1,88 +1,7 @@
 {
-  "actualizado": "2026-05-31T20:53:18.337259",
-  "total": 150,
+  "actualizado": "2026-06-01T12:37:01.831722",
+  "total": 151,
   "eventos": [
-    {
-      "titulo": "CAPITAN ADHOC",
-      "fecha": "2026-05-31",
-      "hora": "13:00",
-      "sala": "Moliner 7 Cafe&#038;Copas",
-      "url": "https://aragonenvivo.com/evento/capitan-adhoc-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Zack Keim + Pablo Estallo",
-      "fecha": "2026-05-31",
-      "hora": "18:30",
-      "sala": "La Lata de Bombillas",
-      "url": "https://aragonenvivo.com/evento/zack-keim-pablo-estallo/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/zack_keim_26.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LA BANDA SABINERA",
-      "fecha": "2026-05-31",
-      "hora": "19:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://aragonenvivo.com/evento/la-banda-sabinera/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/3250-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "NIREK MOKAR",
-      "fecha": "2026-05-31",
-      "hora": "20:00",
-      "sala": "Rock &#038; Blues Café",
-      "url": "https://aragonenvivo.com/evento/nirek-mokar-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "MARTA Y MARIANO BARTOLOMÃ &#8211; HUMOR GENERACIONAL",
-      "fecha": "2026-05-31",
-      "hora": "20:00",
-      "sala": "Belushi",
-      "url": "https://aragonenvivo.com/evento/marta-y-mariano-bartoloma-humor-generacional/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260531_BARTOLOMES-1.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Zack Keim",
-      "fecha": "2026-05-31",
-      "hora": "",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.setlist.fm/setlist/zack-keim/2026/la-lata-de-bombillas-zaragoza-spain-b742112.html",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Benditos Malditos",
-      "fecha": "2026-05-31",
-      "hora": "",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://www.setlist.fm/setlist/benditos-malditos/2026/teatro-de-las-esquinas-zaragoza-spain-7b4ad698.html",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Víctor Manuel",
-      "fecha": "2026-05-31",
-      "hora": "",
-      "sala": "Mozart Hall",
-      "url": "https://www.setlist.fm/setlist/victor-manuel/2026/mozart-hall-zaragoza-spain-734856d9.html",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Bewis de la Rosa",
-      "fecha": "2026-05-31",
-      "hora": "",
-      "sala": "Espacio Exterior",
-      "url": "https://www.setlist.fm/setlist/bewis-de-la-rosa/2026/plaza-de-san-bruno-zaragoza-spain-3374f4f1.html",
-      "imagen": "",
-      "descripcion": ""
-    },
     {
       "titulo": "UNI BOYS + PLASTIC FAMILY.",
       "fecha": "2026-06-03",
@@ -99,15 +18,6 @@
       "sala": "Rock &#038; Blues Café",
       "url": "https://aragonenvivo.com/evento/isabel-marco-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Kevin Johansen + Liniers",
-      "fecha": "2026-06-05",
-      "hora": "19:00",
-      "sala": "Sala Oasis",
-      "url": "https://aragonenvivo.com/evento/kevin-johansen-liniers/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/kevin_liniers-1.webp",
       "descripcion": ""
     },
     {
@@ -153,6 +63,24 @@
       "sala": "Moliner 7 Cafe&#038;Copas",
       "url": "https://aragonenvivo.com/evento/molissesion-en-electrico-con-franki-3/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "TIEMPOS SALVAJES- JAVI METANOIA DJ",
+      "fecha": "2026-06-05",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/tiempos-salvajes-javi-metanoia-dj/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/5-IG-JUNIO-METANOIA-DJ-GAFAS.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Kevin Johansen + Liniers",
+      "fecha": "2026-06-05",
+      "hora": "22:00",
+      "sala": "Sala Oasis",
+      "url": "https://aragonenvivo.com/evento/kevin-johansen-liniers/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/kevin_liniers-1.webp",
       "descripcion": ""
     },
     {
@@ -207,6 +135,15 @@
       "sala": "Moliner 7 Cafe&#038;Copas",
       "url": "https://aragonenvivo.com/evento/viosna-3/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "SEÑOR TORRANCE",
+      "fecha": "2026-06-06",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/senor-torrance/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/6-IG-SENOR-TORRANCE-.jpg",
       "descripcion": ""
     },
     {
@@ -300,6 +237,15 @@
       "descripcion": ""
     },
     {
+      "titulo": "BISONTE BLANCO + LUNA DE MARTE",
+      "fecha": "2026-06-12",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/bisonte-blanco-luna-de-marte/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/12-IG-Bisonte-Blanco-Luna-de-Marte.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "TERGAL",
       "fecha": "2026-06-13",
       "hora": "12:30",
@@ -333,6 +279,15 @@
       "sala": "La Casa del Loco",
       "url": "https://aragonenvivo.com/evento/pedro-botero/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/v-pedro-botero-la-casa-del-loco-arena-rock-junio-2026-zgz-.svg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "MARIO SAN ROMÁN",
+      "fecha": "2026-06-13",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/mario-san-roman/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/IG-13-mario-san-roman-.jpg",
       "descripcion": ""
     },
     {
@@ -372,6 +327,15 @@
       "descripcion": ""
     },
     {
+      "titulo": "TRE 3",
+      "fecha": "2026-06-17",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/tre-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/IG-17-JUNIO-TRE-3-LA-LEYSECA-.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "Levitation Room (USA)",
       "fecha": "2026-06-18",
       "hora": "20:30",
@@ -408,6 +372,15 @@
       "descripcion": ""
     },
     {
+      "titulo": "PROYECTO ENCARNACIÓN",
+      "fecha": "2026-06-19",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/proyecto-encarnacion/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/IG-19-JUNIO-PROYECTO-ENCARNACION-1.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "LOS GARCÍA (TRIBUTO EXTREMODURO)",
       "fecha": "2026-06-20",
       "hora": "13:00",
@@ -435,6 +408,15 @@
       "descripcion": ""
     },
     {
+      "titulo": "WUOLJA",
+      "fecha": "2026-06-20",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/wuolja/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/IG-20-JUNIO-WUOLJA-scaled.jpeg",
+      "descripcion": ""
+    },
+    {
       "titulo": "SIN SODA-HOMENAJE -SODA STEREO",
       "fecha": "2026-06-20",
       "hora": "21:30",
@@ -450,6 +432,15 @@
       "sala": "La Campana Underground",
       "url": "https://aragonenvivo.com/evento/the-bons-vivants-3/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/LA-CAMPANA-UNDERGROUND.png",
+      "descripcion": ""
+    },
+    {
+      "titulo": "MOLONDROS + AETERNUS FIRE",
+      "fecha": "2026-06-21",
+      "hora": "20:00",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/molondros-aeternus-fire/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/IG-21-JUNIO-MOLONDROS-AF-.jpg",
       "descripcion": ""
     },
     {
@@ -516,6 +507,15 @@
       "descripcion": ""
     },
     {
+      "titulo": "CARMELA+ DIAPANOSPHERA",
+      "fecha": "2026-06-26",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/carmela-diapanosphera/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/IG-26-JUNIO-OK-CARMELADIAPANOSPHERA.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "JESUS FORCÉ (Tributo Neil Young)",
       "fecha": "2026-06-27",
       "hora": "13:00",
@@ -558,6 +558,15 @@
       "sala": "La Casa del Loco",
       "url": "https://aragonenvivo.com/evento/acantha-lang-la-nueva-reina-reina-del-soul/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/ACANTHA-2.jpeg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "GUIDIELO",
+      "fecha": "2026-06-27",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/guidielo/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/IG-27-Sabado-GUIDIELO-ZGZ-LA-LEY-SECA-.jpg",
       "descripcion": ""
     },
     {
