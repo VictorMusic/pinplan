@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-06-02T11:19:33.110901",
-  "total": 3,
+  "actualizado": "2026-06-02T14:55:46.137978",
+  "total": 1,
   "eventos": [
     {
       "titulo": "Bestia Bebé",
@@ -9,24 +9,6 @@
       "sala": "Sala López",
       "url": "https://www.setlist.fm/setlist/bestia-bebe/2026/sala-lopez-zaragoza-spain-534dd345.html",
       "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Iván Ferreiro",
-      "fecha": "2026-06-26",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/ivan-ferreiro/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/ivan-ferreiro.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Hard GZ",
-      "fecha": "2026-10-08",
-      "hora": "22:00",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/hard-gz/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/hard-gz.jpg",
       "descripcion": ""
     }
   ]
