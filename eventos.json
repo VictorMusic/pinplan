@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-06-02T22:20:06.608380",
-  "total": 152,
+  "actualizado": "2026-06-03T11:56:53.521028",
+  "total": 154,
   "eventos": [
     {
       "titulo": "UNI BOYS + PLASTIC FAMILY.",
@@ -9,6 +9,15 @@
       "sala": "La Lata de Bombillas",
       "url": "https://aragonenvivo.com/evento/uni-boys-plastic-family/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/Uni-Boys-nuevo-disco-gira-espana-2026.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "XXXII Temporada de Grandes Conciertos 2026-2027",
+      "fecha": "2026-06-03",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/xxxii-temporada-de-grandes-conciertos-2026-2027/",
+      "imagen": "",
       "descripcion": ""
     },
     {
@@ -90,6 +99,15 @@
       "sala": "Sala Oasis",
       "url": "https://aragonenvivo.com/evento/kevin-johansen-liniers/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/kevin_liniers-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "El Kanka",
+      "fecha": "2026-06-05",
+      "hora": "",
+      "sala": "Mozart Hall",
+      "url": "https://www.setlist.fm/setlist/el-kanka/2026/mozart-hall-zaragoza-spain-34f2d9b.html",
+      "imagen": "",
       "descripcion": ""
     },
     {
@@ -336,12 +354,75 @@
       "descripcion": ""
     },
     {
+      "titulo": "Sonnora",
+      "fecha": "2026-06-16",
+      "hora": "20:30",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/sonnora/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/bf0b6e2bc394379f2e54cf8e614b6684b26fcd45-scaled.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "El brindador",
+      "fecha": "2026-06-16",
+      "hora": "21:30",
+      "sala": "La Lata de Bombillas",
+      "url": "https://aragonenvivo.com/evento/el-brindador-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/831ac039504c649a8b809c49ddf94eabc7c189e9.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "La Doloritas",
+      "fecha": "2026-06-16",
+      "hora": "22:30",
+      "sala": "Rock &#038; Blues Café",
+      "url": "https://aragonenvivo.com/evento/la-doloritas-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/d90b18ad2f260fd3918a40bed65a670aaac9ffa5-scaled.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "DIREI",
+      "fecha": "2026-06-17",
+      "hora": "20:00",
+      "sala": "Moliner 7 Cafe&#038;Copas",
+      "url": "https://aragonenvivo.com/evento/direi-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/e89031a6b830d59b1fe67fe04d77dabf9ca02251.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "TRE 3",
       "fecha": "2026-06-17",
       "hora": "21:00",
       "sala": "La Ley Seca",
       "url": "https://aragonenvivo.com/evento/tre-3/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/IG-17-JUNIO-TRE-3-LA-LEYSECA-.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "TRE3",
+      "fecha": "2026-06-17",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/tre3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/64dd444abac0967773febdcb2e5f08bfdd75c054.png",
+      "descripcion": ""
+    },
+    {
+      "titulo": "SCHIFO!",
+      "fecha": "2026-06-17",
+      "hora": "22:00",
+      "sala": "Sala Z",
+      "url": "https://aragonenvivo.com/evento/schifo/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/a8ced049ce1b4e45736f8767932703106f51fab0.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "PABLO ESTALLO",
+      "fecha": "2026-06-18",
+      "hora": "20:15",
+      "sala": "La Campana Underground",
+      "url": "https://aragonenvivo.com/evento/pablo-estallo-5/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/d1c6d1dc5df5d58e0b358bc9a8c6347a1a8997b0-scaled.jpg",
       "descripcion": ""
     },
     {
@@ -360,6 +441,24 @@
       "sala": "Rock &#038; Blues Café",
       "url": "https://aragonenvivo.com/evento/sweet-marta-the-blues-shakers/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Bladimir Ros",
+      "fecha": "2026-06-18",
+      "hora": "21:15",
+      "sala": "El Refugio del Crápula",
+      "url": "https://aragonenvivo.com/evento/bladimir-ros-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/4fccf070613c3a25b8e9ae75b6e9390a0f4be0df.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Multipla",
+      "fecha": "2026-06-18",
+      "hora": "22:15",
+      "sala": "La Casa del Loco",
+      "url": "https://aragonenvivo.com/evento/multipla-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/7c6f98d4d8f9c6ceb65673d665bcb7c570b2ae6f.jpg",
       "descripcion": ""
     },
     {
@@ -1287,87 +1386,6 @@
       "sala": "Teatro de las Esquinas",
       "url": "https://aragonenvivo.com/evento/santero-y-los-muchachos-gira-todas-las-luces/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/3333.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "SANTERO Y LOS MUCHACHOS",
-      "fecha": "2026-11-07",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://aragonenvivo.com/evento/santero-y-los-muchachos-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/3333-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "DIRTY SOUND MAGNET",
-      "fecha": "2026-11-07",
-      "hora": "21:00",
-      "sala": "Rock &#038; Blues Café",
-      "url": "https://aragonenvivo.com/evento/dirty-sound-magnet/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-135.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Walls",
-      "fecha": "2026-11-08",
-      "hora": "20:00",
-      "sala": "Sala Oasis",
-      "url": "https://aragonenvivo.com/evento/walls-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/ZARAGOZA-2-scaled-4.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "SOFIA ELLAR &#8211; Ellar",
-      "fecha": "2026-11-13",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://aragonenvivo.com/evento/sofia-ellar-ellar/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/3280.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "SOFIA ELLAR",
-      "fecha": "2026-11-13",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://aragonenvivo.com/evento/sofia-ellar/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/3280-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "JAIME CARAVACA",
-      "fecha": "2026-11-13",
-      "hora": "22:00",
-      "sala": "Belushi",
-      "url": "https://aragonenvivo.com/evento/jaime-caravaca/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20261113jaimeca444-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Temples. Ciclo Lata Gourmet",
-      "fecha": "2026-11-18",
-      "hora": "19:30",
-      "sala": "La Lata de Bombillas",
-      "url": "https://aragonenvivo.com/evento/temples-ciclo-lata-gourmet/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/TEMPLES_CAB.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "MANEL FUENTES | ¿PORQUE LE LLAMAN THE BOSS?",
-      "fecha": "2026-11-22",
-      "hora": "19:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://aragonenvivo.com/evento/manel-fuentes-porque-le-llaman-the-boss/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/TEATRO-ESQUINAS.png",
-      "descripcion": ""
-    },
-    {
-      "titulo": "FRANKIE AND THE WITCH FINGERS",
-      "fecha": "2026-11-26",
-      "hora": "21:00",
-      "sala": "Rock &#038; Blues Café",
-      "url": "https://aragonenvivo.com/evento/frankie-and-the-witch-fingers/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-136.webp",
       "descripcion": ""
     }
   ]
