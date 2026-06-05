@@ -1,7 +1,16 @@
 {
-  "actualizado": "2026-06-05T17:22:42.673162",
-  "total": 154,
+  "actualizado": "2026-06-05T21:20:55.420746",
+  "total": 155,
   "eventos": [
+    {
+      "titulo": "INFO Y/O TICKETS AQUÍ",
+      "fecha": "2026-06-05",
+      "hora": "17:00",
+      "sala": "El Corazón Verde",
+      "url": "https://entradium.com/organizers/el-corazon-verde",
+      "imagen": "https://elcorazonverdebar.com/wp-content/uploads/2026/06/screenshot_20260529_132736_gallery.jpg?w=800&h=600&crop=1",
+      "descripcion": ""
+    },
     {
       "titulo": "LAURA DEL VAL &#8211; EN MI CABEZA SONABA MEJOR",
       "fecha": "2026-06-05",
