@@ -1,97 +1,7 @@
 {
-  "actualizado": "2026-06-06T20:58:34.693329",
-  "total": 147,
+  "actualizado": "2026-06-07T09:59:45.201000",
+  "total": 138,
   "eventos": [
-    {
-      "titulo": "RAUL J SANCHEZ",
-      "fecha": "2026-06-06",
-      "hora": "19:00",
-      "sala": "El Refugio del Crápula",
-      "url": "https://aragonenvivo.com/evento/raul-j-sanchez/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260606_rauljs.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "ELENA BELTRAN &#8211; LA HORA DE ELENA BELTRAN",
-      "fecha": "2026-06-06",
-      "hora": "19:00",
-      "sala": "Belushi",
-      "url": "https://aragonenvivo.com/evento/elena-beltran-la-hora-de-elena-beltran/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260606_ELENABEL1-1.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "RADIO FUTURA &#8211; EL ÚLTIMO DE LA FILA",
-      "fecha": "2026-06-06",
-      "hora": "20:00",
-      "sala": "Sala López",
-      "url": "https://aragonenvivo.com/evento/radio-futura-el-ultimo-de-la-fila/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Zaragoza-Lopez-1080x1350-1.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "MAFIA",
-      "fecha": "2026-06-06",
-      "hora": "20:00",
-      "sala": "Sala López",
-      "url": "https://aragonenvivo.com/evento/mafia/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/WhatsApp-Image-2026-05-11-at-17.50.05.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "PRINCIPLES OF JOY TIME",
-      "fecha": "2026-06-06",
-      "hora": "21:00",
-      "sala": "Rock &#038; Blues Café",
-      "url": "https://aragonenvivo.com/evento/principles-of-joy-time/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "VIOSNA",
-      "fecha": "2026-06-06",
-      "hora": "21:00",
-      "sala": "Moliner 7 Cafe&#038;Copas",
-      "url": "https://aragonenvivo.com/evento/viosna-3/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "SEÑOR TORRANCE",
-      "fecha": "2026-06-06",
-      "hora": "21:00",
-      "sala": "La Ley Seca",
-      "url": "https://aragonenvivo.com/evento/senor-torrance/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/6-IG-SENOR-TORRANCE-.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Ronnie Romero",
-      "fecha": "2026-06-06",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.setlist.fm/setlist/ronnie-romero/2026/sala-multiusos-zaragoza-spain-5b777f68.html",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Alacrán",
-      "fecha": "2026-06-06",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.setlist.fm/setlist/alacran/2026/sala-multiusos-zaragoza-spain-53777f6d.html",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Iron Savior",
-      "fecha": "2026-06-06",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.setlist.fm/setlist/iron-savior/2026/sala-multiusos-zaragoza-spain-43777f6f.html",
-      "imagen": "",
-      "descripcion": ""
-    },
     {
       "titulo": "BUSY BLUESMEN",
       "fecha": "2026-06-07",
@@ -1323,6 +1233,15 @@
       "sala": "La Lata de Bombillas",
       "url": "https://aragonenvivo.com/evento/little-barrie-usa/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/IMG_20260508_093137.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "AL DUAL",
+      "fecha": "2026-12-04",
+      "hora": "21:00",
+      "sala": "Rock &#038; Blues Café",
+      "url": "https://aragonenvivo.com/evento/al-dual-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-42.webp",
       "descripcion": ""
     }
   ]
