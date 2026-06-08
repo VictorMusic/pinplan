@@ -1,34 +1,7 @@
 {
-  "actualizado": "2026-06-07T21:05:09.508412",
-  "total": 138,
+  "actualizado": "2026-06-08T11:57:18.688070",
+  "total": 144,
   "eventos": [
-    {
-      "titulo": "BUSY BLUESMEN",
-      "fecha": "2026-06-07",
-      "hora": "13:00",
-      "sala": "Moliner 7 Cafe&#038;Copas",
-      "url": "https://aragonenvivo.com/evento/busy-bluesmen-4/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Peter Holsapple (USA/The dBs, R.E.M.) With Pat Thomas",
-      "fecha": "2026-06-07",
-      "hora": "18:30",
-      "sala": "La Lata de Bombillas",
-      "url": "https://aragonenvivo.com/evento/peter-holsapple-usa-the-dbs-r-e-m-with-pat-thomas/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/peter_holsapple.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "THE FREE LABEL",
-      "fecha": "2026-06-07",
-      "hora": "20:00",
-      "sala": "Rock &#038; Blues Café",
-      "url": "https://aragonenvivo.com/evento/the-free-label/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "MAD FOXES",
       "fecha": "2026-06-10",
@@ -147,6 +120,15 @@
       "descripcion": ""
     },
     {
+      "titulo": "TIPOS DE INTERES",
+      "fecha": "2026-06-13",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/tipos-de-interes-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/706650543_1681782433662238_8285711573771439495_n.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "BOLTANCHEROS",
       "fecha": "2026-06-14",
       "hora": "13:00",
@@ -174,12 +156,30 @@
       "descripcion": ""
     },
     {
+      "titulo": "ESODIC + TANORK",
+      "fecha": "2026-06-14",
+      "hora": "19:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/esodic-tanork/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_CARTEL_OK_REDES.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "MATT PASCALE &#038; THE STOMPS",
       "fecha": "2026-06-14",
       "hora": "20:00",
       "sala": "Rock &#038; Blues Café",
       "url": "https://aragonenvivo.com/evento/matt-pascale-the-stomps/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "SONNORA – SHOWCASES AV",
+      "fecha": "2026-06-16",
+      "hora": "20:30",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/sonnora-showcases-av/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/716171009_1689019842938497_3622738624172512850_n.jpg",
       "descripcion": ""
     },
     {
@@ -237,6 +237,15 @@
       "descripcion": ""
     },
     {
+      "titulo": "THE KICKERS + POS PARTY CON SAM TEJUELAS",
+      "fecha": "2026-06-19",
+      "hora": "22:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/the-kickers-pos-party-con-sam-tejuelas/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/696705691_1666915108482304_5272909313657053922_n.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "LOS GARCÍA (TRIBUTO EXTREMODURO)",
       "fecha": "2026-06-20",
       "hora": "13:00",
@@ -273,12 +282,30 @@
       "descripcion": ""
     },
     {
+      "titulo": "SINDROME TOXICO + THE HERMETICS",
+      "fecha": "2026-06-20",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/sindrome-toxico-the-hermetics/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/710432578_1684115476762267_7790555280391156468_n.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "SIN SODA-HOMENAJE -SODA STEREO",
       "fecha": "2026-06-20",
       "hora": "21:30",
       "sala": "La Casa del Loco",
       "url": "https://aragonenvivo.com/evento/sin-soda-homenaje-soda-stereo-3/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/SIN-SODA-SODA-STEREO-ZARAGOZA-2026-2.svg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "ZÉ BIGODE ORQUESTRA (BRASIL)",
+      "fecha": "2026-06-21",
+      "hora": "19:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/ze-bigode-orquestra-brasil/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/710147617_1684121400095008_4299308952502534000_n.jpg",
       "descripcion": ""
     },
     {
@@ -426,12 +453,30 @@
       "descripcion": ""
     },
     {
+      "titulo": "LA BELLE EPOQUE (PM) + EKABEL (ZGZ)",
+      "fecha": "2026-06-27",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/la-belle-epoque-pm-ekabel-zgz/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/707993495_1683068286866986_1164899439424177363_n.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "LEO SUSANA",
       "fecha": "2026-06-28",
       "hora": "13:00",
       "sala": "Moliner 7 Cafe&#038;Copas",
       "url": "https://aragonenvivo.com/evento/leo-susana-3/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "SEMANA ABRUPTA &#8211; CONCIERTO TARDEO",
+      "fecha": "2026-06-28",
+      "hora": "18:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/semana-abrupta-concierto-tardeo/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/713063793_1689047556269059_1008426252159313458_n.jpg",
       "descripcion": ""
     },
     {
@@ -1242,6 +1287,15 @@
       "sala": "Rock &#038; Blues Café",
       "url": "https://aragonenvivo.com/evento/al-dual-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-42.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "RAUL CLYDE",
+      "fecha": "2026-12-05",
+      "hora": "18:00",
+      "sala": "Sala Oasis",
+      "url": "https://aragonenvivo.com/evento/raul-clyde/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/cartel-ZGZ-raul.jpg-scaled-2.webp",
       "descripcion": ""
     }
   ]
