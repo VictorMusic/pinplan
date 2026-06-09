@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-06-08T21:47:14.747956",
-  "total": 144,
+  "actualizado": "2026-06-09T10:34:26.392703",
+  "total": 145,
   "eventos": [
     {
       "titulo": "MAD FOXES",
@@ -18,6 +18,15 @@
       "sala": "Rock &#038; Blues Café",
       "url": "https://aragonenvivo.com/evento/arima-soul/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Ralphie Choo",
+      "fecha": "2026-06-11",
+      "hora": "",
+      "sala": "Jardín de Invierno",
+      "url": "https://www.setlist.fm/setlist/ralphie-choo/2026/jardin-de-invierno-zaragoza-spain-3b74f4f4.html",
+      "imagen": "",
       "descripcion": ""
     },
     {
