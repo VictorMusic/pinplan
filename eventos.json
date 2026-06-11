@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-06-10T22:02:14.504932",
-  "total": 6,
+  "actualizado": "2026-06-11T11:24:20.023113",
+  "total": 9,
   "eventos": [
     {
       "titulo": "Ralphie Choo",
@@ -35,6 +35,33 @@
       "hora": "",
       "sala": "Jardín de Invierno",
       "url": "https://www.setlist.fm/setlist/shego/2026/jardin-de-invierno-zaragoza-spain-2374f4eb.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Carrera Blanca",
+      "fecha": "2026-06-13",
+      "hora": "",
+      "sala": "La Lata de Bombillas",
+      "url": "https://www.setlist.fm/setlist/carrera-blanca/2026/la-lata-de-bombillas-zaragoza-spain-4376aba7.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Nortec: Bostich + Fussible",
+      "fecha": "2026-06-13",
+      "hora": "",
+      "sala": "Jardín de Invierno",
+      "url": "https://www.setlist.fm/setlist/nortec-bostich-fussible/2026/jardin-de-invierno-zaragoza-spain-3b74f4e8.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Maria Arnal",
+      "fecha": "2026-06-13",
+      "hora": "",
+      "sala": "Jardín de Invierno",
+      "url": "https://www.setlist.fm/setlist/maria-arnal/2026/jardin-de-invierno-zaragoza-spain-3374f4e9.html",
       "imagen": "",
       "descripcion": ""
     },
