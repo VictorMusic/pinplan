@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-06-12T17:45:44.488127",
-  "total": 8,
+  "actualizado": "2026-06-12T21:36:38.077520",
+  "total": 6,
   "eventos": [
     {
       "titulo": "Umbra",
@@ -54,24 +54,6 @@
       "sala": "Jardín de Invierno",
       "url": "https://www.setlist.fm/setlist/maria-arnal/2026/jardin-de-invierno-zaragoza-spain-3374f4e9.html",
       "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Iván Ferreiro",
-      "fecha": "2026-06-26",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/ivan-ferreiro/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/ivan-ferreiro.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Hard GZ",
-      "fecha": "2026-10-08",
-      "hora": "22:00",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/hard-gz/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/hard-gz.jpg",
       "descripcion": ""
     }
   ]
