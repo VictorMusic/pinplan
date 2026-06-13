@@ -1,34 +1,7 @@
 {
-  "actualizado": "2026-06-12T21:36:38.077520",
-  "total": 6,
+  "actualizado": "2026-06-13T10:02:35.852071",
+  "total": 5,
   "eventos": [
-    {
-      "titulo": "Umbra",
-      "fecha": "2026-06-12",
-      "hora": "",
-      "sala": "Centro Cívico Delicias",
-      "url": "https://www.setlist.fm/setlist/umbra/2026/centro-civico-delicias-zaragoza-spain-6b49deb6.html",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Camellos",
-      "fecha": "2026-06-12",
-      "hora": "",
-      "sala": "Jardín de Invierno",
-      "url": "https://www.setlist.fm/setlist/camellos/2026/jardin-de-invierno-zaragoza-spain-2b74f4ea.html",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "shego",
-      "fecha": "2026-06-12",
-      "hora": "",
-      "sala": "Jardín de Invierno",
-      "url": "https://www.setlist.fm/setlist/shego/2026/jardin-de-invierno-zaragoza-spain-2374f4eb.html",
-      "imagen": "",
-      "descripcion": ""
-    },
     {
       "titulo": "Carrera Blanca",
       "fecha": "2026-06-13",
@@ -54,6 +27,24 @@
       "sala": "Jardín de Invierno",
       "url": "https://www.setlist.fm/setlist/maria-arnal/2026/jardin-de-invierno-zaragoza-spain-3374f4e9.html",
       "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Iván Ferreiro",
+      "fecha": "2026-06-26",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/ivan-ferreiro/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/ivan-ferreiro.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Hard GZ",
+      "fecha": "2026-10-08",
+      "hora": "22:00",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/hard-gz/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/hard-gz.jpg",
       "descripcion": ""
     }
   ]
