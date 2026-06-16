@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-06-16T18:56:35.904903",
-  "total": 143,
+  "actualizado": "2026-06-16T22:12:09.940144",
+  "total": 145,
   "eventos": [
     {
       "titulo": "Sonnora",
@@ -297,6 +297,15 @@
       "sala": "Sala López",
       "url": "https://aragonenvivo.com/evento/original-juan-gordo-del-funk/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/ORIGINAL-JUAN-GORDO-DEL-FUNK.jpeg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Iván Ferreiro",
+      "fecha": "2026-06-26",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/ivan-ferreiro/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/ivan-ferreiro.jpg",
       "descripcion": ""
     },
     {
@@ -1287,6 +1296,15 @@
       "sala": "Sala López",
       "url": "https://aragonenvivo.com/evento/el-chojin/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/El-chojin-concierto-zaragoza-2026-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Bunbury",
+      "fecha": "2026-12-12",
+      "hora": "20:30",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": ""
     }
   ]
