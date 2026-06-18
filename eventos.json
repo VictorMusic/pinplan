@@ -1,52 +1,7 @@
 {
-  "actualizado": "2026-06-17T21:56:16.746832",
-  "total": 142,
+  "actualizado": "2026-06-18T11:09:11.794368",
+  "total": 138,
   "eventos": [
-    {
-      "titulo": "Charlas y talleres Sala Luis Galve 17/06",
-      "fecha": "2026-06-17",
-      "hora": "11:30",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://aragonenvivo.com/evento/charlas-y-talleres-17-06/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "DIREI",
-      "fecha": "2026-06-17",
-      "hora": "20:00",
-      "sala": "Moliner 7 Cafe&#038;Copas",
-      "url": "https://aragonenvivo.com/evento/direi-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/e89031a6b830d59b1fe67fe04d77dabf9ca02251.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "TRE 3",
-      "fecha": "2026-06-17",
-      "hora": "21:00",
-      "sala": "La Ley Seca",
-      "url": "https://aragonenvivo.com/evento/tre-3/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/IG-17-JUNIO-TRE-3-LA-LEYSECA-.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "TRE3",
-      "fecha": "2026-06-17",
-      "hora": "21:00",
-      "sala": "La Ley Seca",
-      "url": "https://aragonenvivo.com/evento/tre3/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/64dd444abac0967773febdcb2e5f08bfdd75c054.png",
-      "descripcion": ""
-    },
-    {
-      "titulo": "SCHIFO!",
-      "fecha": "2026-06-17",
-      "hora": "22:00",
-      "sala": "Sala Z",
-      "url": "https://aragonenvivo.com/evento/schifo/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/a8ced049ce1b4e45736f8767932703106f51fab0.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "Charlas y talleres Sala Luis Galve 18/06",
       "fecha": "2026-06-18",
@@ -198,6 +153,15 @@
       "sala": "La Casa del Loco",
       "url": "https://aragonenvivo.com/evento/sin-soda-homenaje-soda-stereo-3/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/SIN-SODA-SODA-STEREO-ZARAGOZA-2026-2.svg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Pablo Alborán",
+      "fecha": "2026-06-20",
+      "hora": "",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.setlist.fm/setlist/pablo-alboran/2026/pabellon-principe-felipe-zaragoza-spain-734f4609.html",
+      "imagen": "",
       "descripcion": ""
     },
     {
