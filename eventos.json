@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-06-22T19:02:40.326950",
-  "total": 4,
+  "actualizado": "2026-06-22T22:06:54.723081",
+  "total": 1,
   "eventos": [
     {
       "titulo": "The Casualties",
@@ -9,33 +9,6 @@
       "sala": "Sala López",
       "url": "https://www.setlist.fm/setlist/the-casualties/2026/sala-lopez-zaragoza-spain-1b752d7c.html",
       "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Iván Ferreiro",
-      "fecha": "2026-06-26",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/ivan-ferreiro/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/ivan-ferreiro.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Hard GZ",
-      "fecha": "2026-10-08",
-      "hora": "22:00",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/hard-gz/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/hard-gz.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Bunbury",
-      "fecha": "2026-12-12",
-      "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/bunbury/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": ""
     }
   ]
