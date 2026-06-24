@@ -1,16 +1,7 @@
 {
-  "actualizado": "2026-06-24T17:20:30.560793",
-  "total": 4,
+  "actualizado": "2026-06-24T21:28:55.369557",
+  "total": 1,
   "eventos": [
-    {
-      "titulo": "Iván Ferreiro",
-      "fecha": "2026-06-26",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/ivan-ferreiro/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/ivan-ferreiro.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "Ravagers",
       "fecha": "2026-06-26",
@@ -18,24 +9,6 @@
       "sala": "Sala Creedence",
       "url": "https://www.setlist.fm/setlist/ravagers/2026/sala-creedence-zaragoza-spain-7b774eb0.html",
       "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Hard GZ",
-      "fecha": "2026-10-08",
-      "hora": "22:00",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/hard-gz/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/hard-gz.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Bunbury",
-      "fecha": "2026-12-12",
-      "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/bunbury/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": ""
     }
   ]
