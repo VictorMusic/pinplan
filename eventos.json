@@ -1,7 +1,70 @@
 {
-  "actualizado": "2026-06-24T21:28:55.369557",
-  "total": 1,
+  "actualizado": "2026-06-25T10:27:12.006815",
+  "total": 19,
   "eventos": [
+    {
+      "titulo": "Local Crazy Rockers",
+      "fecha": "2026-06-25",
+      "hora": "20:30",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/local-crazy-rockers/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/local_crazy_676c.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "ORIGINAL JUAN & GORDO DEL FUNK",
+      "fecha": "2026-06-26",
+      "hora": "19:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/original-juan-gordo-del-funk/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/ORIGINAL-JUAN-GORDO-DEL-FUNK.jpeg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Iván Ferreiro",
+      "fecha": "2026-06-26",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/ivan-ferreiro/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/ivan-ferreiro.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "MOLISSESION EN ELÉCTRICO CON FRANKI",
+      "fecha": "2026-06-26",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/molissesion-en-electrico-con-franki-6/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-1.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "CARMELA+ DIAPANOSPHERA",
+      "fecha": "2026-06-26",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/carmela-diapanosphera/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/IG-26-JUNIO-OK-CARMELADIAPANOSPHERA.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "J CARPINT FOLK GRASS BAND",
+      "fecha": "2026-06-26",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/j-carpint-folk-grass-band-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "RAVAGERS (EEUU)",
+      "fecha": "2026-06-26",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/ravagers-eeuu/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/cartel-sala-820x1024-1.webp",
+      "descripcion": ""
+    },
     {
       "titulo": "Ravagers",
       "fecha": "2026-06-26",
@@ -9,6 +72,105 @@
       "sala": "Sala Creedence",
       "url": "https://www.setlist.fm/setlist/ravagers/2026/sala-creedence-zaragoza-spain-7b774eb0.html",
       "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "JESUS FORCÉ (Tributo Neil Young)",
+      "fecha": "2026-06-27",
+      "hora": "13:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/jesus-force-tributo-neil-young/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "OSCAR BALLESTER",
+      "fecha": "2026-06-27",
+      "hora": "13:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/oscar-ballester/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/moliner-7-LOGO-2.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "MERY SIN MAS – SEÃORA YO?",
+      "fecha": "2026-06-27",
+      "hora": "19:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/mery-sin-mas-sea-ora-yo/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260627_MERS-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "ESCUELA GRIND | FUTURDRAMA",
+      "fecha": "2026-06-27",
+      "hora": "20:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/escuela-grind-futurdrama/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/WhatsApp-Image-2026-03-19-at-13.32.26-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "GUIDIELO",
+      "fecha": "2026-06-27",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/guidielo/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/IG-27-Sabado-GUIDIELO-ZGZ-LA-LEY-SECA-.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "LA BELLE EPOQUE (PM) + EKABEL (ZGZ)",
+      "fecha": "2026-06-27",
+      "hora": "21:00",
+      "sala": "Zaragoza",
+      "url": "https://aragonenvivo.com/evento/la-belle-epoque-pm-ekabel-zgz/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/707993495_1683068286866986_1164899439424177363_n.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Leiva",
+      "fecha": "2026-06-27",
+      "hora": "",
+      "sala": "Estadio Ibercaja",
+      "url": "https://www.setlist.fm/setlist/leiva/2026/estadio-ibercaja-zaragoza-spain-634ed22f.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Iván Ferreiro",
+      "fecha": "2026-06-27",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://www.setlist.fm/setlist/ivan-ferreiro/2026/sala-multiusos-zaragoza-spain-434117eb.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Escuela Grind",
+      "fecha": "2026-06-27",
+      "hora": "",
+      "sala": "Sala López",
+      "url": "https://www.setlist.fm/setlist/escuela-grind/2026/sala-lopez-zaragoza-spain-3b7460e0.html",
+      "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Hard GZ",
+      "fecha": "2026-10-08",
+      "hora": "22:00",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/hard-gz/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/hard-gz.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Bunbury",
+      "fecha": "2026-12-12",
+      "hora": "20:30",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": ""
     }
   ]
