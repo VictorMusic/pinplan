@@ -1,16 +1,7 @@
 {
-  "actualizado": "2026-06-25T21:30:32.858934",
+  "actualizado": "2026-06-26T10:27:37.432013",
   "total": 57,
   "eventos": [
-    {
-      "titulo": "Local Crazy Rockers",
-      "fecha": "2026-06-25",
-      "hora": "20:30",
-      "sala": "La Lata de Bombillas",
-      "url": "https://aragonenvivo.com/evento/local-crazy-rockers/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/local_crazy_676c.webp",
-      "descripcion": ""
-    },
     {
       "titulo": "ORIGINAL JUAN &#038; GORDO DEL FUNK",
       "fecha": "2026-06-26",
@@ -495,6 +486,15 @@
       "sala": "Rock &#038; Blues Café",
       "url": "https://aragonenvivo.com/evento/damantra-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "DIAMOND DOGS",
+      "fecha": "2026-09-16",
+      "hora": "21:00",
+      "sala": "Rock &#038; Blues Café",
+      "url": "https://aragonenvivo.com/evento/diamond-dogs-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-128.webp",
       "descripcion": ""
     },
     {
