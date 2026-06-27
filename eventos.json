@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-06-27T12:16:58.091770",
-  "total": 5,
+  "actualizado": "2026-06-27T16:18:47.879346",
+  "total": 3,
   "eventos": [
     {
       "titulo": "Leiva",
@@ -27,24 +27,6 @@
       "sala": "Sala López",
       "url": "https://www.setlist.fm/setlist/escuela-grind/2026/sala-lopez-zaragoza-spain-3b7460e0.html",
       "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Hard GZ",
-      "fecha": "2026-10-08",
-      "hora": "22:00",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/hard-gz/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/hard-gz.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Bunbury",
-      "fecha": "2026-12-12",
-      "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/bunbury/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": ""
     }
   ]
