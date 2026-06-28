@@ -1,51 +1,5 @@
 {
-  "actualizado": "2026-06-27T21:02:20.247386",
-  "total": 5,
-  "eventos": [
-    {
-      "titulo": "Leiva",
-      "fecha": "2026-06-27",
-      "hora": "",
-      "sala": "Estadio Ibercaja",
-      "url": "https://www.setlist.fm/setlist/leiva/2026/estadio-ibercaja-zaragoza-spain-634ed22f.html",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Iván Ferreiro",
-      "fecha": "2026-06-27",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.setlist.fm/setlist/ivan-ferreiro/2026/sala-multiusos-zaragoza-spain-434117eb.html",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Escuela Grind",
-      "fecha": "2026-06-27",
-      "hora": "",
-      "sala": "Sala López",
-      "url": "https://www.setlist.fm/setlist/escuela-grind/2026/sala-lopez-zaragoza-spain-3b7460e0.html",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Hard GZ",
-      "fecha": "2026-10-08",
-      "hora": "22:00",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/hard-gz/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/hard-gz.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Bunbury",
-      "fecha": "2026-12-12",
-      "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/bunbury/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
-      "descripcion": ""
-    }
-  ]
+  "actualizado": "2026-06-28T10:06:01.440632",
+  "total": 0,
+  "eventos": []
 }
