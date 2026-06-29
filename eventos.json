@@ -1,7 +1,16 @@
 {
-  "actualizado": "2026-06-28T21:04:02.781351",
-  "total": 2,
+  "actualizado": "2026-06-29T12:07:16.175728",
+  "total": 3,
   "eventos": [
+    {
+      "titulo": "Aplazamiento del concierto de la Sinfónica Nacional Juvenil de Venezuela dirigida por Gustavo Dudamel",
+      "fecha": "2026-06-29",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/aplazamiento-del-concierto-de-la-sinfonica-nacional-juvenil-de-venezuela-dirigida-por-gustavo-dudamel/",
+      "imagen": "https://commons.wikimedia.org/wiki/File:Gustavo_Dudamel.jpeg",
+      "descripcion": ""
+    },
     {
       "titulo": "Hard GZ",
       "fecha": "2026-10-08",
