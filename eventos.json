@@ -1,24 +1,5 @@
 {
-  "actualizado": "2026-07-03T21:08:43.921040",
-  "total": 2,
-  "eventos": [
-    {
-      "titulo": "Hard GZ",
-      "fecha": "2026-10-08",
-      "hora": "22:00",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/hard-gz/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/hard-gz.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Bunbury",
-      "fecha": "2026-12-12",
-      "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/bunbury/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
-      "descripcion": ""
-    }
-  ]
+  "actualizado": "2026-07-04T09:31:42.665065",
+  "total": 0,
+  "eventos": []
 }
