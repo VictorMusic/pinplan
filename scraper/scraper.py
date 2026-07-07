@@ -33,7 +33,11 @@ MONTHS = {
 }
 
 def normalize(t):
-    return " ".join((t or "").split()).strip()
+    if not t: return ""
+    # Decode HTML entities (e.g. &#8211; -> —, &amp; -> &)
+    import html
+    t = html.unescape(str(t))
+    return " ".join(t.split()).strip()
 
 def parse_date(text):
     if not text: return None
