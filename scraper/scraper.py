@@ -570,7 +570,10 @@ def scrape_auditorio_rss():
                     img_tag = img_soup.find('img')
                     if img_tag and not img:
                         img = img_tag.get('src','')
-                events.append(make_event(title, fecha, '', 'Auditorio de Zaragoza', link, img))
+                # Skip if fecha looks like old publication date
+                from datetime import date as _date
+                if fecha and fecha >= _date.today().isoformat():
+                    events.append(make_event(title, fecha, '', 'Auditorio de Zaragoza', link, img))
             if events: break
         except Exception as e:
             print(f"  auditorio_rss error: {e}")
@@ -663,31 +666,8 @@ def scrape_zaragenda():
 
 
 def fetch_artist_image(titulo):
-    """Busca imagen del artista en MusicBrainz Cover Art Archive."""
-    try:
-        # Clean title for search
-        name = re.sub(r'[\(\[].*?[\)\]]', '', titulo).strip()
-        name = re.sub(r'\s*[-–].*$', '', name).strip()
-        if len(name) < 2: return ""
-        # Search MusicBrainz
-        r = get(f"https://musicbrainz.org/ws/2/artist/?query={requests.utils.quote(name)}&fmt=json&limit=1", timeout=8)
-        if not r: return ""
-        data = r.json()
-        artists = data.get("artists", [])
-        if not artists: return ""
-        mbid = artists[0].get("id","")
-        if not mbid: return ""
-        # Get artist image from Cover Art / Fanart - try wikimedia
-        r2 = get(f"https://musicbrainz.org/ws/2/artist/{mbid}?inc=url-rels&fmt=json", timeout=8)
-        if not r2: return ""
-        data2 = r2.json()
-        for rel in data2.get("relations", []):
-            if rel.get("type") == "image":
-                url = rel.get("url",{}).get("resource","")
-                if url: return url
-        return ""
-    except:
-        return ""
+    """Desactivado temporalmente - MusicBrainz da 503."""
+    return ""
 
 
 def normalize_title(t):
@@ -707,7 +687,18 @@ GARBAGE_TITLES = {
     "leer más", "read more", "ver más", "ver todo", "all events",
     "día", "mes", "semana", "hoy", "mañana", "week", "month", "day",
     "próximos eventos", "próximos conciertos", "próximas actuaciones",
+    "comprar entradas", "compra entradas", "compra de entradas",
+    "eventos anteriores", "« eventos anteriores", "eventos anteriores »",
+    "ical", "icalendar", "añadir google calendar",
+    "la casa del loco", "sala oasis", "sala lópez", "sala creedence",
+    "rock & blues café", "rock &amp; blues café",
 }
+
+GARBAGE_PATTERNS = [
+    "viernes molissesion", "sábado molissesion",
+    "lunes molissesion", "martes molissesion", "miércoles molissesion", "jueves molissesion",
+    "domingo molissesion",
+]
 
 GARBAGE_URL_PATTERNS = ["/eventos/hoy", "/eventos/mes", "/eventos/semana", 
                          "/agenda/hoy", "/agenda/mes", "/#content"]
@@ -717,11 +708,13 @@ def is_garbage(titulo, url=""):
     if t in GARBAGE_TITLES: return True
     if len(t) < 3: return True
     if t.startswith("saltar") or t.startswith("skip"): return True
-    # Single common word
     if t in {"día", "mes", "hoy", "semana", "año", "lista", "todo"}: return True
-    # Garbage URLs
     for pat in GARBAGE_URL_PATTERNS:
         if pat in url: return True
+    for pat in GARBAGE_PATTERNS:
+        if t.startswith(pat): return True
+    # Titles that are just sala names (no artist)
+    if t in normalize_sala(t).lower(): pass  # keep
     return False
 
 
