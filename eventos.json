@@ -1,7 +1,16 @@
 {
-  "actualizado": "2026-07-09T17:24:29.796919",
-  "total": 46,
+  "actualizado": "2026-07-09T21:17:15.350223",
+  "total": 47,
   "eventos": [
+    {
+      "titulo": "INFO Y/O TICKETS AQUÍ",
+      "fecha": "2026-07-09",
+      "hora": "12:44",
+      "sala": "El Corazón Verde",
+      "url": "https://entradium.com/organizers/el-corazon-verde",
+      "imagen": "https://elcorazonverdebar.com/wp-content/uploads/2026/07/screenshot_20260529_115016_gallery.jpg?w=800&h=600&crop=1",
+      "descripcion": ""
+    },
     {
       "titulo": "PLAZA ESCENA IV con MARIO BAILÓN",
       "fecha": "2026-07-09",
