@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-09T13:54:30.581182",
-  "total": 44,
+  "actualizado": "2026-07-09T17:24:29.796919",
+  "total": 46,
   "eventos": [
     {
       "titulo": "PLAZA ESCENA IV con MARIO BAILÓN",
@@ -396,6 +396,24 @@
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/luke-winslow-king-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-129.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Hard GZ",
+      "fecha": "2026-10-08",
+      "hora": "22:00",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/hard-gz/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/hard-gz.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Bunbury",
+      "fecha": "2026-12-12",
+      "hora": "20:30",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": ""
     }
   ]
