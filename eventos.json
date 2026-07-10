@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-10T17:05:55.504997",
-  "total": 2,
+  "actualizado": "2026-07-10T21:05:10.939385",
+  "total": 4,
   "eventos": [
     {
       "titulo": "Aitana",
@@ -18,6 +18,24 @@
       "sala": "La Ley Seca",
       "url": "https://www.setlist.fm/setlist/polysteichon/2026/la-ley-seca-zaragoza-spain-2b77b0aa.html",
       "imagen": "",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Hard GZ",
+      "fecha": "2026-10-08",
+      "hora": "22:00",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/hard-gz/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/hard-gz.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Bunbury",
+      "fecha": "2026-12-12",
+      "hora": "20:30",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": ""
     }
   ]
