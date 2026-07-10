@@ -1,52 +1,7 @@
 {
-  "actualizado": "2026-07-09T21:17:15.350223",
-  "total": 47,
+  "actualizado": "2026-07-10T10:23:32.351446",
+  "total": 46,
   "eventos": [
-    {
-      "titulo": "INFO Y/O TICKETS AQUÍ",
-      "fecha": "2026-07-09",
-      "hora": "12:44",
-      "sala": "El Corazón Verde",
-      "url": "https://entradium.com/organizers/el-corazon-verde",
-      "imagen": "https://elcorazonverdebar.com/wp-content/uploads/2026/07/screenshot_20260529_115016_gallery.jpg?w=800&h=600&crop=1",
-      "descripcion": ""
-    },
-    {
-      "titulo": "PLAZA ESCENA IV con MARIO BAILÓN",
-      "fecha": "2026-07-09",
-      "hora": "20:00",
-      "sala": "Sala Creedence",
-      "url": "https://aragonenvivo.com/evento/plaza-escena-iv-con-mario-bailon/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/733726641_2929294417462961_9166889600836396637_n-1.jpeg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "BIG DADDY WILSON",
-      "fecha": "2026-07-09",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://aragonenvivo.com/evento/big-daddy-wilson/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-123.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "THE COURETTES. DÚO GARAGE-60’S-ROCK.",
-      "fecha": "2026-07-09",
-      "hora": "21:00",
-      "sala": "La Casa del Loco",
-      "url": "https://aragonenvivo.com/evento/the-courettes-duo-garage-60s-rock/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/COURETTES-CASA-LOCO-3.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "BLACK VIOLET (EEUU)",
-      "fecha": "2026-07-09",
-      "hora": "21:00",
-      "sala": "Sala Creedence",
-      "url": "https://aragonenvivo.com/evento/black-violet-eeuu/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/hi-res-by-brice-lambert4-1024x1024-1.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "LOS VAMPIROS",
       "fecha": "2026-07-10",
@@ -405,6 +360,42 @@
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/luke-winslow-king-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-129.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "DR. FEELGOOD",
+      "fecha": "2026-09-24",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://aragonenvivo.com/evento/dr-feelgood-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-130.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "SOGE CULEBRA",
+      "fecha": "2026-09-24",
+      "hora": "22:00",
+      "sala": "Sala Oasis",
+      "url": "https://aragonenvivo.com/evento/soge-culebra/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/imgi_10_WhatsApp-Image-2026-05-23-at-18.49.24-1.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "María Escarmiento",
+      "fecha": "2026-09-25",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://aragonenvivo.com/evento/maria-escarmiento-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Concierto-Maria-Escarmiento-Post-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "BRIT FESTIVAL",
+      "fecha": "2026-09-25",
+      "hora": "21:00",
+      "sala": "Sala Oasis",
+      "url": "https://aragonenvivo.com/evento/brit-festival/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/imgi_12_2026-09-25-BRIT-FESTIVAL-OASIS-ZARAGOZA-1080x1350-1.jpg",
       "descripcion": ""
     },
     {
