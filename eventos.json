@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-11T15:59:52.642923",
-  "total": 46,
+  "actualizado": "2026-07-11T20:41:38.238834",
+  "total": 44,
   "eventos": [
     {
       "titulo": "SPINO + PREKATOR",
@@ -396,24 +396,6 @@
       "sala": "La Casa del Loco",
       "url": "https://aragonenvivo.com/evento/the-nowhere-plan-the-beatles-tribute-band/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/V-THE-BEATLES-NOWHERE-PLAN-COCIERTOS-ZARAGOZA-2026.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Hard GZ",
-      "fecha": "2026-10-08",
-      "hora": "22:00",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/hard-gz/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/hard-gz.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Bunbury",
-      "fecha": "2026-12-12",
-      "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/bunbury/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": ""
     }
   ]
