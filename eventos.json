@@ -1,16 +1,7 @@
 {
-  "actualizado": "2026-07-11T20:41:38.238834",
-  "total": 44,
+  "actualizado": "2026-07-12T09:03:47.225038",
+  "total": 46,
   "eventos": [
-    {
-      "titulo": "SPINO + PREKATOR",
-      "fecha": "2026-07-11",
-      "hora": "21:00",
-      "sala": "Sala Creedence",
-      "url": "https://aragonenvivo.com/evento/spino-prekator/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/spino_1107_instarojo-819x1024-1.png",
-      "descripcion": ""
-    },
     {
       "titulo": "POLYSTEICHON",
       "fecha": "2026-07-12",
@@ -396,6 +387,33 @@
       "sala": "La Casa del Loco",
       "url": "https://aragonenvivo.com/evento/the-nowhere-plan-the-beatles-tribute-band/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/V-THE-BEATLES-NOWHERE-PLAN-COCIERTOS-ZARAGOZA-2026.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "ROBERT RODRIGO BAND",
+      "fecha": "2026-09-27",
+      "hora": "13:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://aragonenvivo.com/evento/robert-rodrigo-band/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-131.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Hard GZ",
+      "fecha": "2026-10-08",
+      "hora": "22:00",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/hard-gz/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/hard-gz.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Bunbury",
+      "fecha": "2026-12-12",
+      "hora": "20:30",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": ""
     }
   ]
