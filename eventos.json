@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T13:26:59.052551",
-  "total": 45,
+  "actualizado": "2026-07-13T17:16:19.688768",
+  "total": 47,
   "eventos": [
     {
       "titulo": "L’ABÎME NAÎT L’AUBE (SUIZA)",
@@ -405,6 +405,24 @@
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/robert-rodrigo-band/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-131.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Hard GZ",
+      "fecha": "2026-10-08",
+      "hora": "22:00",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/hard-gz/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/hard-gz.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Bunbury",
+      "fecha": "2026-12-12",
+      "hora": "20:30",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": ""
     }
   ]
