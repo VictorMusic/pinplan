@@ -1,25 +1,7 @@
 {
-  "actualizado": "2026-07-16T20:51:07.907476",
+  "actualizado": "2026-07-17T09:08:09.809971",
   "total": 46,
   "eventos": [
-    {
-      "titulo": "PLAZA ESCENA IV SWING con BONS VIVANTS",
-      "fecha": "2026-07-16",
-      "hora": "20:00",
-      "sala": "Sala Creedence",
-      "url": "https://aragonenvivo.com/evento/plaza-escena-iv-swing-con-bons-vivants/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/734330040_1725632968479061_8546723355666487514_n.jpeg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "JOE KING CARRASCO (EEUU) & LOS TACOS LOCOS",
-      "fecha": "2026-07-16",
-      "hora": "22:00",
-      "sala": "Sala Creedence",
-      "url": "https://aragonenvivo.com/evento/joe-king-carrasco-eeuu-los-tacos-locos/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_b9f09343-b401-4922-8aed-ccd26030ae3c.jpeg",
-      "descripcion": ""
-    },
     {
       "titulo": "BUNKERS 77",
       "fecha": "2026-07-17",
@@ -396,6 +378,24 @@
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/the-reverend-peyton-s-big-damn-band/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-132.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "GONZALO PORTUGAL",
+      "fecha": "2026-10-02",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://aragonenvivo.com/evento/gonzalo-portugal/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Sticky M.A.",
+      "fecha": "2026-10-03",
+      "hora": "21:00",
+      "sala": "Sala Oasis",
+      "url": "https://aragonenvivo.com/evento/sticky-m-a/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Sticky-M.A-3.webp",
       "descripcion": ""
     },
     {
