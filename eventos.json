@@ -1,25 +1,7 @@
 {
-  "actualizado": "2026-07-17T20:46:27.224558",
-  "total": 46,
+  "actualizado": "2026-07-18T08:48:39.288831",
+  "total": 47,
   "eventos": [
-    {
-      "titulo": "BUNKERS 77",
-      "fecha": "2026-07-17",
-      "hora": "21:00",
-      "sala": "Sala Creedence",
-      "url": "https://aragonenvivo.com/evento/bunkers-77-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/729220014_1673920283887423_5796989743301970977_n.jpeg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "The Liquorice Experiment",
-      "fecha": "2026-07-17",
-      "hora": "21:00",
-      "sala": "La Lata de Bombillas",
-      "url": "https://aragonenvivo.com/evento/the-liquorice-experiment/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/phpThumb_generated_thumbnail-2.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "Flames of Foe + Nothing But A Metaphor",
       "fecha": "2026-07-19",
@@ -396,6 +378,33 @@
       "sala": "Sala Oasis",
       "url": "https://aragonenvivo.com/evento/sticky-m-a/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/Sticky-M.A-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Mercury Rev celebrando 25 años de All is Dream. Ciclo Lata Gourmet.",
+      "fecha": "2026-10-04",
+      "hora": "19:00",
+      "sala": "La Lata de Bombillas",
+      "url": "https://aragonenvivo.com/evento/mercury-rev-celebrando-25-anos-de-all-is-dream-ciclo-lata-gourmet/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/mercury_rev.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Mercury Rev",
+      "fecha": "2026-10-04",
+      "hora": "19:00",
+      "sala": "Sala Oasis",
+      "url": "https://aragonenvivo.com/evento/mercury-rev/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Diseno-sin-titulo-2026-04-29T124452.077-1.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "BILLY ALLEN + THE POLLIES",
+      "fecha": "2026-10-04",
+      "hora": "20:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://aragonenvivo.com/evento/billy-allen-the-pollies/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
       "descripcion": ""
     },
     {
