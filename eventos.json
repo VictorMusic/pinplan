@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-20T09:59:40.844989",
-  "total": 45,
+  "actualizado": "2026-07-20T13:06:26.490631",
+  "total": 46,
   "eventos": [
     {
       "titulo": "PLAZA ESCENA IV con ESCOLOPENDRA CLUB",
@@ -405,6 +405,15 @@
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/rosalie-cunningham/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-140.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Bunbury",
+      "fecha": "2026-12-12",
+      "hora": "20:30",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": ""
     }
   ]
