@@ -1,16 +1,7 @@
 {
-  "actualizado": "2026-07-22T20:58:54.293038",
+  "actualizado": "2026-07-23T09:24:47.693309",
   "total": 46,
   "eventos": [
-    {
-      "titulo": "PLAZA ESCENA IV con ESCOLOPENDRA CLUB",
-      "fecha": "2026-07-22",
-      "hora": "20:00",
-      "sala": "Sala Creedence",
-      "url": "https://aragonenvivo.com/evento/plaza-escena-iv-con-escolopendra-club/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/CREEDENCE-1.png",
-      "descripcion": ""
-    },
     {
       "titulo": "PLAZA ESCENA IV con RECOVER",
       "fecha": "2026-07-23",
@@ -405,6 +396,15 @@
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/rosalie-cunningham/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-140.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "HARD GZ",
+      "fecha": "2026-10-09",
+      "hora": "22:00",
+      "sala": "Sala Oasis",
+      "url": "https://aragonenvivo.com/evento/hard-gz-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/zgz-post-scaled-4.webp",
       "descripcion": ""
     },
     {
