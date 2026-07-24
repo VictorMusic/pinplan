@@ -1,16 +1,7 @@
 {
-  "actualizado": "2026-07-23T20:56:03.215913",
+  "actualizado": "2026-07-24T09:21:20.626441",
   "total": 46,
   "eventos": [
-    {
-      "titulo": "PLAZA ESCENA IV con RECOVER",
-      "fecha": "2026-07-23",
-      "hora": "20:00",
-      "sala": "Sala Creedence",
-      "url": "https://aragonenvivo.com/evento/plaza-escena-iv-con-recover/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/CREEDENCE-1.png",
-      "descripcion": ""
-    },
     {
       "titulo": "LEO SUSANA",
       "fecha": "2026-07-24",
@@ -405,6 +396,15 @@
       "sala": "Sala Oasis",
       "url": "https://aragonenvivo.com/evento/hard-gz-3/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/zgz-post-scaled-4.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "JAVI MEDINA (GATO NEGRO TOUR)",
+      "fecha": "2026-10-16",
+      "hora": "22:00",
+      "sala": "Sala Oasis",
+      "url": "https://aragonenvivo.com/evento/javi-medina-gato-negro-tour/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/javi-medina-3.webp",
       "descripcion": ""
     },
     {
