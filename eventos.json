@@ -1,16 +1,7 @@
 {
-  "actualizado": "2026-07-24T20:58:13.421594",
+  "actualizado": "2026-07-25T09:00:28.813211",
   "total": 46,
   "eventos": [
-    {
-      "titulo": "LEO SUSANA",
-      "fecha": "2026-07-24",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://aragonenvivo.com/evento/leo-susana-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "PLAZA ESCENA IV con ALE D´VO TRÍO",
       "fecha": "2026-07-30",
@@ -405,6 +396,15 @@
       "sala": "Sala Oasis",
       "url": "https://aragonenvivo.com/evento/javi-medina-gato-negro-tour/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/javi-medina-3.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "IBERIA SUMERGIDA",
+      "fecha": "2026-10-17",
+      "hora": "21:30",
+      "sala": "La Casa del Loco",
+      "url": "https://aragonenvivo.com/evento/iberia-sumergida-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_3f717c77-1142-4fb1-803f-71a217b942e1.jpg",
       "descripcion": ""
     },
     {
