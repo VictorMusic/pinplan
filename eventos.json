@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-25T20:43:03.449781",
-  "total": 45,
+  "actualizado": "2026-07-26T09:12:24.560974",
+  "total": 46,
   "eventos": [
     {
       "titulo": "PLAZA ESCENA IV con ALE D´VO TRÍO",
@@ -405,6 +405,15 @@
       "sala": "La Casa del Loco",
       "url": "https://aragonenvivo.com/evento/iberia-sumergida-3/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_3f717c77-1142-4fb1-803f-71a217b942e1.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Bunbury",
+      "fecha": "2026-12-12",
+      "hora": "20:30",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": ""
     }
   ]
