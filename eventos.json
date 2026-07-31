@@ -1,25 +1,7 @@
 {
-  "actualizado": "2026-07-30T21:00:30.862086",
+  "actualizado": "2026-07-31T09:44:01.486460",
   "total": 46,
   "eventos": [
-    {
-      "titulo": "PLAZA ESCENA IV con ALE D´VO TRÍO",
-      "fecha": "2026-07-30",
-      "hora": "20:00",
-      "sala": "Sala Creedence",
-      "url": "https://aragonenvivo.com/evento/plaza-escena-iv-con-ale-dvo-trio/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/CREEDENCE-1.png",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LAS ROBERTAS",
-      "fecha": "2026-07-30",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://aragonenvivo.com/evento/las-robertas/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "MOORE PLAYS MOORE",
       "fecha": "2026-07-31",
@@ -405,6 +387,24 @@
       "sala": "La Casa del Loco",
       "url": "https://aragonenvivo.com/evento/iberia-sumergida-3/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_3f717c77-1142-4fb1-803f-71a217b942e1.jpg",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Steve’n’Seagulls",
+      "fecha": "2026-10-22",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://aragonenvivo.com/evento/steve-n-seagulls/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/STEVE-B-SEAGULLS-2.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "EL IMITADOR",
+      "fecha": "2026-10-22",
+      "hora": "20:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/el-imitador/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/imitador1_2-4.webp",
       "descripcion": ""
     },
     {
