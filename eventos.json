@@ -1,25 +1,7 @@
 {
-  "actualizado": "2026-07-31T20:58:14.047724",
-  "total": 46,
+  "actualizado": "2026-08-01T09:06:21.738488",
+  "total": 47,
   "eventos": [
-    {
-      "titulo": "MOORE PLAYS MOORE",
-      "fecha": "2026-07-31",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://aragonenvivo.com/evento/moore-plays-moore/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-124.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "LOS LOLAS",
-      "fecha": "2026-07-31",
-      "hora": "21:00",
-      "sala": "La Lata de Bombillas",
-      "url": "https://aragonenvivo.com/evento/los-lolas/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/m_poster-2-2.webp",
-      "descripcion": ""
-    },
     {
       "titulo": "Evolfo (USA)",
       "fecha": "2026-08-02",
@@ -405,6 +387,33 @@
       "sala": "Teatro de las Esquinas",
       "url": "https://aragonenvivo.com/evento/el-imitador/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/imitador1_2-4.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "HOSS&SWET 1987",
+      "fecha": "2026-10-22",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://aragonenvivo.com/evento/hoss-swet-1987/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-133.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Guille Toledano",
+      "fecha": "2026-10-23",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://aragonenvivo.com/evento/guille-toledano/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Guille-toledano-concierto-zaragoza-CARTEL.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "ANA POPOVIC",
+      "fecha": "2026-10-23",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://aragonenvivo.com/evento/ana-popovic/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-134.webp",
       "descripcion": ""
     },
     {
