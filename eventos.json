@@ -1,16 +1,7 @@
 {
-  "actualizado": "2026-08-02T20:45:43.014862",
+  "actualizado": "2026-08-03T10:42:18.679603",
   "total": 47,
   "eventos": [
-    {
-      "titulo": "Evolfo (USA)",
-      "fecha": "2026-08-02",
-      "hora": "20:00",
-      "sala": "La Lata de Bombillas",
-      "url": "https://aragonenvivo.com/evento/evolfo-usa/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/phpThumb_generated_thumbnail-3.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "THE MAGNOLIAS",
       "fecha": "2026-08-05",
@@ -183,6 +174,15 @@
       "descripcion": ""
     },
     {
+      "titulo": "EL DESVAN + VERSADOS",
+      "fecha": "2026-09-19",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/el-desvan-versados/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/desvan_foto_1b-684x1024-1.jpg",
+      "descripcion": ""
+    },
+    {
       "titulo": "BUNBURY & HEROES EXPERIENCE",
       "fecha": "2026-09-20",
       "hora": "19:00",
@@ -261,6 +261,15 @@
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/robert-rodrigo-band/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-131.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "FEW THOUGHTS + INCORDIAN",
+      "fecha": "2026-09-27",
+      "hora": "19:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/few-thoughts-incordian/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-few-1024x1024-1.jpeg",
       "descripcion": ""
     },
     {
@@ -405,15 +414,6 @@
       "sala": "Sala López",
       "url": "https://aragonenvivo.com/evento/guille-toledano/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/Guille-toledano-concierto-zaragoza-CARTEL.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "ANA POPOVIC",
-      "fecha": "2026-10-23",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://aragonenvivo.com/evento/ana-popovic/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-134.webp",
       "descripcion": ""
     },
     {
