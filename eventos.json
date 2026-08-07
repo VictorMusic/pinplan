@@ -1,16 +1,7 @@
 {
-  "actualizado": "2026-08-06T12:57:01.753802",
-  "total": 47,
+  "actualizado": "2026-08-07T00:51:49.019520",
+  "total": 46,
   "eventos": [
-    {
-      "titulo": "RubÃ©n Sierra, Fisicomic – DESTROZANDO TU INFANCIA",
-      "fecha": "2026-08-06",
-      "hora": "20:00",
-      "sala": "Belushi",
-      "url": "https://aragonenvivo.com/evento/ruba-n-sierra-fisicomic-destrozando-tu-infancia/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260806_WhatsApp-Image-2026-05-04-at-12.42.16-1.webp",
-      "descripcion": ""
-    },
     {
       "titulo": "COPACABANA",
       "fecha": "2026-08-27",
@@ -417,12 +408,12 @@
       "descripcion": ""
     },
     {
-      "titulo": "Bunbury",
-      "fecha": "2026-12-12",
-      "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/bunbury/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
+      "titulo": "Muerdo",
+      "fecha": "2026-10-24",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://aragonenvivo.com/evento/muerdo/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/24_10-Zaragoza_Muerdo-2.webp",
       "descripcion": ""
     }
   ]
