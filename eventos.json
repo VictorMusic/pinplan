@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-09T20:24:02.119024",
+  "actualizado": "2026-08-10T08:26:14.440199",
   "total": 48,
   "eventos": [
     {
@@ -210,6 +210,15 @@
       "descripcion": ""
     },
     {
+      "titulo": "EDU SOTO Wanted – Se busca",
+      "fecha": "2026-09-25",
+      "hora": "20:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/edu-soto-wanted/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/cartel_sintexto_.webp",
+      "descripcion": ""
+    },
+    {
       "titulo": "BRIT FESTIVAL",
       "fecha": "2026-09-25",
       "hora": "21:00",
@@ -399,30 +408,21 @@
       "descripcion": ""
     },
     {
+      "titulo": "ABBAMANÍA: UN TRIBUTO INOLVIDABLE",
+      "fecha": "2026-10-23",
+      "hora": "20:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/abbamania-un-tributo-inolvidable/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/abba-mania-cartel-foto-scaled.webp",
+      "descripcion": ""
+    },
+    {
       "titulo": "ANA POPOVIC",
       "fecha": "2026-10-23",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/ana-popovic/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-134.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Muerdo",
-      "fecha": "2026-10-24",
-      "hora": "20:00",
-      "sala": "Sala López",
-      "url": "https://aragonenvivo.com/evento/muerdo/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/24_10-Zaragoza_Muerdo-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "AURUM. BANDAS SONORAS A LA LUZ DE LAS VELAS",
-      "fecha": "2026-10-24",
-      "hora": "20:30",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://aragonenvivo.com/evento/aurum-bandas-sonoras-a-la-luz-de-las-velas/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/TEATRO-ESQUINAS.png",
       "descripcion": ""
     },
     {
