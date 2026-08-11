@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-10T20:36:01.887005",
-  "total": 48,
+  "actualizado": "2026-08-11T08:09:14.347219",
+  "total": 47,
   "eventos": [
     {
       "titulo": "COPACABANA",
@@ -423,15 +423,6 @@
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/ana-popovic/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-134.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Bunbury",
-      "fecha": "2026-12-12",
-      "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/bunbury/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": ""
     }
   ]
