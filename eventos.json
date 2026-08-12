@@ -1,86 +1,23 @@
 {
-  "actualizado": "2026-08-12T08:21:27.922566",
-  "total": 9,
+  "actualizado": "2026-08-12T11:48:10.856506",
+  "total": 2,
   "eventos": [
     {
-      "titulo": "COPACABANA",
-      "fecha": "2026-08-27",
-      "hora": "21:00",
+      "titulo": "Hard GZ",
+      "fecha": "2026-10-08",
+      "hora": "22:00",
       "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/copacabana-7/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-125.webp",
+      "url": "https://zgzconciertos.com/concierto/hard-gz/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/hard-gz.jpg",
       "descripcion": ""
     },
     {
-      "titulo": "Golomb (USA)",
-      "fecha": "2026-09-01",
+      "titulo": "Bunbury",
+      "fecha": "2026-12-12",
       "hora": "20:30",
       "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/golomb-usa/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/golomb-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "FLAMIN’ GROOVIES.",
-      "fecha": "2026-09-01",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/flamin-groovies-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/F-Groovies-Zgza.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "STONE FOUNDATION",
-      "fecha": "2026-09-09",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/stone-foundation/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-126.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Bodega (USA)",
-      "fecha": "2026-09-10",
-      "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/bodega-usa/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/IMG_20260506_100606.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Los Chivatos + Galgo Diamante. Fiesta Latafelizfeliz.",
-      "fecha": "2026-09-11",
-      "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/los-chivatos-galgo-diamante-fiesta-latafelizfeliz/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/960_x_360_px-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "DALI TRIBUTO A MECANO",
-      "fecha": "2026-09-11",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/dali-tributo-a-mecano/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-127.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "TIPOS DE INTERES",
-      "fecha": "2026-09-12",
-      "hora": "12:30",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/tipos-de-interes/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "DAMANTRA",
-      "fecha": "2026-09-12",
-      "hora": "21:00",
-      "sala": "Zaragoza",
-      "url": "https://aragonenvivo.com/evento/damantra-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": ""
     }
   ]
