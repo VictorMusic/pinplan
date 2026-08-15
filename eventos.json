@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-14T20:25:09.778265",
-  "total": 48,
+  "actualizado": "2026-08-15T07:29:05.565039",
+  "total": 49,
   "eventos": [
     {
       "titulo": "COPACABANA",
@@ -423,6 +423,15 @@
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/ana-popovic/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-134.webp",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Muerdo",
+      "fecha": "2026-10-24",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://aragonenvivo.com/evento/muerdo/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/24_10-Zaragoza_Muerdo-2.webp",
       "descripcion": ""
     },
     {
