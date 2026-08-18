@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-17T20:18:52.058276",
-  "total": 49,
+  "actualizado": "2026-08-18T07:36:54.952876",
+  "total": 48,
   "eventos": [
     {
       "titulo": "COPACABANA",
@@ -432,15 +432,6 @@
       "sala": "Sala López",
       "url": "https://aragonenvivo.com/evento/muerdo/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/24_10-Zaragoza_Muerdo-2.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Bunbury",
-      "fecha": "2026-12-12",
-      "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/bunbury/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": ""
     }
   ]
