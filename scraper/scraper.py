@@ -115,8 +115,12 @@ def parse_time(text):
     if m: return f"{int(m.group(1)):02d}:{m.group(2)}"
     return ""
 
-def get(url, timeout=30, retries=3):
-    """GET con reintentos, espera creciente y registro de diagnostico por dominio."""
+def get(url, timeout=(8, 25), retries=2):
+    """GET con reintentos, espera creciente y registro de diagnostico por dominio.
+
+    timeout es (conexion, lectura): un host inalcanzable se descarta en 8 s en vez
+    de agotar 30, que era lo que disparaba la duracion del job en Actions.
+    """
     dom = re.sub(r"^www\.", "", (url.split("/")[2] if "://" in url else url))
     last = ""
     for attempt in range(retries):
@@ -247,6 +251,68 @@ def extract_tribe(soup, sala_default, base_url):
         events.append(make_event(title, parse_date(fecha_raw) or "", parse_time(hora_raw), sala or sala_default, href, img))
     return events
 
+
+def _jsonld_bloques(texto):
+    for bruto in re.findall(r"<script[^>]+application/ld\+json[^>]*>(.*?)</script>", texto, re.S):
+        try:
+            yield json.loads(_html.unescape(bruto.strip()))
+        except Exception:
+            continue
+
+def _jsonld_eventos(dato):
+    """Recorre el arbol JSON-LD y devuelve los nodos de tipo Event."""
+    if isinstance(dato, list):
+        for d in dato:
+            yield from _jsonld_eventos(d)
+    elif isinstance(dato, dict):
+        if "Event" in str(dato.get("@type", "")):
+            yield dato
+        for clave in ("@graph", "itemListElement", "item", "subEvent"):
+            if clave in dato:
+                yield from _jsonld_eventos(dato[clave])
+
+def scrape_jsonld(url, nombre_fuente, solo_zaragoza=True):
+    """Lee la agenda de los datos estructurados schema.org de la pagina.
+
+    Es mas estable que raspar el HTML: el marcado cambia de diseno a menudo, el
+    JSON-LD casi nunca, y trae fecha con hora, sala y localidad ya separadas.
+    """
+    r = get(url)
+    if not r:
+        print(f"  {nombre_fuente}: sin respuesta")
+        return []
+    evs, fuera = [], 0
+    for bloque in _jsonld_bloques(r.text):
+        for ev in _jsonld_eventos(bloque):
+            titulo = normalize(str(ev.get("name") or ""))
+            inicio = str(ev.get("startDate") or "")
+            if not titulo or len(titulo) < 3 or not inicio: continue
+            fecha = parse_date(inicio[:10]) or ""
+            hora = ""
+            mh = re.search(r"T(\d{2}):(\d{2})", inicio)
+            if mh and mh.group(0) != "T00:00":
+                hora = f"{mh.group(1)}:{mh.group(2)}"
+            lugar = ev.get("location") or {}
+            sala = normalize(str(lugar.get("name") or "")) if isinstance(lugar, dict) else ""
+            ciudad = ""
+            if isinstance(lugar, dict):
+                dirn = lugar.get("address")
+                if isinstance(dirn, dict): ciudad = str(dirn.get("addressLocality") or "")
+                elif isinstance(dirn, str): ciudad = dirn
+            if solo_zaragoza and not _es_zaragoza_ciudad(ciudad, sala):
+                fuera += 1
+                continue
+            enlace = str(ev.get("url") or url)
+            imagen = ev.get("image")
+            if isinstance(imagen, list): imagen = imagen[0] if imagen else ""
+            if isinstance(imagen, dict): imagen = imagen.get("url", "")
+            evs.append(make_event(titulo, fecha, hora, sala or "Zaragoza", enlace, str(imagen or "")))
+    con_hora = sum(1 for e in evs if e["hora"])
+    print(f"  {nombre_fuente}: {len(evs)} ({con_hora} con hora, {fuera} fuera de la ciudad)")
+    return evs
+
+def scrape_jacksonlive():
+    return scrape_jsonld("https://www.jacksonlive.es/zaragoza", "jacksonlive")
 
 def scrape_generic(url, sala_name, base_url):
     r = get(url)
@@ -901,9 +967,8 @@ def scrape_enterat():
     print(f"  enterat: {len(evs)}"); return evs
 
 def scrape_laganzua():
-    evs = scrape_generic("https://www.laganzua.net/conciertos/aragon","Zaragoza","https://www.laganzua.net")
-    evs = [e for e in evs if not e["sala"] or "zaragoza" in e["sala"].lower() or e["sala"]=="Zaragoza"]
-    print(f"  laganzua: {len(evs)}"); return evs
+    # Raspar su HTML devolvia 4 de los 24 eventos que publica en JSON-LD
+    return scrape_jsonld("https://www.laganzua.net/conciertos/aragon", "la ganzua")
 
 def scrape_zaragenda():
     evs = scrape_generic("https://zaragenda.com","Zaragoza","https://zaragenda.com")
@@ -1088,6 +1153,8 @@ def main():
         ("Setlist.fm",           scrape_setlistfm),
         ("La Casa del Loco",    scrape_casa_loco),
         ("Arenarock",           scrape_arenarock),
+        ("La Ganzua",           scrape_laganzua),
+        ("JacksOnLive",         scrape_jacksonlive),
     ]
     por_fuente = []
     for name, fn in scrapers:
