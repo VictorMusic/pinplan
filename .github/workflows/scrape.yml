@@ -22,7 +22,8 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install requests beautifulsoup4 lxml brotli
-      - run: cd scraper && python scraper.py
+      # -u: sin buffer, para que los timestamps de Actions revelen el tiempo real por fuente
+      - run: cd scraper && python -u scraper.py
         env:
           SETLISTFM_API_KEY: ${{ secrets.SETLISTFM_API_KEY }}
       - run: |
