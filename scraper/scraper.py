@@ -874,11 +874,10 @@ GARBAGE_TITLES = {
     "rock & blues café", "rock &amp; blues café",
 }
 
-GARBAGE_PATTERNS = [
-    "viernes molissesion", "sábado molissesion",
-    "lunes molissesion", "martes molissesion", "miércoles molissesion", "jueves molissesion",
-    "domingo molissesion",
-]
+# Las sesiones semanales de local (Molissesion y similares) se descartaban aqui.
+# Ahora se publican, pero marcadas como recurrentes para que queden por debajo de
+# los conciertos programados del mismo dia. Ver marcar_recurrentes().
+GARBAGE_PATTERNS = []
 
 GARBAGE_URL_PATTERNS = ["/eventos/hoy", "/eventos/mes", "/eventos/semana", 
                          "/agenda/hoy", "/agenda/mes", "/#content"]
@@ -956,6 +955,35 @@ def deduplicate(events):
         print(f"  Variantes del mismo concierto fusionadas: {len(unicos)-len(fusionados)}")
     return fusionados
 
+DIAS_SEMANA = ("lunes", "martes", "miercoles", "jueves", "viernes", "sabado", "domingo")
+
+def marcar_recurrentes(events):
+    """Marca las sesiones fijas de local, para ordenarlas tras los conciertos del dia.
+
+    Se consideran recurrentes por dos senales independientes:
+      - el titulo empieza por un dia de la semana ("Viernes Molissesion...")
+      - el mismo titulo y sala se repiten en fechas separadas por multiplos de 7 dias
+    """
+    grupos = {}
+    for e in events:
+        grupos.setdefault((_slug(e["titulo"]), _slug(e["sala"])), []).append(e)
+    for (titulo_slug, _), grupo in grupos.items():
+        empieza_por_dia = titulo_slug.startswith(DIAS_SEMANA)
+        semanal = False
+        fechas = sorted({e["fecha"] for e in grupo if e["fecha"]})
+        if len(fechas) >= 2:
+            try:
+                ds = [date.fromisoformat(f) for f in fechas]
+                mismo_dia = len({d.weekday() for d in ds}) == 1
+                cada_7 = all((b - a).days % 7 == 0 for a, b in zip(ds, ds[1:]))
+                semanal = mismo_dia and cada_7
+            except ValueError:
+                semanal = False
+        if empieza_por_dia or semanal:
+            for e in grupo:
+                e["recurrente"] = True
+    return events
+
 def filter_future(events):
     today = date.today().isoformat()
     cutoff = (date.today() + timedelta(days=180)).isoformat()
@@ -963,7 +991,9 @@ def filter_future(events):
     return [e for e in events if e["fecha"] and today <= e["fecha"] <= cutoff]
 
 def sort_events(events):
-    return sorted(events, key=lambda e: (e["fecha"] or "9999", e["hora"] or "99:99"))
+    return sorted(events, key=lambda e: (e["fecha"] or "9999",
+                                        1 if e.get("recurrente") else 0,
+                                        e["hora"] or "99:99"))
 
 def main():
     print(f"\nPinPlan scraper — {datetime.now().strftime('%Y-%m-%d %H:%M')}")
@@ -1033,7 +1063,9 @@ def main():
     filtered_fechas = set(e["fecha"] for e in filtered)
     lost = deduped_fechas - filtered_fechas
     if lost: print(f"  Fechas eliminadas: {sorted(lost)}")
-    all_events = sort_events(filtered)
+    all_events = sort_events(marcar_recurrentes(filtered))
+    n_rec = sum(1 for e in all_events if e.get("recurrente"))
+    if n_rec: print(f"  Sesiones recurrentes (van tras los conciertos del dia): {n_rec}")
     print(f"Limpio: {len(all_events)}")
     if all_events:
         fechas = sorted(set(e["fecha"] for e in all_events))
