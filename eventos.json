@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-21T09:44:54.156112",
-  "total": 242,
+  "actualizado": "2026-08-21T09:12:29.819951",
+  "total": 51,
   "eventos": [
     {
       "titulo": "VIERNES MOLISSESION EN ELÉCTRICO CON FRANKI",
@@ -13,30 +13,12 @@
       "recurrente": true
     },
     {
-      "titulo": "Kiev cuando nieva",
-      "fecha": "2026-08-26",
-      "hora": "20:00",
-      "sala": "Centro Joaquín Roncal",
-      "url": "https://www.aragonmusical.com/agenda/kiev-cuando-nieva-6/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/10/unnamed-4-scaled.jpg",
-      "descripcion": ""
-    },
-    {
       "titulo": "COPACABANA",
       "fecha": "2026-08-27",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/copacabana-7/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-125.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Bike & Lonesome",
-      "fecha": "2026-08-28",
-      "hora": "21:30",
-      "sala": "El Corazón Verde",
-      "url": "https://www.aragonmusical.com/agenda/bike-lonesome-6/",
-      "imagen": "",
       "descripcion": ""
     },
     {
@@ -50,102 +32,21 @@
       "recurrente": true
     },
     {
-      "titulo": "Cuti",
-      "fecha": "2026-08-29",
-      "hora": "21:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/cuti-13/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/01/20250103-Cuti-Vericad-Centro-Civico-Rio-Ebro-Luis-Lorente-11.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Golomb",
+      "titulo": "Golomb (USA)",
       "fecha": "2026-09-01",
-      "hora": "21:00",
+      "hora": "20:30",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/golomb/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/golomb.jpg",
+      "url": "https://aragonenvivo.com/evento/golomb-usa/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/golomb-2.webp",
       "descripcion": ""
     },
     {
-      "titulo": "Flamin’ Groovies",
+      "titulo": "FLAMIN’ GROOVIES.",
       "fecha": "2026-09-01",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/flamin-groovies/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2015/04/FotoFlaminGrooviesAbril2015-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Noche Hawaiano",
-      "fecha": "2026-09-02",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/noche-hawaiano/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/foto.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Swamp Stringband",
-      "fecha": "2026-09-03",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/swamp-stringband/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-2.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Ezezez",
-      "fecha": "2026-09-03",
-      "hora": "21:30",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/ezezez-2/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Festival Vive Latino Zaragoza 2026",
-      "fecha": "2026-09-04",
-      "hora": "17:00",
-      "sala": "Festival Vive Latino Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/festival-vive-latino-zaragoza-2026/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/09/Vive-Latino-2025-050925-Fotos-de-Luis-Lopez-Latorre-para-Aragon-Musical-9.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Kyle Lacy",
-      "fecha": "2026-09-04",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/kyle-lacy/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-7.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Doctor Velvet",
-      "fecha": "2026-09-05",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/doctor-velvet/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-13.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Silvio Rodríguez",
-      "fecha": "2026-09-05",
-      "hora": "21:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.aragonmusical.com/agenda/silvio-rodriguez/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/Silvio-Rodriguez.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Jorge Vera Trío",
-      "fecha": "2026-09-06",
-      "hora": "20:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/jorge-vera-trio-2/",
-      "imagen": "",
+      "url": "https://aragonenvivo.com/evento/flamin-groovies-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/F-Groovies-Zgza.jpg",
       "descripcion": ""
     },
     {
@@ -158,12 +59,12 @@
       "descripcion": ""
     },
     {
-      "titulo": "Bodega",
+      "titulo": "Bodega (USA)",
       "fecha": "2026-09-10",
-      "hora": "21:30",
+      "hora": "20:30",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/bodega/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/IMG_20260506_100606.jpg",
+      "url": "https://aragonenvivo.com/evento/bodega-usa/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/IMG_20260506_100606.webp",
       "descripcion": ""
     },
     {
@@ -185,15 +86,6 @@
       "descripcion": ""
     },
     {
-      "titulo": "Bella Bestia",
-      "fecha": "2026-09-11",
-      "hora": "21:00",
-      "sala": "La Casa del Loco",
-      "url": "https://www.aragonmusical.com/agenda/bella-bestia/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
       "titulo": "TIPOS DE INTERES",
       "fecha": "2026-09-12",
       "hora": "12:30",
@@ -212,48 +104,12 @@
       "descripcion": ""
     },
     {
-      "titulo": "My Darling Clemente",
-      "fecha": "2026-09-12",
-      "hora": "21:00",
-      "sala": "El Corazón Verde",
-      "url": "https://www.aragonmusical.com/agenda/my-darling-clemente/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2016/06/ticket-icon-30.png",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Operación Triunfo 2025",
-      "fecha": "2026-09-12",
-      "hora": "21:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.aragonmusical.com/agenda/operacion-triunfo-2025/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/02/Juanjo-y-Naiara-Operacion-Triunfo-2024.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "The Fractal Sound",
-      "fecha": "2026-09-12",
-      "hora": "21:30",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/the-fractal-sound-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2014/12/FotoTheFractalSoundDiciembre2014.jpg",
-      "descripcion": ""
-    },
-    {
       "titulo": "DIAMOND DOGS",
       "fecha": "2026-09-16",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/diamond-dogs-3/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-128.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Deke Dickerson & Torontos",
-      "fecha": "2026-09-16",
-      "hora": "21:30",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/deke-dickerson-torontos/",
-      "imagen": "",
       "descripcion": ""
     },
     {
@@ -266,57 +122,12 @@
       "descripcion": ""
     },
     {
-      "titulo": "Irnini Mons",
-      "fecha": "2026-09-17",
-      "hora": "21:00",
+      "titulo": "Brower (USA)",
+      "fecha": "2026-09-18",
+      "hora": "20:00",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/irnini-mons/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/irnini_mons.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Poetas D Calle",
-      "fecha": "2026-09-17",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/poetas-d-calle/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-3.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Wayne Band",
-      "fecha": "2026-09-17",
-      "hora": "21:45",
-      "sala": "La Casa del Loco",
-      "url": "https://www.aragonmusical.com/agenda/wayne-band/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/Wayne-Band.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "La Ronda de Boltaña",
-      "fecha": "2026-09-18",
-      "hora": "19:00",
-      "sala": "Edificio Paraninfo, Universidad Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/la-ronda-de-boltana-56/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2018/03/MCM9532.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Shinova",
-      "fecha": "2026-09-18",
-      "hora": "20:30",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/shinova-6/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/la-tormenta-perfecta-tour.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Brower",
-      "fecha": "2026-09-18",
-      "hora": "21:00",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/brower/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/brower.jpg",
+      "url": "https://aragonenvivo.com/evento/brower-usa/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/phpThumb_generated_thumbnail-1-1.jpg",
       "descripcion": ""
     },
     {
@@ -347,39 +158,12 @@
       "descripcion": ""
     },
     {
-      "titulo": "Ysy A",
-      "fecha": "2026-09-18",
-      "hora": "22:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/ysy-a-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2023/05/ysy-a-agoto-tres-fechas____cZKmRpB-_2000x1500__1-e1683614659446.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Cecilia Zango",
+      "titulo": "Holy Wave (USA)",
       "fecha": "2026-09-19",
-      "hora": "18:00",
-      "sala": "Las Armas",
-      "url": "https://www.aragonmusical.com/agenda/cecilia-zango/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Mambo Jambo Arkestra",
-      "fecha": "2026-09-19",
-      "hora": "19:00",
-      "sala": "Centro Cívico Delicias",
-      "url": "https://www.aragonmusical.com/agenda/mambo-jambo-arkestra/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/Mambo-Jambo-Arkestra.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Holy Wave",
-      "fecha": "2026-09-19",
-      "hora": "20:00",
+      "hora": "19:30",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/holy-wave/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/holy_wave.jpg",
+      "url": "https://aragonenvivo.com/evento/holy-wave-usa/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/holy_wave.webp",
       "descripcion": ""
     },
     {
@@ -401,24 +185,6 @@
       "descripcion": ""
     },
     {
-      "titulo": "8º Certamen Pop Rock 90s: Warcry & Pedro Botero",
-      "fecha": "2026-09-19",
-      "hora": "21:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/8o-certamen-pop-rock-90s/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/06/20250531-Pedro-Botero-Auditorio-Sala-Multiusos-Luis-Lorente-41.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Nowhere Beat",
-      "fecha": "2026-09-19",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/nowhere-beat-10/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-4.jpg",
-      "descripcion": ""
-    },
-    {
       "titulo": "BUNBURY & HEROES EXPERIENCE",
       "fecha": "2026-09-20",
       "hora": "19:00",
@@ -437,30 +203,12 @@
       "descripcion": ""
     },
     {
-      "titulo": "Los Monstruos Del Espacio Exterior",
-      "fecha": "2026-09-23",
-      "hora": "21:30",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/los-monstruos-del-espacio-exterior/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
       "titulo": "DR. FEELGOOD",
       "fecha": "2026-09-24",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/dr-feelgood-3/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-130.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Adolescentes De Marte",
-      "fecha": "2026-09-24",
-      "hora": "21:30",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/adolescentes-de-marte/",
-      "imagen": "",
       "descripcion": ""
     },
     {
@@ -500,60 +248,6 @@
       "descripcion": ""
     },
     {
-      "titulo": "The Dahlmanns",
-      "fecha": "2026-09-25",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/the-dahlmanns/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Víctor Coyote",
-      "fecha": "2026-09-25",
-      "hora": "21:30",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/victor-coyote-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2020/11/1586951321_167092_1586951854_noticia_normal_recorte1-1140x500-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "FIZ / Festival Independiente de Zaragoza",
-      "fecha": "2026-09-26",
-      "hora": "18:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/fiz-festival-independiente-de-zaragoza/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/09/WhatsApp-Image-2022-09-24-at-21.51.31.jpeg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Stivijoes",
-      "fecha": "2026-09-26",
-      "hora": "18:00",
-      "sala": "Las Armas",
-      "url": "https://www.aragonmusical.com/agenda/stivijoes/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Aldual",
-      "fecha": "2026-09-26",
-      "hora": "19:00",
-      "sala": "Centro Cívico Delicias",
-      "url": "https://www.aragonmusical.com/agenda/aldual/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/Aldual.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Dj Symphonic Latino",
-      "fecha": "2026-09-26",
-      "hora": "19:30",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/dj-symphonic-latino/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
       "titulo": "MICHAEL LEGACY",
       "fecha": "2026-09-26",
       "hora": "21:00",
@@ -563,39 +257,12 @@
       "descripcion": ""
     },
     {
-      "titulo": "Desert Vipers",
-      "fecha": "2026-09-26",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/desert-vipers-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-5.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Mitago + Umbra",
-      "fecha": "2026-09-26",
-      "hora": "21:00",
-      "sala": "Sala Utopía",
-      "url": "https://www.aragonmusical.com/agenda/mitago-umbra/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/Mitago.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "The Nowhere Plan",
+      "titulo": "THE NOWHERE PLAN- THE BEATLES TRIBUTE BAND",
       "fecha": "2026-09-26",
       "hora": "21:30",
       "sala": "La Casa del Loco",
-      "url": "https://www.aragonmusical.com/agenda/the-nowhere-plan-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/ARAGON-MUSICAL-H-THE-BEATLES-NOWHERE-PLAN-COCIERTOS-ZARAGOZA-2026.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Dubadú Big Band",
-      "fecha": "2026-09-27",
-      "hora": "12:00",
-      "sala": "Centro Cívico Delicias",
-      "url": "https://www.aragonmusical.com/agenda/dubadu-big-band/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/Dubadu-Big-Band.jpg",
+      "url": "https://aragonenvivo.com/evento/the-nowhere-plan-the-beatles-tribute-band/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/V-THE-BEATLES-NOWHERE-PLAN-COCIERTOS-ZARAGOZA-2026.webp",
       "descripcion": ""
     },
     {
@@ -617,24 +284,6 @@
       "descripcion": ""
     },
     {
-      "titulo": "Jazz & Jam Vol Vi",
-      "fecha": "2026-09-27",
-      "hora": "20:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/jazz-jam-vol-vi/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-14.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Claire Huangci",
-      "fecha": "2026-09-28",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/claire-huangci/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/Claire-Huangci-2_16_9.jpg",
-      "descripcion": ""
-    },
-    {
       "titulo": "THE REVEREND PEYTON’S BIG DAMN BAND",
       "fecha": "2026-10-01",
       "hora": "21:00",
@@ -653,39 +302,12 @@
       "descripcion": ""
     },
     {
-      "titulo": "Gansos y Rosas + Motorkillers",
-      "fecha": "2026-10-02",
-      "hora": "21:00",
-      "sala": "La Casa del Loco",
-      "url": "https://www.aragonmusical.com/agenda/gansos-y-rosas-motorkillers/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/ARAGON-MUSICAL-H-GANSOS-ROSAS-MOTORKILLERS-COCIERTOS-ZARAGOZA-2026.jpg",
-      "descripcion": ""
-    },
-    {
       "titulo": "Sticky M.A.",
       "fecha": "2026-10-03",
       "hora": "21:00",
       "sala": "Sala Oasis",
       "url": "https://aragonenvivo.com/evento/sticky-m-a/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/Sticky-M.A-3.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Susan Santos",
-      "fecha": "2026-10-03",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/susan-santos-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-8.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Jaime Urrutia",
-      "fecha": "2026-10-03",
-      "hora": "22:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/jaime-urrutia-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2019/02/3F4AF9C4-C1D0-45A9-B6FD-241168D91915-e1551036591474.jpeg",
       "descripcion": ""
     },
     {
@@ -716,33 +338,6 @@
       "descripcion": ""
     },
     {
-      "titulo": "Leanwolf",
-      "fecha": "2026-10-04",
-      "hora": "20:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/leanwolf-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/foto-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Barry B + Sexy Zebras + Elem",
-      "fecha": "2026-10-08",
-      "hora": "17:00",
-      "sala": "Aura",
-      "url": "https://www.aragonmusical.com/agenda/barry-b-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/02/Barry-B.-Sala-Lopez-de-Zaragoza-20226.-Foto-de-Alejandro-Meavilla-para-Aragon-Musical-100.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Beatrice Rana",
-      "fecha": "2026-10-08",
-      "hora": "19:30",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/beatrice-rana/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/Beatrice-Rana-web-scaled-1.jpg",
-      "descripcion": ""
-    },
-    {
       "titulo": "TRACK DOGS",
       "fecha": "2026-10-08",
       "hora": "21:00",
@@ -770,24 +365,6 @@
       "descripcion": ""
     },
     {
-      "titulo": "Myke Towers",
-      "fecha": "2026-10-09",
-      "hora": "21:00",
-      "sala": "Espacio Zity",
-      "url": "https://www.aragonmusical.com/agenda/myke-towers-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/11/Myke-Towers.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "La Oreja de Van Gogh",
-      "fecha": "2026-10-09",
-      "hora": "21:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.aragonmusical.com/agenda/la-oreja-de-van-gogh-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/10/laoreja2025.webp",
-      "descripcion": ""
-    },
-    {
       "titulo": "HARD GZ",
       "fecha": "2026-10-09",
       "hora": "22:00",
@@ -797,156 +374,12 @@
       "descripcion": ""
     },
     {
-      "titulo": "Intrusos",
-      "fecha": "2026-10-10",
-      "hora": "12:30",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/intrusos-6/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-6.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Viva Suecia + Malmö 040",
-      "fecha": "2026-10-10",
-      "hora": "21:00",
-      "sala": "Espacio Zity",
-      "url": "https://www.aragonmusical.com/agenda/viva-suecia-7/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/10/Viva-Suecia.-Espacio-Zity-111024.-Por-Luis-Lopez-Latorre-para-Aragon-Musical-23.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "La Oreja de Van Gogh",
-      "fecha": "2026-10-10",
-      "hora": "21:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.aragonmusical.com/agenda/la-oreja-de-van-gogh-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/10/laoreja2025.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "In Materia",
-      "fecha": "2026-10-11",
-      "hora": "12:30",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/in-materia-14/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-7.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Los 10 Grandes Del Cine",
-      "fecha": "2026-10-11",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/los-10-grandes-del-cine/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/WEB-ZARA-10-GRANDES-CINE-1200x675-11-OCT.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Blackworks",
-      "fecha": "2026-10-11",
-      "hora": "21:00",
-      "sala": "Espacio Zity",
-      "url": "https://www.aragonmusical.com/agenda/blackworks/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Sergio Dalma",
-      "fecha": "2026-10-11",
-      "hora": "21:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.aragonmusical.com/agenda/sergio-dalma-8/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2017/12/Sergio-Dalma.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Ana Mena + Marina Reche",
-      "fecha": "2026-10-12",
-      "hora": "20:00",
-      "sala": "Espacio Zity",
-      "url": "https://www.aragonmusical.com/agenda/ana-mena-marina-reche/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2023/05/Ana-Mena-e1683738596628.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "A Cara o Cruz",
-      "fecha": "2026-10-12",
-      "hora": "21:00",
-      "sala": "La Casa del Loco",
-      "url": "https://www.aragonmusical.com/agenda/a-cara-o-cruz-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/ARAGON-MUSICAL-H-A-Cara-o-Cruz-Homenaje-a-El-Directo-de-Radio-Futura-COCIERTOS-ZARAGOZA-2026.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Taburete + Álvaro de Luna + Hey Kid",
-      "fecha": "2026-10-13",
-      "hora": "20:00",
-      "sala": "Espacio Zity",
-      "url": "https://www.aragonmusical.com/agenda/taburete-alvaro-de-luna-hey-kid/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/01/Taburete.-Sala-Oasis-de-Zaragoza-29126.-Foto-de-Mariano-Val-para-Aragon-Musical-24.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Love of Lesbian + Dorian + León Benavente",
-      "fecha": "2026-10-14",
-      "hora": "20:00",
-      "sala": "Espacio Zity",
-      "url": "https://www.aragonmusical.com/agenda/love-of-lesbian-dorian-leon-benavente/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/09/DSC08627.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Ryan Adams",
-      "fecha": "2026-10-15",
-      "hora": "19:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/ryan-adams/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/Ryan-Adams.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Saiko + La Pantera + Chimeno",
-      "fecha": "2026-10-15",
-      "hora": "21:00",
-      "sala": "Espacio Zity",
-      "url": "https://www.aragonmusical.com/agenda/saiko-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/10/Saiko.-Espacio-Zity-51024.-Por-Luis-Lopez-Latorre-22.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Savaged + Strangers + Knightsune",
-      "fecha": "2026-10-15",
-      "hora": "21:00",
-      "sala": "La Casa del Loco",
-      "url": "https://www.aragonmusical.com/agenda/savaged-strangers-knightsune/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/ARAGON-MUSICAL-STRANGERS-COCIERTOS-ZARAGOZA-2026.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Javi Medina",
+      "titulo": "JAVI MEDINA (GATO NEGRO TOUR)",
       "fecha": "2026-10-16",
-      "hora": "19:00",
+      "hora": "22:00",
       "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/javi-medina-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/10/Javi-Medina.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Festival Electrolatino",
-      "fecha": "2026-10-16",
-      "hora": "21:00",
-      "sala": "Espacio Zity",
-      "url": "https://www.aragonmusical.com/agenda/festival-electrolatino/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/10/MCM2703.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Hombres B",
-      "fecha": "2026-10-16",
-      "hora": "21:00",
-      "sala": "La Casa del Loco",
-      "url": "https://www.aragonmusical.com/agenda/hombres-b-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/ARAGON-MUSICAL-hombres-b-trib-hombres-pilar2026-COCIERTOS-ZARAGOZA-2026.jpg",
+      "url": "https://aragonenvivo.com/evento/javi-medina-gato-negro-tour/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/javi-medina-3.webp",
       "descripcion": ""
     },
     {
@@ -956,51 +389,6 @@
       "sala": "La Casa del Loco",
       "url": "https://aragonenvivo.com/evento/iberia-sumergida-3/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_3f717c77-1142-4fb1-803f-71a217b942e1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Omar Courtz",
-      "fecha": "2026-10-17",
-      "hora": "22:00",
-      "sala": "Espacio Zity",
-      "url": "https://www.aragonmusical.com/agenda/omar-courtz/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/Omar-Courtz.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Matt Woods",
-      "fecha": "2026-10-18",
-      "hora": "19:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/matt-woods-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-9.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Dj Symphonic & Royal Film Concert Orchestra",
-      "fecha": "2026-10-18",
-      "hora": "19:30",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/dj-symphonic-royal-film-concert-orchestra-2/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Ecos Del Presente",
-      "fecha": "2026-10-19",
-      "hora": "19:30",
-      "sala": "Sala Luis Galve",
-      "url": "https://www.aragonmusical.com/agenda/ecos-del-presente/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/Foto-Taller-Sonoro-horizontal-scaled-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Orquesta Sinfónica De Düsseldorf",
-      "fecha": "2026-10-19",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/orquesta-sinfonica-de-dusseldorf/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/Adam_Fischer-Tonhalle_Duesseldorf04cSusanne_Diesner-002-scaled-e1780390060781.jpg",
       "descripcion": ""
     },
     {
@@ -1049,39 +437,12 @@
       "descripcion": ""
     },
     {
-      "titulo": "Ara Malikian",
-      "fecha": "2026-10-23",
-      "hora": "20:00",
-      "sala": "Teatro Principal de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/ara-malikian-39/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/12/20221229-Ara-Malikian-Luis-Lorente-11-.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Dirty Suc + Fer Ag",
-      "fecha": "2026-10-23",
-      "hora": "20:00",
-      "sala": "Sala Roze",
-      "url": "https://www.aragonmusical.com/agenda/dirty-suc-fer-ag-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/0f6af0fd-ec14-46f8-8d34-d500ce6d25fb.jpg",
-      "descripcion": ""
-    },
-    {
       "titulo": "ANA POPOVIC",
       "fecha": "2026-10-23",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/ana-popovic/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-134.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Ara Malikian",
-      "fecha": "2026-10-24",
-      "hora": "17:30",
-      "sala": "Teatro Principal de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/ara-malikian-40/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/12/20221229-Ara-Malikian-Luis-Lorente-11-.jpg",
       "descripcion": ""
     },
     {
@@ -1094,1092 +455,12 @@
       "descripcion": ""
     },
     {
-      "titulo": "Komodor",
-      "fecha": "2026-10-24",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/komodor-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-8.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "The Silencers",
-      "fecha": "2026-10-24",
-      "hora": "21:00",
-      "sala": "La Casa del Loco",
-      "url": "https://www.aragonmusical.com/agenda/the-silencers/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Ara Malikian",
-      "fecha": "2026-10-25",
-      "hora": "19:00",
-      "sala": "Teatro Principal de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/ara-malikian-42/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/12/20221229-Ara-Malikian-Luis-Lorente-11-.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Celia Carballo",
-      "fecha": "2026-10-25",
-      "hora": "20:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/celia-carballo-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-9.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Dharmacide",
-      "fecha": "2026-10-25",
-      "hora": "21:00",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/dharmacide-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/dharmacide_oct.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "London Philharmonic Orchestra",
-      "fecha": "2026-10-27",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/london-philharmonic-orchestra/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/london_phil2_fotode_benjamin_ealovega-e1780390293999.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "No Te Va Gustar",
-      "fecha": "2026-10-27",
-      "hora": "20:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/no-te-va-gustar-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/6b0daf14-4d9a-4e5b-bed7-f6f20d469d36-scaled.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Santiago Auserón",
-      "fecha": "2026-10-27",
-      "hora": "20:00",
-      "sala": "Teatro Principal de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/santiago-auseron-7/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2019/01/santiago-auseron.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Blue Moon Marquee",
-      "fecha": "2026-10-29",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/blue-moon-marquee-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-10.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Cinema Stereo",
-      "fecha": "2026-10-30",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/cinema-stereo/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/foto-55.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Funzo",
-      "fecha": "2026-10-30",
-      "hora": "21:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/funzo/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2021/06/Funzo-Baby-Loud.jpeg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Kelley Stoltz",
-      "fecha": "2026-10-30",
-      "hora": "21:00",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/kelley-stoltz-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/kelley.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Rafa Sanchez",
-      "fecha": "2026-10-30",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://www.aragonmusical.com/agenda/rafa-sanchez-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/rafalaunion.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Julio Iglesias Jr.",
-      "fecha": "2026-10-31",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/julio-iglesias-jr/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/12/julio-iglesias-jr.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Otra Ronda",
-      "fecha": "2026-10-31",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/otra-ronda-6/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2023/12/otra-ronda-mas-birras-linacero-2023.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Paradise",
-      "fecha": "2026-11-01",
-      "hora": "20:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/paradise/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Silent 4tet",
-      "fecha": "2026-11-01",
-      "hora": "20:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/silent-4tet/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-12.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Anadie",
-      "fecha": "2026-11-02",
-      "hora": "18:00",
-      "sala": "Las Armas",
-      "url": "https://www.aragonmusical.com/agenda/anadie/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "The Vintage Caravan",
-      "fecha": "2026-11-05",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/the-vintage-caravan/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-4.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Estrogenuinas + Mallo",
-      "fecha": "2026-11-06",
-      "hora": "20:30",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/estrogenuinas-mallo/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/63b71048-ebdf-4ff6-855a-ab65878c8903-scaled.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Fyahbwoy",
-      "fecha": "2026-11-06",
-      "hora": "20:30",
-      "sala": "Sala López",
-      "url": "https://www.aragonmusical.com/agenda/fyahbwoy/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/Fyahbwoy.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Monstruo Laberinto",
-      "fecha": "2026-11-06",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/monstruo-laberinto/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/foto-56.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "La Fuga",
-      "fecha": "2026-11-06",
-      "hora": "22:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/la-fuga-10/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/09/20250920-La-fuga-Sala-Multiusos-Auditorio-Zaragoza-Luis-Lorente-02.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Ángel Stanich Band",
-      "fecha": "2026-11-07",
-      "hora": "20:00",
-      "sala": "Sala López",
-      "url": "https://www.aragonmusical.com/agenda/angel-stanich-band/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/08/Angel-Stanich-Luis-Lorente-19.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Walls",
-      "fecha": "2026-11-07",
-      "hora": "20:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/walls-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/11/Walls.-Oasis-Teatro-Club.-Zaragoza-91124.-Por-Alejandro-Meavilla-para-Aragon-Musical-6-1-e1731831756554.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Bryan Adams",
-      "fecha": "2026-11-07",
-      "hora": "21:00",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.aragonmusical.com/agenda/bryan-adams/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/02/Bryan-Adams.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Dirty Sound Magnet",
-      "fecha": "2026-11-07",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/dirty-sound-magnet/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/foto-57.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Santero Y Los Muchachos",
-      "fecha": "2026-11-07",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://www.aragonmusical.com/agenda/santero-y-los-muchachos-10/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/3333.png",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Vapors Of Morphine",
-      "fecha": "2026-11-07",
-      "hora": "21:00",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/vapors-of-morphine/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/vapors.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Gerardo López Trío",
-      "fecha": "2026-11-08",
-      "hora": "20:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/gerardo-lopez-trio-3/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Walls",
-      "fecha": "2026-11-08",
-      "hora": "20:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/walls-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/11/Walls.-Oasis-Teatro-Club.-Zaragoza-91124.-Por-Alejandro-Meavilla-para-Aragon-Musical-6-1-e1731831756554.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Simón Trpčeski",
-      "fecha": "2026-11-09",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/simon-trpceski/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/Simon-Trpceski_photo-web-scaled-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Kurt Elling And The Yellowjackets Celebrate Weather Report",
-      "fecha": "2026-11-12",
-      "hora": "20:30",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/kurt-elling-and-the-yellowjackets-celebrate-weather-report/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/Picture-Kurt-x-Yellowjackets.png",
-      "descripcion": ""
-    },
-    {
-      "titulo": "The Del Fuegos",
-      "fecha": "2026-11-12",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/the-del-fuegos/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-6.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Cloud Nothings",
-      "fecha": "2026-11-12",
-      "hora": "21:30",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/festival-independiente-en-zaragoza-2/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Chiquita Movida",
-      "fecha": "2026-11-13",
-      "hora": "20:30",
-      "sala": "Sala López",
-      "url": "https://www.aragonmusical.com/agenda/chiquita-movida/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/12/Chiquita-Movida.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Isaiah Sharkey",
-      "fecha": "2026-11-13",
-      "hora": "21:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/isaiah-sharkey/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/Diseno-sin-titulo-6-1024x576-1.png",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Maika Makovski",
-      "fecha": "2026-11-13",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/maika-makovski-5/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-scaled.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Sofia Ellar",
-      "fecha": "2026-11-13",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://www.aragonmusical.com/agenda/sofia-ellar-6/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/05/ellarweb-e1652980555971.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Cepeda",
-      "fecha": "2026-11-13",
-      "hora": "21:30",
-      "sala": "La Casa del Loco",
-      "url": "https://www.aragonmusical.com/agenda/cepeda/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/04/Luis-Cepeda.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Gazella + Béla Sándor",
-      "fecha": "2026-11-13",
-      "hora": "21:30",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/gazella-bela-sandor/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Festival independiente en Zaragoza",
-      "fecha": "2026-11-13",
-      "hora": "22:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/festival-independiente-en-zaragoza/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "James Carter Organ Trio",
-      "fecha": "2026-11-14",
-      "hora": "21:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/james-carter-organ-trio/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/Diseno-sin-titulo-7-1024x576-1.png",
-      "descripcion": ""
-    },
-    {
-      "titulo": "The Capaces",
-      "fecha": "2026-11-14",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/the-capaces/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-15.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Estrella Fugaz + La Rate Timide",
-      "fecha": "2026-11-14",
-      "hora": "21:30",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/festival-independiente-en-zaragoza-3/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Triángulo de Amor Bizarro + El Diablo de Shanghai + Lisasinson",
-      "fecha": "2026-11-14",
-      "hora": "21:30",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/triangulo-de-amor-bizarro-el-diablo-de-shanghai-lisasinson/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2023/12/Triangulo-de-Amor-Bizarro-Las-Armas-15122023-Foto-Jaime-Oriz-231-41.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Haydée Milanés & Javier Colina",
-      "fecha": "2026-11-15",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/haydee-milanes-javier-colina/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/Diseno-sin-titulo-9-1024x576-1.png",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Manu Lanvin",
-      "fecha": "2026-11-15",
-      "hora": "20:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/manu-lanvin/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-16.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Orquesta Filarmónica Checa",
-      "fecha": "2026-11-16",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/orquesta-filarmonica-checa/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/filarmonica_checa_foto5de_petra_hajska-e1780390386733.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Temples",
-      "fecha": "2026-11-18",
-      "hora": "21:00",
-      "sala": "Sala López",
-      "url": "https://www.aragonmusical.com/agenda/temples/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/TEMPLES_CAB.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Derobert And The Half Truths",
-      "fecha": "2026-11-19",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/derobert-and-the-half-truths/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-10.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Chris Potter Trio",
-      "fecha": "2026-11-20",
-      "hora": "21:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/chris-potter-trio/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/Diseno-sin-titulo-13-1024x576-1.png",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Mojothunder",
-      "fecha": "2026-11-20",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/mojothunder-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-11.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Abhir",
-      "fecha": "2026-11-20",
-      "hora": "22:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/abhir/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/706078577_18593133313062488_4196535147734972138_n-e1780380324160.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "L'haine",
-      "fecha": "2026-11-21",
-      "hora": "20:00",
-      "sala": "Sala López",
-      "url": "https://www.aragonmusical.com/agenda/lhaine/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/4b61e3d2-6470-4c19-8ee0-5a2f8421cf41-e1781107663907.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Paquito D’rivera Trío",
-      "fecha": "2026-11-21",
-      "hora": "21:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/paquito-drivera-trio/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/Diseno-sin-titulo-14-1024x576-1.png",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Sobrezero",
-      "fecha": "2026-11-21",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/sobrezero-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/06/hroz-SOBREZERO-SHOOTING-MIKEPHYTON-3-1-683x1024-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Hombres G",
-      "fecha": "2026-11-21",
-      "hora": "21:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.aragonmusical.com/agenda/hombres-g-5/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2017/09/hombresG.png",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Fórmula V",
-      "fecha": "2026-11-22",
-      "hora": "18:30",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/formula-v/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Pluralensemble",
-      "fecha": "2026-11-22",
-      "hora": "19:30",
-      "sala": "Sala Luis Galve",
-      "url": "https://www.aragonmusical.com/agenda/pluralensemble/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/PLURAL-03-cSilvia-Gomez-Cisneros-scaled-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Michael Mayo",
-      "fecha": "2026-11-22",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/michael-mayo/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/Diseno-sin-titulo-15-1024x576-1.png",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Ay Trick",
-      "fecha": "2026-11-22",
-      "hora": "20:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/ay-trick/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-5.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Manel Fuentes",
-      "fecha": "2026-11-22",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://www.aragonmusical.com/agenda/manel-fuentes/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/manelfuentesportadaweb.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Ruslana",
-      "fecha": "2026-11-22",
-      "hora": "21:30",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/ruslana-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/10/Los-40-Pilar-Pop.-Plaza-del-Pilar-Zaragoza-111024.-Por-@phastor_art.-Para-Aragon-Musical-3.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Split Dogs",
-      "fecha": "2026-11-25",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/split-dogs/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Frankie And The Witch Fingers",
-      "fecha": "2026-11-26",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/frankie-and-the-witch-fingers-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/foto-58.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Go Cactus",
-      "fecha": "2026-11-27",
-      "hora": "21:00",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/go-cactus/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/998635ec-21c2-43f6-9f7c-faef691d131b-scaled.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "OBK",
-      "fecha": "2026-11-27",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://www.aragonmusical.com/agenda/obk-5/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/portadawebobk.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Volavent",
-      "fecha": "2026-11-27",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/volavent-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/foto-6.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Fito & Fitipaldis",
-      "fecha": "2026-11-27",
-      "hora": "21:30",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/fito-fitipaldis-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/12/20251213-Fito-y-Fitipaldis-Pabellon-Principe-Felipe-Luis-Lorente-27.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Ziro",
-      "fecha": "2026-11-27",
-      "hora": "22:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/ziro-8/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/05/G02_2111-Editar.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Anadie",
-      "fecha": "2026-11-28",
-      "hora": "18:30",
-      "sala": "Las Armas",
-      "url": "https://www.aragonmusical.com/agenda/anadie-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/7e2a7a28-a562-4c75-8bd1-9cdfe33beae2-scaled.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "The Kleejoss Band",
-      "fecha": "2026-11-28",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/the-kleejoss-band-17/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-2.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "OBK",
-      "fecha": "2026-11-28",
-      "hora": "21:30",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://www.aragonmusical.com/agenda/obk-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2019/11/OBK-y-DJs-el-9-de-octubre-de-2019__12.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Parquesvr",
-      "fecha": "2026-11-28",
-      "hora": "21:30",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/parquesvr-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/Parquesvr-scaled-e1778590746451.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Mingot & Villar 4tet",
-      "fecha": "2026-11-29",
-      "hora": "20:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/mingot-villar-4tet/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-17.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Pablo Sainz-villegas",
-      "fecha": "2026-11-30",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/pablo-sainz-villegas-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/2-PSV_Ruben-Martin_Sony-Music-Entertainment-scaled-e1780390529864.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Francisco",
-      "fecha": "2026-12-01",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://www.aragonmusical.com/agenda/francisco-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/portadawebfrancisco.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Laranna",
-      "fecha": "2026-12-03",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/laranna/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-18.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Little Barrie",
-      "fecha": "2026-12-03",
-      "hora": "21:00",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/little-barrie/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/IMG_20260508_093137.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Los Coronas",
-      "fecha": "2026-12-04",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/los-coronas-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-3.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Raul Clyde",
-      "fecha": "2026-12-05",
-      "hora": "18:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/raul-clyde-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2023/10/fleek-raul-clyde-entrevista.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Angela Hoodoo",
-      "fecha": "2026-12-05",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/angela-hoodoo-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-12.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Billywood Crackers",
-      "fecha": "2026-12-06",
-      "hora": "20:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/billywood-crackers-5/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-19.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Rebrote",
-      "fecha": "2026-12-06",
-      "hora": "20:30",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/rebrote/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/Rebrote.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Los Músicos De Su Alteza",
-      "fecha": "2026-12-08",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/los-musicos-de-su-alteza-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/Los-Musicos-de-Su-Alteza-e1780385907748-1024x576-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "The Sadies + Terra Lightfoot",
-      "fecha": "2026-12-09",
-      "hora": "21:00",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/the-sadies-terra-lightfoot/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/IMG_20260506_101215-scaled.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Las Novias",
-      "fecha": "2026-12-11",
-      "hora": "21:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/las-novias-7/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2023/04/20230414-Las-Novias-Luis-Lorente-20.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "El Chojin",
-      "fecha": "2026-12-12",
-      "hora": "20:00",
-      "sala": "Sala López",
-      "url": "https://www.aragonmusical.com/agenda/el-chojin-4/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Apartamentos Acapulco",
-      "fecha": "2026-12-12",
-      "hora": "21:00",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/apartamentos-acapulco-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/apartamentos_acapulco_dic_26.jpg",
-      "descripcion": ""
-    },
-    {
       "titulo": "Bunbury",
       "fecha": "2026-12-12",
-      "hora": "21:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.aragonmusical.com/agenda/bunbury-5/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/09/Enrique-Bunbury.-Pabellon-Principe-Felipe-de-Zaragoza-20925.-Por-Mariano-Val-para-Aragon-Musical-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Brenno Ambrosini",
-      "fecha": "2026-12-13",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/brenno-ambrosini/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/BRENNO-AMBROSINI-scaled-e1769776901755.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Noe & The Bobifaces",
-      "fecha": "2026-12-13",
-      "hora": "20:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/noe-the-bobifaces-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Cyril Kamer",
-      "fecha": "2026-12-14",
-      "hora": "22:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/cyril-kamer/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/Cyril-Kamer.avif",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Jambass",
-      "fecha": "2026-12-17",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/jambass/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-20-scaled.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Fernandocosta",
-      "fecha": "2026-12-18",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://www.aragonmusical.com/agenda/fernandocosta-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/07/Fernandocosta.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "DELACUEVA",
-      "fecha": "2026-12-19",
-      "hora": "20:00",
-      "sala": "Sala López",
-      "url": "https://www.aragonmusical.com/agenda/delacueva-17/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2018/12/De-la-cueva-Sala-Lopez-Luis-Lorente-02.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Shake-a-round Los Torontos",
-      "fecha": "2026-12-19",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/shake-a-round-los-torontos/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/foto-59.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Depedro",
-      "fecha": "2026-12-19",
-      "hora": "21:30",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://www.aragonmusical.com/agenda/depedro-14/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/06/20240608-EBS-03-Depedro-Luis-Lorente-46.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Seven",
-      "fecha": "2026-12-22",
       "hora": "20:30",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/seven-47/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-21.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Nelson",
-      "fecha": "2026-12-25",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/nelson-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-22.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Callese Señora",
-      "fecha": "2026-12-26",
-      "hora": "12:30",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/callese-senora-5/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Gran Concierto De Año Nuevo 2027 De Zaragoza",
-      "fecha": "2026-12-27",
-      "hora": "19:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/gran-concierto-de-ano-nuevo-2027-de-zaragoza/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/Concierto-ano-nuevo-2027-scaled-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Carlos Núñez",
-      "fecha": "2026-12-27",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://www.aragonmusical.com/agenda/carlos-nunez-15/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/01/20231228-Carlos-Nunez-Luis-Lorente-24.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Lynn Milanés",
-      "fecha": "2026-12-30",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://www.aragonmusical.com/agenda/lynn-milanes/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/03/IMG_3671.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "+dMANÁ",
-      "fecha": "2027-01-08",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://www.aragonmusical.com/agenda/dmana/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Modelo",
-      "fecha": "2027-01-09",
-      "hora": "21:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/modelo-31/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/09/Vive-Latino-2025.-Recinto-Expo-de-Zaragoza-6925.-Por-Mariano-Val-para-Aragon-Musical-153.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Joven Orquesta Nacional De España",
-      "fecha": "2027-01-16",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/joven-orquesta-nacional-de-espana/",
-      "imagen": "",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Los Enemigos",
-      "fecha": "2027-01-16",
-      "hora": "21:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/los-enemigos-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/11/la-casa-del-loco-25-aniversario-josele-santiago.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "SHO-HAI",
-      "fecha": "2027-01-16",
-      "hora": "21:30",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/sho-hai-7/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/09/DSC09004.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "La Bien Querida",
-      "fecha": "2027-01-22",
-      "hora": "22:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/la-bien-querida-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2016/06/ticket-icon-30.png",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Yerai Cortés",
-      "fecha": "2027-01-23",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/yerai-cortes-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/11/Yerai-Cortes.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Reality",
-      "fecha": "2027-01-23",
-      "hora": "20:30",
-      "sala": "Sala López",
-      "url": "https://www.aragonmusical.com/agenda/reality-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/Reality.avif",
-      "descripcion": ""
-    },
-    {
-      "titulo": "La Milagrosa",
-      "fecha": "2027-01-23",
-      "hora": "22:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/la-milagrosa-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/753582950_17950217112225463_7484149951631759434_n-e1785564940209.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Perfecto Miserable",
-      "fecha": "2027-01-29",
-      "hora": "21:00",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/perfecto-miserable/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/perfecto_miserable.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Cupido",
-      "fecha": "2027-01-29",
-      "hora": "22:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/cupido-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2019/02/Cupido.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Levitants",
-      "fecha": "2027-01-30",
-      "hora": "21:00",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/levitants-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2020/01/The-Levitants.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Tanxugueiras",
-      "fecha": "2027-02-05",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://www.aragonmusical.com/agenda/tanxugueiras/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/04/Tanxugueiras.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Sienna",
-      "fecha": "2027-02-06",
-      "hora": "20:00",
-      "sala": "Sala López",
-      "url": "https://www.aragonmusical.com/agenda/sienna-5/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2021/11/unnamed.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Puño Dragón",
-      "fecha": "2027-02-06",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://www.aragonmusical.com/agenda/puno-dragon-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/10/punodragon800.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Kiko Veneno",
-      "fecha": "2027-02-12",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/kiko-veneno-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/08/Kiko-Veneno-Luis-Lorente-13.jpg",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": ""
     }
   ]
