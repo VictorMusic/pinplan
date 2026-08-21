@@ -87,6 +87,10 @@ body{font-family:'Epilogue',sans-serif;color:var(--text);background:var(--black)
 
 /* EMPTY */
 .empty{padding:2.5rem 1.25rem;text-align:center;}
+.jump-note{display:flex;align-items:center;gap:.45rem;font-size:.7rem;color:#7a7a7a;line-height:1.4;padding:.15rem .25rem .35rem;}
+.jump-dot{width:5px;height:5px;border-radius:50%;background:var(--yellow);flex-shrink:0;}
+.jump-btn{width:100%;border:1px solid var(--border2);border-radius:12px;padding:.8rem .7rem;background:#0d0d0d;color:var(--yellow);font-family:'Epilogue',sans-serif;font-size:.72rem;font-weight:600;letter-spacing:.03em;text-transform:uppercase;cursor:pointer;transition:border-color .15s;}
+.jump-btn:active{border-color:var(--yellow);transform:scale(.99);}
 .empty-title{font-family:'Epilogue',sans-serif;font-weight:900;letter-spacing:-.01em;font-size:1.4rem;color:#2a2a2a;letter-spacing:.04em;margin-bottom:.4rem;}
 .empty-sub{font-size:.78rem;color:#666;line-height:1.7;}
 
@@ -250,13 +254,14 @@ const _m=['himnosis','.','music','@','gmail','.','com'].join('');
 const MAX_DAYS=90;
 
 let offset=0,allEvents=[],salasDB=[],currentTab='lista';
+let userPickedDay=false,jumpTarget=-1;
 
 // ── OFFSET PERSISTENCE ──────────────────────────────────────────────────────
 try{
   const saved=parseInt(localStorage.getItem('pinplan_offset')||'0');
   const savedDate=localStorage.getItem('pinplan_offset_date')||'';
   const todayStr=new Date().toISOString().slice(0,10);
-  if(savedDate===todayStr&&saved>=0&&saved<MAX_DAYS)offset=saved;
+  if(savedDate===todayStr&&saved>=0&&saved<MAX_DAYS){offset=saved;if(offset>0)userPickedDay=true;}
   else{localStorage.setItem('pinplan_offset','0');localStorage.setItem('pinplan_offset_date',todayStr);}
 }catch(e){}
 
@@ -264,6 +269,10 @@ try{
 function nowMadrid(){return new Date(new Date().toLocaleString('en-US',{timeZone:'Europe/Madrid'}));}
 function isoOf(d){return`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;}
 function dateAt(n){const d=nowMadrid();d.setDate(d.getDate()+n);return d;}
+function eventsOn(off){const iso=isoOf(dateAt(off));return allEvents.filter(function(e){return e.fecha===iso;});}
+function nextDayWithEvents(from){for(let i=from;i<=MAX_DAYS;i++){if(eventsOn(i).length)return i;}return -1;}
+function goToDay(idx){if(idx<0||idx>MAX_DAYS||idx===offset)return;offset=idx;userPickedDay=true;try{localStorage.setItem('pinplan_offset',String(offset));localStorage.setItem('pinplan_offset_date',isoOf(nowMadrid()));}catch(e){}buildDayChips();renderAgenda();centerActiveChip();}
+function centerActiveChip(){const c=document.querySelector('#date-nav-wrap .chip.active');if(c)c.scrollIntoView({block:'nearest',inline:'center'});}
 function dateLabel(d,off){const dow=DAYS_S[d.getDay()],day=d.getDate(),mon=MONTHS_A[d.getMonth()];if(off===0)return`${DAYS_L[d.getDay()]} ${day} ${mon}`;if(off===1)return`Mañana · ${dow} ${day} ${mon}`;return`${dow} ${day} ${mon}`;}
 function diaCorto(d){return`${DAYS_S[d.getDay()]} ${d.getDate()}`;}
 function validImg(u){return u&&typeof u==='string'&&u.startsWith('http')&&!u.includes('placeholder')&&!u.includes('lorem')&&!u.includes('default')&&!u.includes('no-image')&&u.length>20;}
@@ -399,7 +408,13 @@ function renderAgenda(){
   }
 
   var d=dateAt(offset);
-  var evs=allEvents.filter(function(e){return e.fecha===isoOf(d);});
+  var evs=eventsOn(offset);
+
+  if(jumpTarget===offset&&evs.length){
+    var note=document.createElement('div');note.className='jump-note';
+    note.innerHTML='<span class="jump-dot"></span>Hoy no hay nada publicado todav\u00eda. Te llevamos al pr\u00f3ximo d\u00eda con planes.';
+    list.appendChild(note);
+  }
 
   if(!evs.length){
     var empty=document.createElement('div');empty.className='empty';
@@ -408,6 +423,14 @@ function renderAgenda(){
     var sub='Las salas suelen anunciar con pocos días de antelación. Vuelve pronto o prueba otro día.';
     empty.innerHTML='<div class="empty-title">'+msg+'</div><div class="empty-sub">'+sub+'</div>';
     list.appendChild(empty);
+    var nx=nextDayWithEvents(offset+1);
+    if(nx>0){
+      var jd=dateAt(nx);
+      var jump=document.createElement('button');jump.className='jump-btn';
+      jump.textContent='Ir al pr\u00f3ximo d\u00eda con planes \u00b7 '+DAYS_S[jd.getDay()]+' '+jd.getDate()+' '+MONTHS_A[jd.getMonth()];
+      jump.addEventListener('click',function(){goToDay(nx);});
+      list.appendChild(jump);
+    }
     list.appendChild(makeCTA());
     return;
   }
@@ -642,8 +665,13 @@ function loadAllEvents(){
     allEvents=dedupEvents(data.eventos||[]);
     salasDB=salasData.salas||[];
     if(data.actualizado){const upd=new Date(data.actualizado);const hm=String(upd.getHours()).padStart(2,'0')+':'+String(upd.getMinutes()).padStart(2,'0');document.getElementById('upd-t').textContent='Actualizado '+hm;document.getElementById('upd').style.display='flex';}
+    if(!userPickedDay&&!eventsOn(offset).length){
+      var nx=nextDayWithEvents(offset);
+      if(nx>0){offset=nx;jumpTarget=nx;}
+    }
     buildDayChips();
     renderAgenda();
+    if(jumpTarget>0)centerActiveChip();
     checkHash();
   }).catch(function(err){console.error('PinPlan load error:',err);allEvents=[];renderAgenda();});
 }
