@@ -1,79 +1,7 @@
 {
-  "actualizado": "2026-08-21T07:57:16.161235",
-  "total": 67,
+  "actualizado": "2026-08-21T07:12:15.841572",
+  "total": 49,
   "eventos": [
-    {
-      "titulo": "El Metro Festival 2026",
-      "fecha": "2026-08-21",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/el-metro-festival-2026/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2018/12/DORIAN-el-29-de-septiembre-de-2018-en-el-FIZ-Sala-Multiusos_7-300x300.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "La Trapecionista con Zuhamu",
-      "fecha": "2026-08-21",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/la-trapecionista-con-zuhamu/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/La-Trapecionista-con-Zuhamu-300x300.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Maríaconfussion",
-      "fecha": "2026-08-21",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/mariaconfussion-13/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/12/20251212-Maria-Confussion-Teatro-del-mercado-Luis-Lorente-07-300x300.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Capella de Ministrers",
-      "fecha": "2026-08-21",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/capella-de-ministrers-8/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/05/Capella-de-Ministrers-300x300.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Depedro",
-      "fecha": "2026-08-22",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/depedro-15/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/06/20240608-EBS-03-Depedro-Luis-Lorente-46.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Ester Vallejo",
-      "fecha": "2026-08-22",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/ester-vallejo-25/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/12/20221217-Popyrock-Ester-Vallejo-Luis-Lorente-07-.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Ester Vallejo + Ixeya",
-      "fecha": "2026-08-23",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/ester-vallejo-26/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/12/20221217-Popyrock-Ester-Vallejo-Luis-Lorente-07-.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Kiev cuando nieva",
-      "fecha": "2026-08-26",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/kiev-cuando-nieva-6/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/10/unnamed-4-scaled.jpg",
-      "descripcion": ""
-    },
     {
       "titulo": "COPACABANA",
       "fecha": "2026-08-27",
@@ -81,42 +9,6 @@
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/copacabana-7/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-125.webp",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Bike & Lonesome",
-      "fecha": "2026-08-28",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/bike-lonesome-6/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/01/Agenda-de-conciertos-en-Zaragoza-Huesca-y-Teruel.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Cuti",
-      "fecha": "2026-08-29",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/cuti-13/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/01/20250103-Cuti-Vericad-Centro-Civico-Rio-Ebro-Luis-Lorente-11.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Pilar Almalé",
-      "fecha": "2026-08-29",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/pilar-almale-9/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/27-Premios-de-la-Musica-Aragonesa-Gala-Monzon-18-4-26.-Foto-de-Angel-Burbano-para-Aragon-Musical-161.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Perra Vida Festival 10º aniversario",
-      "fecha": "2026-08-29",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/perra-vida-festival-10o-aniversario/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/Kalumnia-2026.jpg",
       "descripcion": ""
     },
     {
@@ -135,60 +27,6 @@
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/flamin-groovies-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/F-Groovies-Zgza.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Flamin’ Groovies",
-      "fecha": "2026-09-01",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/flamin-groovies/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2015/04/FotoFlaminGrooviesAbril2015-1.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Golomb",
-      "fecha": "2026-09-01",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/golomb/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/golomb.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "The Flamin Groovies",
-      "fecha": "2026-09-01",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/the-flamin-groovies/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/foto-15.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Noche Hawaiano",
-      "fecha": "2026-09-02",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/noche-hawaiano/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/foto.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Tako",
-      "fecha": "2026-09-02",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/tako-16/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/20260523-Tako-Sala-Multiusos-Luis-Lorente-13.jpg",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Séptima Farola + Invisible + El Silencio de los Héroes",
-      "fecha": "2026-09-03",
-      "hora": "",
-      "sala": "Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/septima-farola-invisible-el-silencio-de-los-heroes/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2023/05/WhatsApp-Image-2026-03-10-at-21.22.48.jpeg",
       "descripcion": ""
     },
     {
