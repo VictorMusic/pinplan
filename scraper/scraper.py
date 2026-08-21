@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import json, re, time, os, pathlib, random
+import json, re, time, os, pathlib, random, html as _html
 from datetime import datetime, date, timedelta
 
 try:
@@ -434,10 +434,85 @@ def scrape_auditorio():
         if evs: break
     print(f"  auditorio: {len(evs)}"); return evs
 
+AM_FEED = "https://www.aragonmusical.com/agenda/feed/"
+# Imagen comodin que la fuente pone cuando el evento no tiene cartel propio:
+# es preferible dejar el campo vacio y que la web use su propio fondo.
+AM_IMG_GENERICA = "Agenda-de-conciertos-en-Zaragoza-Huesca-y-Teruel"
+
+def _am_campo(desc, etiqueta):
+    """Extrae un campo del bloque '<strong>Etiqueta:</strong> valor <br />'."""
+    m = re.search(r"<strong>\s*%s\s*:?\s*</strong>(.*?)<br" % etiqueta, desc, re.S | re.I)
+    if not m: return ""
+    return normalize(re.sub(r"<[^>]+>", " ", m.group(1)))
+
+def _es_zaragoza_ciudad(localidad, sala):
+    """PinPlan es la agenda de Zaragoza ciudad: la fuente cubre todo Aragon."""
+    loc = _slug(localidad)
+    if loc: return loc == "zaragoza"
+    # Sin localidad, aceptamos solo si la sala es una de las conocidas de la ciudad
+    return _slug(sala) in _SALA_SLUGS
+
+def scrape_aragonmusical_feed():
+    r = get(AM_FEED, timeout=45)
+    if not r:
+        print("  aragonmusical (feed): sin respuesta")
+        return []
+    xml = r.text
+    evs, fuera = [], 0
+    for item in re.findall(r"<item>(.*?)</item>", xml, re.S):
+        def campo(tag):
+            m = re.search(r"<%s>(.*?)</%s>" % (tag, tag), item, re.S)
+            if not m: return ""
+            return _html.unescape(re.sub(r"<!\[CDATA\[|\]\]>", "", m.group(1))).strip()
+        titulo = campo("title")
+        link = campo("link")
+        if not titulo or not link: continue
+        desc = _html.unescape(re.search(r"<description>(.*?)</description>", item, re.S).group(1)) \
+               if re.search(r"<description>", item, re.S) else ""
+        fh = _am_campo(desc, "Fecha/Hora")
+        # Fecha del concierto: la del propio bloque; si falta, la de pubDate
+        fecha = ""
+        m = re.search(r"(\d{2})/(\d{2})/(\d{4})", fh)
+        if m:
+            fecha = f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
+        else:
+            pd = campo("pubDate")
+            try:
+                from email.utils import parsedate_to_datetime
+                fecha = (parsedate_to_datetime(pd) + timedelta(hours=2)).strftime("%Y-%m-%d")
+            except Exception:
+                fecha = ""
+        # Hora: '0:00 h.' significa "sin hora anunciada", no medianoche
+        hora = ""
+        mh = re.search(r"(\d{1,2}):(\d{2})\s*h", fh)
+        if mh and not (mh.group(1) in ("0", "00") and mh.group(2) == "00"):
+            hora = f"{int(mh.group(1)):02d}:{mh.group(2)}"
+        sala = _am_campo(desc, "Sala/Espacio")
+        localidad = _am_campo(desc, "Localidad")
+        if not _es_zaragoza_ciudad(localidad, sala):
+            fuera += 1
+            continue
+        img = ""
+        mi = re.search(r'<img[^>]+src="([^"]+)"', desc)
+        if mi and AM_IMG_GENERICA not in mi.group(1):
+            img = mi.group(1)
+        evs.append(make_event(titulo, fecha, hora, sala or "Zaragoza", link, img))
+    con_hora = sum(1 for e in evs if e["hora"])
+    print(f"  aragonmusical (feed): {len(evs)} en Zaragoza ciudad "
+          f"({con_hora} con hora), {fuera} descartados por estar fuera de la ciudad")
+    return evs
+
 def scrape_aragonmusical():
+    """Feed RSS primero (trae hora y localidad); el HTML solo si el feed falla."""
+    evs = scrape_aragonmusical_feed()
+    if evs: return evs
+    print("  feed sin resultados: recurro al HTML (sin dato de localidad)")
+    return scrape_aragonmusical_html()
+
+def scrape_aragonmusical_html():
     evs = scrape_generic("https://www.aragonmusical.com/conciertos-en-zaragoza/", "Zaragoza", "https://www.aragonmusical.com")
     evs = [e for e in evs if "zaragoza" in (e["sala"] or "").lower() or e["sala"] == "Zaragoza"]
-    print(f"  aragonmusical: {len(evs)}"); return evs
+    print(f"  aragonmusical (HTML): {len(evs)}"); return evs
 
 def scrape_taquilla():
     evs = scrape_generic("https://www.taquilla.com/conciertos/zaragoza", "Zaragoza", "https://www.taquilla.com")
@@ -824,6 +899,44 @@ def is_garbage(titulo, url=""):
 
 
 
+# Ruido habitual en los titulos: la misma actuacion aparece en varias fuentes como
+# "Flamin' Groovies", "FLAMIN' GROOVIES." y "The Flamin Groovies".
+_TITULO_RUIDO = re.compile(r"\b(the|los|las|el|la|feat|ft|usa|uk|esp|tributo a|en concierto|en directo|gira)\b")
+
+def _titulo_clave(t):
+    return re.sub(r"\s+", "", _TITULO_RUIDO.sub(" ", _slug(t)))
+
+def _riqueza(e):
+    """Cuanta informacion aporta un evento; a igualdad, mejor el titulo mas limpio."""
+    return (bool(e["imagen"]) + bool(e["hora"]) + bool(e["descripcion"]), -len(e["titulo"]))
+
+def fusionar_similares(events):
+    """Une eventos del mismo dia y sala cuyos titulos son variantes del mismo nombre."""
+    from difflib import SequenceMatcher
+    grupos = {}
+    for e in events:
+        grupos.setdefault((e["fecha"], _slug(e["sala"])), []).append(e)
+    salida = []
+    for grupo in grupos.values():
+        elegidos = []
+        for e in grupo:
+            clave = _titulo_clave(e["titulo"])
+            gemelo = None
+            for ya in elegidos:
+                otra = _titulo_clave(ya["titulo"])
+                if not clave or not otra: continue
+                parecido = (clave == otra or clave in otra or otra in clave
+                            or SequenceMatcher(None, clave, otra).ratio() >= 0.85)
+                if parecido:
+                    gemelo = ya
+                    break
+            if gemelo is None:
+                elegidos.append(e)
+            elif _riqueza(e) > _riqueza(gemelo):
+                elegidos[elegidos.index(gemelo)] = e
+        salida.extend(elegidos)
+    return salida
+
 def deduplicate(events):
     events = [e for e in events if e["fecha"]]
     events = [e for e in events if not is_garbage(e["titulo"], e.get("url",""))]
@@ -837,7 +950,11 @@ def deduplicate(events):
             score_new = bool(e["imagen"]) + bool(e["hora"]) + bool(e["descripcion"]) + (e["sala"] not in ["Zaragoza",""])
             score_ex  = bool(ex["imagen"]) + bool(ex["hora"]) + bool(ex["descripcion"]) + (ex["sala"] not in ["Zaragoza",""])
             if score_new > score_ex: seen[key] = e
-    return list(seen.values())
+    unicos = list(seen.values())
+    fusionados = fusionar_similares(unicos)
+    if len(fusionados) < len(unicos):
+        print(f"  Variantes del mismo concierto fusionadas: {len(unicos)-len(fusionados)}")
+    return fusionados
 
 def filter_future(events):
     today = date.today().isoformat()
