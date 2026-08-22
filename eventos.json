@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-22T11:21:00.386408",
-  "total": 51,
+  "actualizado": "2026-08-22T15:29:35.802636",
+  "total": 50,
   "eventos": [
     {
       "titulo": "COPACABANA",
@@ -451,15 +451,6 @@
       "sala": "Teatro de las Esquinas",
       "url": "https://aragonenvivo.com/evento/aurum-bandas-sonoras-a-la-luz-de-las-velas/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/TEATRO-ESQUINAS.png",
-      "descripcion": ""
-    },
-    {
-      "titulo": "Bunbury",
-      "fecha": "2026-12-12",
-      "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/bunbury/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": ""
     }
   ]
