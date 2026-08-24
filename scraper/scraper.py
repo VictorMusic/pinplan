@@ -115,11 +115,13 @@ def parse_time(text):
     if m: return f"{int(m.group(1)):02d}:{m.group(2)}"
     return ""
 
-def get(url, timeout=(8, 25), retries=2):
+def get(url, timeout=(20, 25), retries=2):
     """GET con reintentos, espera creciente y registro de diagnostico por dominio.
 
-    timeout es (conexion, lectura): un host inalcanzable se descarta en 8 s en vez
-    de agotar 30, que era lo que disparaba la duracion del job en Actions.
+    timeout es (conexion, lectura). Con 8 s de conexion el job bajaba mucho de
+    duracion, pero aragonenvivo.com tarda mas que eso en aceptar la conexion desde
+    el runner de GitHub y se perdia entera: 20 s deja margen y aun asi un host
+    muerto cuesta ~45 s en vez de los 95 s de antes.
     """
     dom = re.sub(r"^www\.", "", (url.split("/")[2] if "://" in url else url))
     last = ""
