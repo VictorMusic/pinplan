@@ -1,17 +1,7 @@
 {
-  "actualizado": "2026-08-24T08:17:11.442606",
-  "total": 274,
+  "actualizado": "2026-08-24T06:19:40.955277",
+  "total": 276,
   "eventos": [
-    {
-      "titulo": "Kiev cuando nieva",
-      "fecha": "2026-08-26",
-      "hora": "20:00",
-      "sala": "Centro Joaquín Roncal",
-      "url": "https://www.aragonmusical.com/agenda/kiev-cuando-nieva-6/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/10/unnamed-4-scaled.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
     {
       "titulo": "Concierto de Nefarious en Zaragoza",
       "fecha": "2026-08-26",
@@ -19,6 +9,16 @@
       "sala": "Pub Utopia",
       "url": "https://www.jacksonlive.es/concierto/concierto-de-nefarious-en-zaragoza",
       "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/525011784652909.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "Kiev cuando nieva",
+      "fecha": "2026-08-26",
+      "hora": "20:00",
+      "sala": "Centro Joaquín Roncal",
+      "url": "https://www.aragonmusical.com/agenda/kiev-cuando-nieva-6/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/10/unnamed-4-scaled.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -64,42 +64,32 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Golomb",
+      "titulo": "Golomb (USA)",
       "fecha": "2026-09-01",
-      "hora": "21:00",
+      "hora": "20:30",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/golomb/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/golomb.jpg",
+      "url": "https://aragonenvivo.com/evento/golomb-usa/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/golomb-2.webp",
       "descripcion": "",
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Flamin’ Groovies",
+      "titulo": "FLAMIN’ GROOVIES.",
       "fecha": "2026-09-01",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/flamin-groovies/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2015/04/FotoFlaminGrooviesAbril2015-1.jpg",
+      "url": "https://aragonenvivo.com/evento/flamin-groovies-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/F-Groovies-Zgza.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Noche Hawaiano",
+      "titulo": "NOCHE HAWAIANO",
       "fecha": "2026-09-02",
-      "hora": "21:00",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/noche-hawaiano/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/foto.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
-      "titulo": "Swamp Stringband",
-      "fecha": "2026-09-03",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/swamp-stringband/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-2.jpg",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2132",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/02-09-2026-NOCHE-HAWAIANO/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -110,6 +100,16 @@
       "sala": "La Lata de Bombillas",
       "url": "https://www.aragonmusical.com/agenda/ezezez-2/",
       "imagen": "",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "SWAMP STRINGBAND",
+      "fecha": "2026-09-03",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2184",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/03-09-2026-SWAMP-STRINGBAND/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -134,12 +134,12 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Kyle Lacy",
+      "titulo": "KYLE LACY",
       "fecha": "2026-09-04",
-      "hora": "21:00",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/kyle-lacy/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-7.jpg",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2011",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/04-09-2026-KYLE-LACY/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -154,22 +154,22 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Doctor Velvet",
+      "titulo": "Silvio Rodríguez",
       "fecha": "2026-09-05",
       "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/doctor-velvet/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-13.jpg",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.laganzua.net/conciertos/silvio-rodriguez-zaragoza-1016069",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/silvio-rodriguez-2026.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Silvio Rodríguez",
+      "titulo": "DOCTOR VELVET",
       "fecha": "2026-09-05",
-      "hora": "21:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.aragonmusical.com/agenda/silvio-rodriguez/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/Silvio-Rodriguez.jpg",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2233",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/05-09-2026-DOCTOR-VELVET/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -204,12 +204,12 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Bodega",
+      "titulo": "Bodega (USA)",
       "fecha": "2026-09-10",
-      "hora": "21:30",
+      "hora": "20:30",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/bodega/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/IMG_20260506_100606.jpg",
+      "url": "https://aragonenvivo.com/evento/bodega-usa/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/IMG_20260506_100606.webp",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -274,16 +274,6 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Operación Triunfo 2025",
-      "fecha": "2026-09-12",
-      "hora": "21:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.aragonmusical.com/agenda/operacion-triunfo-2025/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/02/Juanjo-y-Naiara-Operacion-Triunfo-2024.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
       "titulo": "Gira Ot 2025",
       "fecha": "2026-09-12",
       "hora": "21:30",
@@ -300,6 +290,16 @@
       "sala": "Pabellón Príncipe Felipe",
       "url": "https://www.jacksonlive.es/concierto/operacion-triunfo-en-zaragoza",
       "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/479651763671778.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "Operación Triunfo 2025",
+      "fecha": "2026-09-12",
+      "hora": "21:30",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.aragonmusical.com/agenda/operacion-triunfo-2025/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/02/Juanjo-y-Naiara-Operacion-Triunfo-2024.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -354,16 +354,6 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Poetas D Calle",
-      "fecha": "2026-09-17",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/poetas-d-calle/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-3.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
       "titulo": "Irnini Mons",
       "fecha": "2026-09-17",
       "hora": "21:00",
@@ -384,6 +374,16 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "POETAS D CALLE",
+      "fecha": "2026-09-17",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2219",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/17-09-2026-POETAS-D-CALLE/foto.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
       "titulo": "La Ronda de Boltaña",
       "fecha": "2026-09-18",
       "hora": "19:00",
@@ -394,22 +394,22 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "Brower (USA)",
+      "fecha": "2026-09-18",
+      "hora": "20:00",
+      "sala": "La Lata de Bombillas",
+      "url": "https://aragonenvivo.com/evento/brower-usa/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/phpThumb_generated_thumbnail-1-1.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
       "titulo": "SHINOVA",
       "fecha": "2026-09-18",
       "hora": "20:30",
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/shinova/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/03/la-tormenta-perfecta-tour-wpv_400x400_center_center.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
-      "titulo": "Brower",
-      "fecha": "2026-09-18",
-      "hora": "21:00",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/brower/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/brower.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -474,12 +474,12 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Holy Wave",
+      "titulo": "Holy Wave (USA)",
       "fecha": "2026-09-19",
-      "hora": "20:00",
+      "hora": "19:30",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/holy-wave/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/holy_wave.jpg",
+      "url": "https://aragonenvivo.com/evento/holy-wave-usa/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/holy_wave.webp",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -504,16 +504,6 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Nowhere Beat",
-      "fecha": "2026-09-19",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/nowhere-beat-10/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-4.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
       "titulo": "8º CERTAMEN POP ROCK 90S",
       "fecha": "2026-09-19",
       "hora": "21:00",
@@ -530,6 +520,16 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://www.laganzua.net/conciertos/warcry-pedro-botero-zaragoza-1015483",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/warcry-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "NOWHERE BEAT",
+      "fecha": "2026-09-19",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2105",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/19-09-2026-NOWHERE-BEAT/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -644,22 +644,22 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "The Dahlmanns",
-      "fecha": "2026-09-25",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/the-dahlmanns/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-1.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
       "titulo": "Víctor Coyote",
       "fecha": "2026-09-25",
       "hora": "21:30",
       "sala": "La Lata de Bombillas",
       "url": "https://www.aragonmusical.com/agenda/victor-coyote-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2020/11/1586951321_167092_1586951854_noticia_normal_recorte1-1140x500-1.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "THE DAHLMANNS",
+      "fecha": "2026-09-25",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2111",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/25-09-2026-THE-DAHLMANNS/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -714,16 +714,6 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Desert Vipers",
-      "fecha": "2026-09-26",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/desert-vipers-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-5.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
       "titulo": "Mitago + Umbra",
       "fecha": "2026-09-26",
       "hora": "21:00",
@@ -734,12 +724,32 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "THE NOWHERE PLAN- THE BEATLES TRIBUTE BAND",
+      "fecha": "2026-09-26",
+      "hora": "21:30",
+      "sala": "La Casa del Loco",
+      "url": "https://aragonenvivo.com/evento/the-nowhere-plan-the-beatles-tribute-band/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/V-THE-BEATLES-NOWHERE-PLAN-COCIERTOS-ZARAGOZA-2026.webp",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
       "titulo": "The Nowhere Plan",
       "fecha": "2026-09-26",
       "hora": "21:30",
       "sala": "La Casa del Loco",
       "url": "https://www.aragonmusical.com/agenda/the-nowhere-plan-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/ARAGON-MUSICAL-H-THE-BEATLES-NOWHERE-PLAN-COCIERTOS-ZARAGOZA-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "DESERT VIPERS",
+      "fecha": "2026-09-26",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=1946",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/26-09-2026-DESERT-VIPERS/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -774,22 +784,22 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Jazz & Jam Vol Vi",
+      "titulo": "JAZZ & JAM VOL VI",
       "fecha": "2026-09-27",
-      "hora": "20:00",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/jazz-jam-vol-vi/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-14.jpg",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2052",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/27-09-2026-JAZZ-&-JAM-VOL-VI/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Claire Huangci",
+      "titulo": "CLAIRE HUANGCI",
       "fecha": "2026-09-28",
-      "hora": "20:00",
+      "hora": "",
       "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/claire-huangci/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/Claire-Huangci-2_16_9.jpg",
+      "url": "https://auditoriozaragoza.com/programacion/claire-huangci/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/01/Claire-Huangci-2_16_9-wpv_400x400_center_center.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -844,22 +854,22 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Susan Santos",
-      "fecha": "2026-10-03",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/susan-santos-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-8.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
       "titulo": "Jaime Urrutia",
       "fecha": "2026-10-03",
       "hora": "22:00",
       "sala": "Sala Oasis",
       "url": "https://www.aragonmusical.com/agenda/jaime-urrutia-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2019/02/3F4AF9C4-C1D0-45A9-B6FD-241168D91915-e1551036591474.jpeg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "SUSAN SANTOS",
+      "fecha": "2026-10-03",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2143",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/03-10-2026-SUSAN-SANTOS/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -894,12 +904,12 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Leanwolf",
+      "titulo": "LEANWOLF",
       "fecha": "2026-10-04",
-      "hora": "20:00",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/leanwolf-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/foto-1.jpg",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2220",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/04-10-2026-LEANWOLF/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -964,22 +974,22 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "La Oreja De Van Gogh",
+      "fecha": "2026-10-09",
+      "hora": "21:00",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.laganzua.net/conciertos/la-oreja-de-van-gogh-zaragoza-1013289",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/la-oreja-de-vangogh-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
       "titulo": "Myke Towers",
       "fecha": "2026-10-09",
       "hora": "21:00",
       "sala": "Espacio Zity",
       "url": "https://www.aragonmusical.com/agenda/myke-towers-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/11/Myke-Towers.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
-      "titulo": "La Oreja de Van Gogh",
-      "fecha": "2026-10-09",
-      "hora": "21:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.aragonmusical.com/agenda/la-oreja-de-van-gogh-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/10/laoreja2025.webp",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -994,12 +1004,12 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Intrusos",
+      "titulo": "La Oreja De Van Gogh",
       "fecha": "2026-10-10",
-      "hora": "12:30",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/intrusos-6/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-6.jpg",
+      "hora": "21:00",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.laganzua.net/conciertos/la-oreja-de-van-gogh-segunda-fecha-zaragoza-1013435",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/la-oreja-de-vangogh-2026.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1014,22 +1024,12 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "La Oreja de Van Gogh",
+      "titulo": "INTRUSOS",
       "fecha": "2026-10-10",
-      "hora": "21:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.aragonmusical.com/agenda/la-oreja-de-van-gogh-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/10/laoreja2025.webp",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
-      "titulo": "In Materia",
-      "fecha": "2026-10-11",
-      "hora": "12:30",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/in-materia-14/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-7.jpg",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2206",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/10-10-2026-INTRUSOS/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1044,6 +1044,16 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "Sergio Dalma",
+      "fecha": "2026-10-11",
+      "hora": "21:00",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.laganzua.net/conciertos/sergio-dalma-zaragoza-1013635",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/sergio-dalma-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
       "titulo": "Blackworks",
       "fecha": "2026-10-11",
       "hora": "21:00",
@@ -1054,12 +1064,12 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Sergio Dalma",
+      "titulo": "IN MATERIA",
       "fecha": "2026-10-11",
-      "hora": "21:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.aragonmusical.com/agenda/sergio-dalma-8/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2017/12/Sergio-Dalma.jpg",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2100",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/11-10-2026-IN-MATERIA/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1074,22 +1084,22 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Ana Mena + Marina Reche",
-      "fecha": "2026-10-12",
-      "hora": "20:00",
-      "sala": "Espacio Zity",
-      "url": "https://www.aragonmusical.com/agenda/ana-mena-marina-reche/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2023/05/Ana-Mena-e1683738596628.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
       "titulo": "Teenage Fanclub",
       "fecha": "2026-10-12",
       "hora": "20:00",
       "sala": "Jradines De Invierno",
       "url": "https://www.laganzua.net/conciertos/teenage-fanclub-zaragoza-1015620",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/teenage-funclub-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "Ana Mena + Marina Reche",
+      "fecha": "2026-10-12",
+      "hora": "20:00",
+      "sala": "Espacio Zity",
+      "url": "https://www.aragonmusical.com/agenda/ana-mena-marina-reche/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2023/05/Ana-Mena-e1683738596628.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1126,10 +1136,10 @@
     {
       "titulo": "Ryan Adams",
       "fecha": "2026-10-15",
-      "hora": "19:00",
+      "hora": "20:00",
       "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/ryan-adams/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/Ryan-Adams.webp",
+      "url": "https://www.laganzua.net/conciertos/ryan-adams-zaragoza-1016003",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/ryan-adams-2026.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1184,6 +1194,16 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "JAVI MEDINA (GATO NEGRO TOUR)",
+      "fecha": "2026-10-16",
+      "hora": "22:00",
+      "sala": "Sala Oasis",
+      "url": "https://aragonenvivo.com/evento/javi-medina-gato-negro-tour/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/javi-medina-3.webp",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
       "titulo": "IBERIA SUMERGIDA",
       "fecha": "2026-10-17",
       "hora": "21:30",
@@ -1204,22 +1224,22 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Matt Woods",
-      "fecha": "2026-10-18",
-      "hora": "19:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/matt-woods-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-9.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
       "titulo": "DJ Symphonic & Royal Film Concert Orchestra",
       "fecha": "2026-10-18",
       "hora": "19:30",
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/silvia-perez-cruz-3-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/02/WEB-ZARA-DJ-SYMPHONIC-1200x675-18-OCT-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "MATT WOODS",
+      "fecha": "2026-10-18",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2084",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/18-10-2026-MATT-WOODS/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1374,22 +1394,22 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Komodor",
-      "fecha": "2026-10-24",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/komodor-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-8.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
       "titulo": "The Silencers",
       "fecha": "2026-10-24",
       "hora": "21:00",
       "sala": "La Casa del Loco",
       "url": "https://www.aragonmusical.com/agenda/the-silencers/",
       "imagen": "",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "KOMODOR",
+      "fecha": "2026-10-24",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2008",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/24-10-2026-KOMODOR/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1404,22 +1424,22 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Celia Carballo",
-      "fecha": "2026-10-25",
-      "hora": "20:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/celia-carballo-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-9.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
       "titulo": "Dharmacide",
       "fecha": "2026-10-25",
       "hora": "21:00",
       "sala": "La Lata de Bombillas",
       "url": "https://www.aragonmusical.com/agenda/dharmacide-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/dharmacide_oct.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "CELIA CARBALLO",
+      "fecha": "2026-10-25",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2094",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/25-10-2026-CELIA-CARBALLO/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1444,16 +1464,6 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "No Te Va Gustar",
-      "fecha": "2026-10-27",
-      "hora": "20:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/no-te-va-gustar-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/6b0daf14-4d9a-4e5b-bed7-f6f20d469d36-scaled.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
       "titulo": "Santiago Auserón",
       "fecha": "2026-10-27",
       "hora": "20:00",
@@ -1464,22 +1474,22 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Blue Moon Marquee",
-      "fecha": "2026-10-29",
+      "titulo": "No Te Va Gustar",
+      "fecha": "2026-10-27",
       "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/blue-moon-marquee-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-10.jpg",
+      "sala": "Sala Oasis",
+      "url": "https://www.laganzua.net/conciertos/no-te-va-gustar-zaragoza-1014494",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/no-te-va-gustar-2026g.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Cinema Stereo",
-      "fecha": "2026-10-30",
-      "hora": "21:00",
+      "titulo": "BLUE MOON MARQUEE",
+      "fecha": "2026-10-29",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/cinema-stereo/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/foto-55.jpg",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2169",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/29-10-2026-BLUE-MOON-MARQUEE/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1488,8 +1498,8 @@
       "fecha": "2026-10-30",
       "hora": "21:00",
       "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/funzo/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2021/06/Funzo-Baby-Loud.jpeg",
+      "url": "https://www.laganzua.net/conciertos/funzo-zaragoza-1015948",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/funzo-2026.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1514,12 +1524,12 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Julio Iglesias Jr.",
-      "fecha": "2026-10-31",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/julio-iglesias-jr/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/12/julio-iglesias-jr.webp",
+      "titulo": "CINEMA STEREO",
+      "fecha": "2026-10-30",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=1826",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/30-10-2026-CINEMA-STEREO/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1534,22 +1544,22 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Otra Ronda",
+      "titulo": "Julio Iglesias Jr.",
       "fecha": "2026-10-31",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/otra-ronda-6/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2023/12/otra-ronda-mas-birras-linacero-2023.jpg",
+      "hora": "20:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://www.aragonmusical.com/agenda/julio-iglesias-jr/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/12/julio-iglesias-jr.webp",
       "descripcion": "",
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Silent 4tet",
-      "fecha": "2026-11-01",
-      "hora": "20:00",
+      "titulo": "OTRA RONDA",
+      "fecha": "2026-10-31",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/silent-4tet/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-12.jpg",
+      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-jorge-macfly-en-zaragoza",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/31-10-2026-OTRA-RONDA/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1560,6 +1570,16 @@
       "sala": "Sala Oasis",
       "url": "https://www.aragonmusical.com/agenda/paradise/",
       "imagen": "",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "SILENT 4TET",
+      "fecha": "2026-11-01",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2095",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/01-11-2026-SILENT-4TET/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1584,12 +1604,22 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "The Vintage Caravan",
+      "titulo": "THE VINTAGE CARAVAN",
       "fecha": "2026-11-05",
-      "hora": "21:00",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/the-vintage-caravan/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-4.jpg",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2168",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/05-11-2026-THE-VINTAGE-CARAVAN/foto.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "Fyahbwoy",
+      "fecha": "2026-11-06",
+      "hora": "20:30",
+      "sala": "Sala López",
+      "url": "https://www.laganzua.net/conciertos/fyahbwoy-zaragoza-1016499",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/fyahbwoy-2026.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1604,32 +1634,22 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Fyahbwoy",
-      "fecha": "2026-11-06",
-      "hora": "20:30",
-      "sala": "Sala López",
-      "url": "https://www.aragonmusical.com/agenda/fyahbwoy/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/Fyahbwoy.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
-      "titulo": "Monstruo Laberinto",
-      "fecha": "2026-11-06",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/monstruo-laberinto/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/foto-56.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
       "titulo": "La Fuga",
       "fecha": "2026-11-06",
       "hora": "22:00",
       "sala": "Sala Oasis",
       "url": "https://www.aragonmusical.com/agenda/la-fuga-10/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/09/20250920-La-fuga-Sala-Multiusos-Auditorio-Zaragoza-Luis-Lorente-02.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "MONSTRUO LABERINTO",
+      "fecha": "2026-11-06",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=1930",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/06-11-2026-MONSTRUO-LABERINTO/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1650,16 +1670,6 @@
       "sala": "Sala Oasis",
       "url": "https://www.aragonmusical.com/agenda/walls-4/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/11/Walls.-Oasis-Teatro-Club.-Zaragoza-91124.-Por-Alejandro-Meavilla-para-Aragon-Musical-6-1-e1731831756554.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
-      "titulo": "Dirty Sound Magnet",
-      "fecha": "2026-11-07",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/dirty-sound-magnet/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/foto-57.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1694,6 +1704,16 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "DIRTY SOUND MAGNET",
+      "fecha": "2026-11-07",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-dirty-sound-magnet-en-zaragoza",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/07-11-2026-DIRTY-SOUND-MAGNET/foto.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
       "titulo": "Walls",
       "fecha": "2026-11-08",
       "hora": "20:00",
@@ -1714,12 +1734,12 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Simón Trpčeski",
+      "titulo": "SIMÓN TRPčESKI",
       "fecha": "2026-11-09",
-      "hora": "20:00",
+      "hora": "",
       "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/simon-trpceski/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/Simon-Trpceski_photo-web-scaled-1.jpg",
+      "url": "https://auditoriozaragoza.com/programacion/simon-trpceski/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/01/Simon-Trpceski_photo-web-scaled-wpv_400x400_center_center.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1734,16 +1754,6 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "The Del Fuegos",
-      "fecha": "2026-11-12",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/the-del-fuegos/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-6.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
       "titulo": "Cloud Nothings",
       "fecha": "2026-11-12",
       "hora": "21:30",
@@ -1754,22 +1764,22 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Chiquita Movida",
-      "fecha": "2026-11-13",
-      "hora": "20:30",
-      "sala": "Sala López",
-      "url": "https://www.aragonmusical.com/agenda/chiquita-movida/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/12/Chiquita-Movida.webp",
+      "titulo": "THE DEL FUEGOS",
+      "fecha": "2026-11-12",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-the-del-fuegos-en-zaragoza",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/12-11-2026-THE-DEL-FUEGOS/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Maika Makovski",
+      "titulo": "Chiquita Movida",
       "fecha": "2026-11-13",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/maika-makovski-5/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-scaled.jpg",
+      "hora": "20:30",
+      "sala": "Sala López",
+      "url": "https://www.laganzua.net/conciertos/chiquita-movida-zaragoza-1016281",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/chiquita-movida-2026.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1824,22 +1834,22 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "MAIKA MAKOVSKI",
+      "fecha": "2026-11-13",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-maika-makovski-en-zaragoza",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/13-11-2026-MAIKA-MAKOVSKI/foto.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
       "titulo": "SABINA: EL MEJOR HOMENAJE",
       "fecha": "2026-11-14",
       "hora": "20:00",
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/sabina-el-mejor-homenaje/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/04/1280X720-SABINA-ZARAGOZA-AUDITORIO-DE-ZARAGOZA-wpv_400x400_center_center.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
-      "titulo": "The Capaces",
-      "fecha": "2026-11-14",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/the-capaces/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-15.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1874,12 +1884,12 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Manu Lanvin",
-      "fecha": "2026-11-15",
-      "hora": "20:00",
+      "titulo": "THE CAPACES",
+      "fecha": "2026-11-14",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/manu-lanvin/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-16.jpg",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2139",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/14-11-2026-THE-CAPACES/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1890,6 +1900,16 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/haydee-milanes-javier-colina/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Diseno-sin-titulo-9-wpv_400x400_center_center.png",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "MANU LANVIN",
+      "fecha": "2026-11-15",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=1954",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/15-11-2026-MANU-LANVIN/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1924,12 +1944,12 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Derobert And The Half Truths",
+      "titulo": "DEROBERT AND THE HALF TRUTHS",
       "fecha": "2026-11-19",
-      "hora": "21:00",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/derobert-and-the-half-truths/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-10.jpg",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2049",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/19-11-2026-DEROBERT-AND-THE-HALF-TRUTHS/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1940,16 +1960,6 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/techno-pop/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/02/1280X720-FONDO-TECHNOPOP-ZARAGOZA-2-wpv_400x400_center_center.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
-      "titulo": "Mojothunder",
-      "fecha": "2026-11-20",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/mojothunder-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-11.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1974,22 +1984,22 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "MOJOTHUNDER",
+      "fecha": "2026-11-20",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=1967",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/20-11-2026-MOJOTHUNDER/foto.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
       "titulo": "L'haine",
       "fecha": "2026-11-21",
       "hora": "20:00",
       "sala": "Sala López",
       "url": "https://www.aragonmusical.com/agenda/lhaine/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/4b61e3d2-6470-4c19-8ee0-5a2f8421cf41-e1781107663907.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
-      "titulo": "Sobrezero",
-      "fecha": "2026-11-21",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/sobrezero-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/06/hroz-SOBREZERO-SHOOTING-MIKEPHYTON-3-1-683x1024-1.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -2014,6 +2024,16 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "SOBREZERO",
+      "fecha": "2026-11-21",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=1928",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/21-11-2026-SOBREZERO/foto.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
       "titulo": "Fórmula V",
       "fecha": "2026-11-22",
       "hora": "18:30",
@@ -2030,16 +2050,6 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/hilos-grupo-enigma/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/PLURAL-03-cSilvia-Gomez-Cisneros-scaled-wpv_400x400_center_center.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
-      "titulo": "Ay Trick",
-      "fecha": "2026-11-22",
-      "hora": "20:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/ay-trick/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-5.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -2074,6 +2084,16 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "AY TRICK",
+      "fecha": "2026-11-22",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2228",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/22-11-2026-AY-TRICK/foto.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
       "titulo": "EL LAGO DE LOS CISNES",
       "fecha": "2026-11-23",
       "hora": "20:00",
@@ -2084,22 +2104,22 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Split Dogs",
+      "titulo": "SPLIT DOGS",
       "fecha": "2026-11-25",
-      "hora": "21:00",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/split-dogs/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto.jpg",
+      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-splint-dogs-en-zaragoza",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/25-11-2026-SPLIT-DOGS/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Frankie And The Witch Fingers",
+      "titulo": "FRANKIE AND THE WITCH FINGERS",
       "fecha": "2026-11-26",
-      "hora": "21:00",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/frankie-and-the-witch-fingers-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/foto-58.jpg",
+      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-frankie-and-the-witch-fingers-en-zaragoza",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/26-11-2026-FRANKIE-AND-THE-WITCH-FINGERS/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -2110,16 +2130,6 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/cecilia-bartoli-y-lang-lang/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/2526-LangLang_PB2©SonjaMueller_DeutscheGrammophon-8-e1780390441884-wpv_400x400_center_center.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
-      "titulo": "Volavent",
-      "fecha": "2026-11-27",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/volavent-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/foto-6.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -2164,22 +2174,22 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "VOLAVENT",
+      "fecha": "2026-11-27",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-haciendo-el-indie-en-zaragoza",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/27-11-2026-VOLAVENT-/foto.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
       "titulo": "Anadie",
       "fecha": "2026-11-28",
       "hora": "18:30",
       "sala": "Las Armas",
       "url": "https://www.aragonmusical.com/agenda/anadie-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/7e2a7a28-a562-4c75-8bd1-9cdfe33beae2-scaled.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
-      "titulo": "The Kleejoss Band",
-      "fecha": "2026-11-28",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/the-kleejoss-band-17/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-2.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -2204,6 +2214,16 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "THE KLEEJOSS BAND",
+      "fecha": "2026-11-28",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-the-kleejoss-band-en-zaragoza",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/28-11-2026-THE-KLEEJOSS-BAND/foto.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
       "titulo": "DJ DÉLICA",
       "fecha": "2026-11-29",
       "hora": "19:30",
@@ -2214,12 +2234,12 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Mingot & Villar 4tet",
+      "titulo": "MINGOT & VILLAR 4TET",
       "fecha": "2026-11-29",
-      "hora": "20:00",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/mingot-villar-4tet/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-17.jpg",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2056",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/29-11-2026-MINGOT-&-VILLAR-4TET/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -2244,16 +2264,6 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Laranna",
-      "fecha": "2026-12-03",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/laranna/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-18.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
       "titulo": "Little Barrie",
       "fecha": "2026-12-03",
       "hora": "21:00",
@@ -2264,12 +2274,22 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Los Coronas",
-      "fecha": "2026-12-04",
-      "hora": "21:00",
+      "titulo": "LARANNA",
+      "fecha": "2026-12-03",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/los-coronas-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-3.jpg",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2217",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/03-12-2026-LARANNA/foto.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "LOS CORONAS",
+      "fecha": "2026-12-04",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-coronas-en-zaragoza",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/04-12-2026-LOS-CORONAS-/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -2294,22 +2314,12 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Angela Hoodoo",
+      "titulo": "ANGELA HOODOO",
       "fecha": "2026-12-05",
-      "hora": "21:00",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/angela-hoodoo-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/foto-12.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
-      "titulo": "Billywood Crackers",
-      "fecha": "2026-12-06",
-      "hora": "20:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/billywood-crackers-5/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-19.jpg",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2127",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/05-12-2026-ANGELA-HOODOO/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -2320,6 +2330,16 @@
       "sala": "Sala Oasis",
       "url": "https://www.aragonmusical.com/agenda/rebrote/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/Rebrote.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "BILLYWOOD CRACKERS",
+      "fecha": "2026-12-06",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2229",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/06-12-2026-BILLYWOOD-CRACKERS/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -2364,6 +2384,16 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "Bunbury",
+      "fecha": "2026-12-12",
+      "hora": "20:30",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
       "titulo": "Apartamentos Acapulco",
       "fecha": "2026-12-12",
       "hora": "21:00",
@@ -2374,32 +2404,22 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Bunbury",
-      "fecha": "2026-12-12",
-      "hora": "21:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.aragonmusical.com/agenda/bunbury-5/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/09/Enrique-Bunbury.-Pabellon-Principe-Felipe-de-Zaragoza-20925.-Por-Mariano-Val-para-Aragon-Musical-1.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
-      "titulo": "Noe & The Bobifaces",
+      "titulo": "NOE & THE BOBIFACES",
       "fecha": "2026-12-13",
-      "hora": "20:00",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/noe-the-bobifaces-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-1.jpg",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2098",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/13-12-2026-NOE-&-THE-BOBIFACES/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Brenno Ambrosini",
+      "titulo": "BRENNO AMBROSINI",
       "fecha": "2026-12-13",
-      "hora": "20:00",
+      "hora": "",
       "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/brenno-ambrosini/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/BRENNO-AMBROSINI-scaled-e1769776901755.jpg",
+      "url": "https://auditoriozaragoza.com/programacion/brenno-ambrosini-2/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/01/BRENNO-AMBROSINI-scaled-e1769776901755-wpv_400x400_center_center.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -2414,12 +2434,12 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Jambass",
+      "titulo": "JAMBASS",
       "fecha": "2026-12-17",
-      "hora": "21:00",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/jambass/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-20-scaled.jpg",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2112",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/17-12-2026-JAMBASS/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -2444,16 +2464,6 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Shake-a-round Los Torontos",
-      "fecha": "2026-12-19",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/shake-a-round-los-torontos/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/foto-59.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
       "titulo": "Depedro",
       "fecha": "2026-12-19",
       "hora": "21:30",
@@ -2464,12 +2474,22 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Seven",
-      "fecha": "2026-12-22",
-      "hora": "20:30",
+      "titulo": "SHAKE-A-ROUND LOS TORONTOS",
+      "fecha": "2026-12-19",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/seven-47/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-21.jpg",
+      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-shake-a-round-en-zaragoza",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/19-12-2026-SHAKE-A-ROUND-LOS-TORONTOS/foto.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "SEVEN",
+      "fecha": "2026-12-22",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=1991",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/22-12-2026-SEVEN/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -2484,12 +2504,12 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Nelson",
+      "titulo": "NELSON",
       "fecha": "2026-12-25",
-      "hora": "21:00",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/nelson-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-22.jpg",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2239",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/25-12-2026-NELSON/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -2608,8 +2628,8 @@
       "fecha": "2027-01-23",
       "hora": "20:30",
       "sala": "Sala López",
-      "url": "https://www.aragonmusical.com/agenda/reality-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/Reality.avif",
+      "url": "https://www.laganzua.net/conciertos/reality-zaragoza-1015677",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/reality-2026.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
