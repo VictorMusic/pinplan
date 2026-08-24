@@ -1130,6 +1130,40 @@ def filter_future(events):
     # Filter out past events and events more than 6 months away
     return [e for e in events if e["fecha"] and today <= e["fecha"] <= cutoff]
 
+DIAS_DE_GRACIA = 10
+
+def fusionar_con_anterior(nuevos, ruta_anterior):
+    """Conserva los eventos ya conocidos cuya fuente no ha respondido en este run.
+
+    El scraper regeneraba el fichero desde cero, asi que una caida puntual de una
+    fuente borraba sus conciertos de la web. aragonenvivo.com, por ejemplo, da
+    ConnectTimeout intermitente desde el runner de GitHub: la agenda pasaba de 163
+    a 135 eventos y volvia, y los conciertos aparecian y desaparecian solos.
+
+    Un evento se mantiene mientras siga siendo futuro y se haya confirmado en los
+    ultimos DIAS_DE_GRACIA dias. Pasado ese plazo se deja caer: si ninguna fuente
+    lo menciona en diez dias, lo normal es que se haya cancelado.
+    """
+    hoy = date.today().isoformat()
+    limite = (date.today() - timedelta(days=DIAS_DE_GRACIA)).isoformat()
+    for e in nuevos:
+        e["visto"] = hoy
+    indice = {(_titulo_clave(e["titulo"]), e["fecha"]): e for e in nuevos}
+    try:
+        with open(ruta_anterior, encoding="utf-8") as f:
+            previos = json.load(f).get("eventos", [])
+    except (OSError, ValueError):
+        return nuevos, 0
+    rescatados = 0
+    for viejo in previos:
+        clave = (_titulo_clave(viejo.get("titulo", "")), viejo.get("fecha", ""))
+        if clave in indice: continue
+        if not viejo.get("fecha") or viejo["fecha"] < hoy: continue
+        if viejo.get("visto", "") < limite: continue
+        indice[clave] = viejo
+        rescatados += 1
+    return list(indice.values()), rescatados
+
 def sort_events(events):
     return sorted(events, key=lambda e: (e["fecha"] or "9999",
                                         1 if e.get("recurrente") else 0,
@@ -1233,8 +1267,14 @@ def main():
         print("  y el scraping debe ejecutarse desde otra IP.")
     print("=" * 64)
 
-    output = {"actualizado": datetime.now().isoformat(), "total": len(all_events), "eventos": all_events}
     out_path = pathlib.Path(__file__).parent.parent / 'eventos.json'
+    all_events, rescatados = fusionar_con_anterior(all_events, out_path)
+    all_events = sort_events(all_events)
+    if rescatados:
+        print(f"  Conservados de runs anteriores (su fuente no respondio hoy): {rescatados}")
+    print(f"Publicados: {len(all_events)}")
+
+    output = {"actualizado": datetime.now().isoformat(), "total": len(all_events), "eventos": all_events}
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     print(f"Guardado en {out_path} ✓")
