@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-24T15:42:36.288917",
-  "total": 280,
+  "actualizado": "2026-08-24T20:22:17.533042",
+  "total": 281,
   "eventos": [
     {
       "titulo": "Concierto de Nefarious en Zaragoza",
@@ -1804,6 +1804,16 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "Festival Zaragoza Feliz Feliz 2026",
+      "fecha": "2026-11-12",
+      "hora": "22:00",
+      "sala": "La Lata de Bombillas",
+      "url": "https://www.laganzua.net/conciertos/festival-zaragoza-feliz-feliz-2026-zaragoza-1016566",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/zaragoza-feliz-feliz-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
       "titulo": "THE DEL FUEGOS",
       "fecha": "2026-11-12",
       "hora": "",
@@ -2427,9 +2437,9 @@
       "titulo": "Bunbury",
       "fecha": "2026-12-12",
       "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/bunbury/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.laganzua.net/conciertos/bunbury-zaragoza-1014963",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/bunbury-2026.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
