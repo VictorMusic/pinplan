@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-24T07:57:11.504783",
-  "total": 276,
+  "actualizado": "2026-08-24T11:28:39.421439",
+  "total": 280,
   "eventos": [
     {
       "titulo": "Concierto de Nefarious en Zaragoza",
@@ -364,6 +364,16 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "Kenny “Blues Boss” Wayne",
+      "fecha": "2026-09-17",
+      "hora": "21:45",
+      "sala": "La Casa del Loco",
+      "url": "https://aragonenvivo.com/evento/kenny-blues-boss-wayne/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/y9azjHy6N9JN.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
       "titulo": "Wayne Band",
       "fecha": "2026-09-17",
       "hora": "21:45",
@@ -430,6 +440,16 @@
       "sala": "Teatro de las Esquinas",
       "url": "https://aragonenvivo.com/evento/the-other-side/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/TEATRO-ESQUINAS.png",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "SPEEDWAYS + FOR SALE",
+      "fecha": "2026-09-18",
+      "hora": "21:30",
+      "sala": "La Casa del Loco",
+      "url": "https://aragonenvivo.com/evento/speedways-for-sale-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/m_poster-4-2.webp",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -540,6 +560,16 @@
       "sala": "Teatro de las Esquinas",
       "url": "https://aragonenvivo.com/evento/bunbury-heroes-experience/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/TEATRO-ESQUINAS.png",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
+      "titulo": "DDM",
+      "fecha": "2026-09-20",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2057",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/20-09-2026-DDM/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1104,6 +1134,16 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "A Cara o Cruz- Homenaje a: El Directo de Radio Futura",
+      "fecha": "2026-10-12",
+      "hora": "21:00",
+      "sala": "La Casa del Loco",
+      "url": "https://aragonenvivo.com/evento/a-cara-o-cruz-homenaje-a-el-directo-de-radio-futura-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/A-3-A-CARA-O-CRUZ-TRIB-RADIO-FUTUA-PILAR-2026-CONCIERTOS-scaled-1.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
       "titulo": "A Cara o Cruz",
       "fecha": "2026-10-12",
       "hora": "21:00",
@@ -1144,22 +1184,22 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "SAVAGED + STRANGERS + KNIGHTSUNE",
+      "fecha": "2026-10-15",
+      "hora": "21:00",
+      "sala": "La Casa del Loco",
+      "url": "https://aragonenvivo.com/evento/savaged-strangers-knightsune/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/el-batallador-15-oct-2026-scaled-1.jpeg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
       "titulo": "Saiko + La Pantera + Chimeno",
       "fecha": "2026-10-15",
       "hora": "21:00",
       "sala": "Espacio Zity",
       "url": "https://www.aragonmusical.com/agenda/saiko-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/10/Saiko.-Espacio-Zity-51024.-Por-Luis-Lopez-Latorre-22.jpg",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
-      "titulo": "Savaged + Strangers + Knightsune",
-      "fecha": "2026-10-15",
-      "hora": "21:00",
-      "sala": "La Casa del Loco",
-      "url": "https://www.aragonmusical.com/agenda/savaged-strangers-knightsune/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/ARAGON-MUSICAL-STRANGERS-COCIERTOS-ZARAGOZA-2026.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -1356,10 +1396,10 @@
     {
       "titulo": "ANA POPOVIC",
       "fecha": "2026-10-23",
-      "hora": "21:00",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://aragonenvivo.com/evento/ana-popovic/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-134.webp",
+      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-ana-popovic-en-zaragoza",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/23-10-2026-ANA-POPOVIC/foto.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -2064,22 +2104,22 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "Ruslana",
+      "fecha": "2026-11-22",
+      "hora": "21:00",
+      "sala": "Sala Oasis",
+      "url": "https://www.laganzua.net/conciertos/ruslana-zaragoza-1016088",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/ruslana-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-08-24"
+    },
+    {
       "titulo": "Manel Fuentes",
       "fecha": "2026-11-22",
       "hora": "21:00",
       "sala": "Teatro de las Esquinas",
       "url": "https://www.aragonmusical.com/agenda/manel-fuentes/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/manelfuentesportadaweb.webp",
-      "descripcion": "",
-      "visto": "2026-08-24"
-    },
-    {
-      "titulo": "Ruslana",
-      "fecha": "2026-11-22",
-      "hora": "21:30",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/ruslana-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/10/Los-40-Pilar-Pop.-Plaza-del-Pilar-Zaragoza-111024.-Por-@phastor_art.-Para-Aragon-Musical-3.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
@@ -2678,8 +2718,8 @@
       "fecha": "2027-01-30",
       "hora": "21:00",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/levitants-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2020/01/The-Levitants.jpg",
+      "url": "https://www.laganzua.net/conciertos/levitants-zaragoza-1016647",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/the-levitants-2026.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
     },
