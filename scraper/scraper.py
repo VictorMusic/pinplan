@@ -515,6 +515,10 @@ def scrape_rock_blues():
                 f = parse_date(txt)
                 if f: fecha = f; break
         href = a.get("href", "") or RB_IFRAME
+        # Los enlaces del iframe son relativos: sin esto la tarjeta apuntaba a
+        # pinplan.es/programacion10.php?idevento=... y daba 404
+        if href and not href.startswith("http"):
+            href = "https://www.sweetcaroline.app/" + href.lstrip("/")
         if img_src and not img_src.startswith("http"):
             img_src = "https://www.sweetcaroline.app/" + img_src.lstrip("/")
         evs.append(make_event(titulo, fecha, "", "Rock & Blues Café", href, img_src.split("?")[0]))
