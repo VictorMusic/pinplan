@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T15:45:00.636554",
+  "actualizado": "2026-08-25T20:20:59.779986",
   "total": 281,
   "eventos": [
     {
@@ -2028,10 +2028,10 @@
       "fecha": "2026-11-20",
       "hora": "22:00",
       "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/abhir/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/706078577_18593133313062488_4196535147734972138_n-e1780380324160.jpg",
+      "url": "https://www.laganzua.net/conciertos/abhir-zaragoza-1016225",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/abhir-2026.jpg",
       "descripcion": "",
-      "visto": "2026-08-24"
+      "visto": "2026-08-25"
     },
     {
       "titulo": "MOJOTHUNDER",
@@ -2437,9 +2437,9 @@
       "titulo": "Bunbury",
       "fecha": "2026-12-12",
       "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/bunbury/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.laganzua.net/conciertos/bunbury-zaragoza-1014963",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/bunbury-2026.jpg",
       "descripcion": "",
       "visto": "2026-08-25"
     },
@@ -2504,14 +2504,14 @@
       "visto": "2026-08-25"
     },
     {
-      "titulo": "DELACUEVA",
+      "titulo": "Delacueva",
       "fecha": "2026-12-19",
       "hora": "20:00",
       "sala": "Sala López",
-      "url": "https://www.aragonmusical.com/agenda/delacueva-17/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2018/12/De-la-cueva-Sala-Lopez-Luis-Lorente-02.jpg",
+      "url": "https://www.laganzua.net/conciertos/delacueva-zaragoza-1015250",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/delacueva-2025.jpg",
       "descripcion": "",
-      "visto": "2026-08-24"
+      "visto": "2026-08-25"
     },
     {
       "titulo": "Depedro",
@@ -2681,7 +2681,7 @@
       "url": "https://www.laganzua.net/conciertos/reality-zaragoza-1015677",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/reality-2026.jpg",
       "descripcion": "",
-      "visto": "2026-08-24"
+      "visto": "2026-08-25"
     },
     {
       "titulo": "La Milagrosa",
