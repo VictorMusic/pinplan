@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T16:20:57.398237",
+  "actualizado": "2026-08-26T22:39:10.952697",
   "total": 281,
   "eventos": [
     {
@@ -1811,7 +1811,7 @@
       "url": "https://www.laganzua.net/conciertos/festival-zaragoza-feliz-feliz-2026-zaragoza-1016566",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/zaragoza-feliz-feliz-2026.jpg",
       "descripcion": "",
-      "visto": "2026-08-25"
+      "visto": "2026-08-26"
     },
     {
       "titulo": "THE DEL FUEGOS",
@@ -2437,9 +2437,9 @@
       "titulo": "Bunbury",
       "fecha": "2026-12-12",
       "hora": "20:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.laganzua.net/conciertos/bunbury-zaragoza-1014963",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/bunbury-2026.jpg",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": "",
       "visto": "2026-08-26"
     },
