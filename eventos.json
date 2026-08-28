@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-28T00:19:29.394730",
+  "actualizado": "2026-08-28T03:58:29.146261",
   "total": 281,
   "eventos": [
     {
@@ -121,7 +121,7 @@
       "url": "https://www.jacksonlive.es/zaragoza",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-08-27"
+      "visto": "2026-08-28"
     },
     {
       "titulo": "Silvio Rodríguez",
@@ -151,7 +151,7 @@
       "url": "https://www.jacksonlive.es/zaragoza",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-08-27"
+      "visto": "2026-08-28"
     },
     {
       "titulo": "JORGE VERA TRÍO",
@@ -271,7 +271,7 @@
       "url": "https://www.jacksonlive.es/concierto/operacion-triunfo-en-zaragoza",
       "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/479651763671778.jpg",
       "descripcion": "",
-      "visto": "2026-08-27"
+      "visto": "2026-08-28"
     },
     {
       "titulo": "Operación Triunfo 2025",
@@ -851,7 +851,7 @@
       "url": "https://www.jacksonlive.es/concierto/binomio-de-oro-de-america-en-zaragoza",
       "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/519831781710985.jpg",
       "descripcion": "",
-      "visto": "2026-08-27"
+      "visto": "2026-08-28"
     },
     {
       "titulo": "Sticky M.A.",
@@ -2361,7 +2361,7 @@
       "url": "https://www.laganzua.net/conciertos/rebrote-zaragoza-1016517",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/rebrote-2026.jpg",
       "descripcion": "",
-      "visto": "2026-08-26"
+      "visto": "2026-08-28"
     },
     {
       "titulo": "BILLYWOOD CRACKERS",
@@ -2417,9 +2417,9 @@
       "titulo": "Bunbury",
       "fecha": "2026-12-12",
       "hora": "20:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.laganzua.net/conciertos/bunbury-zaragoza-1014963",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/bunbury-2026.jpg",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": "",
       "visto": "2026-08-28"
     },
@@ -2671,7 +2671,7 @@
       "url": "https://www.laganzua.net/conciertos/reality-zaragoza-1015677",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/reality-2026.jpg",
       "descripcion": "",
-      "visto": "2026-08-26"
+      "visto": "2026-08-28"
     },
     {
       "titulo": "La Milagrosa",
