@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-28T03:58:29.146261",
-  "total": 281,
+  "actualizado": "2026-08-28T19:15:25.346147",
+  "total": 288,
   "eventos": [
     {
       "titulo": "Bike & Lonesome",
@@ -1254,6 +1254,16 @@
       "visto": "2026-08-28"
     },
     {
+      "titulo": "SEVEN ( TRIBUTO A SABINA )",
+      "fecha": "2026-10-18",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2266",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/18-10-2026-SEVEN-(-TRIBUTO-A-SABINA-)/foto.jpg",
+      "descripcion": "",
+      "visto": "2026-08-28"
+    },
+    {
       "titulo": "MATT WOODS",
       "fecha": "2026-10-18",
       "hora": "",
@@ -1612,6 +1622,16 @@
       "imagen": "",
       "descripcion": "",
       "visto": "2026-08-24"
+    },
+    {
+      "titulo": "BEATRIZ GIMENO",
+      "fecha": "2026-11-03",
+      "hora": "19:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/beatriz-gimeno-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-08-28"
     },
     {
       "titulo": "CON V DE VOZ",
@@ -2051,7 +2071,7 @@
       "url": "https://www.laganzua.net/conciertos/hombres-g-zaragoza-1014042",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/hombres-g-2026.jpg",
       "descripcion": "",
-      "visto": "2026-08-26"
+      "visto": "2026-08-28"
     },
     {
       "titulo": "SOBREZERO",
@@ -2250,6 +2270,16 @@
       "sala": "Rock & Blues Café",
       "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-the-kleejoss-band-en-zaragoza",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/28-11-2026-THE-KLEEJOSS-BAND/foto.jpg",
+      "descripcion": "",
+      "visto": "2026-08-28"
+    },
+    {
+      "titulo": "NACHT TRÍO",
+      "fecha": "2026-11-29",
+      "hora": "18:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno-2/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/nacht-trio-wpv_400x400_center_center.jpg",
       "descripcion": "",
       "visto": "2026-08-28"
     },
@@ -2454,6 +2484,16 @@
       "visto": "2026-08-28"
     },
     {
+      "titulo": "CAMERATA VIRTUOSI",
+      "fecha": "2026-12-14",
+      "hora": "19:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno-2-2/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/camerata-virtuosi-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-08-28"
+    },
+    {
       "titulo": "Cyril Kamer",
       "fecha": "2026-12-14",
       "hora": "22:00",
@@ -2608,10 +2648,10 @@
       "fecha": "2027-01-09",
       "hora": "21:00",
       "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/modelo-31/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/09/Vive-Latino-2025.-Recinto-Expo-de-Zaragoza-6925.-Por-Mariano-Val-para-Aragon-Musical-153.jpg",
+      "url": "https://www.laganzua.net/conciertos/modelo-zaragoza-1016056",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/modelo-band-2026.jpg",
       "descripcion": "",
-      "visto": "2026-08-24"
+      "visto": "2026-08-28"
     },
     {
       "titulo": "Joven Orquesta Nacional de España (JONDE)",
@@ -2682,6 +2722,16 @@
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/753582950_17950217112225463_7484149951631759434_n-e1785564940209.jpg",
       "descripcion": "",
       "visto": "2026-08-24"
+    },
+    {
+      "titulo": "MALWINA MASTERNAK & GRADUS",
+      "fecha": "2027-01-24",
+      "hora": "18:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno-2-2-2/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/malwina-1-wpv_400x400_center_center.jpeg",
+      "descripcion": "",
+      "visto": "2026-08-28"
     },
     {
       "titulo": "Orquesta Sinfónica de Viena",
@@ -2764,6 +2814,16 @@
       "visto": "2026-08-24"
     },
     {
+      "titulo": "LA GUIRLANDE",
+      "fecha": "2027-02-08",
+      "hora": "19:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno-2-2-2-2/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/laguirlande-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-08-28"
+    },
+    {
       "titulo": "Royal Concertgebouw Orchestra",
       "fecha": "2027-02-09",
       "hora": "19:30",
@@ -2791,7 +2851,7 @@
       "url": "https://www.laganzua.net/conciertos/mujeres-zaragoza-1015792",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/mujeres-2026.jpg",
       "descripcion": "",
-      "visto": "2026-08-27"
+      "visto": "2026-08-28"
     },
     {
       "titulo": "Kase.O",
@@ -2810,6 +2870,16 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/wdr-funkhausorchester/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/270617-Wayne-Marshall-76-Edit-002-scaled-e1780387123345-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-08-28"
+    },
+    {
+      "titulo": "ENCHIRIADIS",
+      "fecha": "2027-02-24",
+      "hora": "19:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno-2-2-2-2-2/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/enchiriadis-wpv_400x400_center_center.jpg",
       "descripcion": "",
       "visto": "2026-08-28"
     }
