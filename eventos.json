@@ -1,7 +1,17 @@
 {
-  "actualizado": "2026-08-28T21:20:10.499580",
-  "total": 288,
+  "actualizado": "2026-08-28T23:56:06.820065",
+  "total": 289,
   "eventos": [
+    {
+      "titulo": "INFO Y/O TICKETS AQUÍ",
+      "fecha": "2026-08-28",
+      "hora": "10:30",
+      "sala": "El Corazón Verde",
+      "url": "https://entradium.com/organizers/el-corazon-verde",
+      "imagen": "https://elcorazonverdebar.com/wp-content/uploads/2026/08/ama2.jpg?w=1200&h=900&crop=1",
+      "descripcion": "",
+      "visto": "2026-08-28"
+    },
     {
       "titulo": "Bike & Lonesome",
       "fecha": "2026-08-28",
