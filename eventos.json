@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-01T15:24:30.203871",
-  "total": 287,
+  "actualizado": "2026-09-01T18:16:17.518614",
+  "total": 288,
   "eventos": [
     {
       "titulo": "Golomb (USA)",
@@ -2859,6 +2859,16 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno-2-2-2-2-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/enchiriadis-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-09-01"
+    },
+    {
+      "titulo": "Ginebras",
+      "fecha": "2027-02-26",
+      "hora": "21:00",
+      "sala": "Sala Oasis",
+      "url": "https://www.laganzua.net/conciertos/ginebras-zaragoza-1015980",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/ginebras-2027.jpg",
       "descripcion": "",
       "visto": "2026-09-01"
     },
