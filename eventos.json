@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T12:21:43.807901",
+  "actualizado": "2026-09-01T15:24:30.203871",
   "total": 287,
   "eventos": [
     {
@@ -2100,7 +2100,7 @@
       "url": "https://www.laganzua.net/conciertos/ruslana-zaragoza-1016088",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/ruslana-2026.jpg",
       "descripcion": "",
-      "visto": "2026-08-31"
+      "visto": "2026-09-01"
     },
     {
       "titulo": "Manel Fuentes",
@@ -2426,9 +2426,9 @@
       "titulo": "Bunbury",
       "fecha": "2026-12-12",
       "hora": "20:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.laganzua.net/conciertos/bunbury-zaragoza-1014963",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/bunbury-2026.jpg",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": "",
       "visto": "2026-09-01"
     },
