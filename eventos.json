@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T11:58:26.667437",
+  "actualizado": "2026-09-02T14:59:46.209458",
   "total": 312,
   "eventos": [
     {
@@ -2050,7 +2050,7 @@
       "url": "https://www.laganzua.net/conciertos/chiquita-movida-zaragoza-1016281",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/chiquita-movida-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-01"
+      "visto": "2026-09-02"
     },
     {
       "titulo": "ISAIAH SHARKEY",
@@ -2666,9 +2666,9 @@
       "titulo": "Bunbury",
       "fecha": "2026-12-12",
       "hora": "20:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.laganzua.net/conciertos/bunbury-zaragoza-1014963",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/bunbury-2026.jpg",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": "",
       "visto": "2026-09-02"
     },
@@ -3070,7 +3070,7 @@
       "url": "https://www.laganzua.net/conciertos/mujeres-zaragoza-1015792",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/mujeres-2026.jpg",
       "descripcion": "",
-      "visto": "2026-08-29"
+      "visto": "2026-09-02"
     },
     {
       "titulo": "Kase.O",
