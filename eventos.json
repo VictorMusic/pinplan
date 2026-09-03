@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T14:59:21.886884",
+  "actualizado": "2026-09-03T18:25:24.311194",
   "total": 331,
   "eventos": [
     {
@@ -583,22 +583,22 @@
       "visto": "2026-08-24"
     },
     {
-      "titulo": "Operación Triunfo en Zaragoza",
-      "fecha": "2026-09-12",
-      "hora": "21:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.jacksonlive.es/concierto/operacion-triunfo-en-zaragoza",
-      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/479651763671778.jpg",
-      "descripcion": "",
-      "visto": "2026-09-03"
-    },
-    {
       "titulo": "Gira Ot 2025",
       "fecha": "2026-09-12",
       "hora": "21:30",
       "sala": "Pabellón Príncipe Felipe",
       "url": "https://www.laganzua.net/conciertos/gira-ot-2025-operacion-triunfo-zaragoza-1013990",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/gira-operacion-triunfo-2025.jpg",
+      "descripcion": "",
+      "visto": "2026-09-03"
+    },
+    {
+      "titulo": "Operación Triunfo en Zaragoza",
+      "fecha": "2026-09-12",
+      "hora": "21:30",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.jacksonlive.es/concierto/operacion-triunfo-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/479651763671778.jpg",
       "descripcion": "",
       "visto": "2026-09-03"
     },
@@ -843,16 +843,6 @@
       "visto": "2026-09-03"
     },
     {
-      "titulo": "Concierto de WarCry + Pedro Botero en Zaragoza",
-      "fecha": "2026-09-19",
-      "hora": "21:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.jacksonlive.es/concierto/concierto-de-warcry-pedro-botero-en-zaragoza",
-      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/506591774025556.jpg",
-      "descripcion": "",
-      "visto": "2026-09-03"
-    },
-    {
       "titulo": "8º CERTAMEN POP ROCK 90S",
       "fecha": "2026-09-19",
       "hora": "21:00",
@@ -869,6 +859,16 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://www.laganzua.net/conciertos/warcry-pedro-botero-zaragoza-1015483",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/warcry-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-09-03"
+    },
+    {
+      "titulo": "Concierto de WarCry + Pedro Botero en Zaragoza",
+      "fecha": "2026-09-19",
+      "hora": "21:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://www.jacksonlive.es/concierto/concierto-de-warcry-pedro-botero-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/506591774025556.jpg",
       "descripcion": "",
       "visto": "2026-09-03"
     },
@@ -2440,7 +2440,7 @@
       "url": "https://www.laganzua.net/conciertos/abhir-zaragoza-1016225",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/abhir-2026.jpg",
       "descripcion": "",
-      "visto": "2026-08-26"
+      "visto": "2026-09-03"
     },
     {
       "titulo": "MOJOTHUNDER",
@@ -2480,7 +2480,7 @@
       "url": "https://www.laganzua.net/conciertos/hombres-g-zaragoza-1014042",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/hombres-g-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-02"
+      "visto": "2026-09-03"
     },
     {
       "titulo": "SOBREZERO",
@@ -3060,7 +3060,7 @@
       "url": "https://www.laganzua.net/conciertos/modelo-zaragoza-1016056",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/modelo-band-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-01"
+      "visto": "2026-09-03"
     },
     {
       "titulo": "Joven Orquesta Nacional de España (JONDE)",
