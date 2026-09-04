@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-04T18:12:38.510320",
-  "total": 234,
+  "actualizado": "2026-09-04T22:01:13.015292",
+  "total": 235,
   "eventos": [
     {
       "titulo": "Vive Latino Festival 2026",
@@ -1573,6 +1573,16 @@
       "visto": "2026-09-04"
     },
     {
+      "titulo": "Walls",
+      "fecha": "2026-11-07",
+      "hora": "20:30",
+      "sala": "Sala Oasis",
+      "url": "https://www.laganzua.net/conciertos/walls-zaragoza-1016761",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/walls-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-09-04"
+    },
+    {
       "titulo": "DIRTY SOUND MAGNET",
       "fecha": "2026-11-07",
       "hora": "",
@@ -2320,7 +2330,7 @@
       "url": "https://www.laganzua.net/conciertos/ginebras-zaragoza-1015980",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/ginebras-2027.jpg",
       "descripcion": "",
-      "visto": "2026-09-01"
+      "visto": "2026-09-04"
     },
     {
       "titulo": "RODRIGO CUEVAS",
