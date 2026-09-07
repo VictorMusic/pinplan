@@ -1,7 +1,17 @@
 {
-  "actualizado": "2026-09-07T19:03:30.070731",
-  "total": 198,
+  "actualizado": "2026-09-07T22:27:00.109156",
+  "total": 199,
   "eventos": [
+    {
+      "titulo": "INFO Y/O TICKETS AQUÍ",
+      "fecha": "2026-09-07",
+      "hora": "02:17",
+      "sala": "El Corazón Verde",
+      "url": "https://entradium.com/organizers/el-corazon-verde",
+      "imagen": "https://elcorazonverdebar.com/wp-content/uploads/2026/09/2026-poster28spainandportugal29copy28129.jpeg?w=800&h=600&crop=1",
+      "descripcion": "",
+      "visto": "2026-09-07"
+    },
     {
       "titulo": "STONE FOUNDATION",
       "fecha": "2026-09-09",
@@ -1620,7 +1630,7 @@
       "url": "https://www.laganzua.net/conciertos/rebrote-zaragoza-1016517",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/rebrote-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-05"
+      "visto": "2026-09-07"
     },
     {
       "titulo": "BILLYWOOD CRACKERS",
