@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-09T15:02:20.080822",
-  "total": 202,
+  "actualizado": "2026-09-09T18:29:08.089573",
+  "total": 203,
   "eventos": [
     {
       "titulo": "STONE FOUNDATION",
@@ -113,22 +113,22 @@
       "visto": "2026-09-09"
     },
     {
-      "titulo": "Gira Ot 2025",
-      "fecha": "2026-09-12",
-      "hora": "21:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.laganzua.net/conciertos/gira-ot-2025-operacion-triunfo-zaragoza-1013990",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/gira-operacion-triunfo-2025.jpg",
-      "descripcion": "",
-      "visto": "2026-09-09"
-    },
-    {
       "titulo": "Operación Triunfo en Zaragoza",
       "fecha": "2026-09-12",
       "hora": "21:30",
       "sala": "Pabellón Príncipe Felipe",
       "url": "https://www.jacksonlive.es/concierto/operacion-triunfo-en-zaragoza",
       "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/479651763671778.jpg",
+      "descripcion": "",
+      "visto": "2026-09-09"
+    },
+    {
+      "titulo": "Gira Ot 2025",
+      "fecha": "2026-09-12",
+      "hora": "21:30",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.laganzua.net/conciertos/gira-ot-2025-operacion-triunfo-zaragoza-1013990",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/gira-operacion-triunfo-2025.jpg",
       "descripcion": "",
       "visto": "2026-09-09"
     },
@@ -210,7 +210,7 @@
       "url": "https://www.jacksonlive.es/concierto/concierto-de-shinova-en-zaragoza",
       "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/504391772641387.jpg",
       "descripcion": "",
-      "visto": "2026-09-03"
+      "visto": "2026-09-09"
     },
     {
       "titulo": "SHINOVA",
@@ -293,6 +293,16 @@
       "visto": "2026-09-09"
     },
     {
+      "titulo": "Concierto de WarCry + Pedro Botero en Zaragoza",
+      "fecha": "2026-09-19",
+      "hora": "21:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://www.jacksonlive.es/concierto/concierto-de-warcry-pedro-botero-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/506591774025556.jpg",
+      "descripcion": "",
+      "visto": "2026-09-09"
+    },
+    {
       "titulo": "8º CERTAMEN POP ROCK 90S",
       "fecha": "2026-09-19",
       "hora": "21:00",
@@ -311,16 +321,6 @@
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/warcry-2026.jpg",
       "descripcion": "",
       "visto": "2026-09-09"
-    },
-    {
-      "titulo": "Concierto de WarCry + Pedro Botero en Zaragoza",
-      "fecha": "2026-09-19",
-      "hora": "21:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.jacksonlive.es/concierto/concierto-de-warcry-pedro-botero-en-zaragoza",
-      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/506591774025556.jpg",
-      "descripcion": "",
-      "visto": "2026-09-03"
     },
     {
       "titulo": "NOWHERE BEAT",
@@ -709,6 +709,16 @@
       "sala": "Sala Oasis",
       "url": "https://aragonenvivo.com/evento/hard-gz-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/2a-zgz-post-scaled-4.webp",
+      "descripcion": "",
+      "visto": "2026-09-09"
+    },
+    {
+      "titulo": "Concierto de la Oreja de Van Gogh en Zaragoza",
+      "fecha": "2026-10-09",
+      "hora": "20:00",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.jacksonlive.es/concierto/concierto-de-la-oreja-de-van-gogh-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/470961760701199.jpg",
       "descripcion": "",
       "visto": "2026-09-09"
     },
