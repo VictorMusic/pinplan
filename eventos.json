@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-09T12:09:45.119084",
-  "total": 201,
+  "actualizado": "2026-09-09T15:02:20.080822",
+  "total": 202,
   "eventos": [
     {
       "titulo": "STONE FOUNDATION",
@@ -845,10 +845,10 @@
     {
       "titulo": "B VOCAL",
       "fecha": "2026-10-14",
-      "hora": "",
+      "hora": "20:30",
       "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/b-vocal-8-2/?occurrence=2026-10-14",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/BVOCAL26WEB.jpg",
+      "url": "https://auditoriozaragoza.com/programacion/b-vocal-8-2/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/BVOCAL26WEB-wpv_400x400_center_center.jpg",
       "descripcion": "",
       "visto": "2026-09-09"
     },
@@ -1640,7 +1640,7 @@
       "url": "https://www.laganzua.net/conciertos/rebrote-zaragoza-1016517",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/rebrote-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-07"
+      "visto": "2026-09-09"
     },
     {
       "titulo": "BILLYWOOD CRACKERS",
@@ -1819,6 +1819,16 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/sho-hai/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/SHO-HAI-12-ZARAGOZA1080X1350-copia-wpv_400x400_center_center.png",
+      "descripcion": "",
+      "visto": "2026-09-09"
+    },
+    {
+      "titulo": "THE PINK STONES + RESTOS",
+      "fecha": "2027-01-21",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-pink-stones-en-zaragoza",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/21-01-2027-THE-PINK-STONES-+-RESTOS-/foto.jpg",
       "descripcion": "",
       "visto": "2026-09-09"
     },
