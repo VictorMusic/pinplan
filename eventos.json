@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-10T12:03:55.452920",
+  "actualizado": "2026-09-10T14:52:15.895233",
   "total": 201,
   "eventos": [
     {
@@ -1250,7 +1250,7 @@
       "url": "https://www.laganzua.net/conciertos/festival-zaragoza-feliz-feliz-2026-zaragoza-1016566",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/zaragoza-feliz-feliz-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-07"
+      "visto": "2026-09-10"
     },
     {
       "titulo": "THE DEL FUEGOS",
@@ -1470,7 +1470,7 @@
       "url": "https://www.laganzua.net/conciertos/ruslana-zaragoza-1016088",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/ruslana-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-09"
+      "visto": "2026-09-10"
     },
     {
       "titulo": "AY TRICK",
@@ -1656,9 +1656,9 @@
       "titulo": "Bunbury",
       "fecha": "2026-12-12",
       "hora": "20:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.laganzua.net/conciertos/bunbury-zaragoza-1014963",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/bunbury-2026.jpg",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": "",
       "visto": "2026-09-10"
     },
@@ -1790,7 +1790,7 @@
       "url": "https://www.laganzua.net/conciertos/modelo-zaragoza-1016056",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/modelo-band-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-06"
+      "visto": "2026-09-10"
     },
     {
       "titulo": "Joven Orquesta Nacional de España (JONDE)",
@@ -1980,7 +1980,7 @@
       "url": "https://www.laganzua.net/conciertos/ginebras-zaragoza-1015980",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/ginebras-2027.jpg",
       "descripcion": "",
-      "visto": "2026-09-07"
+      "visto": "2026-09-10"
     },
     {
       "titulo": "RODRIGO CUEVAS",
