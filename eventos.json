@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-11T18:16:37.900896",
+  "actualizado": "2026-09-11T22:09:47.271271",
   "total": 204,
   "eventos": [
     {
@@ -1260,7 +1260,7 @@
       "url": "https://www.laganzua.net/conciertos/festival-zaragoza-feliz-feliz-2026-zaragoza-1016566",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/zaragoza-feliz-feliz-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-10"
+      "visto": "2026-09-11"
     },
     {
       "titulo": "THE DEL FUEGOS",
@@ -1280,7 +1280,7 @@
       "url": "https://www.laganzua.net/conciertos/chiquita-movida-zaragoza-1016281",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/chiquita-movida-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-03"
+      "visto": "2026-09-11"
     },
     {
       "titulo": "ISAIAH SHARKEY",
@@ -1410,7 +1410,7 @@
       "url": "https://www.laganzua.net/conciertos/abhir-zaragoza-1016225",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/abhir-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-08"
+      "visto": "2026-09-11"
     },
     {
       "titulo": "MOJOTHUNDER",
@@ -1666,9 +1666,9 @@
       "titulo": "Bunbury",
       "fecha": "2026-12-12",
       "hora": "20:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.laganzua.net/conciertos/bunbury-zaragoza-1014963",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/bunbury-2026.jpg",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": "",
       "visto": "2026-09-11"
     },
@@ -1720,7 +1720,7 @@
       "url": "https://www.laganzua.net/conciertos/fernandocosta-zaragoza-1015770",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/fernandocosta-2025.jpg",
       "descripcion": "",
-      "visto": "2026-09-10"
+      "visto": "2026-09-11"
     },
     {
       "titulo": "Delacueva",
