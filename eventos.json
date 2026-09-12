@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-12T13:55:23.236798",
+  "actualizado": "2026-09-12T17:43:38.841759",
   "total": 201,
   "eventos": [
     {
@@ -1610,7 +1610,7 @@
       "url": "https://www.laganzua.net/conciertos/rebrote-zaragoza-1016517",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/rebrote-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-10"
+      "visto": "2026-09-12"
     },
     {
       "titulo": "BILLYWOOD CRACKERS",
@@ -1636,9 +1636,9 @@
       "titulo": "Bunbury",
       "fecha": "2026-12-12",
       "hora": "20:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.laganzua.net/conciertos/bunbury-zaragoza-1014963",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/bunbury-2026.jpg",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": "",
       "visto": "2026-09-12"
     },
@@ -1700,7 +1700,7 @@
       "url": "https://www.laganzua.net/conciertos/delacueva-zaragoza-1015250",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/delacueva-2025.jpg",
       "descripcion": "",
-      "visto": "2026-09-10"
+      "visto": "2026-09-12"
     },
     {
       "titulo": "SHAKE-A-ROUND LOS TORONTOS",
