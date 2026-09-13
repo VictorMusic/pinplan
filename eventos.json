@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-13T14:58:41.541363",
+  "actualizado": "2026-09-13T18:01:06.086299",
   "total": 199,
   "eventos": [
     {
@@ -63,16 +63,6 @@
       "visto": "2026-09-13"
     },
     {
-      "titulo": "Concierto de Shinova en Zaragoza",
-      "fecha": "2026-09-18",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.jacksonlive.es/concierto/concierto-de-shinova-en-zaragoza",
-      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/504391772641387.jpg",
-      "descripcion": "",
-      "visto": "2026-09-13"
-    },
-    {
       "titulo": "Brower (USA)",
       "fecha": "2026-09-18",
       "hora": "20:00",
@@ -83,12 +73,32 @@
       "visto": "2026-09-13"
     },
     {
+      "titulo": "Concierto de Shinova en Zaragoza",
+      "fecha": "2026-09-18",
+      "hora": "20:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://www.jacksonlive.es/concierto/concierto-de-shinova-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/504391772641387.jpg",
+      "descripcion": "",
+      "visto": "2026-09-13"
+    },
+    {
       "titulo": "SHINOVA",
       "fecha": "2026-09-18",
       "hora": "20:30",
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/shinova/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/03/la-tormenta-perfecta-tour-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-09-13"
+    },
+    {
+      "titulo": "DOCTOR VELVET REVIVAL",
+      "fecha": "2026-09-18",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://aragonenvivo.com/evento/doctor-velvet-revival/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
       "descripcion": "",
       "visto": "2026-09-13"
     },
@@ -123,16 +133,6 @@
       "visto": "2026-09-13"
     },
     {
-      "titulo": "DOCTOR VELVET REVIVAL",
-      "fecha": "2026-09-18",
-      "hora": "",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2041",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/18-09-2026-DOCTOR-VELVET-REVIVAL/foto.jpg",
-      "descripcion": "",
-      "visto": "2026-09-13"
-    },
-    {
       "titulo": "Holy Wave (USA)",
       "fecha": "2026-09-19",
       "hora": "19:30",
@@ -149,16 +149,6 @@
       "sala": "Teatro de las Esquinas",
       "url": "https://aragonenvivo.com/evento/gonzalo-hermida-3/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/3413-2.webp",
-      "descripcion": "",
-      "visto": "2026-09-13"
-    },
-    {
-      "titulo": "Concierto de WarCry + Pedro Botero en Zaragoza",
-      "fecha": "2026-09-19",
-      "hora": "21:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.jacksonlive.es/concierto/concierto-de-warcry-pedro-botero-en-zaragoza",
-      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/506591774025556.jpg",
       "descripcion": "",
       "visto": "2026-09-13"
     },
@@ -189,6 +179,16 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://www.laganzua.net/conciertos/warcry-pedro-botero-zaragoza-1015483",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/warcry-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-09-13"
+    },
+    {
+      "titulo": "Concierto de WarCry + Pedro Botero en Zaragoza",
+      "fecha": "2026-09-19",
+      "hora": "21:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://www.jacksonlive.es/concierto/concierto-de-warcry-pedro-botero-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/506591774025556.jpg",
       "descripcion": "",
       "visto": "2026-09-13"
     },
@@ -235,10 +235,20 @@
     {
       "titulo": "LUKE WINSLOW KING",
       "fecha": "2026-09-23",
-      "hora": "",
+      "hora": "21:00",
       "sala": "Rock & Blues Café",
-      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-luke-winslow-king-en-zaragoza",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/23-09-2026-LUKE-WINSLOW-KING/foto.jpg",
+      "url": "https://aragonenvivo.com/evento/luke-winslow-king-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-129.webp",
+      "descripcion": "",
+      "visto": "2026-09-13"
+    },
+    {
+      "titulo": "DR. FEELGOOD",
+      "fecha": "2026-09-24",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://aragonenvivo.com/evento/dr-feelgood-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-130.webp",
       "descripcion": "",
       "visto": "2026-09-13"
     },
@@ -259,16 +269,6 @@
       "sala": "Sala Oasis",
       "url": "https://aragonenvivo.com/evento/soge-culebra/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/imgi_10_WhatsApp-Image-2026-05-23-at-18.49.24-1.jpg",
-      "descripcion": "",
-      "visto": "2026-09-13"
-    },
-    {
-      "titulo": "DR. FEELGOOD",
-      "fecha": "2026-09-24",
-      "hora": "",
-      "sala": "Rock & Blues Café",
-      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-dr-feelgood-en-zaragoza",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/24-09-2026-DR.-FEELGOOD/foto.jpg",
       "descripcion": "",
       "visto": "2026-09-13"
     },
@@ -373,22 +373,22 @@
       "visto": "2026-09-13"
     },
     {
+      "titulo": "ROBERT RODRIGO BAND",
+      "fecha": "2026-09-27",
+      "hora": "13:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://aragonenvivo.com/evento/robert-rodrigo-band/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-131.webp",
+      "descripcion": "",
+      "visto": "2026-09-13"
+    },
+    {
       "titulo": "FEW THOUGHTS + INCORDIAN",
       "fecha": "2026-09-27",
       "hora": "19:00",
       "sala": "Sala Creedence",
       "url": "https://aragonenvivo.com/evento/few-thoughts-incordian/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-few-1024x1024-1.jpeg",
-      "descripcion": "",
-      "visto": "2026-09-13"
-    },
-    {
-      "titulo": "ROBERT RODRIGO BAND",
-      "fecha": "2026-09-27",
-      "hora": "",
-      "sala": "Rock & Blues Café",
-      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-robert-rodrigo-en-zaragoza",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/27-09-2026-ROBERT-RODRIGO-BAND-/foto.jpg",
       "descripcion": "",
       "visto": "2026-09-13"
     },
@@ -413,6 +413,16 @@
       "visto": "2026-09-13"
     },
     {
+      "titulo": "THE REVEREND PEYTON’S BIG DAMN BAND",
+      "fecha": "2026-10-01",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://aragonenvivo.com/evento/the-reverend-peyton-s-big-damn-band/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-132.webp",
+      "descripcion": "",
+      "visto": "2026-09-13"
+    },
+    {
       "titulo": "THE VOLCANICS (AUSTRALIA)",
       "fecha": "2026-10-01",
       "hora": "21:00",
@@ -423,12 +433,12 @@
       "visto": "2026-09-13"
     },
     {
-      "titulo": "THE REVEREND PEYTON'S BIG DAMN BAND",
-      "fecha": "2026-10-01",
-      "hora": "",
+      "titulo": "GONZALO PORTUGAL",
+      "fecha": "2026-10-02",
+      "hora": "21:00",
       "sala": "Rock & Blues Café",
-      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-the-reverend-peyton-s-big-damn-band-en-zaragoza",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/01-10-2026-THE-REVEREND-PEYTON'S-BIG-DAMN-BAND/foto.jpg",
+      "url": "https://aragonenvivo.com/evento/gonzalo-portugal/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
       "descripcion": "",
       "visto": "2026-09-13"
     },
@@ -439,16 +449,6 @@
       "sala": "SuperNova Club Zaragoza",
       "url": "https://www.jacksonlive.es/concierto/binomio-de-oro-de-america-en-zaragoza",
       "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/519831781710985.jpg",
-      "descripcion": "",
-      "visto": "2026-09-13"
-    },
-    {
-      "titulo": "GONZALO PORTUGAL",
-      "fecha": "2026-10-02",
-      "hora": "",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2160",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/02-10-2026-GONZALO-PORTUGAL/foto.jpg",
       "descripcion": "",
       "visto": "2026-09-13"
     },
@@ -503,22 +503,22 @@
       "visto": "2026-09-13"
     },
     {
-      "titulo": "Concierto de Mercury Rev en Zaragoza",
-      "fecha": "2026-10-04",
-      "hora": "20:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.jacksonlive.es/concierto/concierto-de-mercury-rev-en-zaragoza",
-      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/524751784305524.jpg",
-      "descripcion": "",
-      "visto": "2026-09-13"
-    },
-    {
       "titulo": "BILLY ALLEN + THE POLLIES",
       "fecha": "2026-10-04",
       "hora": "20:00",
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/billy-allen-the-pollies/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": "",
+      "visto": "2026-09-13"
+    },
+    {
+      "titulo": "Concierto de Mercury Rev en Zaragoza",
+      "fecha": "2026-10-04",
+      "hora": "20:00",
+      "sala": "Sala Oasis",
+      "url": "https://www.jacksonlive.es/concierto/concierto-de-mercury-rev-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/524751784305524.jpg",
       "descripcion": "",
       "visto": "2026-09-13"
     },
@@ -563,12 +563,22 @@
       "visto": "2026-09-13"
     },
     {
+      "titulo": "TRACK DOGS",
+      "fecha": "2026-10-08",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://aragonenvivo.com/evento/track-dogs/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": "",
+      "visto": "2026-09-13"
+    },
+    {
       "titulo": "Hard GZ",
       "fecha": "2026-10-08",
       "hora": "22:00",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/hard-gz/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/hard-gz.jpg",
+      "sala": "Sala Oasis",
+      "url": "https://aragonenvivo.com/evento/hard-gz-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/2a-zgz-post-scaled-4.webp",
       "descripcion": "",
       "visto": "2026-09-13"
     },
@@ -583,22 +593,22 @@
       "visto": "2026-09-13"
     },
     {
-      "titulo": "TRACK DOGS",
-      "fecha": "2026-10-08",
-      "hora": "",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2025",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/08-10-2026-TRACK-DOGS/foto.jpg",
-      "descripcion": "",
-      "visto": "2026-09-13"
-    },
-    {
       "titulo": "Concierto de la Oreja de Van Gogh en Zaragoza",
       "fecha": "2026-10-09",
       "hora": "20:00",
       "sala": "Pabellón Príncipe Felipe",
       "url": "https://www.jacksonlive.es/concierto/concierto-de-la-oreja-de-van-gogh-en-zaragoza",
       "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/470961760701199.jpg",
+      "descripcion": "",
+      "visto": "2026-09-13"
+    },
+    {
+      "titulo": "ROSALIE CUNNINGHAM",
+      "fecha": "2026-10-09",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://aragonenvivo.com/evento/rosalie-cunningham/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-140.webp",
       "descripcion": "",
       "visto": "2026-09-13"
     },
@@ -613,16 +623,6 @@
       "visto": "2026-09-13"
     },
     {
-      "titulo": "Concierto de Hard GZ en Zaragoza",
-      "fecha": "2026-10-09",
-      "hora": "22:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.jacksonlive.es/concierto/concierto-de-hard-gz-en-zaragoza",
-      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/488841765977785.jpg",
-      "descripcion": "",
-      "visto": "2026-09-13"
-    },
-    {
       "titulo": "HARD GZ",
       "fecha": "2026-10-09",
       "hora": "22:00",
@@ -633,12 +633,12 @@
       "visto": "2026-09-13"
     },
     {
-      "titulo": "ROSALIE CUNNINGHAM",
+      "titulo": "Concierto de Hard GZ en Zaragoza",
       "fecha": "2026-10-09",
-      "hora": "",
-      "sala": "Rock & Blues Café",
-      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-rosalie-cunningham-en-zaragoza",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/09-10-2026-ROSALIE-CUNNINGHAM/foto.jpg",
+      "hora": "22:00",
+      "sala": "Sala Oasis",
+      "url": "https://www.jacksonlive.es/concierto/concierto-de-hard-gz-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/488841765977785.jpg",
       "descripcion": "",
       "visto": "2026-09-13"
     },
@@ -883,22 +883,22 @@
       "visto": "2026-09-13"
     },
     {
+      "titulo": "HOSS&SWET 1987",
+      "fecha": "2026-10-22",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://aragonenvivo.com/evento/hoss-swet-1987/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-133.webp",
+      "descripcion": "",
+      "visto": "2026-09-13"
+    },
+    {
       "titulo": "Baloncesto",
       "fecha": "2026-10-22",
       "hora": "21:00",
       "sala": "La Lata de Bombillas",
       "url": "https://www.laganzua.net/conciertos/baloncesto-zaragoza-1016736",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/baloncesto-2026.jpg",
-      "descripcion": "",
-      "visto": "2026-09-13"
-    },
-    {
-      "titulo": "HOSS&SWET 1987",
-      "fecha": "2026-10-22",
-      "hora": "",
-      "sala": "Rock & Blues Café",
-      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-hoss-swet-1987-en-zaragoza",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/22-10-2026-HOSS&SWET-1987/foto.jpg",
       "descripcion": "",
       "visto": "2026-09-13"
     },
@@ -925,10 +925,10 @@
     {
       "titulo": "ANA POPOVIC",
       "fecha": "2026-10-23",
-      "hora": "",
+      "hora": "21:00",
       "sala": "Rock & Blues Café",
-      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-ana-popovic-en-zaragoza",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/23-10-2026-ANA-POPOVIC/foto.jpg",
+      "url": "https://aragonenvivo.com/evento/ana-popovic/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-134.webp",
       "descripcion": "",
       "visto": "2026-09-13"
     },
@@ -1616,9 +1616,9 @@
       "titulo": "Bunbury",
       "fecha": "2026-12-12",
       "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/bunbury/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.laganzua.net/conciertos/bunbury-zaragoza-1014963",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/bunbury-2026.jpg",
       "descripcion": "",
       "visto": "2026-09-13"
     },
