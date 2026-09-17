@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-17T12:26:07.376893",
-  "total": 213,
+  "actualizado": "2026-09-17T15:27:54.260527",
+  "total": 214,
   "eventos": [
     {
       "titulo": "SWINGDICATO DEL RITMO",
@@ -1350,7 +1350,7 @@
       "url": "https://www.laganzua.net/conciertos/chiquita-movida-zaragoza-1016281",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/chiquita-movida-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-15"
+      "visto": "2026-09-17"
     },
     {
       "titulo": "ISAIAH SHARKEY",
@@ -1480,7 +1480,7 @@
       "url": "https://www.laganzua.net/conciertos/abhir-zaragoza-1016225",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/abhir-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-13"
+      "visto": "2026-09-17"
     },
     {
       "titulo": "MOJOTHUNDER",
@@ -1549,6 +1549,16 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/michael-mayo/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Diseno-sin-titulo-15-wpv_400x400_center_center.png",
+      "descripcion": "",
+      "visto": "2026-09-17"
+    },
+    {
+      "titulo": "JAZZ FOR KIDS: JAZZ EN FAMILIA",
+      "fecha": "2026-11-22",
+      "hora": "21:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/jazz-for-kids-jazz-en-familia-5/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Diseno-sin-titulo-17-wpv_400x400_center_center.png",
       "descripcion": "",
       "visto": "2026-09-17"
     },
