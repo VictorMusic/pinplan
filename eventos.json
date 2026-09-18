@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T18:10:16.838616",
-  "total": 210,
+  "actualizado": "2026-09-18T22:10:02.461363",
+  "total": 211,
   "eventos": [
     {
       "titulo": "Brower (USA)",
@@ -1243,6 +1243,16 @@
       "visto": "2026-09-18"
     },
     {
+      "titulo": "Walls",
+      "fecha": "2026-11-08",
+      "hora": "20:30",
+      "sala": "Sala Oasis",
+      "url": "https://www.laganzua.net/conciertos/walls-segunda-fecha-zaragoza-1016762",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/walls-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-09-18"
+    },
+    {
       "titulo": "GERARDO LÓPEZ TRÍO",
       "fecha": "2026-11-08",
       "hora": "",
@@ -1453,22 +1463,22 @@
       "visto": "2026-09-18"
     },
     {
-      "titulo": "Paquito D’Rivera Trío",
-      "fecha": "2026-11-21",
-      "hora": "21:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/paquito-drivera-trio/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Diseno-sin-titulo-14-wpv_400x400_center_center.png",
-      "descripcion": "",
-      "visto": "2026-09-14"
-    },
-    {
       "titulo": "Hombres G",
       "fecha": "2026-11-21",
       "hora": "21:00",
       "sala": "Pabellón Príncipe Felipe",
       "url": "https://www.laganzua.net/conciertos/hombres-g-zaragoza-1014042",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/hombres-g-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-09-18"
+    },
+    {
+      "titulo": "Paquito D’Rivera Trío",
+      "fecha": "2026-11-21",
+      "hora": "21:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/paquito-drivera-trio/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Diseno-sin-titulo-14-wpv_400x400_center_center.png",
       "descripcion": "",
       "visto": "2026-09-14"
     },
@@ -1520,7 +1530,7 @@
       "url": "https://www.laganzua.net/conciertos/ruslana-zaragoza-1016088",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/ruslana-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-17"
+      "visto": "2026-09-18"
     },
     {
       "titulo": "AY TRICK",
@@ -2000,7 +2010,7 @@
       "url": "https://www.laganzua.net/conciertos/mujeres-zaragoza-1015792",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/mujeres-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-16"
+      "visto": "2026-09-18"
     },
     {
       "titulo": "WDR Funkhausorchester",
