@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-19T17:51:41.507161",
+  "actualizado": "2026-09-19T22:01:51.199014",
   "total": 204,
   "eventos": [
     {
@@ -53,6 +53,16 @@
       "visto": "2026-09-19"
     },
     {
+      "titulo": "Concierto de WarCry + Pedro Botero en Zaragoza",
+      "fecha": "2026-09-19",
+      "hora": "21:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://www.jacksonlive.es/concierto/concierto-de-warcry-pedro-botero-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/506591774025556.jpg",
+      "descripcion": "",
+      "visto": "2026-09-19"
+    },
+    {
       "titulo": "Warcry",
       "fecha": "2026-09-19",
       "hora": "21:00",
@@ -61,16 +71,6 @@
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/warcry-2026.jpg",
       "descripcion": "",
       "visto": "2026-09-19"
-    },
-    {
-      "titulo": "Concierto de WarCry + Pedro Botero en Zaragoza",
-      "fecha": "2026-09-19",
-      "hora": "21:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.jacksonlive.es/concierto/concierto-de-warcry-pedro-botero-en-zaragoza",
-      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/506591774025556.jpg",
-      "descripcion": "",
-      "visto": "2026-09-13"
     },
     {
       "titulo": "CRISTINA GOMEZ – TONTA ,CRISTINA GOMEZ",
@@ -1203,22 +1203,22 @@
       "visto": "2026-09-19"
     },
     {
+      "titulo": "The Del Fuegos",
+      "fecha": "2026-11-12",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.laganzua.net/conciertos/the-del-fuegos-zaragoza-1016749",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/the-del-fuegos-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-09-19"
+    },
+    {
       "titulo": "Festival Zaragoza Feliz Feliz 2026",
       "fecha": "2026-11-12",
       "hora": "22:00",
       "sala": "La Lata de Bombillas",
       "url": "https://www.laganzua.net/conciertos/festival-zaragoza-feliz-feliz-2026-zaragoza-1016566",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/zaragoza-feliz-feliz-2026.jpg",
-      "descripcion": "",
-      "visto": "2026-09-19"
-    },
-    {
-      "titulo": "THE DEL FUEGOS",
-      "fecha": "2026-11-12",
-      "hora": "",
-      "sala": "Rock & Blues Café",
-      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-the-del-fuegos-en-zaragoza",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/12-11-2026-THE-DEL-FUEGOS/foto.jpg",
       "descripcion": "",
       "visto": "2026-09-19"
     },
@@ -1360,7 +1360,7 @@
       "url": "https://www.laganzua.net/conciertos/abhir-zaragoza-1016225",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/abhir-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-17"
+      "visto": "2026-09-19"
     },
     {
       "titulo": "MOJOTHUNDER",
@@ -1700,7 +1700,7 @@
       "url": "https://www.laganzua.net/conciertos/delacueva-zaragoza-1015250",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/delacueva-2025.jpg",
       "descripcion": "",
-      "visto": "2026-09-18"
+      "visto": "2026-09-19"
     },
     {
       "titulo": "SHAKE-A-ROUND LOS TORONTOS",
