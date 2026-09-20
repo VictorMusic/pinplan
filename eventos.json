@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-20T18:07:21.073953",
-  "total": 198,
+  "actualizado": "2026-09-20T22:06:49.030444",
+  "total": 199,
   "eventos": [
     {
       "titulo": "BUNBURY & HEROES EXPERIENCE",
@@ -9,6 +9,16 @@
       "sala": "Teatro de las Esquinas",
       "url": "https://aragonenvivo.com/evento/bunbury-heroes-experience/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/TEATRO-ESQUINAS.png",
+      "descripcion": "",
+      "visto": "2026-09-20"
+    },
+    {
+      "titulo": "RUSLANA",
+      "fecha": "2026-09-20",
+      "hora": "",
+      "sala": "Espacio Exterior",
+      "url": "https://www.setlist.fm/setlist/ruslana/2026/jardin-aura-zaragoza-spain-437fa733.html",
+      "imagen": "",
       "descripcion": "",
       "visto": "2026-09-20"
     },
@@ -1640,7 +1650,7 @@
       "url": "https://www.laganzua.net/conciertos/delacueva-zaragoza-1015250",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/delacueva-2025.jpg",
       "descripcion": "",
-      "visto": "2026-09-19"
+      "visto": "2026-09-20"
     },
     {
       "titulo": "SHAKE-A-ROUND LOS TORONTOS",
