@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-21T20:02:53.414044",
-  "total": 202,
+  "actualizado": "2026-09-21T22:58:45.871764",
+  "total": 213,
   "eventos": [
     {
       "titulo": "CON V DE VOZ",
@@ -493,6 +493,16 @@
       "visto": "2026-09-21"
     },
     {
+      "titulo": "Myke Towers",
+      "fecha": "2026-10-09",
+      "hora": "21:00",
+      "sala": "Espacio Zity",
+      "url": "https://www.laganzua.net/conciertos/myke-towers-zaragoza-1017290",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/myke-towers-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-09-21"
+    },
+    {
       "titulo": "HARD GZ",
       "fecha": "2026-10-09",
       "hora": "22:00",
@@ -513,6 +523,16 @@
       "visto": "2026-09-13"
     },
     {
+      "titulo": "Antonio Orozco",
+      "fecha": "2026-10-10",
+      "hora": "20:27",
+      "sala": "Escenario Ambar Fuente De Goya",
+      "url": "https://www.laganzua.net/conciertos/antonio-orozco-zaragoza-1017299",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/antonio-orozco-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-09-21"
+    },
+    {
       "titulo": "LA GRAN FIESTA DEL ROCK",
       "fecha": "2026-10-10",
       "hora": "21:00",
@@ -529,6 +549,26 @@
       "sala": "Pabellón Príncipe Felipe",
       "url": "https://www.laganzua.net/conciertos/la-oreja-de-van-gogh-segunda-fecha-zaragoza-1013435",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/la-oreja-de-vangogh-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-09-21"
+    },
+    {
+      "titulo": "Viva Suecia",
+      "fecha": "2026-10-10",
+      "hora": "21:00",
+      "sala": "Espacio Zity",
+      "url": "https://www.laganzua.net/conciertos/viva-suecia-malmo-040-zaragoza-1017291",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/viva-suecia-2027.jpg",
+      "descripcion": "",
+      "visto": "2026-09-21"
+    },
+    {
+      "titulo": "Lucho Rk",
+      "fecha": "2026-10-10",
+      "hora": "21:00",
+      "sala": "Estación del Norte",
+      "url": "https://www.laganzua.net/conciertos/lucho-rk-slappy-av-zaragoza-1017298",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/lucho-rk-2026.jpg",
       "descripcion": "",
       "visto": "2026-09-21"
     },
@@ -553,16 +593,6 @@
       "visto": "2026-09-21"
     },
     {
-      "titulo": "Concierto de Sergio Dalma en Zaragoza",
-      "fecha": "2026-10-11",
-      "hora": "20:00",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.jacksonlive.es/concierto/concierto-de-sergio-dalma-en-zaragoza",
-      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/474761762171804.jpg",
-      "descripcion": "",
-      "visto": "2026-09-21"
-    },
-    {
       "titulo": "LOS 10 GRANDES DEL CINE",
       "fecha": "2026-10-11",
       "hora": "20:00",
@@ -573,12 +603,42 @@
       "visto": "2026-09-21"
     },
     {
+      "titulo": "Concierto de Sergio Dalma en Zaragoza",
+      "fecha": "2026-10-11",
+      "hora": "20:00",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.jacksonlive.es/concierto/concierto-de-sergio-dalma-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/474761762171804.jpg",
+      "descripcion": "",
+      "visto": "2026-09-21"
+    },
+    {
       "titulo": "Sergio Dalma",
       "fecha": "2026-10-11",
       "hora": "21:00",
       "sala": "Pabellón Príncipe Felipe",
       "url": "https://www.laganzua.net/conciertos/sergio-dalma-zaragoza-1013635",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/sergio-dalma-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-09-21"
+    },
+    {
+      "titulo": "Dani Fernández",
+      "fecha": "2026-10-11",
+      "hora": "21:00",
+      "sala": "Escenario Ambar Fuente De Goya",
+      "url": "https://www.laganzua.net/conciertos/dani-fernandez-zaragoza-1017301",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/dani-fernandez-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-09-21"
+    },
+    {
+      "titulo": "Aterciopelados",
+      "fecha": "2026-10-11",
+      "hora": "21:00",
+      "sala": "Jardín de Invierno",
+      "url": "https://www.laganzua.net/conciertos/aterciopelados-isla-kume-zaragoza-1017302",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/aterciopelados-2026.jpg",
       "descripcion": "",
       "visto": "2026-09-21"
     },
@@ -603,22 +663,22 @@
       "visto": "2026-09-21"
     },
     {
-      "titulo": "Concierto de Los Kjarkas en Zaragoza",
-      "fecha": "2026-10-12",
-      "hora": "19:00",
-      "sala": "Garden Discoteca",
-      "url": "https://www.jacksonlive.es/concierto/concierto-de-los-kjarkas-en-zaragoza",
-      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/530231788842884.jpg",
-      "descripcion": "",
-      "visto": "2026-09-21"
-    },
-    {
       "titulo": "Los Kjarkas",
       "fecha": "2026-10-12",
       "hora": "19:00",
       "sala": "Garden Discoteca",
       "url": "https://www.laganzua.net/conciertos/los-kjarkas-zaragoza-1016999",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/los-kjarkas.jpg",
+      "descripcion": "",
+      "visto": "2026-09-21"
+    },
+    {
+      "titulo": "Concierto de Los Kjarkas en Zaragoza",
+      "fecha": "2026-10-12",
+      "hora": "19:00",
+      "sala": "Garden Discoteca",
+      "url": "https://www.jacksonlive.es/concierto/concierto-de-los-kjarkas-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/530231788842884.jpg",
       "descripcion": "",
       "visto": "2026-09-21"
     },
@@ -646,9 +706,39 @@
       "titulo": "The Screamin’ Cheetah Wheelies",
       "fecha": "2026-10-12",
       "hora": "21:00",
-      "sala": "Sala Por Confirmar",
+      "sala": "Estación del Norte",
       "url": "https://www.laganzua.net/conciertos/the-screamin-cheetah-wheelies-zaragoza-1017254",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/the-screamin-cheetah-wheelies-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-09-21"
+    },
+    {
+      "titulo": "Ana Mena",
+      "fecha": "2026-10-12",
+      "hora": "21:00",
+      "sala": "Espacio Zity",
+      "url": "https://www.laganzua.net/conciertos/ana-mena-marina-reche-zaragoza-1017292",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/ana-mena-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-09-21"
+    },
+    {
+      "titulo": "Camela",
+      "fecha": "2026-10-12",
+      "hora": "21:00",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.laganzua.net/conciertos/camela-zaragoza-1017303",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/camela-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-09-21"
+    },
+    {
+      "titulo": "Taburete",
+      "fecha": "2026-10-13",
+      "hora": "20:00",
+      "sala": "Espacio Zity",
+      "url": "https://www.laganzua.net/conciertos/taburete-alvaro-de-luna-hey-kid-zaragoza-1017293",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/taburete-2026.jpg",
       "descripcion": "",
       "visto": "2026-09-21"
     },
@@ -663,12 +753,32 @@
       "visto": "2026-09-21"
     },
     {
+      "titulo": "Love Of Lesbian",
+      "fecha": "2026-10-14",
+      "hora": "20:00",
+      "sala": "Espacio Zity",
+      "url": "https://www.laganzua.net/conciertos/love-of-lesbian-dorian-leon-benavente-zaragoza-1017294",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/love-of-lesbian-2026g.jpg",
+      "descripcion": "",
+      "visto": "2026-09-21"
+    },
+    {
       "titulo": "B VOCAL",
       "fecha": "2026-10-14",
       "hora": "20:30",
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/b-vocal-8-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/BVOCAL26WEB-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-09-21"
+    },
+    {
+      "titulo": "The Lemon Twigs",
+      "fecha": "2026-10-14",
+      "hora": "21:00",
+      "sala": "Jardín de Invierno",
+      "url": "https://www.laganzua.net/conciertos/the-lemon-twigs-zaragoza-1017304",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/the-lemon-twigs-2026.jpg",
       "descripcion": "",
       "visto": "2026-09-21"
     },
@@ -1360,7 +1470,7 @@
       "url": "https://www.laganzua.net/conciertos/hombres-g-zaragoza-1014042",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/hombres-g-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-19"
+      "visto": "2026-09-21"
     },
     {
       "titulo": "Paquito D’Rivera Trío",
@@ -1750,7 +1860,7 @@
       "url": "https://www.laganzua.net/conciertos/modelo-zaragoza-1016056",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/modelo-band-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-17"
+      "visto": "2026-09-21"
     },
     {
       "titulo": "MAMA LADILLA",
@@ -1990,7 +2100,7 @@
       "url": "https://www.laganzua.net/conciertos/balkan-paradise-orchestra-zaragoza-1016571",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/balkan-paradise-orchestra-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-20"
+      "visto": "2026-09-21"
     },
     {
       "titulo": "LEO DE MARÍA & ZORNITSA ILARIONOVA",
