@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-22T15:27:38.506316",
-  "total": 213,
+  "actualizado": "2026-09-22T18:37:24.598463",
+  "total": 214,
   "eventos": [
     {
       "titulo": "CON V DE VOZ",
@@ -209,6 +209,16 @@
       "sala": "La Casa del Loco",
       "url": "https://aragonenvivo.com/evento/the-nowhere-plan-the-beatles-tribute-band/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/V-THE-BEATLES-NOWHERE-PLAN-COCIERTOS-ZARAGOZA-2026.webp",
+      "descripcion": "",
+      "visto": "2026-09-22"
+    },
+    {
+      "titulo": "THE BEATLES TRIBUTE BAND EN ZARAGOZA",
+      "fecha": "2026-09-26",
+      "hora": "21:30",
+      "sala": "La Casa del Loco",
+      "url": "https://www.jacksonlive.es/concierto/the-beatles-tribute-band-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/532731790081539.jpg",
       "descripcion": "",
       "visto": "2026-09-22"
     },
@@ -1920,7 +1930,7 @@
       "url": "https://www.laganzua.net/conciertos/reality-zaragoza-1015677",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/reality-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-20"
+      "visto": "2026-09-22"
     },
     {
       "titulo": "BAND OF FRIENDS",
@@ -1970,7 +1980,7 @@
       "url": "https://www.laganzua.net/conciertos/levitants-zaragoza-1016647",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/the-levitants-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-21"
+      "visto": "2026-09-22"
     },
     {
       "titulo": "MOTOWN",
