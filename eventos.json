@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-24T12:33:21.237558",
-  "total": 215,
+  "actualizado": "2026-09-24T15:44:20.534450",
+  "total": 216,
   "eventos": [
     {
       "titulo": "DIEGO PENA JAVIER ZAPATER SERGIO JABATO – LA COMUNIDAD",
@@ -1143,6 +1143,16 @@
       "visto": "2026-09-24"
     },
     {
+      "titulo": "ORQUESTA SINFÓNICA NACIONAL JUVENIL DE VENEZUELA",
+      "fecha": "2026-11-01",
+      "hora": "19:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/joven-orquesta-sinfonica-de-venezuela/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/06/-Stephan-Rabold-2-scaled-e1790260410330-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-09-24"
+    },
+    {
       "titulo": "SILENT 4TET",
       "fecha": "2026-11-01",
       "hora": "",
@@ -1480,7 +1490,7 @@
       "url": "https://www.laganzua.net/conciertos/hombres-g-zaragoza-1014042",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/hombres-g-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-23"
+      "visto": "2026-09-24"
     },
     {
       "titulo": "Paquito D’Rivera Trío",
@@ -1700,7 +1710,7 @@
       "url": "https://www.laganzua.net/conciertos/rebrote-zaragoza-1016517",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/rebrote-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-22"
+      "visto": "2026-09-24"
     },
     {
       "titulo": "BILLYWOOD CRACKERS",
@@ -1980,7 +1990,7 @@
       "url": "https://www.laganzua.net/conciertos/cupido-zaragoza-1016744",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/cupido-2027.jpg",
       "descripcion": "",
-      "visto": "2026-09-23"
+      "visto": "2026-09-24"
     },
     {
       "titulo": "Levitants",
