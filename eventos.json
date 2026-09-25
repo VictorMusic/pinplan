@@ -1,7 +1,17 @@
 {
-  "actualizado": "2026-09-25T12:34:55.968950",
-  "total": 212,
+  "actualizado": "2026-09-25T15:45:56.757420",
+  "total": 213,
   "eventos": [
+    {
+      "titulo": "INAUGURACIÓN MOLINER 7 TERRAZA",
+      "fecha": "2026-09-25",
+      "hora": "19:00",
+      "sala": "Moliner 7 Cafe&Copas",
+      "url": "https://aragonenvivo.com/evento/inauguracion-moliner-7-terraza/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/1000373244.jpg",
+      "descripcion": "",
+      "visto": "2026-09-25"
+    },
     {
       "titulo": "María Escarmiento",
       "fecha": "2026-09-25",
@@ -1175,10 +1185,10 @@
     {
       "titulo": "MONSTRUO LABERINTO",
       "fecha": "2026-11-06",
-      "hora": "21:00",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://aragonenvivo.com/evento/monstruo-laberinto/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=1930",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/06-11-2026-MONSTRUO-LABERINTO/foto.jpg",
       "descripcion": "",
       "visto": "2026-09-25"
     },
@@ -1430,7 +1440,7 @@
       "url": "https://www.laganzua.net/conciertos/abhir-zaragoza-1016225",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/abhir-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-20"
+      "visto": "2026-09-25"
     },
     {
       "titulo": "MOJOTHUNDER",
@@ -1760,7 +1770,7 @@
       "url": "https://www.laganzua.net/conciertos/delacueva-zaragoza-1015250",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/delacueva-2025.jpg",
       "descripcion": "",
-      "visto": "2026-09-23"
+      "visto": "2026-09-25"
     },
     {
       "titulo": "SHAKE-A-ROUND LOS TORONTOS",
