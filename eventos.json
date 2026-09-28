@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-28T18:30:36.957509",
-  "total": 222,
+  "actualizado": "2026-09-28T21:09:07.329287",
+  "total": 223,
   "eventos": [
     {
       "titulo": "JABI IZURIETA + WALKINGON THE EDGE",
@@ -1350,7 +1350,7 @@
       "url": "https://www.laganzua.net/conciertos/chiquita-movida-zaragoza-1016281",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/chiquita-movida-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-24"
+      "visto": "2026-09-28"
     },
     {
       "titulo": "ISAIAH SHARKEY",
@@ -2189,6 +2189,16 @@
       "sala": "Sala López",
       "url": "https://www.laganzua.net/conciertos/balkan-paradise-orchestra-zaragoza-1016571",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/balkan-paradise-orchestra-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-09-28"
+    },
+    {
+      "titulo": "Anabel Lee",
+      "fecha": "2027-03-06",
+      "hora": "20:30",
+      "sala": "La Lata de Bombillas",
+      "url": "https://www.laganzua.net/conciertos/anabel-lee-zaragoza-1017435",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/anabel-lee-2026.jpg",
       "descripcion": "",
       "visto": "2026-09-28"
     },
