@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-29T00:07:30.859853",
+  "actualizado": "2026-09-29T13:45:11.129230",
   "total": 220,
   "eventos": [
     {
@@ -510,7 +510,7 @@
       "url": "https://auditoriozaragoza.com/programacion/fiesta-viral-light-3/?occurrence=2026-10-11",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/07/20251011_fiestaviral_008.jpg",
       "descripcion": "",
-      "visto": "2026-09-27"
+      "visto": "2026-09-29"
     },
     {
       "titulo": "Los Kjarkas",
@@ -1180,7 +1180,7 @@
       "url": "https://www.laganzua.net/conciertos/fyahbwoy-zaragoza-1016499",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/fyahbwoy-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-26"
+      "visto": "2026-09-29"
     },
     {
       "titulo": "MONSTRUO LABERINTO",
@@ -1413,22 +1413,22 @@
       "visto": "2026-09-29"
     },
     {
-      "titulo": "HILOS – INÉS BADALO Y GRUPO ENIGMA",
-      "fecha": "2026-11-16",
-      "hora": "19:30",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/hilos-grupo-enigma-2/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/Ines-Badalo-2-1-wpv_400x400_center_center.jpg",
-      "descripcion": "",
-      "visto": "2026-09-29"
-    },
-    {
       "titulo": "Orquesta Filarmónica Checa",
       "fecha": "2026-11-16",
       "hora": "19:30",
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/orquesta-filarmonica-checa/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/filarmonica_checa_foto5de_petra_hajska-e1780390386733-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-09-29"
+    },
+    {
+      "titulo": "HILOS – INÉS BADALO Y GRUPO ENIGMA",
+      "fecha": "2026-11-16",
+      "hora": "19:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/hilos-grupo-enigma-2/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/Ines-Badalo-2-1-wpv_400x400_center_center.jpg",
       "descripcion": "",
       "visto": "2026-09-29"
     },
@@ -1740,7 +1740,7 @@
       "url": "https://www.laganzua.net/conciertos/rebrote-zaragoza-1016517",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/rebrote-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-28"
+      "visto": "2026-09-29"
     },
     {
       "titulo": "BILLYWOOD CRACKERS",
