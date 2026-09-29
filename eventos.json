@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-29T13:45:11.129230",
+  "actualizado": "2026-09-29T16:49:18.578223",
   "total": 220,
   "eventos": [
     {
@@ -493,22 +493,22 @@
       "visto": "2026-09-29"
     },
     {
-      "titulo": "IN MATERIA",
-      "fecha": "2026-10-11",
-      "hora": "",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2100",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/11-10-2026-IN-MATERIA/foto.jpg",
-      "descripcion": "",
-      "visto": "2026-09-29"
-    },
-    {
       "titulo": "Fiesta Viral Light",
       "fecha": "2026-10-11",
       "hora": "",
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/fiesta-viral-light-3/?occurrence=2026-10-11",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/07/20251011_fiestaviral_008.jpg",
+      "descripcion": "",
+      "visto": "2026-09-29"
+    },
+    {
+      "titulo": "IN MATERIA",
+      "fecha": "2026-10-11",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2100",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/11-10-2026-IN-MATERIA/foto.jpg",
       "descripcion": "",
       "visto": "2026-09-29"
     },
@@ -1520,7 +1520,7 @@
       "url": "https://www.laganzua.net/conciertos/hombres-g-zaragoza-1014042",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/hombres-g-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-28"
+      "visto": "2026-09-29"
     },
     {
       "titulo": "SOBREZERO",
@@ -2120,7 +2120,7 @@
       "url": "https://www.laganzua.net/conciertos/ginebras-zaragoza-1015980",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/ginebras-2027.jpg",
       "descripcion": "",
-      "visto": "2026-09-27"
+      "visto": "2026-09-29"
     },
     {
       "titulo": "RODRIGO CUEVAS",
