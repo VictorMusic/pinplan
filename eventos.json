@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-29T19:53:09.837552",
+  "actualizado": "2026-09-29T23:21:25.324416",
   "total": 220,
   "eventos": [
     {
@@ -1193,22 +1193,22 @@
       "visto": "2026-09-29"
     },
     {
-      "titulo": "Angel Stanich",
-      "fecha": "2026-11-07",
-      "hora": "20:00",
-      "sala": "Sala López",
-      "url": "https://www.laganzua.net/conciertos/angel-stanich-zaragoza-1014921",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/angel-stanich-2026.jpg",
-      "descripcion": "",
-      "visto": "2026-09-29"
-    },
-    {
       "titulo": "Ángel Stanich Band",
       "fecha": "2026-11-07",
       "hora": "20:00",
       "sala": "Sala López",
       "url": "https://aragonenvivo.com/evento/angel-stanich-band-3/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/Angel-Stanich-Band-Zaragoza-Cartel-scaled-2.webp",
+      "descripcion": "",
+      "visto": "2026-09-29"
+    },
+    {
+      "titulo": "Angel Stanich",
+      "fecha": "2026-11-07",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://www.laganzua.net/conciertos/angel-stanich-zaragoza-1014921",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/angel-stanich-2026.jpg",
       "descripcion": "",
       "visto": "2026-09-29"
     },
@@ -1490,7 +1490,7 @@
       "url": "https://www.laganzua.net/conciertos/abhir-zaragoza-1016225",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/abhir-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-26"
+      "visto": "2026-09-29"
     },
     {
       "titulo": "MOJOTHUNDER",
@@ -1766,9 +1766,9 @@
       "titulo": "Bunbury",
       "fecha": "2026-12-12",
       "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/bunbury/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.laganzua.net/conciertos/bunbury-zaragoza-1014963",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/bunbury-2026.jpg",
       "descripcion": "",
       "visto": "2026-09-29"
     },
@@ -1830,7 +1830,7 @@
       "url": "https://www.laganzua.net/conciertos/delacueva-zaragoza-1015250",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/delacueva-2025.jpg",
       "descripcion": "",
-      "visto": "2026-09-27"
+      "visto": "2026-09-29"
     },
     {
       "titulo": "SHAKE-A-ROUND LOS TORONTOS",
@@ -2090,7 +2090,7 @@
       "url": "https://www.laganzua.net/conciertos/mujeres-zaragoza-1015792",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/mujeres-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-27"
+      "visto": "2026-09-29"
     },
     {
       "titulo": "WDR Funkhausorchester",
