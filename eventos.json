@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-03T15:04:48.490715",
+  "actualizado": "2026-10-03T18:35:58.232979",
   "total": 210,
   "eventos": [
     {
@@ -43,22 +43,22 @@
       "visto": "2026-10-03"
     },
     {
-      "titulo": "HÖHLE ARENA",
-      "fecha": "2026-10-03",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/hohle-arena/?occurrence=2026-10-03",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/HohleArena_Banner.jpg",
-      "descripcion": "",
-      "visto": "2026-10-03"
-    },
-    {
       "titulo": "Sara Hebe",
       "fecha": "2026-10-03",
       "hora": "",
       "sala": "Sala López",
       "url": "https://www.setlist.fm/setlist/sara-hebe/2026/sala-lopez-zaragoza-spain-b7f198e.html",
       "imagen": "",
+      "descripcion": "",
+      "visto": "2026-10-03"
+    },
+    {
+      "titulo": "HÖHLE ARENA",
+      "fecha": "2026-10-03",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/hohle-arena/?occurrence=2026-10-03",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/HohleArena_Banner.jpg",
       "descripcion": "",
       "visto": "2026-10-03"
     },
@@ -1180,7 +1180,7 @@
       "url": "https://www.laganzua.net/conciertos/festival-zaragoza-feliz-feliz-2026-zaragoza-1016566",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/zaragoza-feliz-feliz-2026.jpg",
       "descripcion": "",
-      "visto": "2026-09-27"
+      "visto": "2026-10-03"
     },
     {
       "titulo": "THE DEL FUEGOS",
@@ -2050,7 +2050,7 @@
       "url": "https://www.laganzua.net/conciertos/balkan-paradise-orchestra-zaragoza-1016571",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/balkan-paradise-orchestra-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-02"
+      "visto": "2026-10-03"
     },
     {
       "titulo": "Anabel Lee",
