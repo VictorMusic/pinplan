@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T13:56:14.857651",
+  "actualizado": "2026-10-06T17:04:54.932943",
   "total": 213,
   "eventos": [
     {
@@ -1203,6 +1203,16 @@
       "visto": "2026-10-06"
     },
     {
+      "titulo": "Chiquita Movida",
+      "fecha": "2026-11-13",
+      "hora": "20:30",
+      "sala": "Sala López",
+      "url": "https://www.laganzua.net/conciertos/chiquita-movida-zaragoza-1016281",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/chiquita-movida-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-10-06"
+    },
+    {
       "titulo": "CEPEDA",
       "fecha": "2026-11-13",
       "hora": "20:30",
@@ -1211,16 +1221,6 @@
       "imagen": "https://aragonenvivo.com/wp-content/uploads/CEPEDA-13-NOV-2026-Zaragoza-Cuadrado-scaled-1.jpg",
       "descripcion": "",
       "visto": "2026-10-06"
-    },
-    {
-      "titulo": "Chiquita Movida",
-      "fecha": "2026-11-13",
-      "hora": "20:30",
-      "sala": "Sala López",
-      "url": "https://www.laganzua.net/conciertos/chiquita-movida-zaragoza-1016281",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/chiquita-movida-2026.jpg",
-      "descripcion": "",
-      "visto": "2026-10-02"
     },
     {
       "titulo": "ISAIAH SHARKEY",
@@ -1880,7 +1880,7 @@
       "url": "https://www.laganzua.net/conciertos/reality-zaragoza-1015677",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/reality-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-05"
+      "visto": "2026-10-06"
     },
     {
       "titulo": "BAND OF FRIENDS",
@@ -1930,7 +1930,7 @@
       "url": "https://www.laganzua.net/conciertos/levitants-zaragoza-1016647",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/the-levitants-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-04"
+      "visto": "2026-10-06"
     },
     {
       "titulo": "MOTOWN",
