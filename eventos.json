@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-06T01:05:48.588921",
-  "total": 199,
+  "actualizado": "2026-10-06T13:56:14.857651",
+  "total": 213,
   "eventos": [
     {
       "titulo": "ANDREW DUHON",
@@ -63,12 +63,42 @@
       "visto": "2026-10-06"
     },
     {
+      "titulo": "ALTA ROSA (FR)",
+      "fecha": "2026-10-08",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/alta-rosa-fr/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/793478573_2150752895537039_4835577617771560837_n.jpeg",
+      "descripcion": "",
+      "visto": "2026-10-06"
+    },
+    {
       "titulo": "Hard GZ",
       "fecha": "2026-10-08",
       "hora": "22:00",
       "sala": "Sala Oasis",
       "url": "https://aragonenvivo.com/evento/hard-gz-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/2a-zgz-post-scaled-4.webp",
+      "descripcion": "",
+      "visto": "2026-10-06"
+    },
+    {
+      "titulo": "ALTA ROSSA",
+      "fecha": "2026-10-08",
+      "hora": "",
+      "sala": "Sala Creedence",
+      "url": "https://www.setlist.fm/setlist/alta-rossa/2026/sala-creedence-zaragoza-spain-2b7110be.html",
+      "imagen": "",
+      "descripcion": "",
+      "visto": "2026-10-06"
+    },
+    {
+      "titulo": "The New Raemon",
+      "fecha": "2026-10-08",
+      "hora": "",
+      "sala": "La Lata de Bombillas",
+      "url": "https://www.setlist.fm/setlist/the-new-raemon/2026/la-lata-de-bombillas-zaragoza-spain-3b7e3890.html",
+      "imagen": "",
       "descripcion": "",
       "visto": "2026-10-06"
     },
@@ -109,6 +139,16 @@
       "sala": "La Casa del Loco",
       "url": "https://aragonenvivo.com/evento/el-roce-de-platero-5/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/A-3-PILAR-26-TRIB-FITO-PLATERO-Y-EXTREMODURO.CONCIERTOS-ZARAGOZA-PILAR2026-1448x2048-1.jpg",
+      "descripcion": "",
+      "visto": "2026-10-06"
+    },
+    {
+      "titulo": "THE SLEEVEENS (USA)",
+      "fecha": "2026-10-09",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/the-sleeveens-usa/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/793903246_1699860837769422_2614718129461979814_n.jpeg",
       "descripcion": "",
       "visto": "2026-10-06"
     },
@@ -179,6 +219,16 @@
       "sala": "Escenario Ambar Fuente De Goya",
       "url": "https://www.laganzua.net/conciertos/antonio-orozco-zaragoza-1017299",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/antonio-orozco-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-10-06"
+    },
+    {
+      "titulo": "LEYENDÄRIAN (BCN) + SPINO (ZGZ)",
+      "fecha": "2026-10-10",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/leyendarian-bcn-spino-zgz/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/786455574_1058507303254398_135965409578998536_n.jpeg",
       "descripcion": "",
       "visto": "2026-10-06"
     },
@@ -353,6 +403,16 @@
       "visto": "2026-10-06"
     },
     {
+      "titulo": "THE VEE BEES (AUSTRALIA)",
+      "fecha": "2026-10-12",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/the-vee-bees-australia/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/771803504_4428356977412169_6528142673730392326_n.jpeg",
+      "descripcion": "",
+      "visto": "2026-10-06"
+    },
+    {
       "titulo": "The Screamin’ Cheetah Wheelies",
       "fecha": "2026-10-12",
       "hora": "21:00",
@@ -451,6 +511,16 @@
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/the-lemon-twigs-2026.jpg",
       "descripcion": "",
       "visto": "2026-10-04"
+    },
+    {
+      "titulo": "THE DARTS (USA)",
+      "fecha": "2026-10-14",
+      "hora": "23:30",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/the-darts-usa-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/763831771_2496332387535344_2947063458227954154_n.jpeg",
+      "descripcion": "",
+      "visto": "2026-10-06"
     },
     {
       "titulo": "Concierto de Ryan Adams en Zaragoza",
@@ -613,6 +683,16 @@
       "visto": "2026-10-06"
     },
     {
+      "titulo": "MY SON THE DOCTOR (EEUU)",
+      "fecha": "2026-10-20",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/my-son-the-doctor-eeuu/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/785215798_2904829483216485_1304271030874442593_n.jpeg",
+      "descripcion": "",
+      "visto": "2026-10-06"
+    },
+    {
       "titulo": "HOSS&SWET 1987",
       "fecha": "2026-10-21",
       "hora": "",
@@ -649,6 +729,26 @@
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/hoss-swet-1987/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-133.webp",
+      "descripcion": "",
+      "visto": "2026-10-06"
+    },
+    {
+      "titulo": "CROCODILES (USA)",
+      "fecha": "2026-10-22",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/crocodiles-usa/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/784693917_1776348900872257_7153401168268090679_n.jpg",
+      "descripcion": "",
+      "visto": "2026-10-06"
+    },
+    {
+      "titulo": "KOMODOR",
+      "fecha": "2026-10-22",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2008",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/22-10-2026-KOMODOR/foto.jpg",
       "descripcion": "",
       "visto": "2026-10-06"
     },
@@ -723,6 +823,16 @@
       "visto": "2026-10-06"
     },
     {
+      "titulo": "REVENTADOR + RAUNCHY + POST PARTY",
+      "fecha": "2026-10-24",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/reventador-raunchy-post-party/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/CREEDENCE-1.png",
+      "descripcion": "",
+      "visto": "2026-10-06"
+    },
+    {
       "titulo": "KOMODOR",
       "fecha": "2026-10-24",
       "hora": "",
@@ -739,6 +849,16 @@
       "sala": "Belushi",
       "url": "https://aragonenvivo.com/evento/himar-armas-y-jorge-santos/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/20261025_Te-lo-dijo-A4-3.webp",
+      "descripcion": "",
+      "visto": "2026-10-06"
+    },
+    {
+      "titulo": "FACES OF DEATH (BRASIL)",
+      "fecha": "2026-10-25",
+      "hora": "19:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/faces-of-death-brasil/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_CARTEL_FACES.jpeg",
       "descripcion": "",
       "visto": "2026-10-06"
     },
@@ -843,6 +963,16 @@
       "visto": "2026-10-06"
     },
     {
+      "titulo": "MARLA SINGER + BANK + SOEZ",
+      "fecha": "2026-10-30",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/marla-singer-bank-soez/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m__.jpg",
+      "descripcion": "",
+      "visto": "2026-10-06"
+    },
+    {
       "titulo": "ESPECIAL DIA DE MUERTOS POR DIEGO MELENDEZ Y PAUL DEN HOLDER",
       "fecha": "2026-10-30",
       "hora": "21:30",
@@ -859,6 +989,16 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/julio-iglesias-experience-por-julio-iglesias-jr/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/11/1280X720-JULIO-IGLESIAS-JR-ZARAGOZA-AUDITORIO-DE-ZARAGOZA-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-10-06"
+    },
+    {
+      "titulo": "MR SANCHEZ en SALA CREEDENCE #RedDeSalas",
+      "fecha": "2026-10-31",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://aragonenvivo.com/evento/mr-sanchez-en-sala-creedence-reddesalas/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_MR._SANCHEZ_OCT26_Cartel__A3_vertical__.jpg",
       "descripcion": "",
       "visto": "2026-10-06"
     },
@@ -995,10 +1135,10 @@
     {
       "titulo": "DIRTY SOUND MAGNET",
       "fecha": "2026-11-07",
-      "hora": "21:00",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://aragonenvivo.com/evento/dirty-sound-magnet/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-135.webp",
+      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-dirty-sound-magnet-en-zaragoza",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/07-11-2026-DIRTY-SOUND-MAGNET/foto.jpg",
       "descripcion": "",
       "visto": "2026-10-06"
     },
@@ -1050,7 +1190,7 @@
       "url": "https://www.laganzua.net/conciertos/festival-zaragoza-feliz-feliz-2026-zaragoza-1016566",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/zaragoza-feliz-feliz-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-03"
+      "visto": "2026-10-06"
     },
     {
       "titulo": "THE DEL FUEGOS",
@@ -1083,22 +1223,22 @@
       "visto": "2026-10-02"
     },
     {
-      "titulo": "SOFIA ELLAR",
-      "fecha": "2026-11-13",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://aragonenvivo.com/evento/sofia-ellar/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/3280-3.webp",
-      "descripcion": "",
-      "visto": "2026-10-06"
-    },
-    {
       "titulo": "ISAIAH SHARKEY",
       "fecha": "2026-11-13",
       "hora": "21:00",
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/isaiah-sharkey/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Diseno-sin-titulo-6-wpv_400x400_center_center.png",
+      "descripcion": "",
+      "visto": "2026-10-06"
+    },
+    {
+      "titulo": "SOFIA ELLAR",
+      "fecha": "2026-11-13",
+      "hora": "21:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/sofia-ellar/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/3280-3.webp",
       "descripcion": "",
       "visto": "2026-10-06"
     },
@@ -1355,10 +1495,10 @@
     {
       "titulo": "FRANKIE AND THE WITCH FINGERS",
       "fecha": "2026-11-26",
-      "hora": "21:00",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://aragonenvivo.com/evento/frankie-and-the-witch-fingers/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-136.webp",
+      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-frankie-and-the-witch-fingers-en-zaragoza",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/26-11-2026-FRANKIE-AND-THE-WITCH-FINGERS/foto.jpg",
       "descripcion": "",
       "visto": "2026-10-06"
     },
@@ -1500,7 +1640,7 @@
       "url": "https://www.laganzua.net/conciertos/rebrote-zaragoza-1016517",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/rebrote-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-04"
+      "visto": "2026-10-06"
     },
     {
       "titulo": "BILLYWOOD CRACKERS",
@@ -1920,7 +2060,7 @@
       "url": "https://www.laganzua.net/conciertos/metrika-zaragoza-1017032",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/metrika-2027.jpg",
       "descripcion": "",
-      "visto": "2026-10-03"
+      "visto": "2026-10-06"
     },
     {
       "titulo": "Orquesta Sinfónica de Amberes",
