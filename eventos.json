@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-07T14:13:19.227985",
+  "actualizado": "2026-10-07T17:41:45.260917",
   "total": 235,
   "eventos": [
     {
@@ -1083,6 +1083,16 @@
       "visto": "2026-10-07"
     },
     {
+      "titulo": "Angel Stanich",
+      "fecha": "2026-11-07",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://www.laganzua.net/conciertos/angel-stanich-zaragoza-1014921",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/angel-stanich-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-10-07"
+    },
+    {
       "titulo": "Ángel Stanich Band",
       "fecha": "2026-11-07",
       "hora": "20:00",
@@ -1101,16 +1111,6 @@
       "imagen": "https://aragonenvivo.com/wp-content/uploads/Q-ws2Z-g-3.webp",
       "descripcion": "",
       "visto": "2026-10-06"
-    },
-    {
-      "titulo": "Angel Stanich",
-      "fecha": "2026-11-07",
-      "hora": "20:00",
-      "sala": "Sala López",
-      "url": "https://www.laganzua.net/conciertos/angel-stanich-zaragoza-1014921",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/angel-stanich-2026.jpg",
-      "descripcion": "",
-      "visto": "2026-10-04"
     },
     {
       "titulo": "SANTERO Y LOS MUCHACHOS",
@@ -1930,7 +1930,7 @@
       "url": "https://www.laganzua.net/conciertos/reality-zaragoza-1015677",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/reality-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-06"
+      "visto": "2026-10-07"
     },
     {
       "titulo": "BAND OF FRIENDS",
@@ -1990,7 +1990,7 @@
       "url": "https://www.laganzua.net/conciertos/levitants-zaragoza-1016647",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/the-levitants-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-06"
+      "visto": "2026-10-07"
     },
     {
       "titulo": "POLVORA",
