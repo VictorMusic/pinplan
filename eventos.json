@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T17:45:35.486113",
-  "total": 239,
+  "actualizado": "2026-10-08T20:34:26.241227",
+  "total": 241,
   "eventos": [
     {
       "titulo": "BEATRICE RANA",
@@ -48,6 +48,16 @@
       "hora": "",
       "sala": "Sala Creedence",
       "url": "https://www.setlist.fm/setlist/alta-rossa/2026/sala-creedence-zaragoza-spain-2b7110be.html",
+      "imagen": "",
+      "descripcion": "",
+      "visto": "2026-10-08"
+    },
+    {
+      "titulo": "Barry B",
+      "fecha": "2026-10-08",
+      "hora": "",
+      "sala": "Espacio Aura",
+      "url": "https://www.setlist.fm/setlist/barry-b/2026/espacio-aura-zaragoza-spain-537cb7ed.html",
       "imagen": "",
       "descripcion": "",
       "visto": "2026-10-08"
@@ -1233,6 +1243,16 @@
       "visto": "2026-10-06"
     },
     {
+      "titulo": "SKETCHES OF LATIN MILES",
+      "fecha": "2026-11-13",
+      "hora": "21:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/latin-miles/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Latin-Miles-wpv_400x400_center_center.png",
+      "descripcion": "",
+      "visto": "2026-10-08"
+    },
+    {
       "titulo": "ISAIAH SHARKEY",
       "fecha": "2026-11-13",
       "hora": "21:00",
@@ -1390,7 +1410,7 @@
       "url": "https://www.laganzua.net/conciertos/abhir-zaragoza-1016225",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/abhir-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-07"
+      "visto": "2026-10-08"
     },
     {
       "titulo": "MOJOTHUNDER",
@@ -2260,7 +2280,7 @@
       "url": "https://www.laganzua.net/conciertos/balkan-paradise-orchestra-zaragoza-1016571",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/balkan-paradise-orchestra-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-04"
+      "visto": "2026-10-08"
     },
     {
       "titulo": "Anabel Lee",
