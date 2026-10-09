@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T00:05:39.453597",
-  "total": 235,
+  "actualizado": "2026-10-09T14:08:25.698527",
+  "total": 236,
   "eventos": [
     {
       "titulo": "PLANETA WEST + WILLOWISP",
@@ -223,22 +223,22 @@
       "visto": "2026-10-09"
     },
     {
-      "titulo": "Sergio Dalma",
-      "fecha": "2026-10-11",
-      "hora": "21:00",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.laganzua.net/conciertos/sergio-dalma-zaragoza-1013635",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/sergio-dalma-2026.jpg",
-      "descripcion": "",
-      "visto": "2026-10-09"
-    },
-    {
       "titulo": "Dani Fernández",
       "fecha": "2026-10-11",
       "hora": "21:00",
       "sala": "Escenario Ambar Fuente De Goya",
       "url": "https://www.laganzua.net/conciertos/dani-fernandez-zaragoza-1017301",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/dani-fernandez-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-10-09"
+    },
+    {
+      "titulo": "Sergio Dalma",
+      "fecha": "2026-10-11",
+      "hora": "21:00",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.laganzua.net/conciertos/sergio-dalma-zaragoza-1013635",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/sergio-dalma-2026.jpg",
       "descripcion": "",
       "visto": "2026-10-09"
     },
@@ -2043,6 +2043,16 @@
       "visto": "2026-10-09"
     },
     {
+      "titulo": "FREDDIES KINGS",
+      "fecha": "2027-02-11",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2324",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/11-02-2027-FREDDIES-KINGS/foto.jpg",
+      "descripcion": "",
+      "visto": "2026-10-09"
+    },
+    {
       "titulo": "KIKO VENENO",
       "fecha": "2027-02-12",
       "hora": "20:00",
@@ -2220,7 +2230,7 @@
       "url": "https://www.laganzua.net/conciertos/anabel-lee-zaragoza-1017435",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/anabel-lee-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-08"
+      "visto": "2026-10-09"
     },
     {
       "titulo": "JODIE CASH",
