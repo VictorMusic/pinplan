@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T20:02:55.580188",
-  "total": 236,
+  "actualizado": "2026-10-09T23:46:05.327146",
+  "total": 240,
   "eventos": [
     {
       "titulo": "PLANETA WEST + WILLOWISP",
@@ -9,6 +9,16 @@
       "sala": "La Ley Seca",
       "url": "https://aragonenvivo.com/evento/planeta-west-willowisp/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/9-Viernes-21.00h-PLANETA-WEST-WILLOWISP-conciertos-zgz-la-ley-seca-724x1024-1.jpg",
+      "descripcion": "",
+      "visto": "2026-10-09"
+    },
+    {
+      "titulo": "Concierto de la Oreja de Van Gogh en Zaragoza",
+      "fecha": "2026-10-09",
+      "hora": "20:00",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.jacksonlive.es/concierto/concierto-de-la-oreja-de-van-gogh-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/470961760701199.jpg",
       "descripcion": "",
       "visto": "2026-10-09"
     },
@@ -433,12 +443,32 @@
       "visto": "2026-10-09"
     },
     {
+      "titulo": "Los Toreros Muertos",
+      "fecha": "2026-10-14",
+      "hora": "21:00",
+      "sala": "Estación del Norte",
+      "url": "https://www.laganzua.net/conciertos/los-toreros-muertos-dada-zaragoza-1017312",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/toreros-muertos-2025.jpg",
+      "descripcion": "",
+      "visto": "2026-10-09"
+    },
+    {
       "titulo": "THE DARTS (USA)",
       "fecha": "2026-10-14",
       "hora": "23:30",
       "sala": "Sala Creedence",
       "url": "https://aragonenvivo.com/evento/the-darts-usa-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/763831771_2496332387535344_2947063458227954154_n.jpeg",
+      "descripcion": "",
+      "visto": "2026-10-09"
+    },
+    {
+      "titulo": "Ryan Adams",
+      "fecha": "2026-10-15",
+      "hora": "20:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://www.laganzua.net/conciertos/ryan-adams-zaragoza-1016003",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/ryan-adams-2026.jpg",
       "descripcion": "",
       "visto": "2026-10-09"
     },
@@ -459,6 +489,16 @@
       "sala": "La Casa del Loco",
       "url": "https://aragonenvivo.com/evento/savaged-strangers-knightsune/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/el-batallador-15-oct-2026-scaled-1.jpeg",
+      "descripcion": "",
+      "visto": "2026-10-09"
+    },
+    {
+      "titulo": "Saiko",
+      "fecha": "2026-10-15",
+      "hora": "21:00",
+      "sala": "Espacio Zity",
+      "url": "https://www.laganzua.net/conciertos/saiko-la-pantera-chimeno-zaragoza-1017295",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/saiko-2025.jpg",
       "descripcion": "",
       "visto": "2026-10-09"
     },
@@ -1800,7 +1840,7 @@
       "url": "https://www.laganzua.net/conciertos/modelo-zaragoza-1016056",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/modelo-band-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-07"
+      "visto": "2026-10-09"
     },
     {
       "titulo": "LOS SWINGIN CALAVERAS",
@@ -1910,7 +1950,7 @@
       "url": "https://www.laganzua.net/conciertos/reality-zaragoza-1015677",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/reality-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-08"
+      "visto": "2026-10-09"
     },
     {
       "titulo": "BAND OF FRIENDS",
