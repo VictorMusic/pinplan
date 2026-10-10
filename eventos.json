@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-10T19:11:16.646821",
-  "total": 232,
+  "actualizado": "2026-10-10T23:08:37.886964",
+  "total": 238,
   "eventos": [
     {
       "titulo": "ZGZ VINYL SESSIONS, CHAPTER",
@@ -83,12 +83,22 @@
       "visto": "2026-10-10"
     },
     {
-      "titulo": "INTRUSOS",
+      "titulo": "Concierto de la Oreja de Van Gogh en Zaragoza (Segunda Fecha)",
+      "fecha": "2026-10-10",
+      "hora": "22:00",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.jacksonlive.es/concierto/concierto-de-la-oreja-de-van-gogh-en-zaragoza-segunda-fecha",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/470961760701199.jpg",
+      "descripcion": "",
+      "visto": "2026-10-10"
+    },
+    {
+      "titulo": "El Aviador Dro",
       "fecha": "2026-10-10",
       "hora": "",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2206",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/10-10-2026-INTRUSOS/foto.jpg",
+      "sala": "Sala López",
+      "url": "https://www.setlist.fm/setlist/el-aviador-dro/2026/sala-lopez-zaragoza-spain-b7f1982.html",
+      "imagen": "",
       "descripcion": "",
       "visto": "2026-10-10"
     },
@@ -113,12 +123,12 @@
       "visto": "2026-10-10"
     },
     {
-      "titulo": "El Aviador Dro",
+      "titulo": "INTRUSOS",
       "fecha": "2026-10-10",
       "hora": "",
-      "sala": "Sala López",
-      "url": "https://www.setlist.fm/setlist/el-aviador-dro/2026/sala-lopez-zaragoza-spain-b7f1982.html",
-      "imagen": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2206",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/10-10-2026-INTRUSOS/foto.jpg",
       "descripcion": "",
       "visto": "2026-10-10"
     },
@@ -410,7 +420,27 @@
       "url": "https://www.laganzua.net/conciertos/saiko-la-pantera-chimeno-zaragoza-1017295",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/saiko-2025.jpg",
       "descripcion": "",
-      "visto": "2026-10-09"
+      "visto": "2026-10-10"
+    },
+    {
+      "titulo": "Cimafunk",
+      "fecha": "2026-10-15",
+      "hora": "21:00",
+      "sala": "Estación del Norte",
+      "url": "https://www.laganzua.net/conciertos/cimafunk-the-windy-sioux-zaragoza-1017305",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/cimafunk-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-10-10"
+    },
+    {
+      "titulo": "Rufus T. Firefly",
+      "fecha": "2026-10-15",
+      "hora": "21:00",
+      "sala": "Jardín de Invierno",
+      "url": "https://www.laganzua.net/conciertos/rufus-t-firefly-the-fractal-sound-zaragoza-1017306",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/rufus-t-firefly-2025.jpg",
+      "descripcion": "",
+      "visto": "2026-10-10"
     },
     {
       "titulo": "CRISTALES ROTOS+ LUNA DE MARTE",
@@ -423,12 +453,42 @@
       "visto": "2026-10-10"
     },
     {
+      "titulo": "Umbra",
+      "fecha": "2026-10-16",
+      "hora": "20:00",
+      "sala": "Estación del Norte",
+      "url": "https://www.laganzua.net/conciertos/umbra-celtian-zaragoza-1017684",
+      "imagen": "",
+      "descripcion": "",
+      "visto": "2026-10-10"
+    },
+    {
       "titulo": "HOMBRES B- Tributo a HOMBRES G",
       "fecha": "2026-10-16",
       "hora": "21:00",
       "sala": "La Casa del Loco",
       "url": "https://aragonenvivo.com/evento/hombres-b-tributo-a-hombres-g-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/V16-OCT-2026-HOMBRES-B-TRIB-HOMBRES-G-ZGZ-2026-1448x2048-1.jpg",
+      "descripcion": "",
+      "visto": "2026-10-10"
+    },
+    {
+      "titulo": "Celtian",
+      "fecha": "2026-10-16",
+      "hora": "21:00",
+      "sala": "Estación del Norte",
+      "url": "https://www.laganzua.net/conciertos/celtian-umbra-zaragoza-1017307",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/celtian-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-10-10"
+    },
+    {
+      "titulo": "Electrolatino By Juan Magán Zaragoza",
+      "fecha": "2026-10-16",
+      "hora": "21:00",
+      "sala": "Espacio Zity",
+      "url": "https://www.laganzua.net/conciertos/electrolatino-by-juan-magan-zaragoza-zaragoza-1017296",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/electrolatino-juan-magan.jpg",
       "descripcion": "",
       "visto": "2026-10-10"
     },
@@ -993,12 +1053,12 @@
       "visto": "2026-10-10"
     },
     {
-      "titulo": "Ángel Stanich Band",
+      "titulo": "Angel Stanich",
       "fecha": "2026-11-07",
       "hora": "20:00",
       "sala": "Sala López",
-      "url": "https://aragonenvivo.com/evento/angel-stanich-band-3/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Angel-Stanich-Band-Zaragoza-Cartel-scaled-2.webp",
+      "url": "https://www.laganzua.net/conciertos/angel-stanich-zaragoza-1014921",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/angel-stanich-2026.jpg",
       "descripcion": "",
       "visto": "2026-10-10"
     },
@@ -1013,12 +1073,12 @@
       "visto": "2026-10-10"
     },
     {
-      "titulo": "Angel Stanich",
+      "titulo": "Ángel Stanich Band",
       "fecha": "2026-11-07",
       "hora": "20:00",
       "sala": "Sala López",
-      "url": "https://www.laganzua.net/conciertos/angel-stanich-zaragoza-1014921",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/angel-stanich-2026.jpg",
+      "url": "https://aragonenvivo.com/evento/angel-stanich-band-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Angel-Stanich-Band-Zaragoza-Cartel-scaled-2.webp",
       "descripcion": "",
       "visto": "2026-10-10"
     },
