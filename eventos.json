@@ -1,7 +1,17 @@
 {
-  "actualizado": "2026-10-11T19:24:53.848698",
-  "total": 229,
+  "actualizado": "2026-10-11T23:21:30.715830",
+  "total": 232,
   "eventos": [
+    {
+      "titulo": "Concierto de Sergio Dalma en Zaragoza",
+      "fecha": "2026-10-11",
+      "hora": "20:00",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.jacksonlive.es/concierto/concierto-de-sergio-dalma-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/474761762171804.jpg",
+      "descripcion": "",
+      "visto": "2026-10-11"
+    },
     {
       "titulo": "LOS 10 GRANDES DEL CINE",
       "fecha": "2026-10-11",
@@ -9,16 +19,6 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/los-10-grandes-del-cine-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/02/WEB-ZARA-10-GRANDES-CINE-1200x675-11-OCT-wpv_400x400_center_center.jpg",
-      "descripcion": "",
-      "visto": "2026-10-11"
-    },
-    {
-      "titulo": "Dani Fernández",
-      "fecha": "2026-10-11",
-      "hora": "21:00",
-      "sala": "Escenario Ambar Fuente De Goya",
-      "url": "https://www.laganzua.net/conciertos/dani-fernandez-zaragoza-1017301",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/dani-fernandez-2026.jpg",
       "descripcion": "",
       "visto": "2026-10-11"
     },
@@ -49,6 +49,16 @@
       "sala": "La Ley Seca",
       "url": "https://aragonenvivo.com/evento/lacosta-dj/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/ley-seca-LOGO-1.jpg",
+      "descripcion": "",
+      "visto": "2026-10-11"
+    },
+    {
+      "titulo": "Dani Fernández",
+      "fecha": "2026-10-11",
+      "hora": "",
+      "sala": "Espacio Exterior",
+      "url": "https://www.setlist.fm/setlist/dani-fernandez/2026/plaza-de-nuestra-senora-del-pilar-zaragoza-spain-537f4399.html",
+      "imagen": "",
       "descripcion": "",
       "visto": "2026-10-11"
     },
@@ -419,6 +429,26 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/una-noche-unica-jota-y-zarzuela/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/ainhoa-arteta-9-1024x683-1-wpv_400x400_center_center.jpeg",
+      "descripcion": "",
+      "visto": "2026-10-11"
+    },
+    {
+      "titulo": "Iñigo Quintero",
+      "fecha": "2026-10-17",
+      "hora": "21:00",
+      "sala": "Estación del Norte",
+      "url": "https://www.laganzua.net/conciertos/inigo-quintero-zaragoza-1017308",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/inigo-quintero-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-10-11"
+    },
+    {
+      "titulo": "Malú",
+      "fecha": "2026-10-17",
+      "hora": "21:00",
+      "sala": "Escenario Ambar Fuente De Goya",
+      "url": "https://www.laganzua.net/conciertos/malu-zaragoza-1017309",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/malu-2026.jpg",
       "descripcion": "",
       "visto": "2026-10-11"
     },
@@ -1340,7 +1370,7 @@
       "url": "https://www.laganzua.net/conciertos/ruslana-zaragoza-1016088",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/ruslana-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-07"
+      "visto": "2026-10-11"
     },
     {
       "titulo": "AY TRICK",
@@ -1546,9 +1576,9 @@
       "titulo": "Bunbury",
       "fecha": "2026-12-12",
       "hora": "20:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.laganzua.net/conciertos/bunbury-zaragoza-1014963",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/bunbury-2026.jpg",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": "",
       "visto": "2026-10-11"
     },
@@ -2020,7 +2050,7 @@
       "url": "https://www.laganzua.net/conciertos/mujeres-zaragoza-1015792",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/mujeres-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-06"
+      "visto": "2026-10-11"
     },
     {
       "titulo": "CRETINO & THE CRETINERS",
