@@ -1,7 +1,17 @@
 {
-  "actualizado": "2026-10-12T20:08:57.055724",
-  "total": 226,
+  "actualizado": "2026-10-12T22:26:37.386194",
+  "total": 231,
   "eventos": [
+    {
+      "titulo": "Concierto de Los Kjarkas en Zaragoza",
+      "fecha": "2026-10-12",
+      "hora": "19:00",
+      "sala": "Garden Discoteca",
+      "url": "https://www.jacksonlive.es/concierto/concierto-de-los-kjarkas-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/530231788842884.jpg",
+      "descripcion": "",
+      "visto": "2026-10-12"
+    },
     {
       "titulo": "Los Kjarkas",
       "fecha": "2026-10-12",
@@ -9,26 +19,6 @@
       "sala": "Garden Discoteca",
       "url": "https://www.laganzua.net/conciertos/los-kjarkas-zaragoza-1016999",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/los-kjarkas.jpg",
-      "descripcion": "",
-      "visto": "2026-10-12"
-    },
-    {
-      "titulo": "Teenage Fanclub",
-      "fecha": "2026-10-12",
-      "hora": "20:00",
-      "sala": "Jardines De Invierno",
-      "url": "https://www.laganzua.net/conciertos/teenage-fanclub-zaragoza-1015620",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/teenage-funclub-2026.jpg",
-      "descripcion": "",
-      "visto": "2026-10-12"
-    },
-    {
-      "titulo": "THIS IS MICHAEL",
-      "fecha": "2026-10-12",
-      "hora": "20:30",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/this-is-michael-2/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/THIS-IS-MICHAEL-wpv_400x400_center_center.png",
       "descripcion": "",
       "visto": "2026-10-12"
     },
@@ -53,26 +43,6 @@
       "visto": "2026-10-12"
     },
     {
-      "titulo": "Ana Mena",
-      "fecha": "2026-10-12",
-      "hora": "21:00",
-      "sala": "Espacio Zity",
-      "url": "https://www.laganzua.net/conciertos/ana-mena-marina-reche-zaragoza-1017292",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/ana-mena-2026.jpg",
-      "descripcion": "",
-      "visto": "2026-10-12"
-    },
-    {
-      "titulo": "The Screamin’ Cheetah Wheelies",
-      "fecha": "2026-10-12",
-      "hora": "21:00",
-      "sala": "Estación del Norte",
-      "url": "https://www.laganzua.net/conciertos/the-screamin-cheetah-wheelies-zaragoza-1017254",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/the-screamin-cheetah-wheelies-2026.jpg",
-      "descripcion": "",
-      "visto": "2026-10-12"
-    },
-    {
       "titulo": "Camela",
       "fecha": "2026-10-12",
       "hora": "21:00",
@@ -88,6 +58,46 @@
       "hora": "",
       "sala": "Recinto Ferial de Valdespartera",
       "url": "https://www.setlist.fm/setlist/marina-reche/2026/recinto-ferial-de-valdespartera-zaragoza-spain-737012e5.html",
+      "imagen": "",
+      "descripcion": "",
+      "visto": "2026-10-12"
+    },
+    {
+      "titulo": "Ana Mena",
+      "fecha": "2026-10-12",
+      "hora": "",
+      "sala": "Recinto Ferial de Valdespartera",
+      "url": "https://www.setlist.fm/setlist/ana-mena/2026/recinto-ferial-de-valdespartera-zaragoza-spain-6b7012e6.html",
+      "imagen": "",
+      "descripcion": "",
+      "visto": "2026-10-12"
+    },
+    {
+      "titulo": "This is Michael",
+      "fecha": "2026-10-12",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://www.setlist.fm/setlist/this-is-michael/2026/sala-mozart-zaragoza-spain-437cafeb.html",
+      "imagen": "",
+      "descripcion": "",
+      "visto": "2026-10-12"
+    },
+    {
+      "titulo": "The Screamin’ Cheetah Wheelies",
+      "fecha": "2026-10-12",
+      "hora": "",
+      "sala": "Estación del Norte",
+      "url": "https://www.setlist.fm/setlist/the-screamin-cheetah-wheelies/2026/explanada-del-centro-civico-estacion-del-norte-zaragoza-spain-337e5c31.html",
+      "imagen": "",
+      "descripcion": "",
+      "visto": "2026-10-12"
+    },
+    {
+      "titulo": "Teenage Fanclub",
+      "fecha": "2026-10-12",
+      "hora": "",
+      "sala": "Jardín de Invierno",
+      "url": "https://www.setlist.fm/setlist/teenage-fanclub/2026/jardin-de-invierno-zaragoza-spain-1349013d.html",
       "imagen": "",
       "descripcion": "",
       "visto": "2026-10-12"
@@ -393,12 +403,32 @@
       "visto": "2026-10-12"
     },
     {
+      "titulo": "Cervatana",
+      "fecha": "2026-10-17",
+      "hora": "21:00",
+      "sala": "Jardín de Invierno",
+      "url": "https://www.laganzua.net/conciertos/cervatana-bela-sandor-zaragoza-1017310",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/cervatana-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-10-12"
+    },
+    {
       "titulo": "IBERIA SUMERGIDA",
       "fecha": "2026-10-17",
       "hora": "21:30",
       "sala": "La Casa del Loco",
       "url": "https://aragonenvivo.com/evento/iberia-sumergida-3/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_3f717c77-1142-4fb1-803f-71a217b942e1.jpg",
+      "descripcion": "",
+      "visto": "2026-10-12"
+    },
+    {
+      "titulo": "Omar Courtz",
+      "fecha": "2026-10-17",
+      "hora": "22:00",
+      "sala": "Espacio Zity",
+      "url": "https://www.laganzua.net/conciertos/omar-courtz-zaragoza-1017297",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/omar-courtz-2026.jpg",
       "descripcion": "",
       "visto": "2026-10-12"
     },
@@ -439,6 +469,16 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/silvia-perez-cruz-3-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/02/WEB-ZARA-DJ-SYMPHONIC-1200x675-18-OCT-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-10-12"
+    },
+    {
+      "titulo": "Sharif",
+      "fecha": "2026-10-18",
+      "hora": "21:00",
+      "sala": "Estación del Norte",
+      "url": "https://www.laganzua.net/conciertos/sharif-rapsusklei-zaragoza-1017311",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/sharif-rapsusklei.jpg",
       "descripcion": "",
       "visto": "2026-10-12"
     },
@@ -539,6 +579,16 @@
       "sala": "Sala Creedence",
       "url": "https://aragonenvivo.com/evento/crocodiles-usa/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/784693917_1776348900872257_7153401168268090679_n.jpg",
+      "descripcion": "",
+      "visto": "2026-10-12"
+    },
+    {
+      "titulo": "Baloncesto",
+      "fecha": "2026-10-22",
+      "hora": "21:00",
+      "sala": "La Lata de Bombillas",
+      "url": "https://www.laganzua.net/conciertos/baloncesto-zaragoza-1016736",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/baloncesto-2026.jpg",
       "descripcion": "",
       "visto": "2026-10-12"
     },
@@ -1050,7 +1100,7 @@
       "url": "https://www.laganzua.net/conciertos/chiquita-movida-zaragoza-1016281",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/chiquita-movida-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-11"
+      "visto": "2026-10-12"
     },
     {
       "titulo": "SOFIA ELLAR",
@@ -1220,7 +1270,7 @@
       "url": "https://www.laganzua.net/conciertos/abhir-zaragoza-1016225",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/abhir-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-10"
+      "visto": "2026-10-12"
     },
     {
       "titulo": "MOJOTHUNDER",
@@ -1560,7 +1610,7 @@
       "url": "https://www.laganzua.net/conciertos/fernandocosta-zaragoza-1015770",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/fernandocosta-2025.jpg",
       "descripcion": "",
-      "visto": "2026-10-10"
+      "visto": "2026-10-12"
     },
     {
       "titulo": "Delacueva",
