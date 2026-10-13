@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-13T01:46:06.724154",
-  "total": 223,
+  "actualizado": "2026-10-13T14:48:32.401820",
+  "total": 229,
   "eventos": [
     {
       "titulo": "Taburete",
@@ -143,6 +143,16 @@
       "visto": "2026-10-13"
     },
     {
+      "titulo": "Tortugas Lindas",
+      "fecha": "2026-10-15",
+      "hora": "20:30",
+      "sala": "La Lata de Bombillas",
+      "url": "https://aragonenvivo.com/evento/tortugas-lindas/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/phpThumb_generated_thumbnail-10.jpg",
+      "descripcion": "",
+      "visto": "2026-10-13"
+    },
+    {
       "titulo": "Concierto de Ryan Adams en Zaragoza",
       "fecha": "2026-10-15",
       "hora": "20:30",
@@ -213,6 +223,16 @@
       "visto": "2026-10-13"
     },
     {
+      "titulo": "Mod Lang (USA)",
+      "fecha": "2026-10-16",
+      "hora": "20:30",
+      "sala": "La Lata de Bombillas",
+      "url": "https://aragonenvivo.com/evento/mod-lang-usa/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/phpThumb_generated_thumbnail-11.jpg",
+      "descripcion": "",
+      "visto": "2026-10-13"
+    },
+    {
       "titulo": "HOMBRES B- Tributo a HOMBRES G",
       "fecha": "2026-10-16",
       "hora": "21:00",
@@ -263,12 +283,32 @@
       "visto": "2026-10-13"
     },
     {
+      "titulo": "LOBO ANDRADE",
+      "fecha": "2026-10-17",
+      "hora": "12:30",
+      "sala": "Rock & Blues Café",
+      "url": "https://aragonenvivo.com/evento/lobo-andrade/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/cartelweb-9-3.jpg",
+      "descripcion": "",
+      "visto": "2026-10-13"
+    },
+    {
       "titulo": "PROTOCOLO- La Belloch Teatro (Madrid)",
       "fecha": "2026-10-17",
       "hora": "19:00",
       "sala": "Teatro de la Estación",
       "url": "https://aragonenvivo.com/evento/protocolo-la-belloch-teatro-madrid/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/Beatriz-Arguello-Ernesto-Arias-Protocolo-1-scaled.jpg",
+      "descripcion": "",
+      "visto": "2026-10-13"
+    },
+    {
+      "titulo": "Los Thunder",
+      "fecha": "2026-10-17",
+      "hora": "19:00",
+      "sala": "La Lata de Bombillas",
+      "url": "https://aragonenvivo.com/evento/los-thunder/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/phpThumb_generated_thumbnail-12.jpg",
       "descripcion": "",
       "visto": "2026-10-13"
     },
@@ -343,12 +383,22 @@
       "visto": "2026-10-13"
     },
     {
-      "titulo": "LOBO ANDRADE",
-      "fecha": "2026-10-17",
-      "hora": "",
+      "titulo": "SEVEN",
+      "fecha": "2026-10-18",
+      "hora": "12:30",
       "sala": "Rock & Blues Café",
-      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2177",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/17-10-2026-LOBO-ANDRADE/foto.jpg",
+      "url": "https://aragonenvivo.com/evento/seven-4/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/cartelweb-10-3.jpg",
+      "descripcion": "",
+      "visto": "2026-10-13"
+    },
+    {
+      "titulo": "MATT WOODS",
+      "fecha": "2026-10-18",
+      "hora": "19:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://aragonenvivo.com/evento/matt-woods-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/cartelweb-11-3.jpg",
       "descripcion": "",
       "visto": "2026-10-13"
     },
@@ -389,16 +439,6 @@
       "sala": "Rock & Blues Café",
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2266",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/18-10-2026-SEVEN-(-TRIBUTO-A-SABINA-)/foto.jpg",
-      "descripcion": "",
-      "visto": "2026-10-13"
-    },
-    {
-      "titulo": "MATT WOODS",
-      "fecha": "2026-10-18",
-      "hora": "",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2084",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/18-10-2026-MATT-WOODS/foto.jpg",
       "descripcion": "",
       "visto": "2026-10-13"
     },
@@ -473,6 +513,16 @@
       "visto": "2026-10-13"
     },
     {
+      "titulo": "KOMODOR",
+      "fecha": "2026-10-22",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://aragonenvivo.com/evento/komodor/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/cartelweb-12-2.jpg",
+      "descripcion": "",
+      "visto": "2026-10-13"
+    },
+    {
       "titulo": "CROCODILES (USA)",
       "fecha": "2026-10-22",
       "hora": "21:00",
@@ -489,16 +539,6 @@
       "sala": "La Lata de Bombillas",
       "url": "https://www.laganzua.net/conciertos/baloncesto-zaragoza-1016736",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/baloncesto-2026.jpg",
-      "descripcion": "",
-      "visto": "2026-10-13"
-    },
-    {
-      "titulo": "KOMODOR",
-      "fecha": "2026-10-22",
-      "hora": "",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2008",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/22-10-2026-KOMODOR/foto.jpg",
       "descripcion": "",
       "visto": "2026-10-13"
     },
@@ -613,12 +653,32 @@
       "visto": "2026-10-13"
     },
     {
+      "titulo": "Dharmacide",
+      "fecha": "2026-10-25",
+      "hora": "19:00",
+      "sala": "La Lata de Bombillas",
+      "url": "https://aragonenvivo.com/evento/dharmacide-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_IMG_9085.jpeg",
+      "descripcion": "",
+      "visto": "2026-10-13"
+    },
+    {
       "titulo": "CELIA CARBALLO",
       "fecha": "2026-10-25",
       "hora": "",
       "sala": "Rock & Blues Café",
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2094",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/25-10-2026-CELIA-CARBALLO/foto.jpg",
+      "descripcion": "",
+      "visto": "2026-10-13"
+    },
+    {
+      "titulo": "20/20",
+      "fecha": "2026-10-26",
+      "hora": "21:00",
+      "sala": "La Lata de Bombillas",
+      "url": "https://aragonenvivo.com/evento/20-20/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/s_poster.webp",
       "descripcion": "",
       "visto": "2026-10-13"
     },
@@ -863,12 +923,12 @@
       "visto": "2026-10-13"
     },
     {
-      "titulo": "Angel Stanich",
+      "titulo": "Ángel Stanich Band",
       "fecha": "2026-11-07",
       "hora": "20:00",
       "sala": "Sala López",
-      "url": "https://www.laganzua.net/conciertos/angel-stanich-zaragoza-1014921",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/angel-stanich-2026.jpg",
+      "url": "https://aragonenvivo.com/evento/angel-stanich-band-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Angel-Stanich-Band-Zaragoza-Cartel-scaled-2.webp",
       "descripcion": "",
       "visto": "2026-10-13"
     },
@@ -883,14 +943,14 @@
       "visto": "2026-10-13"
     },
     {
-      "titulo": "Ángel Stanich Band",
+      "titulo": "Angel Stanich",
       "fecha": "2026-11-07",
       "hora": "20:00",
       "sala": "Sala López",
-      "url": "https://aragonenvivo.com/evento/angel-stanich-band-3/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Angel-Stanich-Band-Zaragoza-Cartel-scaled-2.webp",
+      "url": "https://www.laganzua.net/conciertos/angel-stanich-zaragoza-1014921",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/angel-stanich-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-12"
+      "visto": "2026-10-13"
     },
     {
       "titulo": "SANTERO Y LOS MUCHACHOS",
@@ -970,7 +1030,7 @@
       "url": "https://www.laganzua.net/conciertos/festival-zaragoza-feliz-feliz-2026-zaragoza-1016566",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/zaragoza-feliz-feliz-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-12"
+      "visto": "2026-10-13"
     },
     {
       "titulo": "THE DEL FUEGOS",
@@ -1003,22 +1063,22 @@
       "visto": "2026-10-12"
     },
     {
-      "titulo": "SOFIA ELLAR",
-      "fecha": "2026-11-13",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://aragonenvivo.com/evento/sofia-ellar/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/3280-3.webp",
-      "descripcion": "",
-      "visto": "2026-10-13"
-    },
-    {
       "titulo": "SKETCHES OF LATIN MILES",
       "fecha": "2026-11-13",
       "hora": "21:00",
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/latin-miles/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Latin-Miles-wpv_400x400_center_center.png",
+      "descripcion": "",
+      "visto": "2026-10-13"
+    },
+    {
+      "titulo": "SOFIA ELLAR",
+      "fecha": "2026-11-13",
+      "hora": "21:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/sofia-ellar/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/3280-3.webp",
       "descripcion": "",
       "visto": "2026-10-13"
     },
@@ -1285,10 +1345,10 @@
     {
       "titulo": "FRANKIE AND THE WITCH FINGERS",
       "fecha": "2026-11-26",
-      "hora": "21:00",
+      "hora": "",
       "sala": "Rock & Blues Café",
-      "url": "https://aragonenvivo.com/evento/frankie-and-the-witch-fingers/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-136.webp",
+      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-frankie-and-the-witch-fingers-en-zaragoza",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/26-11-2026-FRANKIE-AND-THE-WITCH-FINGERS/foto.jpg",
       "descripcion": "",
       "visto": "2026-10-13"
     },
@@ -1466,9 +1526,9 @@
       "titulo": "Bunbury",
       "fecha": "2026-12-12",
       "hora": "20:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.laganzua.net/conciertos/bunbury-zaragoza-1014963",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/bunbury-2026.jpg",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": "",
       "visto": "2026-10-13"
     },
@@ -1750,7 +1810,7 @@
       "url": "https://www.laganzua.net/conciertos/reality-zaragoza-1015677",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/reality-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-09"
+      "visto": "2026-10-13"
     },
     {
       "titulo": "BAND OF FRIENDS",
@@ -2040,7 +2100,7 @@
       "url": "https://www.laganzua.net/conciertos/metrika-zaragoza-1017032",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/metrika-2027.jpg",
       "descripcion": "",
-      "visto": "2026-10-11"
+      "visto": "2026-10-13"
     },
     {
       "titulo": "Orquesta Sinfónica de Amberes",
