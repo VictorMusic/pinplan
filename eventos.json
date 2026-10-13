@@ -1,17 +1,7 @@
 {
-  "actualizado": "2026-10-13T20:33:54.247372",
+  "actualizado": "2026-10-13T23:33:42.805757",
   "total": 229,
   "eventos": [
-    {
-      "titulo": "Taburete",
-      "fecha": "2026-10-13",
-      "hora": "20:00",
-      "sala": "Espacio Zity",
-      "url": "https://www.laganzua.net/conciertos/taburete-alvaro-de-luna-hey-kid-zaragoza-1017293",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/taburete-2026.jpg",
-      "descripcion": "",
-      "visto": "2026-10-13"
-    },
     {
       "titulo": "B VOCAL",
       "fecha": "2026-10-13",
@@ -38,6 +28,16 @@
       "hora": "",
       "sala": "Recinto Ferial de Valdespartera",
       "url": "https://www.setlist.fm/setlist/alvaro-de-luna/2026/recinto-ferial-de-valdespartera-zaragoza-spain-337230e1.html",
+      "imagen": "",
+      "descripcion": "",
+      "visto": "2026-10-13"
+    },
+    {
+      "titulo": "Taburete",
+      "fecha": "2026-10-13",
+      "hora": "",
+      "sala": "Recinto Ferial de Valdespartera",
+      "url": "https://www.setlist.fm/setlist/taburete/2026/recinto-ferial-de-valdespartera-zaragoza-spain-2b7230e2.html",
       "imagen": "",
       "descripcion": "",
       "visto": "2026-10-13"
