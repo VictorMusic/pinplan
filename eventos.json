@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14T15:43:32.928222",
+  "actualizado": "2026-10-14T19:14:41.528505",
   "total": 228,
   "eventos": [
     {
@@ -123,6 +123,16 @@
       "visto": "2026-10-14"
     },
     {
+      "titulo": "Rufus T. Firefly",
+      "fecha": "2026-10-15",
+      "hora": "21:00",
+      "sala": "Jardín de Invierno",
+      "url": "https://www.laganzua.net/conciertos/rufus-t-firefly-the-fractal-sound-zaragoza-1017306",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/rufus-t-firefly-2025.jpg",
+      "descripcion": "",
+      "visto": "2026-10-14"
+    },
+    {
       "titulo": "Saiko",
       "fecha": "2026-10-15",
       "hora": "21:00",
@@ -139,16 +149,6 @@
       "sala": "Estación del Norte",
       "url": "https://www.laganzua.net/conciertos/cimafunk-the-windy-sioux-zaragoza-1017305",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/cimafunk-2026.jpg",
-      "descripcion": "",
-      "visto": "2026-10-14"
-    },
-    {
-      "titulo": "Rufus T. Firefly",
-      "fecha": "2026-10-15",
-      "hora": "21:00",
-      "sala": "Jardín de Invierno",
-      "url": "https://www.laganzua.net/conciertos/rufus-t-firefly-the-fractal-sound-zaragoza-1017306",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/rufus-t-firefly-2025.jpg",
       "descripcion": "",
       "visto": "2026-10-14"
     },
@@ -1690,7 +1690,7 @@
       "url": "https://www.laganzua.net/conciertos/modelo-zaragoza-1016056",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/modelo-band-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-11"
+      "visto": "2026-10-14"
     },
     {
       "titulo": "LOS SWINGIN CALAVERAS",
