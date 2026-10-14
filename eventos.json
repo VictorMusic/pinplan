@@ -1,17 +1,7 @@
 {
-  "actualizado": "2026-10-14T19:14:41.528505",
-  "total": 228,
+  "actualizado": "2026-10-14T22:55:49.285715",
+  "total": 229,
   "eventos": [
-    {
-      "titulo": "Love Of Lesbian",
-      "fecha": "2026-10-14",
-      "hora": "20:00",
-      "sala": "Espacio Zity",
-      "url": "https://www.laganzua.net/conciertos/love-of-lesbian-dorian-leon-benavente-zaragoza-1017294",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/love-of-lesbian-2026g.jpg",
-      "descripcion": "",
-      "visto": "2026-10-14"
-    },
     {
       "titulo": "Love of Lesbian en Zaragoza",
       "fecha": "2026-10-14",
@@ -23,22 +13,22 @@
       "visto": "2026-10-14"
     },
     {
+      "titulo": "Love Of Lesbian",
+      "fecha": "2026-10-14",
+      "hora": "20:00",
+      "sala": "Espacio Zity",
+      "url": "https://www.laganzua.net/conciertos/love-of-lesbian-dorian-leon-benavente-zaragoza-1017294",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/love-of-lesbian-2026g.jpg",
+      "descripcion": "",
+      "visto": "2026-10-14"
+    },
+    {
       "titulo": "B VOCAL",
       "fecha": "2026-10-14",
       "hora": "20:30",
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/b-vocal-8-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/BVOCAL26WEB-wpv_400x400_center_center.jpg",
-      "descripcion": "",
-      "visto": "2026-10-14"
-    },
-    {
-      "titulo": "The Lemon Twigs",
-      "fecha": "2026-10-14",
-      "hora": "21:00",
-      "sala": "Jardín de Invierno",
-      "url": "https://www.laganzua.net/conciertos/the-lemon-twigs-zaragoza-1017304",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/the-lemon-twigs-2026.jpg",
       "descripcion": "",
       "visto": "2026-10-14"
     },
@@ -78,6 +68,16 @@
       "hora": "",
       "sala": "Espacio Exterior",
       "url": "https://www.setlist.fm/setlist/armenian/2026/carpa-food-truck-paseo-echegaray-zaragoza-spain-b7f1946.html",
+      "imagen": "",
+      "descripcion": "",
+      "visto": "2026-10-14"
+    },
+    {
+      "titulo": "The Lemon Twigs",
+      "fecha": "2026-10-14",
+      "hora": "",
+      "sala": "Jardín de Invierno",
+      "url": "https://www.setlist.fm/setlist/the-lemon-twigs/2026/jardin-de-invierno-zaragoza-spain-337e5c2d.html",
       "imagen": "",
       "descripcion": "",
       "visto": "2026-10-14"
@@ -853,6 +853,16 @@
       "visto": "2026-10-14"
     },
     {
+      "titulo": "Fyahbwoy",
+      "fecha": "2026-11-06",
+      "hora": "20:30",
+      "sala": "Sala López",
+      "url": "https://www.laganzua.net/conciertos/fyahbwoy-zaragoza-1016499",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/fyahbwoy-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-10-14"
+    },
+    {
       "titulo": "Concierto de Fyahbwoy en Zaragoza",
       "fecha": "2026-11-06",
       "hora": "20:30",
@@ -861,16 +871,6 @@
       "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/509931783934783.jpg",
       "descripcion": "",
       "visto": "2026-10-14"
-    },
-    {
-      "titulo": "Fyahbwoy",
-      "fecha": "2026-11-06",
-      "hora": "20:30",
-      "sala": "Sala López",
-      "url": "https://www.laganzua.net/conciertos/fyahbwoy-zaragoza-1016499",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/fyahbwoy-2026.jpg",
-      "descripcion": "",
-      "visto": "2026-10-06"
     },
     {
       "titulo": "MONSTRUO LABERINTO",
@@ -883,12 +883,12 @@
       "visto": "2026-10-14"
     },
     {
-      "titulo": "Ángel Stanich Band",
+      "titulo": "Angel Stanich",
       "fecha": "2026-11-07",
       "hora": "20:00",
       "sala": "Sala López",
-      "url": "https://aragonenvivo.com/evento/angel-stanich-band-3/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/Angel-Stanich-Band-Zaragoza-Cartel-scaled-2.webp",
+      "url": "https://www.laganzua.net/conciertos/angel-stanich-zaragoza-1014921",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/angel-stanich-2026.jpg",
       "descripcion": "",
       "visto": "2026-10-14"
     },
@@ -903,14 +903,14 @@
       "visto": "2026-10-14"
     },
     {
-      "titulo": "Angel Stanich",
+      "titulo": "Ángel Stanich Band",
       "fecha": "2026-11-07",
       "hora": "20:00",
       "sala": "Sala López",
-      "url": "https://www.laganzua.net/conciertos/angel-stanich-zaragoza-1014921",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/angel-stanich-2026.jpg",
+      "url": "https://aragonenvivo.com/evento/angel-stanich-band-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Angel-Stanich-Band-Zaragoza-Cartel-scaled-2.webp",
       "descripcion": "",
-      "visto": "2026-10-13"
+      "visto": "2026-10-14"
     },
     {
       "titulo": "SANTERO Y LOS MUCHACHOS",
@@ -929,6 +929,16 @@
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/dirty-sound-magnet/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-135.webp",
+      "descripcion": "",
+      "visto": "2026-10-14"
+    },
+    {
+      "titulo": "Bryan Adams",
+      "fecha": "2026-11-07",
+      "hora": "21:00",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.laganzua.net/conciertos/bryan-adams-zaragoza-1015275",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/bryan-adams-2026.jpg",
       "descripcion": "",
       "visto": "2026-10-14"
     },
@@ -1470,7 +1480,7 @@
       "url": "https://www.laganzua.net/conciertos/rebrote-zaragoza-1016517",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/rebrote-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-06"
+      "visto": "2026-10-14"
     },
     {
       "titulo": "BILLYWOOD CRACKERS",
@@ -2090,7 +2100,7 @@
       "url": "https://www.laganzua.net/conciertos/metrika-zaragoza-1017032",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/metrika-2027.jpg",
       "descripcion": "",
-      "visto": "2026-10-13"
+      "visto": "2026-10-14"
     },
     {
       "titulo": "Orquesta Sinfónica de Amberes",
