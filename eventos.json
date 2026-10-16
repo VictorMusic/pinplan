@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16T12:06:23.334376",
+  "actualizado": "2026-10-16T15:15:34.607505",
   "total": 217,
   "eventos": [
     {
@@ -1080,7 +1080,7 @@
       "url": "https://www.laganzua.net/conciertos/abhir-zaragoza-1016225",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/abhir-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-15"
+      "visto": "2026-10-16"
     },
     {
       "titulo": "MOJOTHUNDER",
@@ -1193,22 +1193,22 @@
       "visto": "2026-10-16"
     },
     {
-      "titulo": "FRANKIE AND THE WITCH FINGERS",
-      "fecha": "2026-11-26",
-      "hora": "",
-      "sala": "Rock & Blues Café",
-      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-frankie-and-the-witch-fingers-en-zaragoza",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/26-11-2026-FRANKIE-AND-THE-WITCH-FINGERS/foto.jpg",
-      "descripcion": "",
-      "visto": "2026-10-16"
-    },
-    {
       "titulo": "Cecilia Bartoli y Lang Lang",
       "fecha": "2026-11-26",
       "hora": "",
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/cecilia-bartoli-y-lang-lang/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/2526-LangLang_PB2©SonjaMueller_DeutscheGrammophon-8-e1780390441884-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-10-16"
+    },
+    {
+      "titulo": "FRANKIE AND THE WITCH FINGERS",
+      "fecha": "2026-11-26",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-frankie-and-the-witch-fingers-en-zaragoza",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/26-11-2026-FRANKIE-AND-THE-WITCH-FINGERS/foto.jpg",
       "descripcion": "",
       "visto": "2026-10-16"
     },
@@ -1350,7 +1350,7 @@
       "url": "https://www.laganzua.net/conciertos/rebrote-zaragoza-1016517",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/rebrote-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-14"
+      "visto": "2026-10-16"
     },
     {
       "titulo": "BILLYWOOD CRACKERS",
