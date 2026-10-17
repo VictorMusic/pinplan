@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-17T11:22:49.565589",
-  "total": 207,
+  "actualizado": "2026-10-17T14:05:01.137841",
+  "total": 208,
   "eventos": [
     {
       "titulo": "LOBO ANDRADE",
@@ -1276,9 +1276,9 @@
       "titulo": "Bunbury",
       "fecha": "2026-12-12",
       "hora": "20:30",
-      "sala": "Zaragoza",
-      "url": "https://zgzconciertos.com/concierto/bunbury/",
-      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
+      "sala": "Pabellón Príncipe Felipe",
+      "url": "https://www.laganzua.net/conciertos/bunbury-zaragoza-1014963",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/bunbury-2026.jpg",
       "descripcion": "",
       "visto": "2026-10-17"
     },
@@ -1640,7 +1640,7 @@
       "url": "https://www.laganzua.net/conciertos/levitants-zaragoza-1016647",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/the-levitants-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-16"
+      "visto": "2026-10-17"
     },
     {
       "titulo": "POLVORA",
@@ -1649,6 +1649,16 @@
       "sala": "Rock & Blues Café",
       "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-polvora-en-zaragoza",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/30-01-2027-POLVORA/foto.jpg",
+      "descripcion": "",
+      "visto": "2026-10-17"
+    },
+    {
+      "titulo": "Molan Los 90 Festival Zaragoza",
+      "fecha": "2027-01-31",
+      "hora": "20:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://www.laganzua.net/conciertos/molan-los-90-festival-zaragoza-zaragoza-1017840",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/molan-los-90-zaragoza-2027.jpg",
       "descripcion": "",
       "visto": "2026-10-17"
     },
