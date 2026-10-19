@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-19T20:27:16.106929",
-  "total": 205,
+  "actualizado": "2026-10-19T23:15:45.609030",
+  "total": 206,
   "eventos": [
     {
       "titulo": "DIEGO PENA JAVIER ZAPATER SEGIO JABATO – LA COMUNIDAD, HALLOWEN",
@@ -9,6 +9,16 @@
       "sala": "Zaragoza",
       "url": "https://aragonenvivo.com/evento/diego-pena-javier-zapater-segio-jabato-la-comunidad-hallowen/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/20260326_LACOMUNIDADDD.jpg",
+      "descripcion": "",
+      "visto": "2026-10-19"
+    },
+    {
+      "titulo": "INFO Y/O TICKETS AQUÍ",
+      "fecha": "2026-10-19",
+      "hora": "16:43",
+      "sala": "El Corazón Verde",
+      "url": "https://entradium.com/organizers/el-corazon-verde",
+      "imagen": "https://elcorazonverdebar.com/wp-content/uploads/2026/10/329032297_5974778575920027_1307070252222996142_n-1-2-1.jpg?w=600&h=450&crop=1",
       "descripcion": "",
       "visto": "2026-10-19"
     },
@@ -1430,7 +1440,7 @@
       "url": "https://www.laganzua.net/conciertos/modelo-zaragoza-1016056",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/modelo-band-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-14"
+      "visto": "2026-10-19"
     },
     {
       "titulo": "LOS SWINGIN CALAVERAS",
@@ -1840,7 +1850,7 @@
       "url": "https://www.laganzua.net/conciertos/metrika-zaragoza-1017032",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/metrika-2027.jpg",
       "descripcion": "",
-      "visto": "2026-10-18"
+      "visto": "2026-10-19"
     },
     {
       "titulo": "Orquesta Sinfónica de Amberes",
