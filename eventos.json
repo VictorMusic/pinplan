@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20T12:32:27.127857",
+  "actualizado": "2026-10-20T15:34:22.088554",
   "total": 205,
   "eventos": [
     {
@@ -635,7 +635,7 @@
     {
       "titulo": "SIMÓN TRPčESKI",
       "fecha": "2026-11-09",
-      "hora": "",
+      "hora": "19:30",
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/simon-trpceski/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/01/Simon-Trpceski_photo-web-scaled-wpv_400x400_center_center.jpg",
@@ -993,22 +993,22 @@
       "visto": "2026-10-20"
     },
     {
+      "titulo": "Cecilia Bartoli y Lang Lang",
+      "fecha": "2026-11-26",
+      "hora": "19:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/cecilia-bartoli-y-lang-lang/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/2526-LangLang_PB2©SonjaMueller_DeutscheGrammophon-8-e1780390441884-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-10-20"
+    },
+    {
       "titulo": "FRANKIE AND THE WITCH FINGERS",
       "fecha": "2026-11-26",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
       "url": "https://aragonenvivo.com/evento/frankie-and-the-witch-fingers/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-136.webp",
-      "descripcion": "",
-      "visto": "2026-10-20"
-    },
-    {
-      "titulo": "Cecilia Bartoli y Lang Lang",
-      "fecha": "2026-11-26",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/cecilia-bartoli-y-lang-lang/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/2526-LangLang_PB2©SonjaMueller_DeutscheGrammophon-8-e1780390441884-wpv_400x400_center_center.jpg",
       "descripcion": "",
       "visto": "2026-10-20"
     },
@@ -1243,22 +1243,22 @@
       "visto": "2026-10-20"
     },
     {
+      "titulo": "BRENNO AMBROSINI",
+      "fecha": "2026-12-13",
+      "hora": "19:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/brenno-ambrosini-2/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/01/BRENNO-AMBROSINI-scaled-e1769776901755-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-10-20"
+    },
+    {
       "titulo": "NOE & THE BOBIFACES",
       "fecha": "2026-12-13",
       "hora": "",
       "sala": "Rock & Blues Café",
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2098",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/13-12-2026-NOE-&-THE-BOBIFACES/foto.jpg",
-      "descripcion": "",
-      "visto": "2026-10-20"
-    },
-    {
-      "titulo": "BRENNO AMBROSINI",
-      "fecha": "2026-12-13",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/brenno-ambrosini-2/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/01/BRENNO-AMBROSINI-scaled-e1769776901755-wpv_400x400_center_center.jpg",
       "descripcion": "",
       "visto": "2026-10-20"
     },
@@ -1310,7 +1310,7 @@
       "url": "https://www.laganzua.net/conciertos/delacueva-zaragoza-1015250",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/delacueva-2025.jpg",
       "descripcion": "",
-      "visto": "2026-10-19"
+      "visto": "2026-10-20"
     },
     {
       "titulo": "SHAKE-A-ROUND LOS TORONTOS",
@@ -1860,7 +1860,7 @@
       "url": "https://www.laganzua.net/conciertos/balkan-paradise-orchestra-zaragoza-1016571",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/balkan-paradise-orchestra-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-13"
+      "visto": "2026-10-20"
     },
     {
       "titulo": "Anabel Lee",
