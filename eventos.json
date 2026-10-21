@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-21T12:43:24.327149",
-  "total": 207,
+  "actualizado": "2026-10-21T15:51:05.883233",
+  "total": 208,
   "eventos": [
     {
       "titulo": "HOSS&SWET 1987",
@@ -1246,9 +1246,9 @@
       "titulo": "Bunbury",
       "fecha": "2026-12-12",
       "hora": "20:30",
-      "sala": "Pabellón Príncipe Felipe",
-      "url": "https://www.laganzua.net/conciertos/bunbury-zaragoza-1014963",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/bunbury-2026.jpg",
+      "sala": "Zaragoza",
+      "url": "https://zgzconciertos.com/concierto/bunbury/",
+      "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": "",
       "visto": "2026-10-21"
     },
@@ -1870,7 +1870,7 @@
       "url": "https://www.laganzua.net/conciertos/balkan-paradise-orchestra-zaragoza-1016571",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/balkan-paradise-orchestra-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-20"
+      "visto": "2026-10-21"
     },
     {
       "titulo": "Anabel Lee",
@@ -1959,6 +1959,16 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno-2-2-2-2-2-2-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/csmosuz-157-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-10-21"
+    },
+    {
+      "titulo": "Siempre Héroes",
+      "fecha": "2027-03-19",
+      "hora": "21:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://www.laganzua.net/conciertos/siempre-heroes-tributo-a-heroes-del-silencio-zaragoza-1017855",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/siempre-heroes-2027.jpg",
       "descripcion": "",
       "visto": "2026-10-21"
     },
