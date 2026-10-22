@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-22T12:47:17.065589",
-  "total": 208,
+  "actualizado": "2026-10-22T15:48:29.108735",
+  "total": 209,
   "eventos": [
     {
       "titulo": "Steve’n’Seagulls",
@@ -1053,6 +1053,16 @@
       "visto": "2026-10-22"
     },
     {
+      "titulo": "Parquesvr",
+      "fecha": "2026-11-28",
+      "hora": "22:00",
+      "sala": "Sala Oasis",
+      "url": "https://www.laganzua.net/conciertos/parquesvr-zaragoza-1017897",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/parquesvr-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-10-22"
+    },
+    {
       "titulo": "THE KLEEJOSS BAND",
       "fecha": "2026-11-28",
       "hora": "",
@@ -1630,7 +1640,7 @@
       "url": "https://www.laganzua.net/conciertos/molan-los-90-festival-zaragoza-zaragoza-1017840",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/molan-los-90-zaragoza-2027.jpg",
       "descripcion": "",
-      "visto": "2026-10-21"
+      "visto": "2026-10-22"
     },
     {
       "titulo": "MOTOWN",
