@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-23T18:56:13.015292",
-  "total": 205,
+  "actualizado": "2026-10-23T22:49:14.351775",
+  "total": 206,
   "eventos": [
     {
       "titulo": "Guille Toledano",
@@ -1560,7 +1560,7 @@
       "url": "https://www.laganzua.net/conciertos/levitants-zaragoza-1016647",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/the-levitants-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-20"
+      "visto": "2026-10-23"
     },
     {
       "titulo": "POLVORA",
@@ -1580,7 +1580,7 @@
       "url": "https://www.laganzua.net/conciertos/molan-los-90-festival-zaragoza-zaragoza-1017840",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/molan-los-90-zaragoza-2027.jpg",
       "descripcion": "",
-      "visto": "2026-10-22"
+      "visto": "2026-10-23"
     },
     {
       "titulo": "MOTOWN",
@@ -1819,6 +1819,16 @@
       "sala": "Sala López",
       "url": "https://www.laganzua.net/conciertos/balkan-paradise-orchestra-zaragoza-1016571",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/balkan-paradise-orchestra-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-10-23"
+    },
+    {
+      "titulo": "Iñigo Quintero",
+      "fecha": "2027-03-06",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://www.laganzua.net/conciertos/inigo-quintero-zaragoza-1017898",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/inigo-quintero-2026.jpg",
       "descripcion": "",
       "visto": "2026-10-23"
     },
