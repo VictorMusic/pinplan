@@ -1,47 +1,7 @@
 {
-  "actualizado": "2026-10-25T22:13:49.727066",
-  "total": 194,
+  "actualizado": "2026-10-26T13:53:48.421123",
+  "total": 206,
   "eventos": [
-    {
-      "titulo": "HIMAR ARMAS Y JORGE SANTOS",
-      "fecha": "2026-10-25",
-      "hora": "19:00",
-      "sala": "Belushi",
-      "url": "https://aragonenvivo.com/evento/himar-armas-y-jorge-santos/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20261025_Te-lo-dijo-A4-3.webp",
-      "descripcion": "",
-      "visto": "2026-10-25"
-    },
-    {
-      "titulo": "FACES OF DEATH (BRASIL)",
-      "fecha": "2026-10-25",
-      "hora": "19:00",
-      "sala": "Sala Creedence",
-      "url": "https://aragonenvivo.com/evento/faces-of-death-brasil/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_CARTEL_FACES.jpeg",
-      "descripcion": "",
-      "visto": "2026-10-25"
-    },
-    {
-      "titulo": "Dharmacide",
-      "fecha": "2026-10-25",
-      "hora": "19:00",
-      "sala": "La Lata de Bombillas",
-      "url": "https://aragonenvivo.com/evento/dharmacide-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_IMG_9085.jpeg",
-      "descripcion": "",
-      "visto": "2026-10-25"
-    },
-    {
-      "titulo": "CELIA CARBALLO",
-      "fecha": "2026-10-25",
-      "hora": "",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2094",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/25-10-2026-CELIA-CARBALLO/foto.jpg",
-      "descripcion": "",
-      "visto": "2026-10-25"
-    },
     {
       "titulo": "20/20",
       "fecha": "2026-10-26",
@@ -50,7 +10,7 @@
       "url": "https://aragonenvivo.com/evento/20-20/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/s_poster.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "London Philharmonic Orchestra",
@@ -60,7 +20,7 @@
       "url": "https://auditoriozaragoza.com/programacion/london-philharmonic-orchestra/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/london_phil2_fotode_benjamin_ealovega-e1780390293999-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "No Te Va Gustar",
@@ -70,7 +30,7 @@
       "url": "https://aragonenvivo.com/evento/no-te-va-gustar/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/590427327_18546209734004249_7802672503500436689_n-3.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "FEDERICO ALBANESE",
@@ -80,7 +40,7 @@
       "url": "https://auditoriozaragoza.com/programacion/federico-albanese/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/albanese-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "NOCHE FLAMENCO",
@@ -90,7 +50,17 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2134",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/28-10-2026-NOCHE-FLAMENCO/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
+    },
+    {
+      "titulo": "Jazz al Margen",
+      "fecha": "2026-10-29",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://aragonenvivo.com/evento/jazz-al-margen/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/WhatsApp-Image-2026-10-14-at-09.22.18.jpeg",
+      "descripcion": "",
+      "visto": "2026-10-26"
     },
     {
       "titulo": "BLUE MOON MARQUEE",
@@ -100,7 +70,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2169",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/29-10-2026-BLUE-MOON-MARQUEE/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "JAIME OCAÑA- MANEJO DE OJETES DE GRAN CILINDRADA",
@@ -110,7 +80,7 @@
       "url": "https://aragonenvivo.com/evento/jaime-ocana-manejo-de-ojetes-de-gran-cilindrada/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_Pregoneros_Got_Talent_Jaime_Oriz-35.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "RAFA SANCHEZ – LA UNIÓN – Biografía",
@@ -120,7 +90,7 @@
       "url": "https://aragonenvivo.com/evento/rafa-sanchez-la-union-biografia/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/rafalaunion.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Concierto de Rafa Sánchez en Zaragoza",
@@ -130,7 +100,7 @@
       "url": "https://www.jacksonlive.es/concierto/concierto-de-rafa-sanchez-en-zaragoza",
       "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/482681764268252.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Kelley Stoltz (USA)",
@@ -140,7 +110,17 @@
       "url": "https://aragonenvivo.com/evento/kelley-stoltz-usa/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/kelley-1.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
+    },
+    {
+      "titulo": "SPINO + Grim Paradise",
+      "fecha": "2026-10-30",
+      "hora": "20:30",
+      "sala": "Pub Utopia",
+      "url": "https://aragonenvivo.com/evento/spino-grim-paradise/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/813698311_18338851942259176_130200994594142979_n.jpeg",
+      "descripcion": "",
+      "visto": "2026-10-26"
     },
     {
       "titulo": "CINEMA STEREO",
@@ -150,7 +130,7 @@
       "url": "https://aragonenvivo.com/evento/cinema-stereo/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Funzo",
@@ -160,7 +140,7 @@
       "url": "https://aragonenvivo.com/evento/funzo/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/ZARAGOZA-POST-FUNZO-scaled-2.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "MARLA SINGER + BANK + SOEZ",
@@ -170,7 +150,7 @@
       "url": "https://aragonenvivo.com/evento/marla-singer-bank-soez/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m__.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "ESPECIAL DIA DE MUERTOS POR DIEGO MELENDEZ Y PAUL DEN HOLDER",
@@ -183,6 +163,26 @@
       "visto": "2026-10-25"
     },
     {
+      "titulo": "AMBKOR",
+      "fecha": "2026-10-31",
+      "hora": "18:30",
+      "sala": "Sala López",
+      "url": "https://aragonenvivo.com/evento/ambkor/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/WhatsApp-Image-2026-09-08-at-14.51.43.jpeg",
+      "descripcion": "",
+      "visto": "2026-10-26"
+    },
+    {
+      "titulo": "Halloween: Lex Lüger y Romanthica",
+      "fecha": "2026-10-31",
+      "hora": "20:00",
+      "sala": "Pub Utopia",
+      "url": "https://aragonenvivo.com/evento/halloween-lex-luger-y-romanthica/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/812133299_18338573386259176_11190546156377605_n.jpeg",
+      "descripcion": "",
+      "visto": "2026-10-26"
+    },
+    {
       "titulo": "JULIO IGLESIAS Experience por JULIO IGLESIAS Jr.",
       "fecha": "2026-10-31",
       "hora": "20:00",
@@ -190,7 +190,7 @@
       "url": "https://auditoriozaragoza.com/programacion/julio-iglesias-experience-por-julio-iglesias-jr/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/11/1280X720-JULIO-IGLESIAS-JR-ZARAGOZA-AUDITORIO-DE-ZARAGOZA-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "EL VERBO ODIADO",
@@ -200,7 +200,7 @@
       "url": "https://aragonenvivo.com/evento/el-verbo-odiado/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/evo800.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "MR SANCHEZ en SALA CREEDENCE #RedDeSalas",
@@ -210,7 +210,7 @@
       "url": "https://aragonenvivo.com/evento/mr-sanchez-en-sala-creedence-reddesalas/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_MR._SANCHEZ_OCT26_Cartel__A3_vertical__.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "PACO ENLALUNA – PACO ENLALUNA",
@@ -220,7 +220,7 @@
       "url": "https://aragonenvivo.com/evento/paco-enlaluna-paco-enlaluna/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/20261031pacooct26-1.jpeg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "ORQUESTA SINFÓNICA NACIONAL JUVENIL DE VENEZUELA",
@@ -230,7 +230,7 @@
       "url": "https://auditoriozaragoza.com/programacion/joven-orquesta-sinfonica-de-venezuela/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/06/-Stephan-Rabold-2-scaled-e1790260410330-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "ASÍ SE BAILA",
@@ -240,7 +240,7 @@
       "url": "https://aragonenvivo.com/evento/asi-se-baila/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/3541.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "PARADISE (TRIBUTO A COLDPLAY)",
@@ -250,7 +250,17 @@
       "url": "https://aragonenvivo.com/evento/paradise-tributo-a-coldplay/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/paradise-3.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
+    },
+    {
+      "titulo": "TANKARD + tba + Exodia + Hidden",
+      "fecha": "2026-11-01",
+      "hora": "23:00",
+      "sala": "Sala López",
+      "url": "https://aragonenvivo.com/evento/tankard-tba-exodia-hidden/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/SnapInsta-Ai_DOLkVFTAq5R.webp",
+      "descripcion": "",
+      "visto": "2026-10-26"
     },
     {
       "titulo": "SILENT 4TET",
@@ -260,7 +270,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2095",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/01-11-2026-SILENT-4TET/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "MÚSICA Y CINE. MÚSICA SOLIDARIA",
@@ -270,7 +280,7 @@
       "url": "https://auditoriozaragoza.com/programacion/musica-y-cine-musica-solidaria/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/10/2-nov-26-cartel-Marx-que-voces-wpv_400x400_center_center.png",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "BEATRIZ GIMENO",
@@ -280,7 +290,17 @@
       "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/beatriz-gimeno-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
+    },
+    {
+      "titulo": "Radio Days (Italia)",
+      "fecha": "2026-11-03",
+      "hora": "21:00",
+      "sala": "La Lata de Bombillas",
+      "url": "https://aragonenvivo.com/evento/radio-days-italia/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/s_poster-1.webp",
+      "descripcion": "",
+      "visto": "2026-10-26"
     },
     {
       "titulo": "CON V DE VOZ",
@@ -290,7 +310,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2255",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/03-11-2026-CON-V-DE-VOZ/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "THE VINTAGE CARAVAN",
@@ -300,17 +320,37 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2168",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/05-11-2026-THE-VINTAGE-CARAVAN/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
-      "titulo": "Fyahbwoy",
+      "titulo": "AGUSTIN BALBI – PROMETE",
+      "fecha": "2026-11-06",
+      "hora": "19:30",
+      "sala": "Belushi",
+      "url": "https://aragonenvivo.com/evento/agustin-balbi-promete-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20261106_Promete-A4.png",
+      "descripcion": "",
+      "visto": "2026-10-26"
+    },
+    {
+      "titulo": "Estrogenuinas + Mallo",
+      "fecha": "2026-11-06",
+      "hora": "20:30",
+      "sala": "La Lata de Bombillas",
+      "url": "https://aragonenvivo.com/evento/estrogenuinas-mallo/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/63b71048-ebdf-4ff6-855a-ab65878c8903.avif",
+      "descripcion": "",
+      "visto": "2026-10-26"
+    },
+    {
+      "titulo": "FYAHBWOY",
       "fecha": "2026-11-06",
       "hora": "20:30",
       "sala": "Sala López",
-      "url": "https://www.laganzua.net/conciertos/fyahbwoy-zaragoza-1016499",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/fyahbwoy-2026.jpg",
+      "url": "https://aragonenvivo.com/evento/fyahbwoy/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/fyahbwoy-POST.png",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "MONSTRUO LABERINTO",
@@ -320,7 +360,37 @@
       "url": "https://aragonenvivo.com/evento/monstruo-laberinto/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
+    },
+    {
+      "titulo": "DÜNEDAIN",
+      "fecha": "2026-11-06",
+      "hora": "21:00",
+      "sala": "La Casa del Loco",
+      "url": "https://aragonenvivo.com/evento/dunedain/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/e5db2db2-bbe3-48d0-9d35-7eec8dbc963f.jpg",
+      "descripcion": "",
+      "visto": "2026-10-26"
+    },
+    {
+      "titulo": "ALEX GOZALO – QUIEN QUIERE SER ADULTO",
+      "fecha": "2026-11-06",
+      "hora": "22:00",
+      "sala": "Belushi",
+      "url": "https://aragonenvivo.com/evento/alex-gozalo-quien-quiere-ser-adulto/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20261106ALEX.jpeg",
+      "descripcion": "",
+      "visto": "2026-10-26"
+    },
+    {
+      "titulo": "QUIQUE MATILLA – QUIQUE MATILLA",
+      "fecha": "2026-11-07",
+      "hora": "19:00",
+      "sala": "Belushi",
+      "url": "https://aragonenvivo.com/evento/quique-matilla-quique-matilla/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20261107QUIQUEMATILLA26.png",
+      "descripcion": "",
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Angel Stanich",
@@ -330,7 +400,7 @@
       "url": "https://www.laganzua.net/conciertos/angel-stanich-zaragoza-1014921",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/angel-stanich-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Walls",
@@ -340,7 +410,27 @@
       "url": "https://aragonenvivo.com/evento/walls/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/Q-ws2Z-g-3.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
+    },
+    {
+      "titulo": "AZERO + KOAKZION",
+      "fecha": "2026-11-07",
+      "hora": "20:30",
+      "sala": "La Casa del Loco",
+      "url": "https://aragonenvivo.com/evento/azero-koakzion/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/A-3-AZERO-KOAKZION-7-NOV-2026-ZGZ-scaled-1.jpg",
+      "descripcion": "",
+      "visto": "2026-10-26"
+    },
+    {
+      "titulo": "Vapors of Morphine",
+      "fecha": "2026-11-07",
+      "hora": "20:30",
+      "sala": "La Lata de Bombillas",
+      "url": "https://aragonenvivo.com/evento/vapors-of-morphine/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/phpThumb_generated_thumbnail-15.jpg",
+      "descripcion": "",
+      "visto": "2026-10-26"
     },
     {
       "titulo": "SANTERO Y LOS MUCHACHOS",
@@ -350,7 +440,7 @@
       "url": "https://aragonenvivo.com/evento/santero-y-los-muchachos-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/3333-3.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "DIRTY SOUND MAGNET",
@@ -360,7 +450,7 @@
       "url": "https://aragonenvivo.com/evento/dirty-sound-magnet/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-135.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Bryan Adams",
@@ -370,7 +460,27 @@
       "url": "https://www.laganzua.net/conciertos/bryan-adams-zaragoza-1015275",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/bryan-adams-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
+    },
+    {
+      "titulo": "VIDDA PRIEGO – MONOLOGOS POLIGONEROS",
+      "fecha": "2026-11-07",
+      "hora": "23:00",
+      "sala": "Belushi",
+      "url": "https://aragonenvivo.com/evento/vidda-priego-monologos-poligoneros/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20261107vidda-2-26.jpg.jpeg",
+      "descripcion": "",
+      "visto": "2026-10-26"
+    },
+    {
+      "titulo": "EDEN SERRANO",
+      "fecha": "2026-11-08",
+      "hora": "19:00",
+      "sala": "Belushi",
+      "url": "https://aragonenvivo.com/evento/eden-serrano/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20261108EDENQQ.jpeg",
+      "descripcion": "",
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Walls",
@@ -380,7 +490,7 @@
       "url": "https://aragonenvivo.com/evento/walls-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/ZARAGOZA-2-scaled-4.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "GERARDO LÓPEZ TRÍO",
@@ -390,7 +500,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2090",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/08-11-2026-GERARDO-LÓPEZ-TRÍO/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "SIMÓN TRPčESKI",
@@ -400,7 +510,7 @@
       "url": "https://auditoriozaragoza.com/programacion/simon-trpceski/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/01/Simon-Trpceski_photo-web-scaled-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "CRETINO & THE CRETINERS",
@@ -410,7 +520,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2268",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/11-11-2026-CRETINO-&-THE-CRETINERS/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Kurt Elling and The Yellowjackets Celebrate Weather Report",
@@ -420,7 +530,7 @@
       "url": "https://auditoriozaragoza.com/programacion/kurt-elling-and-the-yellowjackets-celebrate-weather-report/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Picture-Kurt-x-Yellowjackets-wpv_400x400_center_center.png",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "The Del Fuegos",
@@ -430,7 +540,7 @@
       "url": "https://www.laganzua.net/conciertos/the-del-fuegos-zaragoza-1016749",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/the-del-fuegos-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Festival Zaragoza Feliz Feliz 2026",
@@ -440,7 +550,7 @@
       "url": "https://www.laganzua.net/conciertos/festival-zaragoza-feliz-feliz-2026-zaragoza-1016566",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/zaragoza-feliz-feliz-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "CEPEDA",
@@ -450,7 +560,7 @@
       "url": "https://aragonenvivo.com/evento/cepeda/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/CEPEDA-13-NOV-2026-Zaragoza-Cuadrado-scaled-1.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Chiquita Movida",
@@ -460,7 +570,7 @@
       "url": "https://www.laganzua.net/conciertos/chiquita-movida-zaragoza-1016281",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/chiquita-movida-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "SOFIA ELLAR",
@@ -470,7 +580,7 @@
       "url": "https://aragonenvivo.com/evento/sofia-ellar/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/3280-3.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "SKETCHES OF LATIN MILES",
@@ -480,7 +590,7 @@
       "url": "https://auditoriozaragoza.com/programacion/latin-miles/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Latin-Miles-wpv_400x400_center_center.png",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "JAIME CARAVACA",
@@ -490,7 +600,7 @@
       "url": "https://aragonenvivo.com/evento/jaime-caravaca/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/20261113jaimeca444-3.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Concierto de Tony Vega en Zaragoza",
@@ -500,7 +610,7 @@
       "url": "https://www.jacksonlive.es/concierto/concierto-de-tony-vega-en-zaragoza",
       "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/527491786553447.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "MAIKA MAKOVSKI",
@@ -510,7 +620,7 @@
       "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-maika-makovski-en-zaragoza",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/13-11-2026-MAIKA-MAKOVSKI/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "SABINA: EL MEJOR HOMENAJE",
@@ -520,7 +630,7 @@
       "url": "https://auditoriozaragoza.com/programacion/sabina-el-mejor-homenaje/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/04/1280X720-SABINA-ZARAGOZA-AUDITORIO-DE-ZARAGOZA-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Concierto de Ben Yart en Zaragoza",
@@ -530,7 +640,7 @@
       "url": "https://www.jacksonlive.es/concierto/concierto-de-ben-yart-en-zaragoza",
       "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/522151782825228.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "James Carter Organ Trio",
@@ -540,7 +650,7 @@
       "url": "https://auditoriozaragoza.com/programacion/james-carter-organ-trio/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Diseno-sin-titulo-7-wpv_400x400_center_center.png",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "THE CAPACES",
@@ -550,7 +660,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2139",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/14-11-2026-THE-CAPACES/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Haydée Milanés & Javier Colina",
@@ -560,7 +670,7 @@
       "url": "https://auditoriozaragoza.com/programacion/haydee-milanes-javier-colina/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Diseno-sin-titulo-9-wpv_400x400_center_center.png",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "MANU LANVIN",
@@ -570,7 +680,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=1954",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/15-11-2026-MANU-LANVIN/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "HILOS – INÉS BADALO Y GRUPO ENIGMA",
@@ -580,7 +690,7 @@
       "url": "https://auditoriozaragoza.com/programacion/hilos-grupo-enigma-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/Ines-Badalo-2-1-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Orquesta Filarmónica Checa",
@@ -590,7 +700,7 @@
       "url": "https://auditoriozaragoza.com/programacion/orquesta-filarmonica-checa/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/Filarmonica_Checa_Foto_Ok-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Temples. Ciclo Lata Gourmet",
@@ -600,7 +710,7 @@
       "url": "https://aragonenvivo.com/evento/temples-ciclo-lata-gourmet/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/TEMPLES_CAB.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Concierto de heavenphetamine en Zaragoza",
@@ -610,7 +720,7 @@
       "url": "https://www.jacksonlive.es/concierto/concierto-de-heavenphetamine-en-zaragoza",
       "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/532441789835017.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "DEROBERT AND THE HALF TRUTHS",
@@ -620,7 +730,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2049",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/19-11-2026-DEROBERT-AND-THE-HALF-TRUTHS/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Concierto de Muñeca Rusa en Zaragoza",
@@ -630,7 +740,7 @@
       "url": "https://www.jacksonlive.es/concierto/concierto-de-muneca-rusa-en-zaragoza",
       "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/521591782411919.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Concierto de The Buzz Lovers en Zaragoza",
@@ -650,7 +760,7 @@
       "url": "https://auditoriozaragoza.com/programacion/techno-pop/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/02/1280X720-FONDO-TECHNOPOP-ZARAGOZA-2-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Chris Potter Trio",
@@ -660,7 +770,7 @@
       "url": "https://auditoriozaragoza.com/programacion/chris-potter-trio/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Diseno-sin-titulo-13-wpv_400x400_center_center.png",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Abhir",
@@ -670,7 +780,7 @@
       "url": "https://www.laganzua.net/conciertos/abhir-zaragoza-1016225",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/abhir-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "MOJOTHUNDER",
@@ -680,7 +790,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=1967",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/20-11-2026-MOJOTHUNDER/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Paquito D’Rivera Trío + Thomas Kretzschmar & Romain Vuillemin 4tet",
@@ -690,7 +800,7 @@
       "url": "https://auditoriozaragoza.com/programacion/paquito-drivera-trio/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Diseno-sin-titulo-14-wpv_400x400_center_center.png",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Hombres G",
@@ -700,7 +810,7 @@
       "url": "https://www.laganzua.net/conciertos/hombres-g-zaragoza-1014042",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/hombres-g-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "SOBREZERO",
@@ -710,7 +820,7 @@
       "url": "https://www.rockandbluescafe.com/conciertos/sobrezero-zaragoza-21-11-2026/",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/21-11-2026-SOBREZERO/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "JAZZ FOR KIDS: JAZZ EN FAMILIA",
@@ -720,7 +830,7 @@
       "url": "https://auditoriozaragoza.com/programacion/jazz-for-kids-jazz-en-familia-5/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Diseno-sin-titulo-17-wpv_400x400_center_center.png",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "MANEL FUENTES | ¿PORQUE LE LLAMAN THE BOSS?",
@@ -730,7 +840,7 @@
       "url": "https://aragonenvivo.com/evento/manel-fuentes-porque-le-llaman-the-boss/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/TEATRO-ESQUINAS.png",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Michael Mayo",
@@ -740,7 +850,7 @@
       "url": "https://auditoriozaragoza.com/programacion/michael-mayo/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Diseno-sin-titulo-15-wpv_400x400_center_center.png",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Ruslana",
@@ -750,7 +860,7 @@
       "url": "https://www.laganzua.net/conciertos/ruslana-zaragoza-1016088",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/ruslana-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "AY TRICK",
@@ -760,7 +870,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2228",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/22-11-2026-AY-TRICK/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "EL LAGO DE LOS CISNES",
@@ -770,7 +880,7 @@
       "url": "https://auditoriozaragoza.com/programacion/el-lago-de-los-cisnes-11/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/07/El-Lago-de-los-cisnes-1-scaled-e1784293724732-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Split Dogs",
@@ -780,7 +890,7 @@
       "url": "https://www.laganzua.net/conciertos/split-dogs-zaragoza-1016933",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/split-dogs-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Cecilia Bartoli y Lang Lang",
@@ -790,7 +900,7 @@
       "url": "https://auditoriozaragoza.com/programacion/cecilia-bartoli-y-lang-lang/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/2526-LangLang_PB2©SonjaMueller_DeutscheGrammophon-8-e1780390441884-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "FRANKIE AND THE WITCH FINGERS",
@@ -800,7 +910,7 @@
       "url": "https://aragonenvivo.com/evento/frankie-and-the-witch-fingers/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-136.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Fito Y Fitipaldis",
@@ -810,7 +920,7 @@
       "url": "https://www.laganzua.net/conciertos/fito-y-fitipaldis-zaragoza-1016526",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/fito-fitipaldis-teatros-2027.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "VOLAVENT",
@@ -820,7 +930,17 @@
       "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-haciendo-el-indie-en-zaragoza",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/27-11-2026-VOLAVENT-/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
+    },
+    {
+      "titulo": "CONCIERTO MUSETHICA",
+      "fecha": "2026-11-28",
+      "hora": "19:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/concierto-musethica-16/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/10/Maria-y-Pilar-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Fito Y Fitipaldis",
@@ -830,7 +950,7 @@
       "url": "https://www.laganzua.net/conciertos/fito-y-fitipaldis-segunda-fecha-zaragoza-zaragoza-1016527",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/fito-fitipaldis-teatros-2027.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Parquesvr",
@@ -840,7 +960,7 @@
       "url": "https://www.laganzua.net/conciertos/parquesvr-zaragoza-1017897",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/parquesvr-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "THE KLEEJOSS BAND",
@@ -850,7 +970,7 @@
       "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-the-kleejoss-band-en-zaragoza",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/28-11-2026-THE-KLEEJOSS-BAND/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "NACHT TRÍO",
@@ -860,7 +980,7 @@
       "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/nacht-trio-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "DJ DÉLICA",
@@ -870,7 +990,7 @@
       "url": "https://auditoriozaragoza.com/programacion/dj-delica/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/WEB-ZARA-4-ESTACIONES-DJ-1200x675-29-NOV-1-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "MINGOT & VILLAR 4TET",
@@ -880,7 +1000,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2056",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/29-11-2026-MINGOT-&-VILLAR-4TET/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Pablo Sainz-Villegas",
@@ -890,7 +1010,7 @@
       "url": "https://auditoriozaragoza.com/programacion/pablo-sainz-villegas-3/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/2-PSV_Ruben-Martin_Sony-Music-Entertainment-scaled-e1780390529864-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "NEW YEARS EVE – THE SIXTIES NEW YEAR’S PARTY 2026",
@@ -900,7 +1020,7 @@
       "url": "https://aragonenvivo.com/evento/new-years-eve-the-sixties-new-year-s-party-2026/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/fin-de-ano-7-1024x1024-1.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Little Barrie (USA)",
@@ -910,7 +1030,7 @@
       "url": "https://aragonenvivo.com/evento/little-barrie-usa/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/IMG_20260508_093137.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "LARANNA",
@@ -920,7 +1040,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2217",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/03-12-2026-LARANNA/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "AL DUAL",
@@ -930,7 +1050,7 @@
       "url": "https://aragonenvivo.com/evento/al-dual-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-42.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "LOS CORONAS",
@@ -940,7 +1060,7 @@
       "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-coronas-en-zaragoza",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/04-12-2026-LOS-CORONAS-/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "RAUL CLYDE",
@@ -950,7 +1070,7 @@
       "url": "https://aragonenvivo.com/evento/raul-clyde/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/cartel-ZGZ-raul.jpg-scaled-2.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "ABBA the New Experience",
@@ -960,7 +1080,7 @@
       "url": "https://auditoriozaragoza.com/programacion/abba-the-new-experience/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/2026-12-5-concierto-abba-the-new-experience-en-zaragoza-2026-wpv_400x400_center_center.png",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "ANGELA HOODOO",
@@ -970,7 +1090,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2127",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/05-12-2026-ANGELA-HOODOO/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Rebrote",
@@ -980,7 +1100,7 @@
       "url": "https://www.laganzua.net/conciertos/rebrote-zaragoza-1016517",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/rebrote-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "BILLYWOOD CRACKERS",
@@ -990,7 +1110,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2229",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/06-12-2026-BILLYWOOD-CRACKERS/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Los Músicos de su Alteza",
@@ -1000,7 +1120,7 @@
       "url": "https://auditoriozaragoza.com/programacion/los-musicos-de-su-alteza-4/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/Los-Musicos-de-Su-Alteza-e1780385907748-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "The Sadies (USA) + Terra Lightfoot",
@@ -1010,7 +1130,7 @@
       "url": "https://aragonenvivo.com/evento/the-sadies-usa-terra-lightfoot/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/IMG_20260506_101215.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Las novias",
@@ -1020,7 +1140,7 @@
       "url": "https://aragonenvivo.com/evento/las-novias-3/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/LAS-NOVIAS_00-3.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "El Chojin",
@@ -1030,7 +1150,7 @@
       "url": "https://aragonenvivo.com/evento/el-chojin/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/El-chojin-concierto-zaragoza-2026-2.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Bunbury",
@@ -1040,7 +1160,7 @@
       "url": "https://zgzconciertos.com/concierto/bunbury/",
       "imagen": "https://zgzconciertos.com/wp-content/uploads/2026/02/enrique-bunbury.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "BRENNO AMBROSINI",
@@ -1050,7 +1170,7 @@
       "url": "https://auditoriozaragoza.com/programacion/brenno-ambrosini-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/01/BRENNO-AMBROSINI-scaled-e1769776901755-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "NOE & THE BOBIFACES",
@@ -1060,7 +1180,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2098",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/13-12-2026-NOE-&-THE-BOBIFACES/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "CAMERATA VIRTUOSI",
@@ -1070,7 +1190,7 @@
       "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno-2-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/camerata-virtuosi-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "JAMBASS",
@@ -1080,7 +1200,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2112",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/17-12-2026-JAMBASS/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Fernandocosta",
@@ -1100,7 +1220,7 @@
       "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-sex-museum-en-zaragoza",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/18-12-2026-SEX-MUSEUM/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "DELACUEVA",
@@ -1110,17 +1230,7 @@
       "url": "https://aragonenvivo.com/evento/delacueva-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/SnapInsta-Ai_3893947568543859228.webp",
       "descripcion": "",
-      "visto": "2026-10-25"
-    },
-    {
-      "titulo": "SHAKE-A-ROUND LOS TORONTOS",
-      "fecha": "2026-12-19",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://aragonenvivo.com/evento/shake-a-round-los-torontos/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-137.webp",
-      "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "DEPEDRO",
@@ -1133,6 +1243,16 @@
       "visto": "2026-10-25"
     },
     {
+      "titulo": "SHAKE-A-ROUND LOS TORONTOS",
+      "fecha": "2026-12-19",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-shake-a-round-en-zaragoza",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/19-12-2026-SHAKE-A-ROUND-LOS-TORONTOS/foto.jpg",
+      "descripcion": "",
+      "visto": "2026-10-26"
+    },
+    {
       "titulo": "RED CACTUS",
       "fecha": "2026-12-20",
       "hora": "",
@@ -1140,7 +1260,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2329",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/20-12-2026-RED-CACTUS/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "SEVEN",
@@ -1150,7 +1270,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=1991",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/22-12-2026-SEVEN/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "CON V DE VOZ",
@@ -1160,7 +1280,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2256",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/23-12-2026-CON-V-DE-VOZ/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "EL PRACTICANTE",
@@ -1170,7 +1290,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2239",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/25-12-2026-EL-PRACTICANTE/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "MORRICONE Y 100 AÑOS DE CINE",
@@ -1180,7 +1300,7 @@
       "url": "https://auditoriozaragoza.com/programacion/morricone-y-100-anos-de-cine-3/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/WEB-ZARA-MORRICONE-100-ANOS-1200x675-1-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "CALLESE SEÑORA",
@@ -1190,7 +1310,7 @@
       "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-callese-senora-en-zaragoza",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/26-12-2026-CALLESE-SEÑORA/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Gran Concierto de Año Nuevo 2027 de Zaragoza",
@@ -1200,7 +1320,7 @@
       "url": "https://auditoriozaragoza.com/programacion/gran-concierto-de-ano-nuevo-2027-de-zaragoza/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/Concierto-ano-nuevo-2027-scaled-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "CARLOS NÚÑEZ",
@@ -1220,7 +1340,7 @@
       "url": "https://auditoriozaragoza.com/programacion/el-mesias-concierto-de-navidad/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/29-DICIEMBRE-1-wpv_400x400_center_center.png",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "NICE FELLAS",
@@ -1230,7 +1350,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2323",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/30-12-2026-NICE-FELLAS/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "THE ROADHOUSE",
@@ -1240,7 +1360,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2080",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/02-01-2027-THE-ROADHOUSE/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "AMAR ES COMBATIR SHOW – 20 ANIVERSARIO",
@@ -1270,7 +1390,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2278",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/14-01-2027-LOS-SWINGIN-CALAVERAS/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "MAMA LADILLA",
@@ -1280,7 +1400,7 @@
       "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-mama-ladilla-en-zaragoza",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/15-01-2027-MAMA-LADILLA/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Joven Orquesta Nacional de España (JONDE)",
@@ -1290,7 +1410,7 @@
       "url": "https://auditoriozaragoza.com/programacion/joven-orquesta-nacional-de-espana-jonde-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/06/Joven-Orquesta-Nacional-de-Espana-JONDE-2025-©-Michal-Novak-7-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "SHO-HAI",
@@ -1300,7 +1420,7 @@
       "url": "https://auditoriozaragoza.com/programacion/sho-hai/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/SHO-HAI-12-ZARAGOZA1080X1350-copia-wpv_400x400_center_center.png",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "LOS BIEN BIEN",
@@ -1310,7 +1430,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2275",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/16-01-2027-LOS-BIEN-BIEN/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "CLAUDIO & THE ROOSTERS",
@@ -1320,7 +1440,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2325",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/16-01-2027-CLAUDIO-&-THE-ROOSTERS/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "JD HARMO QUARTET",
@@ -1330,7 +1450,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2279",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/17-01-2027-JD-HARMO-QUARTET/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "THE PINK STONES + RESTOS",
@@ -1340,7 +1460,7 @@
       "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-pink-stones-en-zaragoza",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/21-01-2027-THE-PINK-STONES-+-RESTOS-/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "RON VUDU",
@@ -1350,7 +1470,17 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2296",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/22-01-2027-RON-VUDU/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
+    },
+    {
+      "titulo": "YERAI CORTÉS",
+      "fecha": "2027-01-23",
+      "hora": "20:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/luis-fercan-2/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/1080X1920-wpv_400x400_center_center.png",
+      "descripcion": "",
+      "visto": "2026-10-26"
     },
     {
       "titulo": "REALITY",
@@ -1363,16 +1493,6 @@
       "visto": "2026-10-25"
     },
     {
-      "titulo": "YERAI CORTÉS",
-      "fecha": "2027-01-23",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/luis-fercan-2/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/1080X1920-wpv_400x400_center_center.png",
-      "descripcion": "",
-      "visto": "2026-10-25"
-    },
-    {
       "titulo": "BAND OF FRIENDS",
       "fecha": "2027-01-23",
       "hora": "",
@@ -1380,7 +1500,7 @@
       "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-band-of-friends-en-zaragoza",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/23-01-2027-BAND-OF-FRIENDS/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "MALWINA MASTERNAK & GRADUS",
@@ -1390,7 +1510,7 @@
       "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno-2-2-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/malwina-1-wpv_400x400_center_center.jpeg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Orquesta Sinfónica de Viena",
@@ -1400,7 +1520,7 @@
       "url": "https://auditoriozaragoza.com/programacion/orquesta-sinfonica-de-viena-3/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/Sinfonica-de-Viena-Copyright-Peter-Rigaud-002-scaled-e1780386428760-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Cupido",
@@ -1420,7 +1540,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2240",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/29-01-2027-LOS-CORINGAS/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Levitants",
@@ -1440,7 +1560,7 @@
       "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-polvora-en-zaragoza",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/30-01-2027-POLVORA/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Molan Los 90 Festival Zaragoza",
@@ -1460,7 +1580,7 @@
       "url": "https://auditoriozaragoza.com/programacion/motown/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/1280X720-MOTOWN-ZARAGOZA-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Sienna · Gira LINCE · Zaragoza",
@@ -1480,7 +1600,7 @@
       "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-the-steepwater-band-en-zaragoza",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/06-02-2027-THE-STEEPWATER-BAND/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "BELQU Festival",
@@ -1490,7 +1610,7 @@
       "url": "https://auditoriozaragoza.com/programacion/belqu-festival/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/Banner-Web-Multiusos-wpv_400x400_center_center.jpeg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "LA GUIRLANDE",
@@ -1500,7 +1620,7 @@
       "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno-2-2-2-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/laguirlande-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Royal Concertgebouw Orchestra",
@@ -1510,7 +1630,7 @@
       "url": "https://auditoriozaragoza.com/programacion/royal-concertgebouw-orchestra/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/rco_klaus_makela_058_foto_eduardus_lee-scaled-e1780386773615-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "CON V DE VOZ",
@@ -1520,7 +1640,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2257",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/10-02-2027-CON-V-DE-VOZ/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "FREDDIES KINGS",
@@ -1530,7 +1650,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2324",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/11-02-2027-FREDDIES-KINGS/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "KIKO VENENO",
@@ -1540,7 +1660,7 @@
       "url": "https://auditoriozaragoza.com/programacion/luis-fercan-2-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/1080X1920-1-wpv_400x400_center_center.png",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "TRUE STRAYS",
@@ -1550,7 +1670,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2214",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/12-02-2027-TRUE-STRAYS/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "UNCLE SAL",
@@ -1560,7 +1680,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2167",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/13-02-2027-UNCLE-SAL/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "JAMES OLIVER BAND",
@@ -1570,7 +1690,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2216",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/14-02-2027-JAMES-OLIVER-BAND/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Mujeres",
@@ -1590,7 +1710,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2269",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/18-02-2027-CRETINO-&-THE-CRETINERS/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "CORAZONES ELECTRICOS",
@@ -1600,7 +1720,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2237",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/19-02-2027-CORAZONES-ELECTRICOS/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "WDR Funkhausorchester",
@@ -1610,7 +1730,7 @@
       "url": "https://auditoriozaragoza.com/programacion/wdr-funkhausorchester/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/270617-Wayne-Marshall-76-Edit-002-scaled-e1780387123345-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "ENCHIRIADIS",
@@ -1620,7 +1740,7 @@
       "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno-2-2-2-2-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/enchiriadis-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "MARTIN BRUHN",
@@ -1630,7 +1750,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2267",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/25-02-2027-MARTIN-BRUHN-/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "D.VALENTINO",
@@ -1640,7 +1760,7 @@
       "url": "https://auditoriozaragoza.com/programacion/d-valentino/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/10/zg27valentino1multiusos-web-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Ginebras",
@@ -1650,7 +1770,7 @@
       "url": "https://www.laganzua.net/conciertos/ginebras-zaragoza-1015980",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/ginebras-2027.jpg",
       "descripcion": "",
-      "visto": "2026-10-24"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "THE CHERRY BOPPERS & PATRICIA RECKLESS",
@@ -1660,7 +1780,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2221",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/26-02-2027-THE-CHERRY-BOPPERS-&-PATRICIA-RECKLESS/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "RODRIGO CUEVAS",
@@ -1670,7 +1790,7 @@
       "url": "https://auditoriozaragoza.com/programacion/rodrigo-cuevas/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/R.CUEVAS-POST-2-wpv_400x400_center_center.png",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Metrika",
@@ -1690,7 +1810,7 @@
       "url": "https://auditoriozaragoza.com/programacion/orquesta-sinfonica-de-amberes-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/amberes_foto1_de_orig_simon_boxtel-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Balkan Paradise Orchestra",
@@ -1730,7 +1850,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2078",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/06-03-2027-JODIE-CASH/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "CON V DE VOZ",
@@ -1740,7 +1860,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2258",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/09-03-2027-CON-V-DE-VOZ/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "LEO DE MARÍA & ZORNITSA ILARIONOVA",
@@ -1750,7 +1870,7 @@
       "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno-2-2-2-2-2-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/leo-di-maria-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "JOHNNY MAFIA",
@@ -1760,7 +1880,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2290",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/10-03-2027-JOHNNY-MAFIA/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "J TEIXI BAND",
@@ -1770,7 +1890,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2215",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/12-03-2027-J-TEIXI-BAND/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "GREASY BELLY",
@@ -1780,7 +1900,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2250",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/13-03-2027-GREASY-BELLY/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Al Ayre Español",
@@ -1790,7 +1910,7 @@
       "url": "https://auditoriozaragoza.com/programacion/al-ayre-espanol-8/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/06/13-ABR-Al-Ayre-Espanol-©-Michal-Novak-2023_MG_1507-1-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "ORQUESTA SINFÓNICA UNIVERSITARIA DE ZARAGOZA",
@@ -1800,7 +1920,7 @@
       "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno-2-2-2-2-2-2-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/csmosuz-157-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Siempre Héroes",
@@ -1820,7 +1940,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2303",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/19-03-2027-CONNIE-AND-THE-ROCKETS/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "SARRIA",
@@ -1830,7 +1950,7 @@
       "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-sarria-en-zaragoza",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/20-03-2027-SARRIA/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "JESSIE LEE & THE ALCHEMIST",
@@ -1840,7 +1960,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2212",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/03-04-2027-JESSIE-LEE-&-THE-ALCHEMIST/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Netherlands Philharmonic Orchestra",
@@ -1850,7 +1970,7 @@
       "url": "https://auditoriozaragoza.com/programacion/netherlands-philharmonic-orchestra/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/nederlands_philharmonisch_foto1-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "ARNAU TOMÁS",
@@ -1860,7 +1980,7 @@
       "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno-2-2-2-2-2-2-2-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/arnau-tomas-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "KENNETH BRIAN BAND",
@@ -1870,7 +1990,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2277",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/09-04-2027-KENNETH-BRIAN-BAND/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "DIRE STRAITS: HOMENAJE POR ALCHEMY PROJECT",
@@ -1880,7 +2000,7 @@
       "url": "https://auditoriozaragoza.com/programacion/dire-straits-homenaje-por-alchemy-project/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/07/Imagen-Principal-Web-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Novena sinfonía de Beethoven",
@@ -1890,7 +2010,7 @@
       "url": "https://auditoriozaragoza.com/programacion/novena-sinfonia-de-beethoven-3/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/11-ABRIL-1-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "THE HANGING STARS",
@@ -1910,7 +2030,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2213",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/17-04-2027-ASHLEY-SHERLOCK/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "PHILHARMONISCHES STREICHQUINTETT BERLIN (PSB)",
@@ -1920,7 +2040,7 @@
       "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno-2-2-2-2-2-2-2-2-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/psb-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "Berner Symphonieorchester",
@@ -1930,7 +2050,7 @@
       "url": "https://auditoriozaragoza.com/programacion/berner-symphonieorchester/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/berner_symphonieorchester__buhnen_bern_berner_symphonieorchester-e1780388374579-wpv_400x400_center_center.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     },
     {
       "titulo": "CON V DE VOZ",
@@ -1940,7 +2060,7 @@
       "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2259",
       "imagen": "https://www.sweetcaroline.app/backoffice/eventos/21-04-2027-CON-V-DE-VOZ/foto.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-26"
     }
   ]
 }
