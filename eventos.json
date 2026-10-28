@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T13:53:30.110423",
+  "actualizado": "2026-10-28T17:00:42.445785",
   "total": 216,
   "eventos": [
     {
@@ -30,7 +30,7 @@
       "url": "https://aragonenvivo.com/evento/jazz-al-margen/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/WhatsApp-Image-2026-10-14-at-09.22.18.jpeg",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "BLUE MOON MARQUEE",
@@ -50,7 +50,17 @@
       "url": "https://aragonenvivo.com/evento/jaime-ocana-manejo-de-ojetes-de-gran-cilindrada/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_Pregoneros_Got_Talent_Jaime_Oriz-35.jpg",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
+    },
+    {
+      "titulo": "RAFA SANCHEZ – LA UNIÓN – Biografía",
+      "fecha": "2026-10-30",
+      "hora": "20:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/rafa-sanchez-la-union-biografia/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rafalaunion.webp",
+      "descripcion": "",
+      "visto": "2026-10-28"
     },
     {
       "titulo": "Concierto de Rafa Sánchez en Zaragoza",
@@ -63,14 +73,14 @@
       "visto": "2026-10-28"
     },
     {
-      "titulo": "RAFA SANCHEZ – LA UNIÓN – Biografía",
+      "titulo": "Kelley Stoltz (USA)",
       "fecha": "2026-10-30",
-      "hora": "20:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://aragonenvivo.com/evento/rafa-sanchez-la-union-biografia/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rafalaunion.webp",
+      "hora": "20:30",
+      "sala": "La Lata de Bombillas",
+      "url": "https://aragonenvivo.com/evento/kelley-stoltz-usa/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/kelley-1.webp",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "SPINO + Grim Paradise",
@@ -80,15 +90,25 @@
       "url": "https://aragonenvivo.com/evento/spino-grim-paradise/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/813698311_18338851942259176_130200994594142979_n.jpeg",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
+    },
+    {
+      "titulo": "CINEMA STEREO",
+      "fecha": "2026-10-30",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://aragonenvivo.com/evento/cinema-stereo/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": "",
+      "visto": "2026-10-28"
     },
     {
       "titulo": "Funzo",
       "fecha": "2026-10-30",
       "hora": "21:00",
       "sala": "Sala Oasis",
-      "url": "https://www.laganzua.net/conciertos/funzo-zaragoza-1015948",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/funzo-2026.jpg",
+      "url": "https://aragonenvivo.com/evento/funzo/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/ZARAGOZA-POST-FUNZO-scaled-2.webp",
       "descripcion": "",
       "visto": "2026-10-28"
     },
@@ -100,7 +120,7 @@
       "url": "https://aragonenvivo.com/evento/marla-singer-bank-soez/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m__.jpg",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "ESPECIAL DIA DE MUERTOS POR DIEGO MELENDEZ Y PAUL DEN HOLDER",
@@ -113,26 +133,6 @@
       "visto": "2026-10-25"
     },
     {
-      "titulo": "CINEMA STEREO",
-      "fecha": "2026-10-30",
-      "hora": "",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=1826",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/30-10-2026-CINEMA-STEREO/foto.jpg",
-      "descripcion": "",
-      "visto": "2026-10-28"
-    },
-    {
-      "titulo": "Kelley Stoltz",
-      "fecha": "2026-10-30",
-      "hora": "",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.setlist.fm/setlist/kelley-stoltz/2026/la-lata-de-bombillas-zaragoza-spain-7b7e6e18.html",
-      "imagen": "",
-      "descripcion": "",
-      "visto": "2026-10-28"
-    },
-    {
       "titulo": "AMBKOR",
       "fecha": "2026-10-31",
       "hora": "18:30",
@@ -140,7 +140,17 @@
       "url": "https://aragonenvivo.com/evento/ambkor/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/WhatsApp-Image-2026-09-08-at-14.51.43.jpeg",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
+    },
+    {
+      "titulo": "Halloween: Lex Lüger y Romanthica",
+      "fecha": "2026-10-31",
+      "hora": "20:00",
+      "sala": "Pub Utopia",
+      "url": "https://aragonenvivo.com/evento/halloween-lex-luger-y-romanthica/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/812133299_18338573386259176_11190546156377605_n.jpeg",
+      "descripcion": "",
+      "visto": "2026-10-28"
     },
     {
       "titulo": "JULIO IGLESIAS Experience por JULIO IGLESIAS Jr.",
@@ -153,16 +163,6 @@
       "visto": "2026-10-28"
     },
     {
-      "titulo": "Halloween: Lex Lüger y Romanthica",
-      "fecha": "2026-10-31",
-      "hora": "20:00",
-      "sala": "Pub Utopia",
-      "url": "https://aragonenvivo.com/evento/halloween-lex-luger-y-romanthica/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/812133299_18338573386259176_11190546156377605_n.jpeg",
-      "descripcion": "",
-      "visto": "2026-10-27"
-    },
-    {
       "titulo": "EL VERBO ODIADO",
       "fecha": "2026-10-31",
       "hora": "20:30",
@@ -170,7 +170,7 @@
       "url": "https://aragonenvivo.com/evento/el-verbo-odiado/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/evo800.jpg",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "MR SANCHEZ en SALA CREEDENCE #RedDeSalas",
@@ -180,7 +180,7 @@
       "url": "https://aragonenvivo.com/evento/mr-sanchez-en-sala-creedence-reddesalas/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_MR._SANCHEZ_OCT26_Cartel__A3_vertical__.jpg",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "PACO ENLALUNA – PACO ENLALUNA",
@@ -190,7 +190,7 @@
       "url": "https://aragonenvivo.com/evento/paco-enlaluna-paco-enlaluna/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/20261031pacooct26-1.jpeg",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "ORQUESTA SINFÓNICA NACIONAL JUVENIL DE VENEZUELA",
@@ -210,7 +210,7 @@
       "url": "https://aragonenvivo.com/evento/asi-se-baila/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/3541.webp",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "PARADISE (TRIBUTO A COLDPLAY)",
@@ -220,7 +220,7 @@
       "url": "https://aragonenvivo.com/evento/paradise-tributo-a-coldplay/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/paradise-3.webp",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "TANKARD + tba + Exodia + Hidden",
@@ -230,7 +230,7 @@
       "url": "https://aragonenvivo.com/evento/tankard-tba-exodia-hidden/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/SnapInsta-Ai_DOLkVFTAq5R.webp",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "SILENT 4TET",
@@ -270,7 +270,7 @@
       "url": "https://aragonenvivo.com/evento/radio-days-italia/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/s_poster-1.webp",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "CON V DE VOZ",
@@ -310,16 +310,6 @@
       "url": "https://aragonenvivo.com/evento/agustin-balbi-promete-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/20261106_Promete-A4.png",
       "descripcion": "",
-      "visto": "2026-10-27"
-    },
-    {
-      "titulo": "Fyahbwoy",
-      "fecha": "2026-11-06",
-      "hora": "20:30",
-      "sala": "Sala López",
-      "url": "https://www.laganzua.net/conciertos/fyahbwoy-zaragoza-1016499",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/fyahbwoy-2026.jpg",
-      "descripcion": "",
       "visto": "2026-10-28"
     },
     {
@@ -330,7 +320,47 @@
       "url": "https://aragonenvivo.com/evento/estrogenuinas-mallo/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/63b71048-ebdf-4ff6-855a-ab65878c8903.avif",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
+    },
+    {
+      "titulo": "FYAHBWOY",
+      "fecha": "2026-11-06",
+      "hora": "20:30",
+      "sala": "Sala López",
+      "url": "https://aragonenvivo.com/evento/fyahbwoy/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/fyahbwoy-POST.png",
+      "descripcion": "",
+      "visto": "2026-10-28"
+    },
+    {
+      "titulo": "MONSTRUO LABERINTO",
+      "fecha": "2026-11-06",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://aragonenvivo.com/evento/monstruo-laberinto/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
+      "descripcion": "",
+      "visto": "2026-10-28"
+    },
+    {
+      "titulo": "DÜNEDAIN",
+      "fecha": "2026-11-06",
+      "hora": "21:00",
+      "sala": "La Casa del Loco",
+      "url": "https://aragonenvivo.com/evento/dunedain/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/e5db2db2-bbe3-48d0-9d35-7eec8dbc963f.jpg",
+      "descripcion": "",
+      "visto": "2026-10-28"
+    },
+    {
+      "titulo": "ABISMO + PREKATOR",
+      "fecha": "2026-11-06",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/abismo-prekator/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_Use_AI_Image_Oct_12__2026__22_54_32.png",
+      "descripcion": "",
+      "visto": "2026-10-28"
     },
     {
       "titulo": "Concierto de Monstruo Laberinto en Zaragoza",
@@ -343,36 +373,6 @@
       "visto": "2026-10-28"
     },
     {
-      "titulo": "MONSTRUO LABERINTO",
-      "fecha": "2026-11-06",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://aragonenvivo.com/evento/monstruo-laberinto/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/rock-blues-LOGO.jpg",
-      "descripcion": "",
-      "visto": "2026-10-27"
-    },
-    {
-      "titulo": "DÜNEDAIN",
-      "fecha": "2026-11-06",
-      "hora": "21:00",
-      "sala": "La Casa del Loco",
-      "url": "https://aragonenvivo.com/evento/dunedain/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/e5db2db2-bbe3-48d0-9d35-7eec8dbc963f.jpg",
-      "descripcion": "",
-      "visto": "2026-10-27"
-    },
-    {
-      "titulo": "ABISMO + PREKATOR",
-      "fecha": "2026-11-06",
-      "hora": "21:00",
-      "sala": "La Ley Seca",
-      "url": "https://aragonenvivo.com/evento/abismo-prekator/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/event_m_Use_AI_Image_Oct_12__2026__22_54_32.png",
-      "descripcion": "",
-      "visto": "2026-10-27"
-    },
-    {
       "titulo": "ALEX GOZALO – QUIEN QUIERE SER ADULTO",
       "fecha": "2026-11-06",
       "hora": "22:00",
@@ -380,7 +380,7 @@
       "url": "https://aragonenvivo.com/evento/alex-gozalo-quien-quiere-ser-adulto/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/20261106ALEX.jpeg",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "QUIQUE MATILLA – QUIQUE MATILLA",
@@ -390,7 +390,7 @@
       "url": "https://aragonenvivo.com/evento/quique-matilla-quique-matilla/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/20261107QUIQUEMATILLA26.png",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "Angel Stanich",
@@ -405,10 +405,10 @@
     {
       "titulo": "Walls",
       "fecha": "2026-11-07",
-      "hora": "20:30",
+      "hora": "20:00",
       "sala": "Sala Oasis",
-      "url": "https://www.laganzua.net/conciertos/walls-zaragoza-1016761",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/walls-2026.jpg",
+      "url": "https://aragonenvivo.com/evento/walls/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/Q-ws2Z-g-3.webp",
       "descripcion": "",
       "visto": "2026-10-28"
     },
@@ -420,7 +420,7 @@
       "url": "https://aragonenvivo.com/evento/azero-koakzion/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/A-3-AZERO-KOAKZION-7-NOV-2026-ZGZ-scaled-1.jpg",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "Vapors of Morphine",
@@ -430,7 +430,27 @@
       "url": "https://aragonenvivo.com/evento/vapors-of-morphine/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/phpThumb_generated_thumbnail-15.jpg",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
+    },
+    {
+      "titulo": "SANTERO Y LOS MUCHACHOS",
+      "fecha": "2026-11-07",
+      "hora": "21:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/santero-y-los-muchachos-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/3333-3.webp",
+      "descripcion": "",
+      "visto": "2026-10-28"
+    },
+    {
+      "titulo": "DIRTY SOUND MAGNET",
+      "fecha": "2026-11-07",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://aragonenvivo.com/evento/dirty-sound-magnet/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-135.webp",
+      "descripcion": "",
+      "visto": "2026-10-28"
     },
     {
       "titulo": "Bryan Adams",
@@ -453,32 +473,12 @@
       "visto": "2026-10-28"
     },
     {
-      "titulo": "SANTERO Y LOS MUCHACHOS",
-      "fecha": "2026-11-07",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://aragonenvivo.com/evento/santero-y-los-muchachos-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/3333-3.webp",
-      "descripcion": "",
-      "visto": "2026-10-27"
-    },
-    {
       "titulo": "VIDDA PRIEGO – MONOLOGOS POLIGONEROS",
       "fecha": "2026-11-07",
       "hora": "23:00",
       "sala": "Belushi",
       "url": "https://aragonenvivo.com/evento/vidda-priego-monologos-poligoneros/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/20261107vidda-2-26.jpg.jpeg",
-      "descripcion": "",
-      "visto": "2026-10-27"
-    },
-    {
-      "titulo": "DIRTY SOUND MAGNET",
-      "fecha": "2026-11-07",
-      "hora": "",
-      "sala": "Rock & Blues Café",
-      "url": "https://sweetcaroline.app/venta-de-entradas/concierto-de-dirty-sound-magnet-en-zaragoza",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/07-11-2026-DIRTY-SOUND-MAGNET/foto.jpg",
       "descripcion": "",
       "visto": "2026-10-28"
     },
@@ -490,15 +490,15 @@
       "url": "https://aragonenvivo.com/evento/eden-serrano/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/20261108EDENQQ.jpeg",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "Walls",
       "fecha": "2026-11-08",
-      "hora": "20:30",
+      "hora": "20:00",
       "sala": "Sala Oasis",
-      "url": "https://www.laganzua.net/conciertos/walls-segunda-fecha-zaragoza-1016762",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/walls-2026.jpg",
+      "url": "https://aragonenvivo.com/evento/walls-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/ZARAGOZA-2-scaled-4.webp",
       "descripcion": "",
       "visto": "2026-10-28"
     },
@@ -570,7 +570,17 @@
       "url": "https://aragonenvivo.com/evento/lemot-montana/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/13-Viernes-2000h-LEMOT-MONTANA-240x300-1.jpg",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
+    },
+    {
+      "titulo": "CEPEDA",
+      "fecha": "2026-11-13",
+      "hora": "20:30",
+      "sala": "La Casa del Loco",
+      "url": "https://aragonenvivo.com/evento/cepeda/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/CEPEDA-13-NOV-2026-Zaragoza-Cuadrado-scaled-1.jpg",
+      "descripcion": "",
+      "visto": "2026-10-28"
     },
     {
       "titulo": "Chiquita Movida",
@@ -583,14 +593,14 @@
       "visto": "2026-10-28"
     },
     {
-      "titulo": "CEPEDA",
+      "titulo": "SOFIA ELLAR",
       "fecha": "2026-11-13",
-      "hora": "20:30",
-      "sala": "La Casa del Loco",
-      "url": "https://aragonenvivo.com/evento/cepeda/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/CEPEDA-13-NOV-2026-Zaragoza-Cuadrado-scaled-1.jpg",
+      "hora": "21:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/sofia-ellar/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/3280-3.webp",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "SKETCHES OF LATIN MILES",
@@ -603,16 +613,6 @@
       "visto": "2026-10-28"
     },
     {
-      "titulo": "SOFIA ELLAR",
-      "fecha": "2026-11-13",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://aragonenvivo.com/evento/sofia-ellar/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/3280-3.webp",
-      "descripcion": "",
-      "visto": "2026-10-27"
-    },
-    {
       "titulo": "JAIME CARAVACA",
       "fecha": "2026-11-13",
       "hora": "22:00",
@@ -620,7 +620,7 @@
       "url": "https://aragonenvivo.com/evento/jaime-caravaca/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/20261113jaimeca444-3.webp",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "Concierto de Tony Vega en Zaragoza",
@@ -663,6 +663,16 @@
       "visto": "2026-10-28"
     },
     {
+      "titulo": "KONNASTER",
+      "fecha": "2026-11-14",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/konnaster/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/igexport-Ddqpz5XsRMd.webp",
+      "descripcion": "",
+      "visto": "2026-10-28"
+    },
+    {
       "titulo": "James Carter Organ Trio",
       "fecha": "2026-11-14",
       "hora": "21:00",
@@ -671,16 +681,6 @@
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Diseno-sin-titulo-7-wpv_400x400_center_center.png",
       "descripcion": "",
       "visto": "2026-10-28"
-    },
-    {
-      "titulo": "KONNASTER",
-      "fecha": "2026-11-14",
-      "hora": "21:00",
-      "sala": "La Ley Seca",
-      "url": "https://aragonenvivo.com/evento/konnaster/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/igexport-Ddqpz5XsRMd.webp",
-      "descripcion": "",
-      "visto": "2026-10-27"
     },
     {
       "titulo": "THE CAPACES",
@@ -750,7 +750,7 @@
       "url": "https://aragonenvivo.com/evento/temples-ciclo-lata-gourmet/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/TEMPLES_CAB.webp",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "NOCHE FLAMENCO",
@@ -813,6 +813,16 @@
       "visto": "2026-10-28"
     },
     {
+      "titulo": "BLADIMIR ROS",
+      "fecha": "2026-11-20",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/bladimir-ros-3/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20-Viernes-2100h-BLADIMIR-ROS-240x300-1.jpg",
+      "descripcion": "",
+      "visto": "2026-10-28"
+    },
+    {
       "titulo": "Chris Potter Trio",
       "fecha": "2026-11-20",
       "hora": "21:00",
@@ -821,16 +831,6 @@
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Diseno-sin-titulo-13-wpv_400x400_center_center.png",
       "descripcion": "",
       "visto": "2026-10-28"
-    },
-    {
-      "titulo": "BLADIMIR ROS",
-      "fecha": "2026-11-20",
-      "hora": "21:00",
-      "sala": "La Ley Seca",
-      "url": "https://aragonenvivo.com/evento/bladimir-ros-3/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20-Viernes-2100h-BLADIMIR-ROS-240x300-1.jpg",
-      "descripcion": "",
-      "visto": "2026-10-27"
     },
     {
       "titulo": "Abhir",
@@ -853,6 +853,16 @@
       "visto": "2026-10-28"
     },
     {
+      "titulo": "NÉSTOR RAUSELL y LOS IMPOSTORES + JORGE ROY",
+      "fecha": "2026-11-21",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/nestor-rausell-y-los-impostores-jorge-roy/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/21-Sabado-2100h-NESTOR-RAUSELL-y-LOS-IMPOSTORES-JORGE-ROY-240x300-1.jpg",
+      "descripcion": "",
+      "visto": "2026-10-28"
+    },
+    {
       "titulo": "Paquito D’Rivera Trío + Thomas Kretzschmar & Romain Vuillemin 4tet",
       "fecha": "2026-11-21",
       "hora": "21:00",
@@ -871,16 +881,6 @@
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/hombres-g-2026.jpg",
       "descripcion": "",
       "visto": "2026-10-28"
-    },
-    {
-      "titulo": "NÉSTOR RAUSELL y LOS IMPOSTORES + JORGE ROY",
-      "fecha": "2026-11-21",
-      "hora": "21:00",
-      "sala": "La Ley Seca",
-      "url": "https://aragonenvivo.com/evento/nestor-rausell-y-los-impostores-jorge-roy/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/21-Sabado-2100h-NESTOR-RAUSELL-y-LOS-IMPOSTORES-JORGE-ROY-240x300-1.jpg",
-      "descripcion": "",
-      "visto": "2026-10-27"
     },
     {
       "titulo": "SOBREZERO",
@@ -910,7 +910,7 @@
       "url": "https://aragonenvivo.com/evento/manel-fuentes-porque-le-llaman-the-boss/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/TEATRO-ESQUINAS.png",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "Michael Mayo",
@@ -980,7 +980,7 @@
       "url": "https://aragonenvivo.com/evento/frankie-and-the-witch-fingers/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-136.webp",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "FRANKIE AND THE WITCH FINGERS + DEATH CULT",
@@ -1000,7 +1000,7 @@
       "url": "https://aragonenvivo.com/evento/miniver/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/27-Viernes-2000h-MINIVER-240x300-1.jpg",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "Fito Y Fitipaldis",
@@ -1033,6 +1033,16 @@
       "visto": "2026-10-28"
     },
     {
+      "titulo": "LOCAL SEIS",
+      "fecha": "2026-11-28",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://aragonenvivo.com/evento/local-seis-5/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/28-sab-local-seis-240x300-1.jpg",
+      "descripcion": "",
+      "visto": "2026-10-28"
+    },
+    {
       "titulo": "Fito Y Fitipaldis",
       "fecha": "2026-11-28",
       "hora": "21:00",
@@ -1041,16 +1051,6 @@
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/fito-fitipaldis-teatros-2027.jpg",
       "descripcion": "",
       "visto": "2026-10-28"
-    },
-    {
-      "titulo": "LOCAL SEIS",
-      "fecha": "2026-11-28",
-      "hora": "21:00",
-      "sala": "La Ley Seca",
-      "url": "https://aragonenvivo.com/evento/local-seis-5/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/28-sab-local-seis-240x300-1.jpg",
-      "descripcion": "",
-      "visto": "2026-10-27"
     },
     {
       "titulo": "Parquesvr",
@@ -1120,7 +1120,7 @@
       "url": "https://aragonenvivo.com/evento/new-years-eve-the-sixties-new-year-s-party-2026/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/fin-de-ano-7-1024x1024-1.webp",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "Little Barrie (USA)",
@@ -1130,7 +1130,7 @@
       "url": "https://aragonenvivo.com/evento/little-barrie-usa/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/IMG_20260508_093137.webp",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "LARANNA",
@@ -1150,7 +1150,7 @@
       "url": "https://aragonenvivo.com/evento/al-dual-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/foto-42.webp",
       "descripcion": "",
-      "visto": "2026-10-26"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "LOS CORONAS",
@@ -1583,14 +1583,14 @@
       "visto": "2026-10-28"
     },
     {
-      "titulo": "REALITY",
+      "titulo": "Reality",
       "fecha": "2027-01-23",
-      "hora": "20:00",
+      "hora": "20:30",
       "sala": "Sala López",
-      "url": "https://aragonenvivo.com/evento/reality/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/RLTY-ZARAGOZA-POST-2.webp",
+      "url": "https://www.laganzua.net/conciertos/reality-zaragoza-1015677",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/reality-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-25"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "BAND OF FRIENDS",
@@ -1920,7 +1920,7 @@
       "url": "https://www.laganzua.net/conciertos/balkan-paradise-orchestra-zaragoza-1016571",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/balkan-paradise-orchestra-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-27"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "Iñigo Quintero",
@@ -1930,7 +1930,7 @@
       "url": "https://www.laganzua.net/conciertos/inigo-quintero-zaragoza-1017898",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/inigo-quintero-2026.jpg",
       "descripcion": "",
-      "visto": "2026-10-23"
+      "visto": "2026-10-28"
     },
     {
       "titulo": "Anabel Lee",
