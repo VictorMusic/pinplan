@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-01T17:01:08.707338",
-  "total": 350,
+  "actualizado": "2026-11-01T19:26:16.448181",
+  "total": 351,
   "eventos": [
     {
       "titulo": "Dixie Rue Del Percebe",
@@ -179,6 +179,16 @@
       "sala": "Rock & Blues Café",
       "url": "https://www.aragonmusical.com/agenda/noche-hawaiano-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-35.jpg",
+      "descripcion": "",
+      "visto": "2026-11-01"
+    },
+    {
+      "titulo": "AMANKAY presenta a MICAELA CHAUQUE",
+      "fecha": "2026-11-05",
+      "hora": "19:00",
+      "sala": "Estación del Norte",
+      "url": "https://www.aragonmusical.com/agenda/amankay-presenta-a-micaela-chauque/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/Amankay_MicaChauque.jpg",
       "descripcion": "",
       "visto": "2026-11-01"
     },
