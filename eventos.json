@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-03T01:57:45.192522",
-  "total": 342,
+  "actualizado": "2026-11-03T14:52:11.789947",
+  "total": 345,
   "eventos": [
     {
       "titulo": "BEATRIZ GIMENO",
@@ -1004,22 +1004,22 @@
       "visto": "2026-11-03"
     },
     {
-      "titulo": "Concierto de Muñeca Rusa en Zaragoza",
-      "fecha": "2026-11-20",
-      "hora": "20:00",
-      "sala": "Sala Roze",
-      "url": "https://www.jacksonlive.es/concierto/concierto-de-muneca-rusa-en-zaragoza",
-      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/521591782411919.jpg",
-      "descripcion": "",
-      "visto": "2026-11-03"
-    },
-    {
       "titulo": "Concierto de The Buzz Lovers en Zaragoza",
       "fecha": "2026-11-20",
       "hora": "20:00",
       "sala": "Sala López",
       "url": "https://www.jacksonlive.es/concierto/concierto-de-the-buzz-lovers-en-zaragoza",
       "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/532771790098010.jpg",
+      "descripcion": "",
+      "visto": "2026-11-03"
+    },
+    {
+      "titulo": "Concierto de Muñeca Rusa en Zaragoza",
+      "fecha": "2026-11-20",
+      "hora": "20:00",
+      "sala": "Sala Roze",
+      "url": "https://www.jacksonlive.es/concierto/concierto-de-muneca-rusa-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/521591782411919.jpg",
       "descripcion": "",
       "visto": "2026-11-03"
     },
@@ -2234,6 +2234,26 @@
       "visto": "2026-11-03"
     },
     {
+      "titulo": "VIENA EN AÑO NUEVO",
+      "fecha": "2027-01-10",
+      "hora": "19:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/viena-en-ano-nuevo/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/11/concierto-VIENA-EN-ANO-NUEVO-Orquesta-Kursalon-de-Viena-Orquesta-de-Camara-Iberoamericana-2.jpg-wpv_400x400_center_center.jpeg",
+      "descripcion": "",
+      "visto": "2026-11-03"
+    },
+    {
+      "titulo": "BEEFHEAD",
+      "fecha": "2027-01-10",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2347",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/10-01-2027-BEEFHEAD/foto.jpg",
+      "descripcion": "",
+      "visto": "2026-11-03"
+    },
+    {
       "titulo": "Los Swingin Calaveras",
       "fecha": "2027-01-14",
       "hora": "21:00",
@@ -2460,6 +2480,16 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/orquesta-sinfonica-de-viena-3/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/Sinfonica-de-Viena-Copyright-Peter-Rigaud-002-scaled-e1780386428760-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-11-03"
+    },
+    {
+      "titulo": "EL BUENO EL FEO Y EL MALO",
+      "fecha": "2027-01-28",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2332",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/28-01-2027-EL-BUENO-EL-FEO-Y-EL-MALO/foto.jpg",
       "descripcion": "",
       "visto": "2026-11-03"
     },
