@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-04T00:19:13.113898",
-  "total": 341,
+  "actualizado": "2026-11-04T15:05:18.078100",
+  "total": 344,
   "eventos": [
     {
       "titulo": "Noche Hawaiano",
@@ -1994,6 +1994,16 @@
       "visto": "2026-11-04"
     },
     {
+      "titulo": "El Bis Y Los Preslis",
+      "fecha": "2026-12-19",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://www.aragonmusical.com/agenda/el-bis-y-los-preslis/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2014/10/Elbis-y-los-Preslis.jpg",
+      "descripcion": "",
+      "visto": "2026-11-04"
+    },
+    {
       "titulo": "Red Cactus",
       "fecha": "2026-12-20",
       "hora": "20:00",
@@ -2204,12 +2214,12 @@
       "visto": "2026-11-04"
     },
     {
-      "titulo": "BEEFHEAD",
+      "titulo": "Beefhead",
       "fecha": "2027-01-10",
-      "hora": "",
+      "hora": "20:00",
       "sala": "Rock & Blues Café",
-      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2347",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/10-01-2027-BEEFHEAD/foto.jpg",
+      "url": "https://www.aragonmusical.com/agenda/beefhead-2/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto.jpg",
       "descripcion": "",
       "visto": "2026-11-04"
     },
@@ -2984,6 +2994,16 @@
       "visto": "2026-11-04"
     },
     {
+      "titulo": "Alison Darwin + Supercremalleras",
+      "fecha": "2027-03-05",
+      "hora": "21:00",
+      "sala": "La Lata de Bombillas",
+      "url": "https://www.aragonmusical.com/agenda/alison-darwin-supercremalleras/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/event_l_1000270197.png",
+      "descripcion": "",
+      "visto": "2026-11-04"
+    },
+    {
       "titulo": "Ill Pekeño & Ergo Pro",
       "fecha": "2027-03-05",
       "hora": "22:00",
@@ -3004,22 +3024,22 @@
       "visto": "2026-11-04"
     },
     {
-      "titulo": "Iñigo Quintero",
-      "fecha": "2027-03-06",
-      "hora": "20:00",
-      "sala": "Sala López",
-      "url": "https://www.laganzua.net/conciertos/inigo-quintero-zaragoza-1017898",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/inigo-quintero-2026.jpg",
-      "descripcion": "",
-      "visto": "2026-11-01"
-    },
-    {
       "titulo": "Anabel Lee",
       "fecha": "2027-03-06",
       "hora": "20:30",
       "sala": "La Lata de Bombillas",
       "url": "https://www.aragonmusical.com/agenda/anabel-lee-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/08/Anabel-Lee-Luis-Lorente-15.jpg",
+      "descripcion": "",
+      "visto": "2026-11-04"
+    },
+    {
+      "titulo": "Iñigo Quintero",
+      "fecha": "2027-03-06",
+      "hora": "20:30",
+      "sala": "Sala López",
+      "url": "https://www.aragonmusical.com/agenda/inigo-quintero-2/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/10/Inigo-Quintero-Espacio-Zity-71024.-Por-Luis-Lopez-Latorre-11.jpg",
       "descripcion": "",
       "visto": "2026-11-04"
     },
@@ -3170,6 +3190,16 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://www.aragonmusical.com/agenda/siempre-heroes/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/Siempre-Heroes.jpg",
+      "descripcion": "",
+      "visto": "2026-11-04"
+    },
+    {
+      "titulo": "DJ SYMPHONIC – NEW EDITION",
+      "fecha": "2027-03-20",
+      "hora": "19:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/dj-symphonic-new-edition/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/11/WEB-ZARA-DJ-SYMPHONIC-NEW-1200x675-20-MAR-wpv_400x400_center_center.jpg",
       "descripcion": "",
       "visto": "2026-11-04"
     },
