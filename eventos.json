@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T15:05:18.078100",
+  "actualizado": "2026-11-04T18:29:26.645004",
   "total": 344,
   "eventos": [
     {
@@ -964,22 +964,22 @@
       "visto": "2026-11-04"
     },
     {
-      "titulo": "Concierto de The Buzz Lovers en Zaragoza",
-      "fecha": "2026-11-20",
-      "hora": "20:00",
-      "sala": "Sala López",
-      "url": "https://www.jacksonlive.es/concierto/concierto-de-the-buzz-lovers-en-zaragoza",
-      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/532771790098010.jpg",
-      "descripcion": "",
-      "visto": "2026-11-04"
-    },
-    {
       "titulo": "Concierto de Muñeca Rusa en Zaragoza",
       "fecha": "2026-11-20",
       "hora": "20:00",
       "sala": "Sala Roze",
       "url": "https://www.jacksonlive.es/concierto/concierto-de-muneca-rusa-en-zaragoza",
       "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/521591782411919.jpg",
+      "descripcion": "",
+      "visto": "2026-11-04"
+    },
+    {
+      "titulo": "Concierto de The Buzz Lovers en Zaragoza",
+      "fecha": "2026-11-20",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://www.jacksonlive.es/concierto/concierto-de-the-buzz-lovers-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/532771790098010.jpg",
       "descripcion": "",
       "visto": "2026-11-04"
     },
