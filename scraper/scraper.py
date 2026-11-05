@@ -1138,7 +1138,14 @@ def fusionar_similares(events):
                     break
             if gemelo is None:
                 elegidos.append(e)
-            elif _riqueza(e) > _riqueza(gemelo):
+                continue
+            ganador, perdedor = (e, gemelo) if _riqueza(e) > _riqueza(gemelo) else (gemelo, e)
+            # Si una variante se ha confirmado hoy, el concierto sigue vivo aunque
+            # la otra venga rescatada de un run anterior: nos quedamos con la fecha
+            # de confirmacion mas reciente para que no caduque antes de tiempo.
+            if "visto" in ganador or "visto" in perdedor:
+                ganador["visto"] = max(ganador.get("visto", ""), perdedor.get("visto", ""))
+            if ganador is e:
                 elegidos[elegidos.index(gemelo)] = e
         salida.extend(elegidos)
     return salida
@@ -1341,9 +1348,16 @@ def main():
 
     out_path = pathlib.Path(__file__).parent.parent / 'eventos.json'
     all_events, rescatados = fusionar_con_anterior(all_events, out_path)
-    all_events = sort_events(all_events)
     if rescatados:
         print(f"  Conservados de runs anteriores (su fuente no respondio hoy): {rescatados}")
+        # Los rescatados entran por clave exacta y se saltan la fusion de titulos
+        # parecidos: "Fito & Fitipaldis" (hoy) y "Fito Y Fitipaldis" (rescatado)
+        # salian como dos conciertos. Se vuelve a pasar la fusion sobre el conjunto.
+        antes = len(all_events)
+        all_events = fusionar_similares(all_events)
+        if len(all_events) < antes:
+            print(f"  Variantes fusionadas con eventos de runs anteriores: {antes - len(all_events)}")
+    all_events = sort_events(all_events)
     print(f"Publicados: {len(all_events)}")
 
     output = {"actualizado": datetime.now().isoformat(), "total": len(all_events), "eventos": all_events}
