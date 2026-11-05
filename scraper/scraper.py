@@ -316,6 +316,77 @@ def scrape_jsonld(url, nombre_fuente, solo_zaragoza=True):
 def scrape_jacksonlive():
     return scrape_jsonld("https://www.jacksonlive.es/zaragoza", "jacksonlive")
 
+def _titulo_sin_gritos(t):
+    """Conciertos.club escribe muchos nombres en mayusculas; los pasamos a capitalizado.
+
+    Las siglas cortas (OBK, ZPU, DJ) se dejan como estan.
+    """
+    if not t or not t.isupper() or len(t) <= 4: return t
+    comunes = {"THE", "AND", "OF", "DE", "DEL", "LA", "LAS", "EL", "LOS", "Y", "EN", "CON", "AL", "A", "UN", "UNA"}
+    salida = []
+    for i, w in enumerate(t.split()):
+        if "." in w: salida.append(w)                      # siglas con puntos (M.O.D.A.)
+        elif w in comunes: salida.append(w.capitalize() if i == 0 else w.lower())
+        elif len(w) > 3: salida.append(w.capitalize())
+        else: salida.append(w)                             # siglas cortas (OBK, DJ, GBH)
+    return " ".join(salida)
+
+def scrape_conciertos_club():
+    """Agenda de Zaragoza ciudad en conciertos.club.
+
+    El listado lleva cada concierto como microdatos schema.org (MusicEvent) con
+    fecha y hora, sala, localidad, imagen y precio, asi que no hace falta visitar
+    las fichas. La pagina pesa ~2 MB y trae unos dos meses de agenda.
+    """
+    r = get("https://conciertos.club/zaragoza")
+    if not r:
+        print("  conciertos.club: sin respuesta")
+        return []
+    soup = BeautifulSoup(r.text, "lxml")
+    evs, fuera, cancelados = [], 0, 0
+    for item in soup.select('[itemtype="http://schema.org/MusicEvent"]'):
+        def meta(prop, scope=item):
+            el = scope.find("meta", itemprop=prop)
+            return normalize(el.get("content", "")) if el else ""
+        # El nombre del evento es el meta "name" que NO cuelga del performer
+        titulo = ""
+        for el in item.find_all("meta", itemprop="name"):
+            padre = el.find_parent(attrs={"itemprop": True})
+            if padre is not None and padre.get("itemprop") == "performer": continue
+            titulo = normalize(el.get("content", "")); break
+        titulo = _titulo_sin_gritos(titulo.rstrip(" ."))
+        inicio = meta("startDate")
+        if not titulo or len(titulo) < 3 or not inicio: continue
+        estado = item.select_one("a.nombre strong.color2")
+        if "cancel" in meta("eventStatus").lower() or (estado and "cancel" in estado.get_text().lower()):
+            cancelados += 1; continue
+        lugar = item.find(attrs={"itemprop": "location"})
+        sala = meta("name", lugar) if lugar else ""
+        localidad = meta("addressLocality", lugar).split(",")[0] if lugar else ""
+        if not _es_zaragoza_ciudad(localidad, sala):
+            fuera += 1; continue
+        fecha = parse_date(inicio[:10]) or ""
+        mh = re.search(r"T(\d{2}):(\d{2})", inicio)
+        hora = f"{mh.group(1)}:{mh.group(2)}" if mh and mh.group(0) != "T00:00" else ""
+        imagen = meta("image")
+        if "nofoto" in imagen: imagen = ""
+        # Estilo y precio como descripcion corta, para la ficha
+        estilo = item.select_one("span.estilo")
+        precio = item.select_one("span.precio_wrap")
+        partes = []
+        if estilo: partes.append(normalize(estilo.get_text()).lstrip("/ ").strip())
+        if precio:
+            ptxt = normalize(precio.get_text(" "))
+            if "libre" in ptxt.lower(): partes.append("Entrada libre")
+            else:
+                mp = re.search(r"(\d+(?:[,.]\d+)?)\s*€", ptxt)
+                if mp: partes.append(f"Entradas desde {mp.group(1)} €")
+        enlace = meta("url") or "https://conciertos.club/zaragoza"
+        evs.append(make_event(titulo, fecha, hora, sala or "Zaragoza", enlace, imagen, " · ".join(partes)))
+    con_hora = sum(1 for e in evs if e["hora"])
+    print(f"  conciertos.club: {len(evs)} ({con_hora} con hora, {fuera} fuera de la ciudad, {cancelados} cancelados)")
+    return evs
+
 def scrape_generic(url, sala_name, base_url):
     r = get(url)
     if not r: return []
@@ -1195,6 +1266,7 @@ def main():
         ("Arenarock",           scrape_arenarock),
         ("La Ganzua",           scrape_laganzua),
         ("JacksOnLive",         scrape_jacksonlive),
+        ("Conciertos.club",     scrape_conciertos_club),
     ]
     por_fuente = []
     for name, fn in scrapers:
