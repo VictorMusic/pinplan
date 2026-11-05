@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T15:10:43.794045",
+  "actualizado": "2026-11-05T18:32:50.667823",
   "total": 361,
   "eventos": [
     {
@@ -974,16 +974,6 @@
       "visto": "2026-11-05"
     },
     {
-      "titulo": "Concierto de Muñeca Rusa en Zaragoza",
-      "fecha": "2026-11-20",
-      "hora": "20:00",
-      "sala": "Sala Roze",
-      "url": "https://www.jacksonlive.es/concierto/concierto-de-muneca-rusa-en-zaragoza",
-      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/521591782411919.jpg",
-      "descripcion": "",
-      "visto": "2026-11-05"
-    },
-    {
       "titulo": "Concierto de The Buzz Lovers en Zaragoza",
       "fecha": "2026-11-20",
       "hora": "20:00",
@@ -1001,6 +991,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/125951-the-buzz-lovers-tributo-a-nirvana",
       "imagen": "https://doc.conciertos.club/doc/c/2026/thebuzzlov_20261120.jpg",
       "descripcion": "Versiones/Tributos · Entradas desde 22 €",
+      "visto": "2026-11-05"
+    },
+    {
+      "titulo": "Concierto de Muñeca Rusa en Zaragoza",
+      "fecha": "2026-11-20",
+      "hora": "20:00",
+      "sala": "Sala Roze",
+      "url": "https://www.jacksonlive.es/concierto/concierto-de-muneca-rusa-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/521591782411919.jpg",
+      "descripcion": "",
       "visto": "2026-11-05"
     },
     {
