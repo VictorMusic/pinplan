@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-05T09:45:01.503909",
-  "total": 359,
+  "actualizado": "2026-11-05T15:10:43.794045",
+  "total": 361,
   "eventos": [
     {
       "titulo": "AMANKAY",
@@ -3064,6 +3064,16 @@
       "visto": "2026-11-05"
     },
     {
+      "titulo": "Gara Durán",
+      "fecha": "2027-02-26",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://www.laganzua.net/conciertos/gara-duran-zaragoza-1018139",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/gara-duran-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-11-05"
+    },
+    {
       "titulo": "The Cherry Boppers & Patricia Reckless",
       "fecha": "2027-02-26",
       "hora": "21:00",
@@ -3380,6 +3390,16 @@
       "sala": "Sala Oasis",
       "url": "https://www.aragonmusical.com/agenda/barry-b-5/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/02/Barry-B.-Sala-Lopez-de-Zaragoza-20226.-Foto-de-Alejandro-Meavilla-para-Aragon-Musical-100.jpg",
+      "descripcion": "",
+      "visto": "2026-11-05"
+    },
+    {
+      "titulo": "LOS BRIOLES",
+      "fecha": "2027-04-02",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2345",
+      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/02-04-2027-LOS-BRIOLES/foto.jpg",
       "descripcion": "",
       "visto": "2026-11-05"
     },
