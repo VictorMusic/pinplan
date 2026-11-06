@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-06T17:49:46.831326",
-  "total": 360,
+  "actualizado": "2026-11-06T20:45:13.515619",
+  "total": 366,
   "eventos": [
     {
       "titulo": "Semohé & Ludwing Gómez",
@@ -123,22 +123,22 @@
       "visto": "2026-11-06"
     },
     {
-      "titulo": "Aurora Boreal",
-      "fecha": "2026-11-06",
-      "hora": "21:30",
-      "sala": "Teatro Arbolé",
-      "url": "https://www.aragonmusical.com/agenda/aurora-boreal-9/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/05/aurora-boreal-10-aniversario-mayo-2022-1.jpeg",
-      "descripcion": "",
-      "visto": "2026-11-06"
-    },
-    {
       "titulo": "Doc & The Mads + Raunchy!",
       "fecha": "2026-11-06",
       "hora": "21:30",
       "sala": "Sala Creedence",
       "url": "https://www.aragonmusical.com/agenda/doc-the-mads-raunchy/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/02/raunchy-zaragoza-2025.jpg",
+      "descripcion": "",
+      "visto": "2026-11-06"
+    },
+    {
+      "titulo": "Aurora Boreal",
+      "fecha": "2026-11-06",
+      "hora": "21:30",
+      "sala": "Teatro Arbolé",
+      "url": "https://www.aragonmusical.com/agenda/aurora-boreal-9/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/05/aurora-boreal-10-aniversario-mayo-2022-1.jpeg",
       "descripcion": "",
       "visto": "2026-11-06"
     },
@@ -390,6 +390,16 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/simon-trpceski/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/01/Simon-Trpceski_photo-web-scaled-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-11-06"
+    },
+    {
+      "titulo": "Rob Leines",
+      "fecha": "2026-11-10",
+      "hora": "21:00",
+      "sala": "La Lata de Bombillas",
+      "url": "https://www.aragonmusical.com/agenda/rob-leines-2/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/1c48b4a4-2565-448c-bcf0-86532bdcb0bd-scaled.jpg",
       "descripcion": "",
       "visto": "2026-11-06"
     },
@@ -2354,6 +2364,16 @@
       "visto": "2026-11-06"
     },
     {
+      "titulo": "Miguel Costas",
+      "fecha": "2027-01-15",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://www.aragonmusical.com/agenda/miguel-costas-2/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2017/07/Untitled-61-600x400.jpg",
+      "descripcion": "",
+      "visto": "2026-11-06"
+    },
+    {
       "titulo": "Mama Ladilla",
       "fecha": "2027-01-15",
       "hora": "21:00",
@@ -2744,6 +2764,16 @@
       "visto": "2026-11-06"
     },
     {
+      "titulo": "La Cabra Mecánica",
+      "fecha": "2027-02-06",
+      "hora": "22:00",
+      "sala": "Sala Oasis",
+      "url": "https://www.aragonmusical.com/agenda/la-cabra-mecanica/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/LA-CABRA-MECANICA-scaled-1.jpg",
+      "descripcion": "",
+      "visto": "2026-11-06"
+    },
+    {
       "titulo": "LA GUIRLANDE",
       "fecha": "2027-02-08",
       "hora": "19:30",
@@ -2934,6 +2964,16 @@
       "visto": "2026-11-06"
     },
     {
+      "titulo": "Los Estanques",
+      "fecha": "2027-02-20",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/los-estanques-3/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-3.jpg",
+      "descripcion": "",
+      "visto": "2026-11-06"
+    },
+    {
       "titulo": "Lendakaris Muertos",
       "fecha": "2027-02-20",
       "hora": "21:00",
@@ -2970,16 +3010,6 @@
       "sala": "Sala Oasis",
       "url": "https://www.aragonmusical.com/agenda/la-frontera-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/20260509-La-Frontera-Sala-Multiusos-Luis-Lorente-19.jpg",
-      "descripcion": "",
-      "visto": "2026-11-06"
-    },
-    {
-      "titulo": "LOS ESTANQUES",
-      "fecha": "2027-02-20",
-      "hora": "",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.losestanques.com/tour/",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/20-02-2027-LOS-ESTANQUES/foto.jpg",
       "descripcion": "",
       "visto": "2026-11-06"
     },
@@ -3184,6 +3214,16 @@
       "visto": "2026-11-06"
     },
     {
+      "titulo": "Mafalda Cardenal",
+      "fecha": "2027-03-06",
+      "hora": "22:00",
+      "sala": "Sala Oasis",
+      "url": "https://www.aragonmusical.com/agenda/mafalda-cardenal-3/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/06/Mafalda-Cardenal.jpg",
+      "descripcion": "",
+      "visto": "2026-11-06"
+    },
+    {
       "titulo": "Con V De Voz",
       "fecha": "2027-03-09",
       "hora": "19:00",
@@ -3344,12 +3384,22 @@
       "visto": "2026-11-06"
     },
     {
-      "titulo": "HUMPHREY & THE FARMERS",
+      "titulo": "Humphrey & The Farmers",
       "fecha": "2027-03-21",
-      "hora": "",
+      "hora": "20:00",
       "sala": "Rock & Blues Café",
-      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2375",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/21-03-2027-HUMPHREY-&-THE-FARMERS/foto.jpg",
+      "url": "https://www.aragonmusical.com/agenda/humphrey-the-farmers-7/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-4.jpg",
+      "descripcion": "",
+      "visto": "2026-11-06"
+    },
+    {
+      "titulo": "Los Brioles",
+      "fecha": "2027-04-02",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/los-brioles/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-5.jpg",
       "descripcion": "",
       "visto": "2026-11-06"
     },
@@ -3374,16 +3424,6 @@
       "visto": "2026-11-06"
     },
     {
-      "titulo": "LOS BRIOLES",
-      "fecha": "2027-04-02",
-      "hora": "",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2345",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/02-04-2027-LOS-BRIOLES/foto.jpg",
-      "descripcion": "",
-      "visto": "2026-11-06"
-    },
-    {
       "titulo": "Foyone",
       "fecha": "2027-04-03",
       "hora": "20:00",
@@ -3400,6 +3440,16 @@
       "sala": "Rock & Blues Café",
       "url": "https://www.aragonmusical.com/agenda/jessie-lee-the-alchemist/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-23.jpg",
+      "descripcion": "",
+      "visto": "2026-11-06"
+    },
+    {
+      "titulo": "Mda",
+      "fecha": "2027-04-05",
+      "hora": "22:00",
+      "sala": "Sala Oasis",
+      "url": "https://www.aragonmusical.com/agenda/mda-3/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/MDA-scaled-1-e1793991289240.jpg",
       "descripcion": "",
       "visto": "2026-11-06"
     },
@@ -3550,6 +3600,16 @@
       "sala": "Sala Utopía",
       "url": "https://www.aragonmusical.com/agenda/mind-traveller-no-drop-for-us/",
       "imagen": "",
+      "descripcion": "",
+      "visto": "2026-11-06"
+    },
+    {
+      "titulo": "Ana Carla Maza",
+      "fecha": "2027-04-24",
+      "hora": "22:00",
+      "sala": "Sala Oasis",
+      "url": "https://www.aragonmusical.com/agenda/ana-carla-maza/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/ANA-CARLA-MAZA-e1793991240730.jpg",
       "descripcion": "",
       "visto": "2026-11-06"
     },
