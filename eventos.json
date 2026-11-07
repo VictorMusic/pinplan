@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-07T13:45:06.134675",
+  "actualizado": "2026-11-07T16:46:07.839262",
   "total": 354,
   "eventos": [
     {
@@ -9,7 +9,7 @@
       "sala": "Centro Cívico Tío Jorge",
       "url": "https://conciertos.club/zaragoza/conciertos/129179-jazz-al-margen-hiber-trio-featuring-juan-salamero",
       "imagen": "https://doc.conciertos.club/doc/c/2026/hibertriofea_20261107.jpg",
-      "descripcion": "Jazz/Swing · Entradas desde 4 €",
+      "descripcion": "Jazz/Swing",
       "visto": "2026-11-07"
     },
     {
@@ -244,13 +244,13 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "Cretino & The Cretiners",
+      "titulo": "Cretino & the Cretiners",
       "fecha": "2026-11-11",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/cretino-the-cretiners-9/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-28.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130291-cretino-the-cretiners",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/cretinothecr_20261111.jpg",
+      "descripcion": "Versiones/Tributos · Entrada libre",
       "visto": "2026-11-07"
     },
     {
@@ -734,13 +734,13 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "Noche Flamenco",
+      "titulo": "Noche de Flamenco",
       "fecha": "2026-11-18",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/noche-flamenco-10/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-36.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130290-noche-de-flamenco",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/nocheflamenc_20261118.jpg",
+      "descripcion": "Flamenco/Copla",
       "visto": "2026-11-07"
     },
     {
@@ -1498,9 +1498,9 @@
       "fecha": "2026-11-29",
       "hora": "20:00",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/mingot-villar-4tet/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-17.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130293-mingot-villar-4tet",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/mingotvillar_20261129.jpg",
+      "descripcion": "Jazz/Swing · Entrada libre",
       "visto": "2026-11-07"
     },
     {
@@ -1568,9 +1568,9 @@
       "fecha": "2026-12-03",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/laranna/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-18.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130292-laranna",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/laranna_20261203.jpg",
+      "descripcion": "Folk · Entrada libre",
       "visto": "2026-11-07"
     },
     {
@@ -1698,9 +1698,9 @@
       "fecha": "2026-12-06",
       "hora": "20:00",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/billywood-crackers-5/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-19.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130310-billywood-crackers",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/billywoodcra_20261206.jpg",
+      "descripcion": "Americana/Folk Rock/Country · Entrada libre",
       "visto": "2026-11-07"
     },
     {
@@ -1898,9 +1898,9 @@
       "fecha": "2026-12-17",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/jambass/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-20-scaled.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130309-jambass",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/jambass_20261217.jpg",
+      "descripcion": "Versiones/Tributos · Entrada libre",
       "visto": "2026-11-07"
     },
     {
@@ -1918,9 +1918,9 @@
       "fecha": "2026-12-18",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/sex-museum-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-33.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130308-sex-museum",
+      "imagen": "https://conciertos.club/doc/a/2026/a_sexmuseum40.jpg",
+      "descripcion": "Rock and roll/Garage · Entradas desde 25 €",
       "visto": "2026-11-07"
     },
     {
@@ -2008,9 +2008,9 @@
       "fecha": "2026-12-20",
       "hora": "20:00",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/red-cactus/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-34.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130307-red-cactus",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/redcactus_20261220.jpg",
+      "descripcion": "Americana/Folk Rock/Country · Entrada libre",
       "visto": "2026-11-07"
     },
     {
@@ -2018,9 +2018,9 @@
       "fecha": "2026-12-22",
       "hora": "20:30",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/seven-47/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-21.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130306-seven",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/seven_20261222.jpg",
+      "descripcion": "Versiones/Tributos · Entrada libre",
       "visto": "2026-11-07"
     },
     {
@@ -2034,22 +2034,22 @@
       "visto": "2026-11-07"
     },
     {
+      "titulo": "El Practicante",
+      "fecha": "2026-12-25",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://conciertos.club/zaragoza/conciertos/130304-el-practicante",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/elpracticant_20261225.jpg",
+      "descripcion": "Rock/Rock Alternativo · Entrada libre",
+      "visto": "2026-11-07"
+    },
+    {
       "titulo": "Nelson",
       "fecha": "2026-12-25",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
       "url": "https://www.aragonmusical.com/agenda/nelson-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-22.jpg",
-      "descripcion": "",
-      "visto": "2026-11-07"
-    },
-    {
-      "titulo": "EL PRACTICANTE",
-      "fecha": "2026-12-25",
-      "hora": "",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.sweetcaroline.app/programacion10.php?idevento=2239",
-      "imagen": "https://www.sweetcaroline.app/backoffice/eventos/25-12-2026-EL-PRACTICANTE/foto.jpg",
       "descripcion": "",
       "visto": "2026-11-07"
     },
@@ -2148,9 +2148,9 @@
       "fecha": "2026-12-30",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/nice-fellas/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-1.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130303-nice-fellas",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/nicefellas_20261230.jpg",
+      "descripcion": "Entrada libre",
       "visto": "2026-11-07"
     },
     {
@@ -2158,9 +2158,9 @@
       "fecha": "2027-01-02",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/the-roadhouse-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-2.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130302-the-roadhouse",
+      "imagen": "https://doc.conciertos.club/doc/c/2027/theroadhouse_20270102.jpg",
+      "descripcion": "Versiones/Tributos · Entrada libre",
       "visto": "2026-11-07"
     },
     {
