@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-07T19:17:42.262027",
-  "total": 354,
+  "actualizado": "2026-11-07T23:18:34.570921",
+  "total": 368,
   "eventos": [
     {
       "titulo": "Jazz al Margen: HIBER TRIO FEATURING JUAN SALAMERO",
@@ -78,7 +78,7 @@
       "hora": "20:30",
       "sala": "La Campana Underground",
       "url": "https://www.aragonmusical.com/agenda/la-belle-beaute/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2016/06/ticket-icon-30.png",
+      "imagen": "",
       "descripcion": "",
       "visto": "2026-11-07"
     },
@@ -89,7 +89,7 @@
       "sala": "La Ley Seca",
       "url": "https://conciertos.club/zaragoza/conciertos/123851-tanto-outer-toad",
       "imagen": "https://doc.conciertos.club/doc/c/2026/tantoouter_20261107.jpg",
-      "descripcion": "Entradas desde 8 €",
+      "descripcion": "",
       "visto": "2026-11-07"
     },
     {
@@ -99,7 +99,7 @@
       "sala": "Sala Z",
       "url": "https://conciertos.club/zaragoza/conciertos/127579-eli-lovis-direi",
       "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1789909849.jpg",
-      "descripcion": "Entrada libre",
+      "descripcion": "",
       "visto": "2026-11-07"
     },
     {
@@ -109,7 +109,7 @@
       "sala": "Sala López",
       "url": "https://conciertos.club/zaragoza/conciertos/103515-angel-stanich",
       "imagen": "https://conciertos.club/doc/a/2017/a_angelstanich.jpg",
-      "descripcion": "Pop-rock/Indie · Entradas desde 24 €",
+      "descripcion": "Pop-rock/Indie",
       "visto": "2026-11-07"
     },
     {
@@ -119,7 +119,7 @@
       "sala": "Teatro de las Esquinas",
       "url": "https://conciertos.club/zaragoza/conciertos/114270-santero-y-los-muchachos",
       "imagen": "https://conciertos.club/doc/a/2025/a_santeroylosmuchachos.jpg",
-      "descripcion": "Americana/Folk Rock/Country · Entradas desde 27,50 €",
+      "descripcion": "Americana/Folk Rock/Country",
       "visto": "2026-11-07"
     },
     {
@@ -129,7 +129,17 @@
       "sala": "Rock & Blues Café",
       "url": "https://conciertos.club/zaragoza/conciertos/119275-dirty-sound-magnet",
       "imagen": "https://doc.conciertos.club/doc/c/2026/dirtysound_20261107.jpg",
-      "descripcion": "Rock/Rock Alternativo · Entradas desde 15 €",
+      "descripcion": "Rock/Rock Alternativo",
+      "visto": "2026-11-07"
+    },
+    {
+      "titulo": "Correcaminos",
+      "fecha": "2026-11-07",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://conciertos.club/zaragoza/conciertos/130357-correcaminos",
+      "imagen": "https://conciertos.club/doc/a/2023/a_correcaminos.jpg",
+      "descripcion": "Rock and roll/Garage",
       "visto": "2026-11-07"
     },
     {
@@ -139,17 +149,7 @@
       "sala": "Pabellón Príncipe Felipe",
       "url": "https://conciertos.club/zaragoza/conciertos/124032-bryan-adams",
       "imagen": "https://doc.conciertos.club/doc/c/2026/bryanadams_20261116.jpg",
-      "descripcion": "Pop-rock/Indie · Entradas desde 60,50 €",
-      "visto": "2026-11-07"
-    },
-    {
-      "titulo": "Correcaminos Rock And Roll Band",
-      "fecha": "2026-11-07",
-      "hora": "21:00",
-      "sala": "Sala Creedence",
-      "url": "https://www.aragonmusical.com/agenda/correcaminos-rock-and-roll-band/",
-      "imagen": "",
-      "descripcion": "",
+      "descripcion": "Pop-rock/Indie",
       "visto": "2026-11-07"
     },
     {
@@ -159,7 +159,7 @@
       "sala": "Centro Civico Río Ebro",
       "url": "https://conciertos.club/zaragoza/conciertos/129178-jazz-al-margen-malwina-masternak-quartet",
       "imagen": "https://doc.conciertos.club/doc/c/2026/malwinamaste_20261107.jpg",
-      "descripcion": "Jazz/Swing · Entradas desde 4 €",
+      "descripcion": "Jazz/Swing",
       "visto": "2026-11-07"
     },
     {
@@ -190,6 +190,16 @@
       "url": "https://aragonenvivo.com/evento/eden-serrano/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/20261108EDENQQ.jpeg",
       "descripcion": "",
+      "visto": "2026-11-07"
+    },
+    {
+      "titulo": "Paloma San Basilio",
+      "fecha": "2026-11-08",
+      "hora": "19:00",
+      "sala": "Teatro Principal",
+      "url": "https://conciertos.club/zaragoza/conciertos/130441-paloma-san-basilio",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/dulcineaprot_20261108.jpg",
+      "descripcion": "Música ligera · Entradas desde 25 €",
       "visto": "2026-11-07"
     },
     {
@@ -236,11 +246,11 @@
     {
       "titulo": "Rob Leines",
       "fecha": "2026-11-10",
-      "hora": "21:00",
+      "hora": "20:30",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/rob-leines-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/1c48b4a4-2565-448c-bcf0-86532bdcb0bd-scaled.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130403-rob-leines",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/rob-leines20261110.jpg",
+      "descripcion": "Americana/Folk Rock/Country · Entradas desde 18 €",
       "visto": "2026-11-07"
     },
     {
@@ -254,13 +264,13 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "Geologist",
+      "titulo": "Bombo y Platillo. GEOLOGIST",
       "fecha": "2026-11-12",
       "hora": "19:30",
       "sala": "Centro Cívico Delicias",
-      "url": "https://www.aragonmusical.com/agenda/geologist/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/Geologist.webp",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130459-bombo-y-platillo-geologist",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/geologistani_20261112.jpg",
+      "descripcion": "Electrónica/Dance · Entradas desde 12 €",
       "visto": "2026-11-07"
     },
     {
@@ -344,16 +354,6 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "LEMOT + MONTANA",
-      "fecha": "2026-11-13",
-      "hora": "20:00",
-      "sala": "La Ley Seca",
-      "url": "https://aragonenvivo.com/evento/lemot-montana/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/13-Viernes-2000h-LEMOT-MONTANA-240x300-1.jpg",
-      "descripcion": "",
-      "visto": "2026-11-07"
-    },
-    {
       "titulo": "Semifinal Popyrock 2026",
       "fecha": "2026-11-13",
       "hora": "20:00",
@@ -361,6 +361,26 @@
       "url": "https://www.aragonmusical.com/agenda/semifinal-popyrock-2026-2/",
       "imagen": "",
       "descripcion": "",
+      "visto": "2026-11-07"
+    },
+    {
+      "titulo": "Pez Mago",
+      "fecha": "2026-11-13",
+      "hora": "20:30",
+      "sala": "La Campana Underground",
+      "url": "https://conciertos.club/zaragoza/conciertos/130412-pez-mago",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/pezmago_20261113.jpg",
+      "descripcion": "Cantautores · Entradas desde 11,76 €",
+      "visto": "2026-11-07"
+    },
+    {
+      "titulo": "Lemot + Montana",
+      "fecha": "2026-11-13",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://conciertos.club/zaragoza/conciertos/130392-lemot-montana",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794081301.jpg",
+      "descripcion": "Pop-rock/Indie · Entradas desde 14 €",
       "visto": "2026-11-07"
     },
     {
@@ -384,13 +404,13 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "SKETCHES OF LATIN MILES",
+      "titulo": "Sketches of Latin Miles",
       "fecha": "2026-11-13",
       "hora": "21:00",
       "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/latin-miles/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Latin-Miles-wpv_400x400_center_center.png",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130422-sketches-of-latin-miles",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/sketchesofla_20261113.jpg",
+      "descripcion": "Jazz/Swing",
       "visto": "2026-11-07"
     },
     {
@@ -414,11 +434,11 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "Malagana + Dj. Roll Over Moreno",
+      "titulo": "Malagana",
       "fecha": "2026-11-13",
       "hora": "21:00",
       "sala": "Sala Creedence",
-      "url": "https://www.aragonmusical.com/agenda/malagana-dj-roll-over-moreno/",
+      "url": "https://conciertos.club/zaragoza/conciertos/130354-malagana",
       "imagen": "",
       "descripcion": "",
       "visto": "2026-11-07"
@@ -484,6 +504,16 @@
       "visto": "2026-11-07"
     },
     {
+      "titulo": "Los Brownies",
+      "fecha": "2026-11-14",
+      "hora": "12:30",
+      "sala": "Sala Creedence",
+      "url": "https://conciertos.club/zaragoza/conciertos/130353-los-brownies",
+      "imagen": "",
+      "descripcion": "",
+      "visto": "2026-11-07"
+    },
+    {
       "titulo": "Alonso Martínez & Gladston Galliza",
       "fecha": "2026-11-14",
       "hora": "16:30",
@@ -534,13 +564,13 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "Tess Liautaud With Jessie Shanks + Joliet Bound",
+      "titulo": "TESS LIAUTAUD with JESSIE SHANKS + JOLIET BOUND",
       "fecha": "2026-11-14",
       "hora": "20:00",
       "sala": "El Corazón Verde",
-      "url": "https://www.aragonmusical.com/agenda/tess-liautaud-with-jessie-shanks-joliet-bound/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/event_l_1000026736.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130417-tess-liautaud-with-jessie-shanks-joliet-bound",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/tessliautaud_20261114.jpg",
+      "descripcion": "Americana/Folk Rock/Country · Entradas desde 18 €",
       "visto": "2026-11-07"
     },
     {
@@ -564,6 +594,16 @@
       "visto": "2026-11-07"
     },
     {
+      "titulo": "Mr. Goliath",
+      "fecha": "2026-11-14",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://conciertos.club/zaragoza/conciertos/130352-mr-goliath",
+      "imagen": "https://conciertos.club/doc/a/2021/a_mrgoliath.jpg",
+      "descripcion": "Rock/Rock Alternativo",
+      "visto": "2026-11-07"
+    },
+    {
       "titulo": "James Carter Organ Trio",
       "fecha": "2026-11-14",
       "hora": "21:00",
@@ -574,13 +614,13 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "KONNASTER",
+      "titulo": "Konnaster",
       "fecha": "2026-11-14",
       "hora": "21:00",
       "sala": "La Ley Seca",
-      "url": "https://aragonenvivo.com/evento/konnaster/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/igexport-Ddqpz5XsRMd.webp",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130391-konnaster",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794081301.jpg",
+      "descripcion": "Entradas desde 6 €",
       "visto": "2026-11-07"
     },
     {
@@ -591,16 +631,6 @@
       "url": "https://conciertos.club/zaragoza/conciertos/125848-the-capaces",
       "imagen": "https://conciertos.club/doc/a/2022/a_thecapaces.jpg",
       "descripcion": "Rock and roll/Garage",
-      "visto": "2026-11-07"
-    },
-    {
-      "titulo": "Mr. Goliath + Sinzesis",
-      "fecha": "2026-11-14",
-      "hora": "21:00",
-      "sala": "Sala Creedence",
-      "url": "https://www.aragonmusical.com/agenda/mr-goliath-sinzesis/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/event_l_Mr._Goliath__1_.jpeg",
-      "descripcion": "",
       "visto": "2026-11-07"
     },
     {
@@ -674,6 +704,16 @@
       "visto": "2026-11-07"
     },
     {
+      "titulo": "Javier Colina y Haydée Milanés",
+      "fecha": "2026-11-15",
+      "hora": "20:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://conciertos.club/zaragoza/conciertos/130437-javier-colina-y-haydee-milanes",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/javiercolina_20261115.jpg",
+      "descripcion": "Jazz/Swing · Entradas desde 35 €",
+      "visto": "2026-11-07"
+    },
+    {
       "titulo": "Laura Diepstraten",
       "fecha": "2026-11-15",
       "hora": "21:00",
@@ -744,13 +784,13 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "Lucha Luna",
+      "titulo": "Bombo y Platillo. LUCHA LUNA",
       "fecha": "2026-11-19",
       "hora": "19:30",
       "sala": "Centro Cívico Delicias",
-      "url": "https://www.aragonmusical.com/agenda/lucha-luna/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/Lucha-Luna.webp",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130458-bombo-y-platillo-lucha-luna",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/luchalunaest_20261119.jpg",
+      "descripcion": "Post-Punk · Entradas desde 12 €",
       "visto": "2026-11-07"
     },
     {
@@ -774,6 +814,16 @@
       "visto": "2026-11-07"
     },
     {
+      "titulo": "Jam del Zorro",
+      "fecha": "2026-11-19",
+      "hora": "21:00",
+      "sala": "Sala Z",
+      "url": "https://conciertos.club/zaragoza/conciertos/130452-jam-del-zorro",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794088312.jpg",
+      "descripcion": "Rock/Rock Alternativo · Entrada libre",
+      "visto": "2026-11-07"
+    },
+    {
       "titulo": "Tributo a Frank Sinatra y Louis Armstrong. The Jazz Room",
       "fecha": "2026-11-20",
       "hora": "19:00",
@@ -794,13 +844,13 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "Motosierras + Los Zumbidos",
+      "titulo": "Motosierras + los Zumbidos",
       "fecha": "2026-11-20",
       "hora": "20:00",
       "sala": "Sala Creedence",
-      "url": "https://www.aragonmusical.com/agenda/motosierras-los-zumbidos/",
+      "url": "https://conciertos.club/zaragoza/conciertos/130350-motosierras-los-zumbidos",
       "imagen": "",
-      "descripcion": "",
+      "descripcion": "Punk/Hardcore",
       "visto": "2026-11-07"
     },
     {
@@ -854,13 +904,13 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "BLADIMIR ROS",
+      "titulo": "Bladimir Ros",
       "fecha": "2026-11-20",
       "hora": "21:00",
       "sala": "La Ley Seca",
-      "url": "https://aragonenvivo.com/evento/bladimir-ros-3/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20-Viernes-2100h-BLADIMIR-ROS-240x300-1.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130390-bladimir-ros",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794081301.jpg",
+      "descripcion": "Rock/Rock Alternativo · Entradas desde 5 €",
       "visto": "2026-11-07"
     },
     {
@@ -904,6 +954,16 @@
       "visto": "2026-11-07"
     },
     {
+      "titulo": "Vacaciones Permanentes",
+      "fecha": "2026-11-20",
+      "hora": "21:00",
+      "sala": "Sala Z",
+      "url": "https://conciertos.club/zaragoza/conciertos/130451-vacaciones-permanentes",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794088312.jpg",
+      "descripcion": "Pop-rock/Indie · Entradas desde 8,55 €",
+      "visto": "2026-11-07"
+    },
+    {
       "titulo": "GBH",
       "fecha": "2026-11-20",
       "hora": "21:30",
@@ -924,13 +984,23 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "Los Polipos + Solomillo Wellington + Eh, Mertxe!",
+      "titulo": "Los Pólipos + Solomillo Wellington + Eh, Mertxe!",
       "fecha": "2026-11-21",
       "hora": "13:00",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/los-polipos-solomillo-wellington-eh-mertxe/",
-      "imagen": "",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130409-los-polipos-solomillo-wellington-eh-mertxe",
+      "imagen": "https://conciertos.club/doc/a/2024/a_lospolipos.jpg",
+      "descripcion": "Rock/Rock Alternativo",
+      "visto": "2026-11-07"
+    },
+    {
+      "titulo": "Jazz for Kids",
+      "fecha": "2026-11-21",
+      "hora": "18:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://conciertos.club/zaragoza/conciertos/130421-jazz-for-kids/1795280400",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/jazzforkidsj_20261121.jpg",
+      "descripcion": "Jazz/Swing",
       "visto": "2026-11-07"
     },
     {
@@ -938,9 +1008,9 @@
       "fecha": "2026-11-21",
       "hora": "19:00",
       "sala": "Sala Creedence",
-      "url": "https://www.aragonmusical.com/agenda/bengo/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/event_l_BENGO_FOTO_OK.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130348-bengo",
+      "imagen": "https://conciertos.club/doc/a/2026/a_bengo.jpg",
+      "descripcion": "Urbana/Reggaeton/Trap",
       "visto": "2026-11-07"
     },
     {
@@ -968,9 +1038,9 @@
       "fecha": "2026-11-21",
       "hora": "20:00",
       "sala": "El Corazón Verde",
-      "url": "https://www.aragonmusical.com/agenda/tim-easton-joaquin-pardinilla/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/event_l_1000024336.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130416-tim-easton-joaquin-pardinilla",
+      "imagen": "https://conciertos.club/doc/a/2020/a_timeaston.jpg",
+      "descripcion": "Americana/Folk Rock/Country · Entradas desde 18 €",
       "visto": "2026-11-07"
     },
     {
@@ -978,29 +1048,9 @@
       "fecha": "2026-11-21",
       "hora": "20:30",
       "sala": "La Campana Underground",
-      "url": "https://www.aragonmusical.com/agenda/the-froggs/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/event_l_FROGGS_2.jpg",
-      "descripcion": "",
-      "visto": "2026-11-07"
-    },
-    {
-      "titulo": "NÉSTOR RAUSELL y LOS IMPOSTORES + JORGE ROY",
-      "fecha": "2026-11-21",
-      "hora": "21:00",
-      "sala": "La Ley Seca",
-      "url": "https://aragonenvivo.com/evento/nestor-rausell-y-los-impostores-jorge-roy/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/21-Sabado-2100h-NESTOR-RAUSELL-y-LOS-IMPOSTORES-JORGE-ROY-240x300-1.jpg",
-      "descripcion": "",
-      "visto": "2026-11-07"
-    },
-    {
-      "titulo": "SobreZero",
-      "fecha": "2026-11-21",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://conciertos.club/zaragoza/conciertos/120329-sobrezero",
-      "imagen": "https://conciertos.club/doc/a/2025/a_sobrezero.jpg",
-      "descripcion": "Pop-rock/Indie · Entradas desde 15 €",
+      "url": "https://conciertos.club/zaragoza/conciertos/130411-the-froggs",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/thefroggs_20261121.jpg",
+      "descripcion": "Rock/Rock Alternativo · Entradas desde 9,76 €",
       "visto": "2026-11-07"
     },
     {
@@ -1011,6 +1061,26 @@
       "url": "https://conciertos.club/zaragoza/conciertos/124040-paquito-d-rivera",
       "imagen": "https://conciertos.club/doc/a/2024/a_paquitodrivera.jpg",
       "descripcion": "World Music/Música Étnica",
+      "visto": "2026-11-07"
+    },
+    {
+      "titulo": "Nestor Rausell y Los Impostores + Jorge Roy",
+      "fecha": "2026-11-21",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://conciertos.club/zaragoza/conciertos/130389-nestor-rausell-y-los-impostores-jorge-roy",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794081301.jpg",
+      "descripcion": "Rock/Rock Alternativo · Entradas desde 14 €",
+      "visto": "2026-11-07"
+    },
+    {
+      "titulo": "SobreZero",
+      "fecha": "2026-11-21",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://conciertos.club/zaragoza/conciertos/120329-sobrezero",
+      "imagen": "https://conciertos.club/doc/a/2025/a_sobrezero.jpg",
+      "descripcion": "Pop-rock/Indie · Entradas desde 15 €",
       "visto": "2026-11-07"
     },
     {
@@ -1034,6 +1104,16 @@
       "visto": "2026-11-07"
     },
     {
+      "titulo": "El Roce de Platero",
+      "fecha": "2026-11-21",
+      "hora": "21:00",
+      "sala": "Sala Z",
+      "url": "https://conciertos.club/zaragoza/conciertos/130450-el-roce-de-platero",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794088312.jpg",
+      "descripcion": "Versiones/Tributos · Entrada libre",
+      "visto": "2026-11-07"
+    },
+    {
       "titulo": "JAZZ FOR KIDS: JAZZ EN FAMILIA",
       "fecha": "2026-11-22",
       "hora": "18:00",
@@ -1044,13 +1124,13 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "Desconcierto Con Símelasé",
+      "titulo": "Simelasé",
       "fecha": "2026-11-22",
       "hora": "18:00",
       "sala": "Sala López",
-      "url": "https://www.aragonmusical.com/agenda/desconcierto-con-simelase/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/event_l_IMG-20241002-WA0007.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130386-simelase",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/desconcierto_20261122.jpg",
+      "descripcion": "Versiones/Tributos · Entradas desde 10 €",
       "visto": "2026-11-07"
     },
     {
@@ -1184,13 +1264,13 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "Michel Cloup",
+      "titulo": "Bombo y Platillo. Michel Cloup",
       "fecha": "2026-11-26",
       "hora": "19:30",
       "sala": "Centro Cívico Delicias",
-      "url": "https://www.aragonmusical.com/agenda/michel-cloup/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/Michel-Cloup.webp",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130457-bombo-y-platillo-michel-cloup",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/michelcloupt_20261126.jpg",
+      "descripcion": "Pop-rock/Indie · Entradas desde 12 €",
       "visto": "2026-11-07"
     },
     {
@@ -1224,33 +1304,13 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "MÍNIVER",
-      "fecha": "2026-11-27",
-      "hora": "20:00",
-      "sala": "La Ley Seca",
-      "url": "https://aragonenvivo.com/evento/miniver/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/27-Viernes-2000h-MINIVER-240x300-1.jpg",
-      "descripcion": "",
-      "visto": "2026-11-07"
-    },
-    {
       "titulo": "Martha Fields Band + Cardelina",
       "fecha": "2026-11-27",
       "hora": "20:00",
       "sala": "El Corazón Verde",
-      "url": "https://www.aragonmusical.com/agenda/martha-fields-band-cardelina/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/event_l_1000025903.jpg",
-      "descripcion": "",
-      "visto": "2026-11-07"
-    },
-    {
-      "titulo": "Like A Stone",
-      "fecha": "2026-11-27",
-      "hora": "20:30",
-      "sala": "Sala Z",
-      "url": "https://www.aragonmusical.com/agenda/like-a-stone-2/",
-      "imagen": "",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130415-martha-fields-band-cardelina",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/marthafields_20261127.jpg",
+      "descripcion": "Pop-rock/Indie · Entradas desde 18 €",
       "visto": "2026-11-07"
     },
     {
@@ -1264,6 +1324,16 @@
       "visto": "2026-11-07"
     },
     {
+      "titulo": "Miniver",
+      "fecha": "2026-11-27",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://conciertos.club/zaragoza/conciertos/130388-miniver",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794081301.jpg",
+      "descripcion": "Entradas desde 10 €",
+      "visto": "2026-11-07"
+    },
+    {
       "titulo": "Volavent",
       "fecha": "2026-11-27",
       "hora": "21:00",
@@ -1274,13 +1344,23 @@
       "visto": "2026-11-07"
     },
     {
+      "titulo": "Like a Stone. Tributo a Audioslave, R.A.T.M. y SoundGarden",
+      "fecha": "2026-11-27",
+      "hora": "21:00",
+      "sala": "Sala Z",
+      "url": "https://conciertos.club/zaragoza/conciertos/130449-like-a-stone-tributo-a-audioslave-r-a-t-m-y-soundgarden",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794088312.jpg",
+      "descripcion": "Versiones/Tributos · Entradas desde 12 €",
+      "visto": "2026-11-07"
+    },
+    {
       "titulo": "Cristina Len",
       "fecha": "2026-11-27",
       "hora": "21:00",
       "sala": "Sala Creedence",
-      "url": "https://www.aragonmusical.com/agenda/cristina-len/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/event_l_Salas_AIE_2026.jpeg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130345-cristina-len",
+      "imagen": "https://conciertos.club/doc/a/2026/a_cristinalen.jpg",
+      "descripcion": "Folk",
       "visto": "2026-11-07"
     },
     {
@@ -1414,13 +1494,13 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "LOCAL SEIS",
+      "titulo": "Local Seis",
       "fecha": "2026-11-28",
       "hora": "21:00",
       "sala": "La Ley Seca",
-      "url": "https://aragonenvivo.com/evento/local-seis-5/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/28-sab-local-seis-240x300-1.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130387-local-seis",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794081301.jpg",
+      "descripcion": "Entradas desde 5 €",
       "visto": "2026-11-07"
     },
     {
@@ -1431,6 +1511,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/124004-the-kleejoss-band",
       "imagen": "https://doc.conciertos.club/doc/c/2026/thekleejos_20261128.jpg",
       "descripcion": "Rock/Rock Alternativo · Entradas desde 15 €",
+      "visto": "2026-11-07"
+    },
+    {
+      "titulo": "Francho Sarrablo & Los Indómitos Errantes",
+      "fecha": "2026-11-28",
+      "hora": "21:00",
+      "sala": "El Corazón Verde",
+      "url": "https://conciertos.club/zaragoza/conciertos/130414-francho-sarrablo-los-indomitos-errantes",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/franchosarra_20261128.jpg",
+      "descripcion": "Americana/Folk Rock/Country · Entradas desde 10 €",
       "visto": "2026-11-07"
     },
     {
@@ -1504,13 +1594,13 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "Pablo Sainz-Villegas",
+      "titulo": "Pablo Sáinz Villegas",
       "fecha": "2026-11-30",
       "hora": "19:30",
       "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/pablo-sainz-villegas-3/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/2-PSV_Ruben-Martin_Sony-Music-Entertainment-scaled-e1780390529864-wpv_400x400_center_center.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130419-pablo-sainz-villegas",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/pablosainzvi_20261130.jpg",
+      "descripcion": "Clásica",
       "visto": "2026-11-07"
     },
     {
@@ -1544,13 +1634,23 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "Inés de Lis",
+      "titulo": "Mocedades + Los Panchos",
+      "fecha": "2026-12-02",
+      "hora": "21:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://conciertos.club/zaragoza/conciertos/130446-mocedades-los-panchos",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/mocedadesylo_20261202.jpg",
+      "descripcion": "Música ligera · Entradas desde 60 €",
+      "visto": "2026-11-07"
+    },
+    {
+      "titulo": "Bombo y Platillo. Inés de Lis",
       "fecha": "2026-12-03",
       "hora": "19:30",
       "sala": "Centro Cívico Delicias",
-      "url": "https://www.aragonmusical.com/agenda/ines-de-lis/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/InesdeLis_1920x1280.webp",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130456-bombo-y-platillo-ines-de-lis",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/inesdelismad_20261203.jpg",
+      "descripcion": "Cantautores · Entradas desde 12 €",
       "visto": "2026-11-07"
     },
     {
@@ -1634,13 +1734,13 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "Zenith",
+      "titulo": "Zenith. Tributo a Ghost",
       "fecha": "2026-12-05",
       "hora": "20:00",
       "sala": "Sala López",
-      "url": "https://www.aragonmusical.com/agenda/zenith/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/event_l_ZARAGOZA__INSTAGRAM_SIZE_4-5_.png",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130385-zenith-tributo-a-ghost",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/zenithtribut_20261205.jpg",
+      "descripcion": "Versiones/Tributos · Entradas desde 12,37 €",
       "visto": "2026-11-07"
     },
     {
@@ -1648,9 +1748,9 @@
       "fecha": "2026-12-05",
       "hora": "20:30",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/orina-silitia/",
-      "imagen": "",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130397-orina-silitia",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/orinasilitia_20261205.jpg",
+      "descripcion": "Mestizaje/Fusión · Entradas desde 12,89 €",
       "visto": "2026-11-07"
     },
     {
@@ -1778,9 +1878,9 @@
       "fecha": "2026-12-11",
       "hora": "21:00",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/pensamiento-unico-las-tristes/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/06/H-PENSAMIENTO-UNICO-.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130396-pensamiento-unico-las-tristes",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/pensamientou_20261211.jpg",
+      "descripcion": "Post-Punk · Entradas desde 12 €",
       "visto": "2026-11-07"
     },
     {
@@ -1934,13 +2034,33 @@
       "visto": "2026-11-07"
     },
     {
+      "titulo": "Entreveradas",
+      "fecha": "2026-12-18",
+      "hora": "21:00",
+      "sala": "El Corazón Verde",
+      "url": "https://conciertos.club/zaragoza/conciertos/130413-entreveradas",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/entreveradas_20261218.jpg",
+      "descripcion": "Folk · Entradas desde 12 €",
+      "visto": "2026-11-07"
+    },
+    {
+      "titulo": "Hija de la Luna. Tributo a Mecano",
+      "fecha": "2026-12-18",
+      "hora": "21:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://conciertos.club/zaragoza/conciertos/130448-hija-de-la-luna-tributo-a-mecano",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/hijadelaluna_20261218.jpg",
+      "descripcion": "Versiones/Tributos · Entradas desde 45 €",
+      "visto": "2026-11-07"
+    },
+    {
       "titulo": "Copacabana",
       "fecha": "2026-12-18",
       "hora": "22:00",
       "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/copacabana-13/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/event_l_PHOTO-2026-10-25-08-48-29.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130367-copacabana",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/copacabana_20261218.jpg",
+      "descripcion": "Versiones/Tributos · Entradas desde 25 €",
       "visto": "2026-11-07"
     },
     {
@@ -2001,6 +2121,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/125436-blue-brothers-tribute-band",
       "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1785666329.jpg",
       "descripcion": "",
+      "visto": "2026-11-07"
+    },
+    {
+      "titulo": "Sara Baras",
+      "fecha": "2026-12-19",
+      "hora": "21:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://conciertos.club/zaragoza/conciertos/130447-sara-baras",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/sarabaras_20261219.jpg",
+      "descripcion": "Flamenco/Copla · Entradas desde 68 €",
       "visto": "2026-11-07"
     },
     {
@@ -2074,13 +2204,23 @@
       "visto": "2026-11-07"
     },
     {
+      "titulo": "MORRICONE + 100 AÑOS DE CINE. Royal Film Concert Orchestra",
+      "fecha": "2026-12-26",
+      "hora": "19:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://conciertos.club/zaragoza/conciertos/130418-morricone-100-anos-de-cine-royal-film-concert-orchestra",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/morriconey10_20261226.jpg",
+      "descripcion": "Versiones/Tributos",
+      "visto": "2026-11-07"
+    },
+    {
       "titulo": "Múltipla",
       "fecha": "2026-12-26",
       "hora": "20:30",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/multipla-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/6e29b630-9e9b-4f00-9855-26b9e380bd4c-scaled.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130401-multipla",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/multipla_20261226.jpg",
+      "descripcion": "Entradas desde 11,99 €",
       "visto": "2026-11-07"
     },
     {
@@ -2114,13 +2254,13 @@
       "visto": "2026-11-07"
     },
     {
-      "titulo": "El Mesías: Concierto de Navidad",
+      "titulo": "Concierto de Navidad",
       "fecha": "2026-12-29",
       "hora": "19:30",
       "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/el-mesias-concierto-de-navidad/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/29-DICIEMBRE-1-wpv_400x400_center_center.png",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130424-concierto-de-navidad",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/elmesiasconc_20261229.jpg",
+      "descripcion": "Clásica",
       "visto": "2026-11-07"
     },
     {
