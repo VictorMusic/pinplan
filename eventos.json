@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T19:25:38.065010",
+  "actualizado": "2026-11-08T23:22:02.862276",
   "total": 356,
   "eventos": [
     {
@@ -29,7 +29,7 @@
       "sala": "Teatro Principal",
       "url": "https://conciertos.club/zaragoza/conciertos/130441-paloma-san-basilio",
       "imagen": "https://doc.conciertos.club/doc/c/2026/dulcineaprot_20261108.jpg",
-      "descripcion": "Música ligera · Entradas desde 25 €",
+      "descripcion": "Música ligera",
       "visto": "2026-11-08"
     },
     {
@@ -39,7 +39,7 @@
       "sala": "Rock & Blues Café",
       "url": "https://conciertos.club/zaragoza/conciertos/125862-gerardo-lopez-trio",
       "imagen": "https://doc.conciertos.club/doc/c/2026/gerardolop_20261108.jpg",
-      "descripcion": "Entrada libre",
+      "descripcion": "",
       "visto": "2026-11-08"
     },
     {
@@ -49,7 +49,7 @@
       "sala": "Sala Oasis",
       "url": "https://conciertos.club/zaragoza/conciertos/125926-walls",
       "imagen": "https://doc.conciertos.club/doc/c/2026/walls_20261108.jpg",
-      "descripcion": "Hip-Hop · Entradas desde 38 €",
+      "descripcion": "Hip-Hop",
       "visto": "2026-11-08"
     },
     {
