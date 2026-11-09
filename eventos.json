@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-09T21:18:45.333388",
-  "total": 373,
+  "actualizado": "2026-11-09T23:44:02.508513",
+  "total": 378,
   "eventos": [
     {
       "titulo": "LUIS ALVARO – LUIS ÁLVARO EN ZARAGOZA",
@@ -13,12 +13,12 @@
       "visto": "2026-11-09"
     },
     {
-      "titulo": "SIMÓN TRPčESKI",
+      "titulo": "Simón Trpčeski",
       "fecha": "2026-11-09",
-      "hora": "19:30",
+      "hora": "20:00",
       "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/simon-trpceski/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/01/Simon-Trpceski_photo-web-scaled-wpv_400x400_center_center.jpg",
+      "url": "https://www.aragonmusical.com/agenda/simon-trpceski/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/Simon-Trpceski_photo-web-scaled-1.jpg",
       "descripcion": "",
       "visto": "2026-11-09"
     },
@@ -400,6 +400,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/125895-borja-pico",
       "imagen": "https://doc.conciertos.club/doc/c/2026/borjapico_20261114.jpg",
       "descripcion": "Cantautores · Entradas desde 5 €",
+      "visto": "2026-11-09"
+    },
+    {
+      "titulo": "Mr. Eddie. Tributo a Iron Maiden y Ozzy Osbourne",
+      "fecha": "2026-11-14",
+      "hora": "20:30",
+      "sala": "Sala Utopía",
+      "url": "https://conciertos.club/zaragoza/conciertos/130515-mr-eddie-tributo-a-iron-maiden-y-ozzy-osbourne",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/mreddieexper_20261114.jpg",
+      "descripcion": "Versiones/Tributos · Entradas desde 12 €",
       "visto": "2026-11-09"
     },
     {
@@ -873,6 +883,26 @@
       "visto": "2026-11-09"
     },
     {
+      "titulo": "Trago Mortal + Zarrios",
+      "fecha": "2026-11-20",
+      "hora": "21:00",
+      "sala": "Sala Utopía",
+      "url": "https://conciertos.club/zaragoza/conciertos/130513-trago-mortal-zarrios",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/tragomortalz_20261120.jpg",
+      "descripcion": "Metal/Rock duro · Entradas desde 11 €",
+      "visto": "2026-11-09"
+    },
+    {
+      "titulo": "Michel Molinera",
+      "fecha": "2026-11-20",
+      "hora": "21:00",
+      "sala": "El Refugio del Crápula",
+      "url": "https://conciertos.club/zaragoza/conciertos/130514-michel-molinera",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/michelmoline_20261120.jpg",
+      "descripcion": "Rock/Rock Alternativo · Entradas desde 10 €",
+      "visto": "2026-11-09"
+    },
+    {
       "titulo": "GBH",
       "fecha": "2026-11-20",
       "hora": "21:30",
@@ -1163,13 +1193,13 @@
       "visto": "2026-11-09"
     },
     {
-      "titulo": "EL LAGO DE LOS CISNES",
+      "titulo": "El lago de los cisnes",
       "fecha": "2026-11-23",
       "hora": "20:00",
       "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/el-lago-de-los-cisnes-11/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/07/El-Lago-de-los-cisnes-1-scaled-e1784293724732-wpv_400x400_center_center.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130510-el-lago-de-los-cisnes",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/elballetdeki_20261123.jpg",
+      "descripcion": "Danza/Ballet · Entradas desde 38 €",
       "visto": "2026-11-09"
     },
     {
@@ -1393,13 +1423,13 @@
       "visto": "2026-11-09"
     },
     {
-      "titulo": "CONCIERTO MUSETHICA",
+      "titulo": "Musethica",
       "fecha": "2026-11-28",
       "hora": "19:00",
       "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/concierto-musethica-16/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/10/Maria-y-Pilar-wpv_400x400_center_center.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130524-musethica",
+      "imagen": "",
+      "descripcion": "Clásica",
       "visto": "2026-11-09"
     },
     {
@@ -1417,9 +1447,9 @@
       "fecha": "2026-11-28",
       "hora": "20:00",
       "sala": "El Túnel",
-      "url": "https://www.aragonmusical.com/agenda/final-popyrock-2026/",
+      "url": "https://conciertos.club/zaragoza/conciertos/130523-final-popyrock-2026",
       "imagen": "",
-      "descripcion": "",
+      "descripcion": "Pop-rock/Indie",
       "visto": "2026-11-09"
     },
     {
@@ -1683,6 +1713,16 @@
       "visto": "2026-11-09"
     },
     {
+      "titulo": "Evo",
+      "fecha": "2026-12-04",
+      "hora": "22:00",
+      "sala": "Sala Utopía",
+      "url": "https://conciertos.club/zaragoza/conciertos/130512-evo",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/evo4dediciem_20261204.jpg",
+      "descripcion": "Metal/Rock duro · Entradas desde 15 €",
+      "visto": "2026-11-09"
+    },
+    {
       "titulo": "Raúl Clyde",
       "fecha": "2026-12-05",
       "hora": "19:00",
@@ -1783,13 +1823,13 @@
       "visto": "2026-11-09"
     },
     {
-      "titulo": "Ale Dvo + Salo Dj",
+      "titulo": "Ale Dvo",
       "fecha": "2026-12-06",
       "hora": "21:00",
       "sala": "Sala Creedence",
-      "url": "https://www.aragonmusical.com/agenda/ale-dvo-salo-dj/",
+      "url": "https://conciertos.club/zaragoza/conciertos/130531-ale-dvo",
       "imagen": "",
-      "descripcion": "",
+      "descripcion": "Rock/Rock Alternativo · Entradas desde 10 €",
       "visto": "2026-11-09"
     },
     {
@@ -1800,6 +1840,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/126425-mikkey-dee-friends-newtron-rafa-basa-dj",
       "imagen": "https://conciertos.club/doc/c/2026/c_mikkeydee2612.jpg",
       "descripcion": "Rock/Rock Alternativo",
+      "visto": "2026-11-09"
+    },
+    {
+      "titulo": "Mikkey Dee & Friends. Tributo a Motörhead",
+      "fecha": "2026-12-07",
+      "hora": "22:00",
+      "sala": "Sala Oasis",
+      "url": "https://conciertos.club/zaragoza/conciertos/130530-mikkey-dee-friends-tributo-a-motorhead",
+      "imagen": "",
+      "descripcion": "Versiones/Tributos",
       "visto": "2026-11-09"
     },
     {
@@ -1837,9 +1887,9 @@
       "fecha": "2026-12-11",
       "hora": "21:00",
       "sala": "El Refugio del Crápula",
-      "url": "https://www.aragonmusical.com/agenda/daniel-higienico-8/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2017/05/Daniel-Higiénico.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130528-daniel-higienico",
+      "imagen": "https://conciertos.club/doc/a/2018/a_danielhigienico.jpg",
+      "descripcion": "Cantautores",
       "visto": "2026-11-09"
     },
     {
@@ -2003,13 +2053,13 @@
       "visto": "2026-11-09"
     },
     {
-      "titulo": "The Fall Of Atlantis + Bank",
+      "titulo": "The Fall of Atlantis",
       "fecha": "2026-12-18",
       "hora": "20:30",
       "sala": "Sala Utopía",
-      "url": "https://www.aragonmusical.com/agenda/the-fall-of-atlantis-bank/",
+      "url": "https://conciertos.club/zaragoza/conciertos/130533-the-fall-of-atlantis",
       "imagen": "",
-      "descripcion": "",
+      "descripcion": "Metal/Rock duro",
       "visto": "2026-11-09"
     },
     {
@@ -2076,10 +2126,10 @@
       "titulo": "Diego El Cigala",
       "fecha": "2026-12-19",
       "hora": "20:00",
-      "sala": "Palacio de Congresos de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/diego-el-cigala-6/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2017/06/Diego-el-Cigala.jpg",
-      "descripcion": "",
+      "sala": "Palacio de Congresos",
+      "url": "https://conciertos.club/zaragoza/conciertos/130532-diego-el-cigala",
+      "imagen": "https://conciertos.club/doc/a/2018/a_diegoelcigala.jpg",
+      "descripcion": "Flamenco/Copla",
       "visto": "2026-11-09"
     },
     {
