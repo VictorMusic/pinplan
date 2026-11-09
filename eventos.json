@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-09T17:09:58.823349",
-  "total": 372,
+  "actualizado": "2026-11-09T21:18:45.333388",
+  "total": 373,
   "eventos": [
     {
       "titulo": "LUIS ALVARO – LUIS ÁLVARO EN ZARAGOZA",
@@ -1833,6 +1833,26 @@
       "visto": "2026-11-09"
     },
     {
+      "titulo": "Daniel Higiénico",
+      "fecha": "2026-12-11",
+      "hora": "21:00",
+      "sala": "El Refugio del Crápula",
+      "url": "https://www.aragonmusical.com/agenda/daniel-higienico-8/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2017/05/Daniel-Higiénico.jpg",
+      "descripcion": "",
+      "visto": "2026-11-09"
+    },
+    {
+      "titulo": "Fuet!",
+      "fecha": "2026-12-11",
+      "hora": "21:00",
+      "sala": "Roze",
+      "url": "https://conciertos.club/zaragoza/conciertos/130481-fuet",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/fuet_20261211.jpg",
+      "descripcion": "Punk/Hardcore · Entradas desde 16,50 €",
+      "visto": "2026-11-09"
+    },
+    {
       "titulo": "Pedrá! Tributo a Extremoduro",
       "fecha": "2026-12-11",
       "hora": "21:00",
@@ -1850,16 +1870,6 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130396-pensamiento-unico-las-tristes",
       "imagen": "https://doc.conciertos.club/doc/c/2026/pensamientou_20261211.jpg",
       "descripcion": "Post-Punk · Entradas desde 12 €",
-      "visto": "2026-11-09"
-    },
-    {
-      "titulo": "Fuet!",
-      "fecha": "2026-12-11",
-      "hora": "21:00",
-      "sala": "Roze",
-      "url": "https://conciertos.club/zaragoza/conciertos/130481-fuet",
-      "imagen": "https://doc.conciertos.club/doc/c/2026/fuet_20261211.jpg",
-      "descripcion": "Punk/Hardcore · Entradas desde 16,50 €",
       "visto": "2026-11-09"
     },
     {
