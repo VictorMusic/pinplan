@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-10T18:29:46.017054",
-  "total": 383,
+  "actualizado": "2026-11-10T21:14:27.551592",
+  "total": 384,
   "eventos": [
     {
       "titulo": "Rob Leines",
@@ -1539,6 +1539,16 @@
       "sala": "Teatro de las Esquinas",
       "url": "https://www.aragonmusical.com/agenda/obk-4/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2019/11/OBK-y-DJs-el-9-de-octubre-de-2019__12.jpg",
+      "descripcion": "",
+      "visto": "2026-11-10"
+    },
+    {
+      "titulo": "The Loved Ones",
+      "fecha": "2026-11-28",
+      "hora": "21:30",
+      "sala": "Sala Roze",
+      "url": "https://www.aragonmusical.com/agenda/the-loved-ones/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/The-Loved-Ones.jpeg",
       "descripcion": "",
       "visto": "2026-11-10"
     },
