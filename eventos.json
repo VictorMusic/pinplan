@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-10T02:29:20.736820",
-  "total": 376,
+  "actualizado": "2026-11-10T15:25:54.697101",
+  "total": 378,
   "eventos": [
     {
       "titulo": "Rob Leines",
@@ -753,16 +753,6 @@
       "visto": "2026-11-10"
     },
     {
-      "titulo": "Concierto de Muñeca Rusa en Zaragoza",
-      "fecha": "2026-11-20",
-      "hora": "20:00",
-      "sala": "Sala Roze",
-      "url": "https://www.jacksonlive.es/concierto/concierto-de-muneca-rusa-en-zaragoza",
-      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/521591782411919.jpg",
-      "descripcion": "",
-      "visto": "2026-11-10"
-    },
-    {
       "titulo": "Concierto de The Buzz Lovers en Zaragoza",
       "fecha": "2026-11-20",
       "hora": "20:00",
@@ -780,6 +770,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/125951-the-buzz-lovers-tributo-a-nirvana",
       "imagen": "https://doc.conciertos.club/doc/c/2026/thebuzzlov_20261120.jpg",
       "descripcion": "Versiones/Tributos · Entradas desde 22 €",
+      "visto": "2026-11-10"
+    },
+    {
+      "titulo": "Concierto de Muñeca Rusa en Zaragoza",
+      "fecha": "2026-11-20",
+      "hora": "20:00",
+      "sala": "Sala Roze",
+      "url": "https://www.jacksonlive.es/concierto/concierto-de-muneca-rusa-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/521591782411919.jpg",
+      "descripcion": "",
       "visto": "2026-11-10"
     },
     {
@@ -2433,6 +2433,16 @@
       "visto": "2026-11-10"
     },
     {
+      "titulo": "Violinísticas",
+      "fecha": "2027-01-15",
+      "hora": "21:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://www.aragonmusical.com/agenda/violinisticas/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/violinisticas3.webp",
+      "descripcion": "",
+      "visto": "2026-11-10"
+    },
+    {
       "titulo": "Pancho Varona",
       "fecha": "2027-01-15",
       "hora": "21:15",
@@ -2773,6 +2783,16 @@
       "visto": "2026-11-10"
     },
     {
+      "titulo": "Nuei",
+      "fecha": "2027-02-05",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/nuei-7/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-6.jpg",
+      "descripcion": "",
+      "visto": "2026-11-10"
+    },
+    {
       "titulo": "Tanxugueiras",
       "fecha": "2027-02-05",
       "hora": "21:00",
@@ -2798,7 +2818,7 @@
       "hora": "20:00",
       "sala": "Auditorio de Zaragoza",
       "url": "https://www.aragonmusical.com/agenda/belqu-festival/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/Banner-Web-Multiusos.jpeg",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/11/Slappy.webp",
       "descripcion": "",
       "visto": "2026-11-10"
     },
