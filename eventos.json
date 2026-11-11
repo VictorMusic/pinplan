@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-11T18:24:37.139619",
-  "total": 388,
+  "actualizado": "2026-11-11T21:48:25.418008",
+  "total": 390,
   "eventos": [
     {
       "titulo": "Cretino & the Cretiners",
@@ -1303,6 +1303,16 @@
       "visto": "2026-11-11"
     },
     {
+      "titulo": "Amankay",
+      "fecha": "2026-11-27",
+      "hora": "19:00",
+      "sala": "Estación del Norte",
+      "url": "https://www.aragonmusical.com/agenda/amankay-17/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/Amankay-scaled-1.jpg",
+      "descripcion": "",
+      "visto": "2026-11-11"
+    },
+    {
       "titulo": "Concierto de Año Nuevo",
       "fecha": "2026-11-27",
       "hora": "19:00",
@@ -1460,6 +1470,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130524-musethica",
       "imagen": "",
       "descripcion": "Clásica",
+      "visto": "2026-11-11"
+    },
+    {
+      "titulo": "Bloodorn + Alien Steel",
+      "fecha": "2026-11-28",
+      "hora": "20:00",
+      "sala": "La Casa del Loco",
+      "url": "https://www.aragonmusical.com/agenda/bloodorn-alien-steel/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/Bloodorn.jpeg",
+      "descripcion": "",
       "visto": "2026-11-11"
     },
     {
