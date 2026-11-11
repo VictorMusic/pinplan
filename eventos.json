@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-11T00:22:31.625915",
-  "total": 383,
+  "actualizado": "2026-11-11T14:55:15.272659",
+  "total": 388,
   "eventos": [
     {
       "titulo": "Cretino & the Cretiners",
@@ -40,6 +40,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/124033-kurt-elling",
       "imagen": "https://conciertos.club/doc/a/2018/a_kurtelling.jpg",
       "descripcion": "Jazz/Swing",
+      "visto": "2026-11-11"
+    },
+    {
+      "titulo": "Ziro",
+      "fecha": "2026-11-12",
+      "hora": "20:30",
+      "sala": "Sala Moliner 7",
+      "url": "https://www.aragonmusical.com/agenda/ziro-11/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/05/Ziro_estudio.jpg",
+      "descripcion": "",
       "visto": "2026-11-11"
     },
     {
@@ -269,6 +279,46 @@
       "sala": "Garden Discoteca",
       "url": "https://www.jacksonlive.es/concierto/concierto-de-tony-vega-en-zaragoza",
       "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/527491786553447.jpg",
+      "descripcion": "",
+      "visto": "2026-11-11"
+    },
+    {
+      "titulo": "Merina Gris",
+      "fecha": "2026-11-13",
+      "hora": "",
+      "sala": "Sala Oasis",
+      "url": "https://www.setlist.fm/setlist/merina-gris/2026/sala-oasis-zaragoza-spain-b7e1162.html",
+      "imagen": "",
+      "descripcion": "",
+      "visto": "2026-11-11"
+    },
+    {
+      "titulo": "Sal del Coche",
+      "fecha": "2026-11-13",
+      "hora": "",
+      "sala": "Sala Oasis",
+      "url": "https://www.setlist.fm/setlist/sal-del-coche/2026/sala-oasis-zaragoza-spain-37e116f.html",
+      "imagen": "",
+      "descripcion": "",
+      "visto": "2026-11-11"
+    },
+    {
+      "titulo": "VVV [Trippin'you]",
+      "fecha": "2026-11-13",
+      "hora": "",
+      "sala": "Sala Oasis",
+      "url": "https://www.setlist.fm/setlist/vvv-trippinyou/2026/sala-oasis-zaragoza-spain-1b7e116c.html",
+      "imagen": "",
+      "descripcion": "",
+      "visto": "2026-11-11"
+    },
+    {
+      "titulo": "La 126",
+      "fecha": "2026-11-13",
+      "hora": "",
+      "sala": "Sala Oasis",
+      "url": "https://www.setlist.fm/setlist/la-126/2026/sala-oasis-zaragoza-spain-137e1161.html",
+      "imagen": "",
       "descripcion": "",
       "visto": "2026-11-11"
     },
