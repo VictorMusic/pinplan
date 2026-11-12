@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-12T15:46:46.276930",
-  "total": 409,
+  "actualizado": "2026-11-12T18:43:28.228970",
+  "total": 412,
   "eventos": [
     {
       "titulo": "Bombo y Platillo. GEOLOGIST",
@@ -1463,6 +1463,16 @@
       "visto": "2026-11-12"
     },
     {
+      "titulo": "III Festival Coros Gospel Aragón",
+      "fecha": "2026-11-28",
+      "hora": "18:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://www.aragonmusical.com/agenda/iii-festival-coros-gospel-aragon/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/festival_gospel_foto_horizontal_1400x875.jpg",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
       "titulo": "Anadie",
       "fecha": "2026-11-28",
       "hora": "18:30",
@@ -1473,16 +1483,6 @@
       "visto": "2026-11-12"
     },
     {
-      "titulo": "PEAU D’HOMME",
-      "fecha": "2026-11-28",
-      "hora": "19:00",
-      "sala": "Teatro de la Estación",
-      "url": "https://aragonenvivo.com/evento/peau-dhomme-2/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/8.Peau-dhomme.jpg",
-      "descripcion": "",
-      "visto": "2026-11-12"
-    },
-    {
       "titulo": "Musethica",
       "fecha": "2026-11-28",
       "hora": "19:00",
@@ -1490,6 +1490,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130524-musethica",
       "imagen": "",
       "descripcion": "Clásica",
+      "visto": "2026-11-12"
+    },
+    {
+      "titulo": "PEAU D’HOMME",
+      "fecha": "2026-11-28",
+      "hora": "19:00",
+      "sala": "Teatro de la Estación",
+      "url": "https://aragonenvivo.com/evento/peau-dhomme-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/8.Peau-dhomme.jpg",
+      "descripcion": "",
       "visto": "2026-11-12"
     },
     {
@@ -1629,6 +1639,16 @@
       "sala": "Sala Roze",
       "url": "https://www.aragonmusical.com/agenda/the-loved-ones/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/The-Loved-Ones.jpeg",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
+      "titulo": "Undergroove Big Band",
+      "fecha": "2026-11-29",
+      "hora": "12:00",
+      "sala": "Centro Cívico Tío Jorge",
+      "url": "https://www.aragonmusical.com/agenda/undergroove-big-band/",
+      "imagen": "",
       "descripcion": "",
       "visto": "2026-11-12"
     },
@@ -3479,6 +3499,16 @@
       "sala": "Rock & Blues Café",
       "url": "https://www.aragonmusical.com/agenda/the-summit/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-17.jpg",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
+      "titulo": "Terminal Violence & Radity",
+      "fecha": "2027-03-05",
+      "hora": "21:30",
+      "sala": "Sala Utopía",
+      "url": "https://www.aragonmusical.com/agenda/terminal-violence-radity/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/event_l_WhatsApp_Image_2026-11-11_at_11.05.27__2_.jpeg",
       "descripcion": "",
       "visto": "2026-11-12"
     },
