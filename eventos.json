@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-12T01:46:16.725468",
-  "total": 389,
+  "actualizado": "2026-11-12T15:46:46.276930",
+  "total": 409,
   "eventos": [
     {
       "titulo": "Bombo y Platillo. GEOLOGIST",
@@ -403,6 +403,16 @@
       "visto": "2026-11-12"
     },
     {
+      "titulo": "The Blade",
+      "fecha": "2026-11-14",
+      "hora": "20:00",
+      "sala": "El Túnel",
+      "url": "https://www.laganzua.net/conciertos/the-blade-maria-bonilla-miguel-loran-zaragoza-1018277",
+      "imagen": "",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
       "titulo": "TESS LIAUTAUD with JESSIE SHANKS + JOLIET BOUND",
       "fecha": "2026-11-14",
       "hora": "20:00",
@@ -530,6 +540,26 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130461-triangulo-de-amor-bizarro-el-diablo-de-shanghai-lisasinson",
       "imagen": "https://conciertos.club/doc/a/2017/a_tab.jpg",
       "descripcion": "Pop-rock/Indie",
+      "visto": "2026-11-12"
+    },
+    {
+      "titulo": "JoseLuis",
+      "fecha": "2026-11-14",
+      "hora": "",
+      "sala": "Sala Oasis",
+      "url": "https://www.setlist.fm/setlist/joseluis/2026/sala-oasis-zaragoza-spain-637e16a7.html",
+      "imagen": "",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
+      "titulo": "Sandré",
+      "fecha": "2026-11-14",
+      "hora": "",
+      "sala": "Sala Oasis",
+      "url": "https://www.setlist.fm/setlist/sandre/2026/sala-oasis-zaragoza-spain-3b7dbc14.html",
+      "imagen": "",
+      "descripcion": "",
       "visto": "2026-11-12"
     },
     {
@@ -2283,16 +2313,6 @@
       "visto": "2026-11-10"
     },
     {
-      "titulo": "Nelson",
-      "fecha": "2026-12-25",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/nelson-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-22.jpg",
-      "descripcion": "",
-      "visto": "2026-11-12"
-    },
-    {
       "titulo": "El Practicante",
       "fecha": "2026-12-25",
       "hora": "21:00",
@@ -2300,6 +2320,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130304-el-practicante",
       "imagen": "https://doc.conciertos.club/doc/c/2026/elpracticant_20261225.jpg",
       "descripcion": "Rock/Rock Alternativo · Entrada libre",
+      "visto": "2026-11-12"
+    },
+    {
+      "titulo": "Nelson",
+      "fecha": "2026-12-25",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/nelson-3/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-22.jpg",
+      "descripcion": "",
       "visto": "2026-11-12"
     },
     {
@@ -2433,6 +2463,16 @@
       "visto": "2026-11-12"
     },
     {
+      "titulo": "Ariadna Redondo",
+      "fecha": "2027-01-03",
+      "hora": "20:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/ariadna-redondo-32/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-9.jpg",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
       "titulo": "AMAR ES COMBATIR SHOW – 20 ANIVERSARIO",
       "fecha": "2027-01-08",
       "hora": "21:00",
@@ -2459,6 +2499,16 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://www.aragonmusical.com/agenda/modelo-31/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/09/Vive-Latino-2025.-Recinto-Expo-de-Zaragoza-6925.-Por-Mariano-Val-para-Aragon-Musical-153.jpg",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
+      "titulo": "Moonshine Wagon",
+      "fecha": "2027-01-09",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/moonshine-wagon-3/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-10.jpg",
       "descripcion": "",
       "visto": "2026-11-12"
     },
@@ -2753,6 +2803,16 @@
       "visto": "2026-11-12"
     },
     {
+      "titulo": "Pacome Rotondo",
+      "fecha": "2027-01-24",
+      "hora": "20:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/pacome-rotondo/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-11.jpg",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
       "titulo": "Orquesta Sinfónica de Viena",
       "fecha": "2027-01-27",
       "hora": "19:30",
@@ -2863,6 +2923,16 @@
       "visto": "2026-11-12"
     },
     {
+      "titulo": "Young Fresh Fellows",
+      "fecha": "2027-01-31",
+      "hora": "20:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/young-fresh-fellows/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-12.jpg",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
       "titulo": "Molan Los 90 Festival Zaragoza",
       "fecha": "2027-01-31",
       "hora": "20:00",
@@ -2969,6 +3039,16 @@
       "sala": "Sala Oasis",
       "url": "https://www.aragonmusical.com/agenda/la-cabra-mecanica/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/LA-CABRA-MECANICA-scaled-1.jpg",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
+      "titulo": "Nadia Sheikh + Comanche",
+      "fecha": "2027-02-07",
+      "hora": "19:30",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/nadia-sheikh-comanche/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-13.jpg",
       "descripcion": "",
       "visto": "2026-11-12"
     },
@@ -3103,6 +3183,16 @@
       "visto": "2026-11-12"
     },
     {
+      "titulo": "The Bronson",
+      "fecha": "2027-02-14",
+      "hora": "12:30",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/the-bronson-11/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-14.jpg",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
       "titulo": "James Oliver Band",
       "fecha": "2027-02-14",
       "hora": "20:00",
@@ -3209,6 +3299,16 @@
       "sala": "Sala Oasis",
       "url": "https://www.aragonmusical.com/agenda/la-frontera-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/20260509-La-Frontera-Sala-Multiusos-Luis-Lorente-19.jpg",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
+      "titulo": "The Pickin Boppers",
+      "fecha": "2027-02-21",
+      "hora": "20:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/the-pickin-boppers/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-15.jpg",
       "descripcion": "",
       "visto": "2026-11-12"
     },
@@ -3353,12 +3453,32 @@
       "visto": "2026-11-12"
     },
     {
+      "titulo": "Leif De Leeuw Band",
+      "fecha": "2027-03-04",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/leif-de-leeuw-band/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-16.jpg",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
       "titulo": "Alison Darwin + Supercremalleras",
       "fecha": "2027-03-05",
       "hora": "21:00",
       "sala": "La Lata de Bombillas",
       "url": "https://www.aragonmusical.com/agenda/alison-darwin-supercremalleras/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/event_l_1000270197.png",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
+      "titulo": "The Summit",
+      "fecha": "2027-03-05",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/the-summit/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-17.jpg",
       "descripcion": "",
       "visto": "2026-11-12"
     },
@@ -3453,6 +3573,16 @@
       "visto": "2026-11-12"
     },
     {
+      "titulo": "A Contra Blues",
+      "fecha": "2027-03-11",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/a-contra-blues-6/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-18.jpg",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
       "titulo": "Elliot Murphy & Band",
       "fecha": "2027-03-11",
       "hora": "21:00",
@@ -3499,6 +3629,16 @@
       "sala": "Sala Oasis",
       "url": "https://www.aragonmusical.com/agenda/sons-of-aguirre-scila-3/",
       "imagen": "",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
+      "titulo": "Hoehn",
+      "fecha": "2027-03-14",
+      "hora": "20:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/hoehn/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-19.jpg",
       "descripcion": "",
       "visto": "2026-11-12"
     },
@@ -3643,6 +3783,16 @@
       "visto": "2026-11-12"
     },
     {
+      "titulo": "Kind Of Metal 5tet",
+      "fecha": "2027-04-04",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/kind-of-metal-5tet/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-20.jpg",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
       "titulo": "Mda",
       "fecha": "2027-04-05",
       "hora": "22:00",
@@ -3669,6 +3819,16 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno-2-2-2-2-2-2-2-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/arnau-tomas-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
+      "titulo": "Luis Fercan",
+      "fecha": "2027-04-08",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/luis-fercan-11/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-25.jpg",
       "descripcion": "",
       "visto": "2026-11-12"
     },
@@ -3723,6 +3883,16 @@
       "visto": "2026-11-12"
     },
     {
+      "titulo": "The Skatalites",
+      "fecha": "2027-04-15",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/the-skatalites-2/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-21.jpg",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
       "titulo": "Elephant Stone",
       "fecha": "2027-04-16",
       "hora": "21:00",
@@ -3749,6 +3919,16 @@
       "sala": "Rock & Blues Café",
       "url": "https://www.aragonmusical.com/agenda/ashley-sherlock/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-26.jpg",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
+      "titulo": "Andreu Domenech 4tet",
+      "fecha": "2027-04-18",
+      "hora": "20:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/andreu-domenech-4tet/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-22.jpg",
       "descripcion": "",
       "visto": "2026-11-12"
     },
@@ -3819,6 +3999,26 @@
       "sala": "Sala Oasis",
       "url": "https://www.aragonmusical.com/agenda/ana-carla-maza/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/ANA-CARLA-MAZA-e1793991240730.jpg",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
+      "titulo": "Thomas Kretzschmar 4tet",
+      "fecha": "2027-04-25",
+      "hora": "20:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/thomas-kretzschmar-4tet-5/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-23.jpg",
+      "descripcion": "",
+      "visto": "2026-11-12"
+    },
+    {
+      "titulo": "The Cruz & The Dukes Of Harlem",
+      "fecha": "2027-04-28",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/the-cruz-the-dukes-of-harlem-2/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-24-scaled.jpg",
       "descripcion": "",
       "visto": "2026-11-12"
     },
