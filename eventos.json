@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-13T15:06:31.359873",
-  "total": 403,
+  "actualizado": "2026-11-13T18:25:07.429440",
+  "total": 404,
   "eventos": [
     {
       "titulo": "INFO Y/O TICKETS AQUÍ",
@@ -3669,6 +3669,16 @@
       "sala": "Rock & Blues Café",
       "url": "https://www.aragonmusical.com/agenda/humphrey-the-farmers-7/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-4.jpg",
+      "descripcion": "",
+      "visto": "2026-11-13"
+    },
+    {
+      "titulo": "Zetazen",
+      "fecha": "2027-04-02",
+      "hora": "20:30",
+      "sala": "Sala López",
+      "url": "https://www.laganzua.net/conciertos/zetazen-zaragoza-1018248",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/zetazen-2027.jpg",
       "descripcion": "",
       "visto": "2026-11-13"
     },
