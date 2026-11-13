@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-13T18:25:07.429440",
-  "total": 404,
+  "actualizado": "2026-11-13T21:16:44.571744",
+  "total": 406,
   "eventos": [
     {
       "titulo": "INFO Y/O TICKETS AQUÍ",
@@ -37,7 +37,7 @@
       "fecha": "2026-11-13",
       "hora": "20:00",
       "sala": "El Túnel",
-      "url": "https://www.aragonmusical.com/agenda/semifinal-popyrock-2026-2/",
+      "url": "https://conciertos.club/zaragoza/conciertos/130462-semifinal-popyrock-2026/1794596400",
       "imagen": "",
       "descripcion": "",
       "visto": "2026-11-13"
@@ -2003,6 +2003,16 @@
       "visto": "2026-11-13"
     },
     {
+      "titulo": "Surströmming + Eli Lovis + Dreem Ripper",
+      "fecha": "2026-12-12",
+      "hora": "21:00",
+      "sala": "Sala Utopía",
+      "url": "https://www.aragonmusical.com/agenda/surstromming-eli-lovis-dreem-ripper/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2023/12/Eli-Lovis-scaled.jpg",
+      "descripcion": "",
+      "visto": "2026-11-13"
+    },
+    {
       "titulo": "Lizzy and The Banshees. Tributo a Siouxsie & The Banshees",
       "fecha": "2026-12-12",
       "hora": "21:00",
@@ -2889,6 +2899,16 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/motown/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/1280X720-MOTOWN-ZARAGOZA-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-11-13"
+    },
+    {
+      "titulo": "Festival De Tributos American Rock Stars",
+      "fecha": "2027-02-05",
+      "hora": "20:00",
+      "sala": "La Casa del Loco",
+      "url": "https://www.aragonmusical.com/agenda/festival-de-tributos-american-rock-stars/",
+      "imagen": "",
       "descripcion": "",
       "visto": "2026-11-13"
     },
