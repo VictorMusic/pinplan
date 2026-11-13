@@ -1,7 +1,17 @@
 {
-  "actualizado": "2026-11-13T00:50:39.592669",
-  "total": 402,
+  "actualizado": "2026-11-13T15:06:31.359873",
+  "total": 403,
   "eventos": [
+    {
+      "titulo": "INFO Y/O TICKETS AQUÍ",
+      "fecha": "2026-11-13",
+      "hora": "14:26",
+      "sala": "El Corazón Verde",
+      "url": "https://entradium.com/organizers/el-corazon-verde",
+      "imagen": "https://elcorazonverdebar.com/wp-content/uploads/2026/11/1000033603.png?w=800&h=600&crop=1",
+      "descripcion": "",
+      "visto": "2026-11-13"
+    },
     {
       "titulo": "DeFest",
       "fecha": "2026-11-13",
@@ -763,16 +773,6 @@
       "visto": "2026-11-13"
     },
     {
-      "titulo": "Chris Potter Trio",
-      "fecha": "2026-11-20",
-      "hora": "21:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/chris-potter-trio/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Diseno-sin-titulo-13-wpv_400x400_center_center.png",
-      "descripcion": "",
-      "visto": "2026-11-13"
-    },
-    {
       "titulo": "Bladimir Ros",
       "fecha": "2026-11-20",
       "hora": "21:00",
@@ -790,6 +790,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/120707-abhir",
       "imagen": "https://doc.conciertos.club/doc/c/2026/abhir_20261120.jpg",
       "descripcion": "Urbana/Reggaeton/Trap",
+      "visto": "2026-11-13"
+    },
+    {
+      "titulo": "Chris Potter Trio",
+      "fecha": "2026-11-20",
+      "hora": "21:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/chris-potter-trio/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/05/Diseno-sin-titulo-13-wpv_400x400_center_center.png",
+      "descripcion": "",
       "visto": "2026-11-13"
     },
     {
@@ -2403,13 +2413,13 @@
       "visto": "2026-11-13"
     },
     {
-      "titulo": "+dmaná",
+      "titulo": "dMANÁ. Tributo a Maná",
       "fecha": "2027-01-08",
       "hora": "21:00",
       "sala": "Teatro de las Esquinas",
-      "url": "https://www.aragonmusical.com/agenda/dmana-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/3494.png",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/123997-dmana-tributo-a-mana",
+      "imagen": "https://doc.conciertos.club/doc/c/2027/amarescomb_20270108.jpg",
+      "descripcion": "Versiones/Tributos · Entradas desde 32 €",
       "visto": "2026-11-13"
     },
     {
@@ -3290,7 +3300,7 @@
       "url": "https://www.laganzua.net/conciertos/gara-duran-zaragoza-1018139",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/gara-duran-2026.jpg",
       "descripcion": "",
-      "visto": "2026-11-11"
+      "visto": "2026-11-13"
     },
     {
       "titulo": "D.VALENTINO",
