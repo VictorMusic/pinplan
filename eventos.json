@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T19:49:08.275354",
+  "actualizado": "2026-11-14T23:34:11.671203",
   "total": 385,
   "eventos": [
     {
@@ -63,26 +63,6 @@
       "visto": "2026-11-14"
     },
     {
-      "titulo": "SABINA: EL MEJOR HOMENAJE",
-      "fecha": "2026-11-14",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/sabina-el-mejor-homenaje/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/04/1280X720-SABINA-ZARAGOZA-AUDITORIO-DE-ZARAGOZA-wpv_400x400_center_center.jpg",
-      "descripcion": "",
-      "visto": "2026-11-14"
-    },
-    {
-      "titulo": "Malas Compañías. Tributo a Joaquín Sabina",
-      "fecha": "2026-11-14",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://conciertos.club/zaragoza/conciertos/123965-malas-companias-tributo-a-joaquin-sabina",
-      "imagen": "",
-      "descripcion": "Versiones/Tributos · Entradas desde 35 €",
-      "visto": "2026-11-14"
-    },
-    {
       "titulo": "Semifinal Popyrock 2026",
       "fecha": "2026-11-14",
       "hora": "20:00",
@@ -109,7 +89,27 @@
       "sala": "El Corazón Verde",
       "url": "https://conciertos.club/zaragoza/conciertos/130417-tess-liautaud-with-jessie-shanks-joliet-bound",
       "imagen": "https://doc.conciertos.club/doc/c/2026/tessliautaud_20261114.jpg",
-      "descripcion": "Americana/Folk Rock/Country · Entradas desde 18 €",
+      "descripcion": "Americana/Folk Rock/Country",
+      "visto": "2026-11-14"
+    },
+    {
+      "titulo": "Malas Compañías. Tributo a Joaquín Sabina",
+      "fecha": "2026-11-14",
+      "hora": "20:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://conciertos.club/zaragoza/conciertos/123965-malas-companias-tributo-a-joaquin-sabina",
+      "imagen": "",
+      "descripcion": "Versiones/Tributos",
+      "visto": "2026-11-14"
+    },
+    {
+      "titulo": "SABINA: EL MEJOR HOMENAJE",
+      "fecha": "2026-11-14",
+      "hora": "20:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/sabina-el-mejor-homenaje/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/04/1280X720-SABINA-ZARAGOZA-AUDITORIO-DE-ZARAGOZA-wpv_400x400_center_center.jpg",
+      "descripcion": "",
       "visto": "2026-11-14"
     },
     {
@@ -119,7 +119,7 @@
       "sala": "El Refugio del Crápula",
       "url": "https://conciertos.club/zaragoza/conciertos/125895-borja-pico",
       "imagen": "https://doc.conciertos.club/doc/c/2026/borjapico_20261114.jpg",
-      "descripcion": "Cantautores · Entradas desde 5 €",
+      "descripcion": "Cantautores",
       "visto": "2026-11-14"
     },
     {
@@ -129,7 +129,7 @@
       "sala": "Sala Utopía",
       "url": "https://conciertos.club/zaragoza/conciertos/130515-mr-eddie-tributo-a-iron-maiden-y-ozzy-osbourne",
       "imagen": "https://doc.conciertos.club/doc/c/2026/mreddieexper_20261114.jpg",
-      "descripcion": "Versiones/Tributos · Entradas desde 12 €",
+      "descripcion": "Versiones/Tributos",
       "visto": "2026-11-14"
     },
     {
@@ -139,7 +139,7 @@
       "sala": "Sala López",
       "url": "https://conciertos.club/zaragoza/conciertos/123764-ben-yart",
       "imagen": "https://doc.conciertos.club/doc/c/2026/ben-yart20261114.jpg",
-      "descripcion": "Urbana/Reggaeton/Trap · Entradas desde 16 €",
+      "descripcion": "Urbana/Reggaeton/Trap",
       "visto": "2026-11-14"
     },
     {
@@ -173,13 +173,13 @@
       "visto": "2026-11-14"
     },
     {
-      "titulo": "Konnaster",
+      "titulo": "KONNASTER",
       "fecha": "2026-11-14",
       "hora": "21:00",
       "sala": "La Ley Seca",
-      "url": "https://conciertos.club/zaragoza/conciertos/130391-konnaster",
-      "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794081301.jpg",
-      "descripcion": "Entradas desde 6 €",
+      "url": "https://aragonenvivo.com/evento/konnaster/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/igexport-Ddqpz5XsRMd.webp",
+      "descripcion": "",
       "visto": "2026-11-14"
     },
     {
@@ -219,7 +219,7 @@
       "sala": "Sala Z",
       "url": "https://conciertos.club/zaragoza/conciertos/125906-los-ganglios",
       "imagen": "https://doc.conciertos.club/doc/c/2026/losganglio_20261114.jpg",
-      "descripcion": "Mestizaje/Fusión · Entradas desde 17 €",
+      "descripcion": "Mestizaje/Fusión",
       "visto": "2026-11-14"
     },
     {
@@ -3530,7 +3530,7 @@
       "url": "https://www.laganzua.net/conciertos/foyone-zaragoza-1017974",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/foyone-2027.jpg",
       "descripcion": "",
-      "visto": "2026-11-12"
+      "visto": "2026-11-14"
     },
     {
       "titulo": "Jessie Lee & The Alchemist",
