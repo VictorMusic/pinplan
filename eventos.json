@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-14T00:36:48.369957",
-  "total": 384,
+  "actualizado": "2026-11-14T13:57:33.696544",
+  "total": 385,
   "eventos": [
     {
       "titulo": "Los Brownies",
@@ -2013,6 +2013,16 @@
       "visto": "2026-11-14"
     },
     {
+      "titulo": "ORQUESTA LAUDISTICA HARMONIA: CONCIERTO DE NAVIDAD",
+      "fecha": "2026-12-21",
+      "hora": "19:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/orquesta-laudistica-harmonia-concierto-de-navidad/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/11/CONCIERTO-NAVIDAD-HARMONIA-2026-wpv_400x400_center_center.jpeg",
+      "descripcion": "",
+      "visto": "2026-11-14"
+    },
+    {
       "titulo": "Seven",
       "fecha": "2026-12-22",
       "hora": "20:30",
@@ -2213,6 +2223,16 @@
       "visto": "2026-11-14"
     },
     {
+      "titulo": "Drugos",
+      "fecha": "2027-01-09",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://conciertos.club/zaragoza/conciertos/130384-drugos",
+      "imagen": "https://doc.conciertos.club/doc/c/2027/drugos_20270109.jpg",
+      "descripcion": "Rock/Rock Alternativo · Entradas desde 17,50 €",
+      "visto": "2026-11-14"
+    },
+    {
       "titulo": "Modelo",
       "fecha": "2027-01-09",
       "hora": "21:00",
@@ -2233,23 +2253,13 @@
       "visto": "2026-11-14"
     },
     {
-      "titulo": "Drugos",
-      "fecha": "2027-01-09",
-      "hora": "22:00",
-      "sala": "Sala López",
-      "url": "https://www.aragonmusical.com/agenda/drugos-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/drugos800.webp",
-      "descripcion": "",
-      "visto": "2026-11-14"
-    },
-    {
       "titulo": "Non Servium",
       "fecha": "2027-01-09",
       "hora": "22:00",
       "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/non-servium-2/",
-      "imagen": "",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130366-non-servium",
+      "imagen": "https://doc.conciertos.club/doc/c/2027/nonservium_20270109.jpg",
+      "descripcion": "Punk/Hardcore",
       "visto": "2026-11-14"
     },
     {
