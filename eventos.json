@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-16T20:50:22.044346",
-  "total": 358,
+  "actualizado": "2026-11-16T23:41:36.206721",
+  "total": 360,
   "eventos": [
     {
       "titulo": "MIT ZGZ26- III MUESTRA INTERNACIONAL DE TEATRO de Zaragoza",
@@ -23,22 +23,22 @@
       "visto": "2026-11-16"
     },
     {
-      "titulo": "HILOS – INÉS BADALO Y GRUPO ENIGMA",
-      "fecha": "2026-11-16",
-      "hora": "19:30",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/hilos-grupo-enigma-2/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/Ines-Badalo-2-1-wpv_400x400_center_center.jpg",
-      "descripcion": "",
-      "visto": "2026-11-16"
-    },
-    {
       "titulo": "Orquesta Filarmónica Checa",
       "fecha": "2026-11-16",
       "hora": "19:30",
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/orquesta-filarmonica-checa/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/Filarmonica_Checa_Foto_Ok-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-11-16"
+    },
+    {
+      "titulo": "HILOS – INÉS BADALO Y GRUPO ENIGMA",
+      "fecha": "2026-11-16",
+      "hora": "19:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/hilos-grupo-enigma-2/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/Ines-Badalo-2-1-wpv_400x400_center_center.jpg",
       "descripcion": "",
       "visto": "2026-11-16"
     },
@@ -2983,6 +2983,16 @@
       "visto": "2026-11-16"
     },
     {
+      "titulo": "DA IGUAL",
+      "fecha": "2027-03-06",
+      "hora": "21:00",
+      "sala": "La Casa del Loco",
+      "url": "https://www.aragonmusical.com/agenda/da-igual-3/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/ARAGON-MUSICAL-da-igual-COCIERTOS-ZARAGOZA-2027-arena-rock-la-casa-del-loco-.jpg",
+      "descripcion": "",
+      "visto": "2026-11-16"
+    },
+    {
       "titulo": "Jodie Cash",
       "fecha": "2027-03-06",
       "hora": "21:00",
@@ -3539,6 +3549,16 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno-2-2-2-2-2-2-2-2-2-2-2/",
       "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/images-24-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-11-16"
+    },
+    {
+      "titulo": "Linkoln Park",
+      "fecha": "2027-05-07",
+      "hora": "21:00",
+      "sala": "La Casa del Loco",
+      "url": "https://www.aragonmusical.com/agenda/linkoln-park-5/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/ARAGON-MUSICAL-Linkoln-Park-Tributo-a-Linkin-Park-COCIERTOS-ZARAGOZA-2027-arena-rock-la-casa-del-loco-.jpg",
       "descripcion": "",
       "visto": "2026-11-16"
     },
