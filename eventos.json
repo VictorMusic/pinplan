@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T02:44:12.142743",
+  "actualizado": "2026-11-17T16:41:34.630705",
   "total": 355,
   "eventos": [
     {
@@ -143,6 +143,16 @@
       "visto": "2026-11-17"
     },
     {
+      "titulo": "Concierto de Muñeca Rusa en Zaragoza",
+      "fecha": "2026-11-20",
+      "hora": "20:00",
+      "sala": "Sala Roze",
+      "url": "https://www.jacksonlive.es/concierto/concierto-de-muneca-rusa-en-zaragoza",
+      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/521591782411919.jpg",
+      "descripcion": "",
+      "visto": "2026-11-17"
+    },
+    {
       "titulo": "Concierto de The Buzz Lovers en Zaragoza",
       "fecha": "2026-11-20",
       "hora": "20:00",
@@ -160,16 +170,6 @@
       "url": "https://conciertos.club/zaragoza/conciertos/125951-the-buzz-lovers-tributo-a-nirvana",
       "imagen": "https://doc.conciertos.club/doc/c/2026/thebuzzlov_20261120.jpg",
       "descripcion": "Versiones/Tributos · Entradas desde 22 €",
-      "visto": "2026-11-17"
-    },
-    {
-      "titulo": "Concierto de Muñeca Rusa en Zaragoza",
-      "fecha": "2026-11-20",
-      "hora": "20:00",
-      "sala": "Sala Roze",
-      "url": "https://www.jacksonlive.es/concierto/concierto-de-muneca-rusa-en-zaragoza",
-      "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/521591782411919.jpg",
-      "descripcion": "",
       "visto": "2026-11-17"
     },
     {
@@ -3160,7 +3160,7 @@
       "url": "https://www.laganzua.net/conciertos/zetazen-zaragoza-1018248",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/zetazen-2027.jpg",
       "descripcion": "",
-      "visto": "2026-11-13"
+      "visto": "2026-11-17"
     },
     {
       "titulo": "La Azotea",
