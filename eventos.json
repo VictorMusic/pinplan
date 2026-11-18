@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-18T19:15:50.447639",
-  "total": 371,
+  "actualizado": "2026-11-18T22:30:55.090248",
+  "total": 372,
   "eventos": [
     {
       "titulo": "ANONIMATO",
@@ -77,9 +77,9 @@
       "fecha": "2026-11-19",
       "hora": "21:00",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/heavenphetamine/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/heavenphetamine.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130410-heavenphetamine",
+      "imagen": "",
+      "descripcion": "Rock/Rock Alternativo · Entradas desde 14 €",
       "visto": "2026-11-18"
     },
     {
@@ -123,26 +123,6 @@
       "visto": "2026-11-18"
     },
     {
-      "titulo": "Johnny Irion & Chris Murphy + Connie Corleone & the Green Bats",
-      "fecha": "2026-11-20",
-      "hora": "20:00",
-      "sala": "El Corazón Verde",
-      "url": "https://conciertos.club/zaragoza/conciertos/128985-johnny-irion-chris-murphy-connie-corleone-the-green-bats",
-      "imagen": "https://doc.conciertos.club/doc/c/2026/johnnyirionc_20261120.jpg",
-      "descripcion": "Americana/Folk Rock/Country · Entradas desde 18 €",
-      "visto": "2026-11-18"
-    },
-    {
-      "titulo": "Motosierras + los Zumbidos",
-      "fecha": "2026-11-20",
-      "hora": "20:00",
-      "sala": "Sala Creedence",
-      "url": "https://conciertos.club/zaragoza/conciertos/130350-motosierras-los-zumbidos",
-      "imagen": "",
-      "descripcion": "Punk/Hardcore",
-      "visto": "2026-11-18"
-    },
-    {
       "titulo": "Concierto de Muñeca Rusa en Zaragoza",
       "fecha": "2026-11-20",
       "hora": "20:00",
@@ -170,6 +150,26 @@
       "url": "https://conciertos.club/zaragoza/conciertos/125951-the-buzz-lovers-tributo-a-nirvana",
       "imagen": "https://doc.conciertos.club/doc/c/2026/thebuzzlov_20261120.jpg",
       "descripcion": "Versiones/Tributos · Entradas desde 22 €",
+      "visto": "2026-11-18"
+    },
+    {
+      "titulo": "Johnny Irion & Chris Murphy + Connie Corleone & the Green Bats",
+      "fecha": "2026-11-20",
+      "hora": "20:00",
+      "sala": "El Corazón Verde",
+      "url": "https://conciertos.club/zaragoza/conciertos/128985-johnny-irion-chris-murphy-connie-corleone-the-green-bats",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/johnnyirionc_20261120.jpg",
+      "descripcion": "Americana/Folk Rock/Country · Entradas desde 18 €",
+      "visto": "2026-11-18"
+    },
+    {
+      "titulo": "Motosierras + los Zumbidos",
+      "fecha": "2026-11-20",
+      "hora": "20:00",
+      "sala": "Sala Creedence",
+      "url": "https://conciertos.club/zaragoza/conciertos/130350-motosierras-los-zumbidos",
+      "imagen": "",
+      "descripcion": "Punk/Hardcore",
       "visto": "2026-11-18"
     },
     {
@@ -353,16 +353,6 @@
       "visto": "2026-11-18"
     },
     {
-      "titulo": "Perfect Blue + Siix + Astray",
-      "fecha": "2026-11-21",
-      "hora": "20:00",
-      "sala": "Sala Utopía",
-      "url": "https://www.aragonmusical.com/agenda/perfect-blue-siix-astray/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/event_l_Captura_de_pantalla_2026-09-13_220533.png",
-      "descripcion": "",
-      "visto": "2026-11-18"
-    },
-    {
       "titulo": "Tim Easton + Joaquín Pardinilla",
       "fecha": "2026-11-21",
       "hora": "20:00",
@@ -370,6 +360,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130416-tim-easton-joaquin-pardinilla",
       "imagen": "https://conciertos.club/doc/a/2020/a_timeaston.jpg",
       "descripcion": "Americana/Folk Rock/Country · Entradas desde 18 €",
+      "visto": "2026-11-18"
+    },
+    {
+      "titulo": "Perfect Blue + Siix + Astray",
+      "fecha": "2026-11-21",
+      "hora": "20:00",
+      "sala": "Sala Utopía",
+      "url": "https://conciertos.club/zaragoza/conciertos/130520-perfect-blue-siix-astray",
+      "imagen": "",
+      "descripcion": "Metal/Rock duro",
       "visto": "2026-11-18"
     },
     {
@@ -433,16 +433,6 @@
       "visto": "2026-11-18"
     },
     {
-      "titulo": "Jazz For Kids: Jazz En Familia",
-      "fecha": "2026-11-21",
-      "hora": "21:00",
-      "sala": "Sala Luis Galve",
-      "url": "https://www.aragonmusical.com/agenda/jazz-for-kids-jazz-en-familia/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/Diseno-sin-titulo-17-1024x576-1.png",
-      "descripcion": "",
-      "visto": "2026-11-18"
-    },
-    {
       "titulo": "Hombres G",
       "fecha": "2026-11-21",
       "hora": "21:00",
@@ -460,6 +450,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130450-el-roce-de-platero",
       "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794088312.jpg",
       "descripcion": "Versiones/Tributos · Entrada libre",
+      "visto": "2026-11-18"
+    },
+    {
+      "titulo": "Jazz For Kids: Jazz En Familia",
+      "fecha": "2026-11-21",
+      "hora": "21:00",
+      "sala": "Sala Luis Galve",
+      "url": "https://www.aragonmusical.com/agenda/jazz-for-kids-jazz-en-familia/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/Diseno-sin-titulo-17-1024x576-1.png",
+      "descripcion": "",
       "visto": "2026-11-18"
     },
     {
@@ -507,8 +507,18 @@
       "fecha": "2026-11-22",
       "hora": "19:00",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/rudiger-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/rudiger_26.jpg",
+      "url": "https://conciertos.club/zaragoza/conciertos/130408-rudiger",
+      "imagen": "",
+      "descripcion": "Pop-rock/Indie · Entradas desde 10 €",
+      "visto": "2026-11-18"
+    },
+    {
+      "titulo": "MANEL FUENTES | ¿PORQUE LE LLAMAN THE BOSS?",
+      "fecha": "2026-11-22",
+      "hora": "19:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://aragonenvivo.com/evento/manel-fuentes-porque-le-llaman-the-boss/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/TEATRO-ESQUINAS.png",
       "descripcion": "",
       "visto": "2026-11-18"
     },
@@ -543,13 +553,13 @@
       "visto": "2026-11-18"
     },
     {
-      "titulo": "The Mañana Culture",
+      "titulo": "The mañana culture",
       "fecha": "2026-11-22",
       "hora": "19:00",
       "sala": "Sala Creedence",
-      "url": "https://www.aragonmusical.com/agenda/the-manana-culture/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/TMC_Aragon_Musical_David_Palacin.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130347-the-manana-culture",
+      "imagen": "",
+      "descripcion": "Rock/Rock Alternativo",
       "visto": "2026-11-18"
     },
     {
@@ -657,8 +667,8 @@
       "fecha": "2026-11-26",
       "hora": "21:00",
       "sala": "Sala Creedence",
-      "url": "https://www.aragonmusical.com/agenda/michal-obrebski/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/event_l_MichaC582_ObrC499bski_-_Zdj._2.jpg",
+      "url": "https://conciertos.club/zaragoza/conciertos/130346-micha-obr-bski",
+      "imagen": "",
       "descripcion": "",
       "visto": "2026-11-18"
     },
@@ -673,16 +683,6 @@
       "visto": "2026-11-18"
     },
     {
-      "titulo": "Amankay",
-      "fecha": "2026-11-27",
-      "hora": "19:00",
-      "sala": "Estación del Norte",
-      "url": "https://www.aragonmusical.com/agenda/amankay-17/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/Amankay-scaled-1.jpg",
-      "descripcion": "",
-      "visto": "2026-11-18"
-    },
-    {
       "titulo": "Concierto de Año Nuevo",
       "fecha": "2026-11-27",
       "hora": "19:00",
@@ -690,6 +690,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/124044-concierto-de-ano-nuevo",
       "imagen": "https://conciertos.club/doc/a/2022/a_conciertoclasica.jpg",
       "descripcion": "Clásica",
+      "visto": "2026-11-18"
+    },
+    {
+      "titulo": "Amankay",
+      "fecha": "2026-11-27",
+      "hora": "19:00",
+      "sala": "Estación del Norte",
+      "url": "https://www.aragonmusical.com/agenda/amankay-17/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/Amankay-scaled-1.jpg",
+      "descripcion": "",
       "visto": "2026-11-18"
     },
     {
@@ -723,36 +733,6 @@
       "visto": "2026-11-18"
     },
     {
-      "titulo": "Like a Stone. Tributo a Audioslave, R.A.T.M. y SoundGarden",
-      "fecha": "2026-11-27",
-      "hora": "21:00",
-      "sala": "Sala Z",
-      "url": "https://conciertos.club/zaragoza/conciertos/130449-like-a-stone-tributo-a-audioslave-r-a-t-m-y-soundgarden",
-      "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794088312.jpg",
-      "descripcion": "Versiones/Tributos · Entradas desde 12 €",
-      "visto": "2026-11-18"
-    },
-    {
-      "titulo": "Cristina Len",
-      "fecha": "2026-11-27",
-      "hora": "21:00",
-      "sala": "Sala Creedence",
-      "url": "https://conciertos.club/zaragoza/conciertos/130345-cristina-len",
-      "imagen": "https://conciertos.club/doc/a/2026/a_cristinalen.jpg",
-      "descripcion": "Folk",
-      "visto": "2026-11-18"
-    },
-    {
-      "titulo": "Go Cactus",
-      "fecha": "2026-11-27",
-      "hora": "21:00",
-      "sala": "La Lata de Bombillas",
-      "url": "https://conciertos.club/zaragoza/conciertos/124042-go-cactus",
-      "imagen": "https://doc.conciertos.club/doc/c/2026/go-cactus20261127.jpg",
-      "descripcion": "Rock and roll/Garage · Entradas desde 12,13 €",
-      "visto": "2026-11-18"
-    },
-    {
       "titulo": "OBK",
       "fecha": "2026-11-27",
       "hora": "21:00",
@@ -770,6 +750,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/119273-volavent",
       "imagen": "https://doc.conciertos.club/doc/c/2026/volavent_20261127.jpg",
       "descripcion": "Pop-rock/Indie · Entradas desde 15 €",
+      "visto": "2026-11-18"
+    },
+    {
+      "titulo": "Go Cactus",
+      "fecha": "2026-11-27",
+      "hora": "21:00",
+      "sala": "La Lata de Bombillas",
+      "url": "https://conciertos.club/zaragoza/conciertos/124042-go-cactus",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/go-cactus20261127.jpg",
+      "descripcion": "Rock and roll/Garage · Entradas desde 12,13 €",
       "visto": "2026-11-18"
     },
     {
@@ -793,6 +783,26 @@
       "visto": "2026-11-18"
     },
     {
+      "titulo": "Cristina Len",
+      "fecha": "2026-11-27",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://conciertos.club/zaragoza/conciertos/130345-cristina-len",
+      "imagen": "https://conciertos.club/doc/a/2026/a_cristinalen.jpg",
+      "descripcion": "Folk",
+      "visto": "2026-11-18"
+    },
+    {
+      "titulo": "Like a Stone. Tributo a Audioslave, R.A.T.M. y SoundGarden",
+      "fecha": "2026-11-27",
+      "hora": "21:00",
+      "sala": "Sala Z",
+      "url": "https://conciertos.club/zaragoza/conciertos/130449-like-a-stone-tributo-a-audioslave-r-a-t-m-y-soundgarden",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794088312.jpg",
+      "descripcion": "Versiones/Tributos · Entradas desde 12 €",
+      "visto": "2026-11-18"
+    },
+    {
       "titulo": "Ziro",
       "fecha": "2026-11-27",
       "hora": "22:00",
@@ -813,13 +823,13 @@
       "visto": "2026-11-18"
     },
     {
-      "titulo": "Jc Ondiviela",
+      "titulo": "JC Ondiviela",
       "fecha": "2026-11-28",
       "hora": "13:00",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/jc-ondiviela/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/jose_carlos.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130407-jc-ondiviela",
+      "imagen": "",
+      "descripcion": "Cantautores",
       "visto": "2026-11-18"
     },
     {
@@ -843,16 +853,6 @@
       "visto": "2026-11-18"
     },
     {
-      "titulo": "Musethica",
-      "fecha": "2026-11-28",
-      "hora": "19:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://conciertos.club/zaragoza/conciertos/130524-musethica",
-      "imagen": "",
-      "descripcion": "Clásica",
-      "visto": "2026-11-18"
-    },
-    {
       "titulo": "PEAU D’HOMME",
       "fecha": "2026-11-28",
       "hora": "19:00",
@@ -863,22 +863,32 @@
       "visto": "2026-11-18"
     },
     {
-      "titulo": "Bloodorn + Alien Steel",
+      "titulo": "Musethica",
       "fecha": "2026-11-28",
-      "hora": "20:00",
-      "sala": "La Casa del Loco",
-      "url": "https://www.aragonmusical.com/agenda/bloodorn-alien-steel/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/Bloodorn.jpeg",
-      "descripcion": "",
+      "hora": "19:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://conciertos.club/zaragoza/conciertos/130524-musethica",
+      "imagen": "",
+      "descripcion": "Clásica",
       "visto": "2026-11-18"
     },
     {
-      "titulo": "Contra El Viento + Maria Bonilla",
+      "titulo": "Migue de Antílopez",
+      "fecha": "2026-11-28",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://conciertos.club/zaragoza/conciertos/125924-migue-de-antilopez",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/miguedeant_20261128.jpg",
+      "descripcion": "Pop-rock/Indie · Entradas desde 24 €",
+      "visto": "2026-11-18"
+    },
+    {
+      "titulo": "Contra el Viento + Maria Bonilla",
       "fecha": "2026-11-28",
       "hora": "20:00",
       "sala": "Sala Creedence",
-      "url": "https://www.aragonmusical.com/agenda/contra-el-viento-maria-bonilla/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/01/20250129-San-Valero-04-Contra-el-viento-Plaza-de-San-Felipe-Luis-Lorente-02.jpg",
+      "url": "https://conciertos.club/zaragoza/conciertos/130344-contra-el-viento-maria-bonilla",
+      "imagen": "",
       "descripcion": "",
       "visto": "2026-11-18"
     },
@@ -893,6 +903,16 @@
       "visto": "2026-11-18"
     },
     {
+      "titulo": "Bloodorn + Alien Steel",
+      "fecha": "2026-11-28",
+      "hora": "20:00",
+      "sala": "La Casa del Loco",
+      "url": "https://www.aragonmusical.com/agenda/bloodorn-alien-steel/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/Bloodorn.jpeg",
+      "descripcion": "",
+      "visto": "2026-11-18"
+    },
+    {
       "titulo": "La Fuina",
       "fecha": "2026-11-28",
       "hora": "20:00",
@@ -900,16 +920,6 @@
       "url": "https://www.aragonmusical.com/agenda/la-fuina/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-18"
-    },
-    {
-      "titulo": "Migue de Antílopez",
-      "fecha": "2026-11-28",
-      "hora": "20:00",
-      "sala": "Sala López",
-      "url": "https://conciertos.club/zaragoza/conciertos/125924-migue-de-antilopez",
-      "imagen": "https://doc.conciertos.club/doc/c/2026/miguedeant_20261128.jpg",
-      "descripcion": "Pop-rock/Indie · Entradas desde 24 €",
       "visto": "2026-11-18"
     },
     {
@@ -943,13 +953,13 @@
       "visto": "2026-11-18"
     },
     {
-      "titulo": "Francho Sarrablo & Los Indómitos Errantes",
+      "titulo": "Parquesvr",
       "fecha": "2026-11-28",
       "hora": "21:00",
-      "sala": "El Corazón Verde",
-      "url": "https://conciertos.club/zaragoza/conciertos/130414-francho-sarrablo-los-indomitos-errantes",
-      "imagen": "https://doc.conciertos.club/doc/c/2026/franchosarra_20261128.jpg",
-      "descripcion": "Americana/Folk Rock/Country · Entradas desde 10 €",
+      "sala": "Sala Oasis",
+      "url": "https://conciertos.club/zaragoza/conciertos/120702-parquesvr",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/parquesvr_20261128.jpg",
+      "descripcion": "Pop electrónico",
       "visto": "2026-11-18"
     },
     {
@@ -963,16 +973,6 @@
       "visto": "2026-11-18"
     },
     {
-      "titulo": "Parquesvr",
-      "fecha": "2026-11-28",
-      "hora": "21:00",
-      "sala": "Sala Oasis",
-      "url": "https://conciertos.club/zaragoza/conciertos/120702-parquesvr",
-      "imagen": "https://doc.conciertos.club/doc/c/2026/parquesvr_20261128.jpg",
-      "descripcion": "Pop electrónico",
-      "visto": "2026-11-18"
-    },
-    {
       "titulo": "Oasis Exist. Tributo a Oasis",
       "fecha": "2026-11-28",
       "hora": "21:00",
@@ -980,6 +980,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/125437-oasis-exist-tributo-a-oasis",
       "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1785666329.jpg",
       "descripcion": "Versiones/Tributos · Entrada libre",
+      "visto": "2026-11-18"
+    },
+    {
+      "titulo": "Francho Sarrablo & Los Indómitos Errantes",
+      "fecha": "2026-11-28",
+      "hora": "21:00",
+      "sala": "El Corazón Verde",
+      "url": "https://conciertos.club/zaragoza/conciertos/130414-francho-sarrablo-los-indomitos-errantes",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/franchosarra_20261128.jpg",
+      "descripcion": "Americana/Folk Rock/Country · Entradas desde 10 €",
       "visto": "2026-11-18"
     },
     {
@@ -1027,9 +1037,9 @@
       "fecha": "2026-11-29",
       "hora": "19:00",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/desinteresse/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/desinteresse.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130406-desinteresse",
+      "imagen": "",
+      "descripcion": "Post-Punk · Entradas desde 14 €",
       "visto": "2026-11-18"
     },
     {
@@ -1087,8 +1097,8 @@
       "fecha": "2026-12-02",
       "hora": "21:00",
       "sala": "Sala Creedence",
-      "url": "https://www.aragonmusical.com/agenda/kosmetika/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2016/06/ticket-icon-30.png",
+      "url": "https://conciertos.club/zaragoza/conciertos/130343-kosmetika",
+      "imagen": "",
       "descripcion": "",
       "visto": "2026-11-18"
     },
@@ -1117,9 +1127,9 @@
       "fecha": "2026-12-03",
       "hora": "21:00",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/little-barrie/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/IMG_20260508_093137.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/123930-little-barrie",
+      "imagen": "",
+      "descripcion": "Rock/Rock Alternativo · Entradas desde 18 €",
       "visto": "2026-11-18"
     },
     {
@@ -1373,26 +1383,6 @@
       "visto": "2026-11-18"
     },
     {
-      "titulo": "Daniel Higiénico",
-      "fecha": "2026-12-11",
-      "hora": "21:00",
-      "sala": "El Refugio del Crápula",
-      "url": "https://conciertos.club/zaragoza/conciertos/130528-daniel-higienico",
-      "imagen": "https://conciertos.club/doc/a/2018/a_danielhigienico.jpg",
-      "descripcion": "Cantautores",
-      "visto": "2026-11-18"
-    },
-    {
-      "titulo": "Fuet!",
-      "fecha": "2026-12-11",
-      "hora": "21:00",
-      "sala": "Roze",
-      "url": "https://conciertos.club/zaragoza/conciertos/130481-fuet",
-      "imagen": "https://doc.conciertos.club/doc/c/2026/fuet_20261211.jpg",
-      "descripcion": "Punk/Hardcore · Entradas desde 16,50 €",
-      "visto": "2026-11-18"
-    },
-    {
       "titulo": "Pedrá! Tributo a Extremoduro",
       "fecha": "2026-12-11",
       "hora": "21:00",
@@ -1410,6 +1400,26 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130396-pensamiento-unico-las-tristes",
       "imagen": "https://doc.conciertos.club/doc/c/2026/pensamientou_20261211.jpg",
       "descripcion": "Post-Punk · Entradas desde 12 €",
+      "visto": "2026-11-18"
+    },
+    {
+      "titulo": "Fuet!",
+      "fecha": "2026-12-11",
+      "hora": "21:00",
+      "sala": "Roze",
+      "url": "https://conciertos.club/zaragoza/conciertos/130481-fuet",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/fuet_20261211.jpg",
+      "descripcion": "Punk/Hardcore · Entradas desde 16,50 €",
+      "visto": "2026-11-18"
+    },
+    {
+      "titulo": "Daniel Higiénico",
+      "fecha": "2026-12-11",
+      "hora": "21:00",
+      "sala": "El Refugio del Crápula",
+      "url": "https://conciertos.club/zaragoza/conciertos/130528-daniel-higienico",
+      "imagen": "https://conciertos.club/doc/a/2018/a_danielhigienico.jpg",
+      "descripcion": "Cantautores",
       "visto": "2026-11-18"
     },
     {
@@ -1433,16 +1443,6 @@
       "visto": "2026-11-18"
     },
     {
-      "titulo": "Los Boltancheros",
-      "fecha": "2026-12-12",
-      "hora": "20:30",
-      "sala": "La Campana Underground",
-      "url": "https://www.aragonmusical.com/agenda/los-boltancheros-2/",
-      "imagen": "",
-      "descripcion": "",
-      "visto": "2026-11-18"
-    },
-    {
       "titulo": "Apartamentos Acapulco",
       "fecha": "2026-12-12",
       "hora": "20:30",
@@ -1453,6 +1453,16 @@
       "visto": "2026-11-18"
     },
     {
+      "titulo": "Los Boltancheros",
+      "fecha": "2026-12-12",
+      "hora": "20:30",
+      "sala": "La Campana Underground",
+      "url": "https://www.aragonmusical.com/agenda/los-boltancheros-2/",
+      "imagen": "",
+      "descripcion": "",
+      "visto": "2026-11-18"
+    },
+    {
       "titulo": "Bunbury",
       "fecha": "2026-12-12",
       "hora": "21:00",
@@ -1460,6 +1470,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/114264-bunbury",
       "imagen": "https://conciertos.club/doc/a/2020/a_bunbury.jpg",
       "descripcion": "Pop-rock/Indie · Entradas desde 88 €",
+      "visto": "2026-11-18"
+    },
+    {
+      "titulo": "Lizzy and The Banshees. Tributo a Siouxsie & The Banshees",
+      "fecha": "2026-12-12",
+      "hora": "21:00",
+      "sala": "La Casa Del Loco",
+      "url": "https://conciertos.club/zaragoza/conciertos/115892-lizzy-and-the-banshees-tributo-a-siouxsie-the-banshees",
+      "imagen": "",
+      "descripcion": "Versiones/Tributos · Entradas desde 24,64 €",
       "visto": "2026-11-18"
     },
     {
@@ -1480,16 +1500,6 @@
       "url": "https://www.aragonmusical.com/agenda/surstromming-eli-lovis-dreem-ripper/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2023/12/Eli-Lovis-scaled.jpg",
       "descripcion": "",
-      "visto": "2026-11-18"
-    },
-    {
-      "titulo": "Lizzy and The Banshees. Tributo a Siouxsie & The Banshees",
-      "fecha": "2026-12-12",
-      "hora": "21:00",
-      "sala": "La Casa Del Loco",
-      "url": "https://conciertos.club/zaragoza/conciertos/115892-lizzy-and-the-banshees-tributo-a-siouxsie-the-banshees",
-      "imagen": "",
-      "descripcion": "Versiones/Tributos · Entradas desde 24,64 €",
       "visto": "2026-11-18"
     },
     {
@@ -1583,16 +1593,6 @@
       "visto": "2026-11-18"
     },
     {
-      "titulo": "Entreveradas",
-      "fecha": "2026-12-18",
-      "hora": "21:00",
-      "sala": "El Corazón Verde",
-      "url": "https://conciertos.club/zaragoza/conciertos/130413-entreveradas",
-      "imagen": "https://doc.conciertos.club/doc/c/2026/entreveradas_20261218.jpg",
-      "descripcion": "Folk · Entradas desde 12 €",
-      "visto": "2026-11-18"
-    },
-    {
       "titulo": "Fernandocosta",
       "fecha": "2026-12-18",
       "hora": "21:00",
@@ -1610,6 +1610,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130308-sex-museum",
       "imagen": "https://conciertos.club/doc/a/2026/a_sexmuseum40.jpg",
       "descripcion": "Rock and roll/Garage · Entradas desde 25 €",
+      "visto": "2026-11-18"
+    },
+    {
+      "titulo": "Entreveradas",
+      "fecha": "2026-12-18",
+      "hora": "21:00",
+      "sala": "El Corazón Verde",
+      "url": "https://conciertos.club/zaragoza/conciertos/130413-entreveradas",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/entreveradas_20261218.jpg",
+      "descripcion": "Folk · Entradas desde 12 €",
       "visto": "2026-11-18"
     },
     {
@@ -1673,22 +1683,22 @@
       "visto": "2026-11-18"
     },
     {
-      "titulo": "El Bis Y Los Preslis",
-      "fecha": "2026-12-19",
-      "hora": "21:00",
-      "sala": "Sala Creedence",
-      "url": "https://www.aragonmusical.com/agenda/el-bis-y-los-preslis/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2014/10/Elbis-y-los-Preslis.jpg",
-      "descripcion": "",
-      "visto": "2026-11-18"
-    },
-    {
       "titulo": "Blue Brothers Tribute Band",
       "fecha": "2026-12-19",
       "hora": "21:00",
       "sala": "Sala Z",
       "url": "https://conciertos.club/zaragoza/conciertos/125436-blue-brothers-tribute-band",
       "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1785666329.jpg",
+      "descripcion": "",
+      "visto": "2026-11-18"
+    },
+    {
+      "titulo": "El BIS y los Preslis",
+      "fecha": "2026-12-19",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://conciertos.club/zaragoza/conciertos/130341-el-bis-y-los-preslis-blue-christmas",
+      "imagen": "",
       "descripcion": "",
       "visto": "2026-11-18"
     },
@@ -1807,8 +1817,8 @@
       "fecha": "2026-12-26",
       "hora": "21:00",
       "sala": "La Ley Seca",
-      "url": "https://www.aragonmusical.com/agenda/la-septima-farola-7/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2023/05/WhatsApp-Image-2026-03-10-at-21.22.48.jpeg",
+      "url": "https://conciertos.club/zaragoza/conciertos/130534-la-septima-farola",
+      "imagen": "",
       "descripcion": "",
       "visto": "2026-11-18"
     },
@@ -1947,8 +1957,8 @@
       "fecha": "2027-01-09",
       "hora": "21:00",
       "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/modelo-31/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/09/Vive-Latino-2025.-Recinto-Expo-de-Zaragoza-6925.-Por-Mariano-Val-para-Aragon-Musical-153.jpg",
+      "url": "https://www.laganzua.net/conciertos/modelo-zaragoza-1016056",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/modelo-band-2026.jpg",
       "descripcion": "",
       "visto": "2026-11-18"
     },
@@ -2067,8 +2077,8 @@
       "fecha": "2027-01-15",
       "hora": "22:00",
       "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/carino-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/10/Carino-scaled-e1667125347495.jpg",
+      "url": "https://www.laganzua.net/conciertos/carino-zaragoza-1018168",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/carino-2027.jpg",
       "descripcion": "",
       "visto": "2026-11-18"
     },
@@ -2103,16 +2113,6 @@
       "visto": "2026-11-18"
     },
     {
-      "titulo": "Claudio & The Roosters",
-      "fecha": "2027-01-16",
-      "hora": "21:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/claudio-the-roosters/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-29.jpg",
-      "descripcion": "",
-      "visto": "2026-11-18"
-    },
-    {
       "titulo": "SHO-HAI",
       "fecha": "2027-01-16",
       "hora": "21:00",
@@ -2123,12 +2123,22 @@
       "visto": "2026-11-18"
     },
     {
-      "titulo": "Los Enemigos",
+      "titulo": "Claudio & The Roosters",
       "fecha": "2027-01-16",
       "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/claudio-the-roosters/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-29.jpg",
+      "descripcion": "",
+      "visto": "2026-11-18"
+    },
+    {
+      "titulo": "Los Enemigos",
+      "fecha": "2027-01-16",
+      "hora": "22:00",
       "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/los-enemigos-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/11/la-casa-del-loco-25-aniversario-josele-santiago.jpg",
+      "url": "https://www.laganzua.net/conciertos/los-enemigos-zaragoza-1018169",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/los-enemigos-2026.jpg",
       "descripcion": "",
       "visto": "2026-11-18"
     },
@@ -2153,6 +2163,16 @@
       "visto": "2026-11-18"
     },
     {
+      "titulo": "Funambulista",
+      "fecha": "2027-01-22",
+      "hora": "21:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://www.laganzua.net/conciertos/funambulista-zaragoza-1018131",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/funambulista-2026.jpg",
+      "descripcion": "",
+      "visto": "2026-11-18"
+    },
+    {
       "titulo": "Maitequiero",
       "fecha": "2027-01-22",
       "hora": "21:00",
@@ -2169,16 +2189,6 @@
       "sala": "Rock & Blues Café",
       "url": "https://www.aragonmusical.com/agenda/ron-vudu/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-6.jpg",
-      "descripcion": "",
-      "visto": "2026-11-18"
-    },
-    {
-      "titulo": "Funambulista",
-      "fecha": "2027-01-22",
-      "hora": "21:30",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://www.aragonmusical.com/agenda/funambulista-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/Funambulista.jpg",
       "descripcion": "",
       "visto": "2026-11-18"
     },
@@ -2483,16 +2493,6 @@
       "visto": "2026-11-18"
     },
     {
-      "titulo": "Belqu Festival",
-      "fecha": "2027-02-06",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/belqu-festival/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/11/Slappy.webp",
-      "descripcion": "",
-      "visto": "2026-11-18"
-    },
-    {
       "titulo": "Niños",
       "fecha": "2027-02-06",
       "hora": "21:00",
@@ -2529,6 +2529,16 @@
       "sala": "Sala Oasis",
       "url": "https://www.aragonmusical.com/agenda/la-cabra-mecanica/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/LA-CABRA-MECANICA-scaled-1.jpg",
+      "descripcion": "",
+      "visto": "2026-11-18"
+    },
+    {
+      "titulo": "BELQU Festival",
+      "fecha": "2027-02-06",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/belqu-festival/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/Banner-Web-Multiusos-wpv_400x400_center_center.jpeg",
       "descripcion": "",
       "visto": "2026-11-18"
     },
@@ -2943,22 +2953,22 @@
       "visto": "2026-11-18"
     },
     {
+      "titulo": "Metrika",
+      "fecha": "2027-02-27",
+      "hora": "21:00",
+      "sala": "Sala Oasis",
+      "url": "https://www.laganzua.net/conciertos/metrika-zaragoza-1017032",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/metrika-2027.jpg",
+      "descripcion": "",
+      "visto": "2026-11-18"
+    },
+    {
       "titulo": "Patronato",
       "fecha": "2027-02-27",
       "hora": "21:00",
       "sala": "La Lata de Bombillas",
       "url": "https://www.aragonmusical.com/agenda/patronato/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/PATRONATO_27.jpg",
-      "descripcion": "",
-      "visto": "2026-11-18"
-    },
-    {
-      "titulo": "Metrika",
-      "fecha": "2027-02-27",
-      "hora": "22:00",
-      "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/metrika/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/SaveClip.App_799601895_18036331604833164_1508183846929361225_n_896.jpg",
       "descripcion": "",
       "visto": "2026-11-18"
     },
@@ -3047,8 +3057,8 @@
       "fecha": "2027-03-06",
       "hora": "20:30",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/anabel-lee-3/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/08/Anabel-Lee-Luis-Lorente-15.jpg",
+      "url": "https://www.laganzua.net/conciertos/anabel-lee-zaragoza-1017435",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/anabel-lee-2026.jpg",
       "descripcion": "",
       "visto": "2026-11-18"
     },
