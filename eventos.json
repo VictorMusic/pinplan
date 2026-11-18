@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18T01:59:44.090512",
+  "actualizado": "2026-11-18T16:11:19.097312",
   "total": 371,
   "eventos": [
     {
@@ -233,16 +233,6 @@
       "visto": "2026-11-18"
     },
     {
-      "titulo": "Muñeca Rusa + Tigre y Diamante",
-      "fecha": "2026-11-20",
-      "hora": "21:00",
-      "sala": "Roze",
-      "url": "https://conciertos.club/zaragoza/conciertos/125948-muneca-rusa-tigre-y-diamante",
-      "imagen": "",
-      "descripcion": "Pop-rock/Indie · Entradas desde 15 €",
-      "visto": "2026-11-18"
-    },
-    {
       "titulo": "Vacaciones Permanentes",
       "fecha": "2026-11-20",
       "hora": "21:00",
@@ -250,6 +240,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130451-vacaciones-permanentes",
       "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794088312.jpg",
       "descripcion": "Pop-rock/Indie · Entradas desde 8,55 €",
+      "visto": "2026-11-18"
+    },
+    {
+      "titulo": "Muñeca Rusa + Tigre y Diamante",
+      "fecha": "2026-11-20",
+      "hora": "21:00",
+      "sala": "Roze",
+      "url": "https://conciertos.club/zaragoza/conciertos/125948-muneca-rusa-tigre-y-diamante",
+      "imagen": "",
+      "descripcion": "Pop-rock/Indie · Entradas desde 15 €",
       "visto": "2026-11-18"
     },
     {
