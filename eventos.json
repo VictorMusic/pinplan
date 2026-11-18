@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18T16:11:19.097312",
+  "actualizado": "2026-11-18T19:15:50.447639",
   "total": 371,
   "eventos": [
     {
@@ -983,22 +983,22 @@
       "visto": "2026-11-18"
     },
     {
+      "titulo": "The Loved Ones",
+      "fecha": "2026-11-28",
+      "hora": "21:30",
+      "sala": "La Casa del Loco",
+      "url": "https://www.aragonmusical.com/agenda/the-loved-ones/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/The-Loved-Ones.jpeg",
+      "descripcion": "",
+      "visto": "2026-11-18"
+    },
+    {
       "titulo": "OBK",
       "fecha": "2026-11-28",
       "hora": "21:30",
       "sala": "Teatro de las Esquinas",
       "url": "https://www.aragonmusical.com/agenda/obk-4/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2019/11/OBK-y-DJs-el-9-de-octubre-de-2019__12.jpg",
-      "descripcion": "",
-      "visto": "2026-11-18"
-    },
-    {
-      "titulo": "The Loved Ones",
-      "fecha": "2026-11-28",
-      "hora": "21:30",
-      "sala": "Sala Roze",
-      "url": "https://www.aragonmusical.com/agenda/the-loved-ones/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/The-Loved-Ones.jpeg",
       "descripcion": "",
       "visto": "2026-11-18"
     },
@@ -3350,7 +3350,7 @@
       "url": "https://www.laganzua.net/conciertos/foyone-zaragoza-1017974",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/foyone-2027.jpg",
       "descripcion": "",
-      "visto": "2026-11-17"
+      "visto": "2026-11-18"
     },
     {
       "titulo": "Jessie Lee & The Alchemist",
