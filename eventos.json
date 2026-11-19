@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-19T01:36:29.713199",
-  "total": 368,
+  "actualizado": "2026-11-19T16:18:27.499919",
+  "total": 369,
   "eventos": [
     {
       "titulo": "#LEONORVIVE",
@@ -1803,6 +1803,16 @@
       "visto": "2026-11-19"
     },
     {
+      "titulo": "ESENZIA: 10 AÑOS DE HISTORIA",
+      "fecha": "2026-12-28",
+      "hora": "19:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/esenzia-10-anos-de-historia/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/11/esenZia-wpv_400x400_center_center.jpeg",
+      "descripcion": "",
+      "visto": "2026-11-19"
+    },
+    {
       "titulo": "Tergal",
       "fecha": "2026-12-28",
       "hora": "19:30",
@@ -1987,9 +1997,9 @@
       "fecha": "2027-01-14",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/los-swingin-calaveras/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-3.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130300-los-swingin-calaveras",
+      "imagen": "https://doc.conciertos.club/doc/c/2027/losswinginca_20270114.jpg",
+      "descripcion": "Rock/Rock Alternativo · Entrada libre",
       "visto": "2026-11-19"
     },
     {
