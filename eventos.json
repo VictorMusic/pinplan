@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-20T15:55:42.699505",
-  "total": 366,
+  "actualizado": "2026-11-20T18:59:06.033598",
+  "total": 371,
   "eventos": [
     {
       "titulo": "Tributo a Frank Sinatra y Louis Armstrong. The Jazz Room",
@@ -1413,6 +1413,16 @@
       "visto": "2026-11-20"
     },
     {
+      "titulo": "Ester Vallejo",
+      "fecha": "2026-12-13",
+      "hora": "18:00",
+      "sala": "Sala López",
+      "url": "https://www.aragonmusical.com/agenda/ester-vallejo-29/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/event_l_images-6.jpeg",
+      "descripcion": "",
+      "visto": "2026-11-20"
+    },
+    {
       "titulo": "BRENNO AMBROSINI",
       "fecha": "2026-12-13",
       "hora": "19:30",
@@ -1680,6 +1690,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/124002-callese-senora-tributo-a-siniestro-total",
       "imagen": "https://doc.conciertos.club/doc/c/2026/callesesen_20261226.jpg",
       "descripcion": "Versiones/Tributos · Entradas desde 14 €",
+      "visto": "2026-11-20"
+    },
+    {
+      "titulo": "Funk Attack, R de Rumba y Pendejo",
+      "fecha": "2026-12-26",
+      "hora": "17:00",
+      "sala": "Centro Cívico la Almozara",
+      "url": "https://www.aragonmusical.com/agenda/te-debo-un-baile/",
+      "imagen": "",
+      "descripcion": "",
       "visto": "2026-11-20"
     },
     {
@@ -2753,6 +2773,16 @@
       "visto": "2026-11-20"
     },
     {
+      "titulo": "She Can't Afford Mascara - Ebm, Minimal-synth, Darkwave",
+      "fecha": "2027-02-21",
+      "hora": "19:00",
+      "sala": "La Lata de Bombillas",
+      "url": "https://www.aragonmusical.com/agenda/she-cant-afford-mascara-ebm-minimal-synth-darkwave/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/event_l_Captura_de_pantalla_2026-11-19_a_las_23.14.40.png",
+      "descripcion": "",
+      "visto": "2026-11-20"
+    },
+    {
       "titulo": "The Pickin Boppers",
       "fecha": "2027-02-21",
       "hora": "20:00",
@@ -3213,6 +3243,16 @@
       "visto": "2026-11-20"
     },
     {
+      "titulo": "Hermanos Martínez + Niños Del Brasil + Nacha Pop",
+      "fecha": "2027-03-20",
+      "hora": "20:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://www.aragonmusical.com/agenda/hermanos-martinez-ninos-del-brasil-nacha-pop/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/09/20240927-Vive-Latino-Sabado-Luis-Lorente-072.jpg",
+      "descripcion": "",
+      "visto": "2026-11-20"
+    },
+    {
       "titulo": "Sarria",
       "fecha": "2027-03-20",
       "hora": "21:00",
@@ -3579,6 +3619,16 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://www.aragonmusical.com/agenda/la-banda-sabinera-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/3250.png",
+      "descripcion": "",
+      "visto": "2026-11-20"
+    },
+    {
+      "titulo": "Estados De Ánimo",
+      "fecha": "2027-05-02",
+      "hora": "22:00",
+      "sala": "Sala Oasis",
+      "url": "https://www.aragonmusical.com/agenda/estados-de-animo-2/",
+      "imagen": "",
       "descripcion": "",
       "visto": "2026-11-20"
     },
