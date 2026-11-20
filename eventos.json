@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-20T01:36:10.639942",
-  "total": 365,
+  "actualizado": "2026-11-20T15:55:42.699505",
+  "total": 366,
   "eventos": [
     {
       "titulo": "Tributo a Frank Sinatra y Louis Armstrong. The Jazz Room",
@@ -1947,19 +1947,29 @@
       "fecha": "2027-01-15",
       "hora": "20:00",
       "sala": "Sala López",
-      "url": "https://www.aragonmusical.com/agenda/miguel-costas-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2017/07/Untitled-61-600x400.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130474-miguel-costas",
+      "imagen": "https://doc.conciertos.club/doc/c/2027/miguelcostas_20270115.jpg",
+      "descripcion": "Pop-rock/Indie · Entradas desde 22,70 €",
       "visto": "2026-11-20"
     },
     {
-      "titulo": "Mama Ladilla",
+      "titulo": "Pancho Varona",
+      "fecha": "2027-01-15",
+      "hora": "20:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://conciertos.club/zaragoza/conciertos/130423-pancho-varona",
+      "imagen": "https://doc.conciertos.club/doc/c/2027/panchovarona_20270115.jpg",
+      "descripcion": "Cantautores",
+      "visto": "2026-11-20"
+    },
+    {
+      "titulo": "Mamá Ladilla",
       "fecha": "2027-01-15",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/mama-ladilla-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/foto-11.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130299-mama-ladilla",
+      "imagen": "https://doc.conciertos.club/doc/c/2027/mamaladilla_20270115.jpg",
+      "descripcion": "Punk/Hardcore · Entradas desde 15 €",
       "visto": "2026-11-20"
     },
     {
@@ -1973,23 +1983,13 @@
       "visto": "2026-11-20"
     },
     {
-      "titulo": "Pancho Varona",
-      "fecha": "2027-01-15",
-      "hora": "21:15",
-      "sala": "Sala Luis Galve",
-      "url": "https://www.aragonmusical.com/agenda/pancho-varona-7/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/05/Pancho-Varona.jpg",
-      "descripcion": "",
-      "visto": "2026-11-20"
-    },
-    {
       "titulo": "Cariño",
       "fecha": "2027-01-15",
       "hora": "22:00",
       "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/carino-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/10/Carino-scaled-e1667125347495.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130365-carino",
+      "imagen": "https://doc.conciertos.club/doc/c/2027/carino_20270115.jpg",
+      "descripcion": "Pop-rock/Indie · Entradas desde 20 €",
       "visto": "2026-11-20"
     },
     {
@@ -2038,7 +2038,7 @@
       "hora": "21:00",
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/sho-hai/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/SHO-HAI-12-ZARAGOZA1080X1350-copia-wpv_400x400_center_center.png",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/SHO-HAI-HORIZONTAL-MULTIUSOS-wpv_400x400_center_center.png",
       "descripcion": "",
       "visto": "2026-11-20"
     },
@@ -2128,7 +2128,7 @@
       "hora": "20:00",
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/luis-fercan-2/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/1080X1920-wpv_400x400_center_center.png",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/YERAI-HORIZONTAL-MOZART-wpv_400x400_center_center.png",
       "descripcion": "",
       "visto": "2026-11-20"
     },
@@ -2508,7 +2508,7 @@
       "hora": "20:00",
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/luis-fercan-2-2/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/1080X1920-1-wpv_400x400_center_center.png",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/KIKO-VENENO-HORIZONTAL-MOZART-wpv_400x400_center_center.png",
       "descripcion": "",
       "visto": "2026-11-20"
     },
@@ -2569,6 +2569,16 @@
       "sala": "La Lata de Bombillas",
       "url": "https://www.aragonmusical.com/agenda/el-ultimo-vecino-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/1a101e32-2658-46bd-bb2b-6777d1e8dce7.jpg",
+      "descripcion": "",
+      "visto": "2026-11-20"
+    },
+    {
+      "titulo": "ANTOÑITO MOLINA",
+      "fecha": "2027-02-13",
+      "hora": "20:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/antonito-molina/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/11/ANTONITO-HORIZONTAL-MOZART-wpv_400x400_center_center.png",
       "descripcion": "",
       "visto": "2026-11-20"
     },
@@ -2818,7 +2828,7 @@
       "hora": "21:00",
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/d-valentino/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/10/zg27valentino1multiusos-web-wpv_400x400_center_center.jpg",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/10/D.VALENTINO-HORIZONTAL-MULTIUSOS-wpv_400x400_center_center.png",
       "descripcion": "",
       "visto": "2026-11-20"
     },
@@ -2858,7 +2868,7 @@
       "hora": "21:00",
       "sala": "Auditorio de Zaragoza",
       "url": "https://auditoriozaragoza.com/programacion/rodrigo-cuevas/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/R.CUEVAS-POST-2-wpv_400x400_center_center.png",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/RODRIGO-CUEVAS-HORIZONTAL-MULTIUSOS-wpv_400x400_center_center.png",
       "descripcion": "",
       "visto": "2026-11-20"
     },
