@@ -1,7 +1,17 @@
 {
-  "actualizado": "2026-11-20T18:59:06.033598",
-  "total": 371,
+  "actualizado": "2026-11-20T22:10:37.051627",
+  "total": 372,
   "eventos": [
+    {
+      "titulo": "INFO Y/O TICKETS AQUÍ",
+      "fecha": "2026-11-20",
+      "hora": "11:08",
+      "sala": "El Corazón Verde",
+      "url": "https://entradium.com/organizers/el-corazon-verde",
+      "imagen": "https://elcorazonverdebar.com/wp-content/uploads/2026/11/1000035006.jpg?w=1200&h=900&crop=1",
+      "descripcion": "",
+      "visto": "2026-11-20"
+    },
     {
       "titulo": "Tributo a Frank Sinatra y Louis Armstrong. The Jazz Room",
       "fecha": "2026-11-20",
@@ -9,7 +19,7 @@
       "sala": "Hïde Club",
       "url": "https://conciertos.club/zaragoza/conciertos/123433-tributo-a-frank-sinatra-y-louis-armstrong-the-jazz-room",
       "imagen": "https://applications-media.feverup.com/image/upload/f_auto,w_550,h_550/fever2/plan/photo/bf86b91a-cea7-11f0-9f85-d265d7fb50bf.jpg",
-      "descripcion": "Jazz/Swing · Entradas desde 22 €",
+      "descripcion": "Jazz/Swing",
       "visto": "2026-11-20"
     },
     {
@@ -29,7 +39,7 @@
       "sala": "El Corazón Verde",
       "url": "https://conciertos.club/zaragoza/conciertos/128985-johnny-irion-chris-murphy-connie-corleone-the-green-bats",
       "imagen": "https://doc.conciertos.club/doc/c/2026/johnnyirionc_20261120.jpg",
-      "descripcion": "Americana/Folk Rock/Country · Entradas desde 18 €",
+      "descripcion": "Americana/Folk Rock/Country",
       "visto": "2026-11-20"
     },
     {
@@ -69,7 +79,7 @@
       "sala": "Sala López",
       "url": "https://conciertos.club/zaragoza/conciertos/125951-the-buzz-lovers-tributo-a-nirvana",
       "imagen": "https://doc.conciertos.club/doc/c/2026/thebuzzlov_20261120.jpg",
-      "descripcion": "Versiones/Tributos · Entradas desde 22 €",
+      "descripcion": "Versiones/Tributos",
       "visto": "2026-11-20"
     },
     {
@@ -3290,7 +3300,7 @@
       "url": "https://www.laganzua.net/conciertos/zetazen-zaragoza-1018248",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/zetazen-2027.jpg",
       "descripcion": "",
-      "visto": "2026-11-18"
+      "visto": "2026-11-20"
     },
     {
       "titulo": "La Azotea",
