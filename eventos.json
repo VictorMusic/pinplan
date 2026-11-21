@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-21T01:01:30.897263",
-  "total": 350,
+  "actualizado": "2026-11-21T15:06:00.394722",
+  "total": 352,
   "eventos": [
     {
       "titulo": "Los Pólipos + Solomillo Wellington + Eh, Mertxe!",
@@ -1817,9 +1817,19 @@
       "fecha": "2027-01-16",
       "hora": "12:30",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/los-bien-bien-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-4.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130298-los-bien-bien",
+      "imagen": "https://doc.conciertos.club/doc/c/2027/losbienbien_20270116.jpg",
+      "descripcion": "Punk/Hardcore · Entrada libre",
+      "visto": "2026-11-21"
+    },
+    {
+      "titulo": "Tributo a Frank Sinatra y Louis Armstrong. The Jazz Room",
+      "fecha": "2027-01-16",
+      "hora": "18:00",
+      "sala": "Hïde Club",
+      "url": "https://conciertos.club/zaragoza/conciertos/123439-tributo-a-frank-sinatra-y-louis-armstrong-the-jazz-room",
+      "imagen": "https://applications-media.feverup.com/image/upload/f_auto,w_550,h_550/fever2/plan/photo/bf86b91a-cea7-11f0-9f85-d265d7fb50bf.jpg",
+      "descripcion": "Jazz/Swing · Entradas desde 22 €",
       "visto": "2026-11-21"
     },
     {
@@ -1837,39 +1847,49 @@
       "fecha": "2027-01-16",
       "hora": "19:30",
       "sala": "Sala Z",
-      "url": "https://www.aragonmusical.com/agenda/bloodhunter-death-legacy/",
-      "imagen": "",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130472-bloodhunter-death-legacy",
+      "imagen": "https://doc.conciertos.club/doc/c/2027/bloodhunterd_20270116.jpg",
+      "descripcion": "Metal/Rock duro · Entradas desde 15 €",
       "visto": "2026-11-21"
     },
     {
-      "titulo": "Claudio & The Roosters",
+      "titulo": "Claudio & the Roosters",
       "fecha": "2027-01-16",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/claudio-the-roosters/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-29.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130297-claudio-the-roosters",
+      "imagen": "https://doc.conciertos.club/doc/c/2027/claudiothero_20270116.jpg",
+      "descripcion": "Americana/Folk Rock/Country · Entrada libre",
       "visto": "2026-11-21"
     },
     {
-      "titulo": "SHO-HAI",
+      "titulo": "Sho-Hai",
       "fecha": "2027-01-16",
       "hora": "21:00",
       "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/sho-hai/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/06/SHO-HAI-HORIZONTAL-MULTIUSOS-wpv_400x400_center_center.png",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/123963-sho-hai",
+      "imagen": "https://conciertos.club/doc/a/2017/a_shohai.jpg",
+      "descripcion": "Hip-Hop · Entradas desde 27,50 €",
+      "visto": "2026-11-21"
+    },
+    {
+      "titulo": "#RaízLatina. Mescalina",
+      "fecha": "2027-01-16",
+      "hora": "21:00",
+      "sala": "Sala López",
+      "url": "https://conciertos.club/zaragoza/conciertos/124245-raizlatina-mescalina",
+      "imagen": "https://conciertos.club/doc/a/2025/a_mescalina.jpg",
+      "descripcion": "Versiones/Tributos · Entradas desde 19,56 €",
       "visto": "2026-11-21"
     },
     {
       "titulo": "Los Enemigos",
       "fecha": "2027-01-16",
-      "hora": "21:00",
+      "hora": "22:00",
       "sala": "Sala Oasis",
-      "url": "https://www.aragonmusical.com/agenda/los-enemigos-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/11/la-casa-del-loco-25-aniversario-josele-santiago.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/123948-los-enemigos",
+      "imagen": "https://doc.conciertos.club/doc/c/2027/losenemigo_20270116.jpg",
+      "descripcion": "Rock and roll/Garage · Entradas desde 31 €",
       "visto": "2026-11-21"
     },
     {
