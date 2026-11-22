@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-22T00:01:29.947878",
-  "total": 335,
+  "actualizado": "2026-11-22T15:02:47.068764",
+  "total": 336,
   "eventos": [
     {
       "titulo": "JAZZ FOR KIDS: JAZZ EN FAMILIA",
@@ -549,6 +549,16 @@
       "sala": "Teatro de las Esquinas",
       "url": "https://www.aragonmusical.com/agenda/obk-4/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2019/11/OBK-y-DJs-el-9-de-octubre-de-2019__12.jpg",
+      "descripcion": "",
+      "visto": "2026-11-22"
+    },
+    {
+      "titulo": "NACHT TRÍO",
+      "fecha": "2026-11-28",
+      "hora": "",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/beatriz-gimeno-2/?occurrence=2026-11-28",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/08/nacht-trio.jpg",
       "descripcion": "",
       "visto": "2026-11-22"
     },
@@ -1723,13 +1733,13 @@
       "visto": "2026-11-22"
     },
     {
-      "titulo": "Jd Harmo Quartet",
+      "titulo": "JD Harmo Quartet",
       "fecha": "2027-01-17",
       "hora": "20:00",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/jd-harmo-quartet/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-5.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130296-jd-harmo-quartet",
+      "imagen": "https://doc.conciertos.club/doc/c/2027/jdharmoquart_20270117.jpg",
+      "descripcion": "Blues/RNB · Entrada libre",
       "visto": "2026-11-22"
     },
     {
