@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-22T18:15:38.320901",
-  "total": 336,
+  "actualizado": "2026-11-22T20:58:20.735511",
+  "total": 337,
   "eventos": [
     {
       "titulo": "JAZZ FOR KIDS: JAZZ EN FAMILIA",
@@ -19,7 +19,7 @@
       "sala": "Sala López",
       "url": "https://conciertos.club/zaragoza/conciertos/130386-simelase",
       "imagen": "https://doc.conciertos.club/doc/c/2026/desconcierto_20261122.jpg",
-      "descripcion": "Versiones/Tributos · Entradas desde 10 €",
+      "descripcion": "Versiones/Tributos",
       "visto": "2026-11-22"
     },
     {
@@ -93,13 +93,13 @@
       "visto": "2026-11-22"
     },
     {
-      "titulo": "The Mañana Culture",
+      "titulo": "The mañana culture",
       "fecha": "2026-11-22",
       "hora": "19:00",
       "sala": "Sala Creedence",
-      "url": "https://www.aragonmusical.com/agenda/the-manana-culture/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/TMC_Aragon_Musical_David_Palacin.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130347-the-manana-culture",
+      "imagen": "",
+      "descripcion": "Rock/Rock Alternativo",
       "visto": "2026-11-22"
     },
     {
@@ -2919,6 +2919,16 @@
       "sala": "Rock & Blues Café",
       "url": "https://www.aragonmusical.com/agenda/humphrey-the-farmers-7/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-4.jpg",
+      "descripcion": "",
+      "visto": "2026-11-22"
+    },
+    {
+      "titulo": "Barry B",
+      "fecha": "2027-03-31",
+      "hora": "21:00",
+      "sala": "Sala Oasis",
+      "url": "https://www.laganzua.net/conciertos/barry-b-segunda-fecha-zaragoza-zaragoza-1018452",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/barry-b-2026.jpg",
       "descripcion": "",
       "visto": "2026-11-22"
     },
