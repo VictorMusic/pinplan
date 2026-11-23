@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-23T18:59:15.060216",
-  "total": 338,
+  "actualizado": "2026-11-23T22:28:36.724434",
+  "total": 341,
   "eventos": [
     {
       "titulo": "El lago de los cisnes",
@@ -9,7 +9,7 @@
       "sala": "Auditorio de Zaragoza",
       "url": "https://conciertos.club/zaragoza/conciertos/130510-el-lago-de-los-cisnes",
       "imagen": "https://doc.conciertos.club/doc/c/2026/elballetdeki_20261123.jpg",
-      "descripcion": "Danza/Ballet · Entradas desde 38 €",
+      "descripcion": "Danza/Ballet",
       "visto": "2026-11-23"
     },
     {
@@ -573,6 +573,16 @@
       "visto": "2026-11-23"
     },
     {
+      "titulo": "DELACUEVA",
+      "fecha": "2026-12-01",
+      "hora": "19:00",
+      "sala": "Bunga Universidad",
+      "url": "https://www.aragonmusical.com/agenda/delacueva-19/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2021/05/Delacueva-el-17-de-mayo-de-2021-en-el-Teatro-Principal__10.jpg",
+      "descripcion": "",
+      "visto": "2026-11-23"
+    },
+    {
       "titulo": "Francisco",
       "fecha": "2026-12-01",
       "hora": "20:00",
@@ -850,6 +860,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/117395-the-sadies",
       "imagen": "https://conciertos.club/doc/c/2026/c_thesadies2611.jpg",
       "descripcion": "Americana/Folk Rock/Country",
+      "visto": "2026-11-23"
+    },
+    {
+      "titulo": "Noche Flamenco",
+      "fecha": "2026-12-09",
+      "hora": "21:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/noche-flamenco-11/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-29.jpg",
+      "descripcion": "",
       "visto": "2026-11-23"
     },
     {
@@ -3053,6 +3073,16 @@
       "visto": "2026-11-23"
     },
     {
+      "titulo": "Valiente Bosque + Vuelo Fidji",
+      "fecha": "2027-04-10",
+      "hora": "21:00",
+      "sala": "La Ley Seca",
+      "url": "https://www.aragonmusical.com/agenda/valiente-bosque-vuelo-fidji/",
+      "imagen": "",
+      "descripcion": "",
+      "visto": "2026-11-23"
+    },
+    {
       "titulo": "Novena sinfonía de Beethoven",
       "fecha": "2027-04-11",
       "hora": "19:30",
@@ -3363,12 +3393,12 @@
       "visto": "2026-11-23"
     },
     {
-      "titulo": "Mägo de Oz, Stratovarius y Obús",
+      "titulo": "Mägo De Oz",
       "fecha": "2027-05-22",
       "hora": "20:30",
       "sala": "Auditorio de Zaragoza",
-      "url": "https://www.aragonmusical.com/agenda/mago-de-oz-stratovarius-y-obus/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/06/20250531-Obus-Auditorio-Sala-Multiusos-Luis-Lorente-34.jpg",
+      "url": "https://www.laganzua.net/conciertos/mago-de-oz-stratovarius-obus-zaragoza-1017692",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/certamen-pop-rock-zaragoza-2027.jpg",
       "descripcion": "",
       "visto": "2026-11-23"
     },
