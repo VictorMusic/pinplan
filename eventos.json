@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-23T00:34:38.249672",
-  "total": 327,
+  "actualizado": "2026-11-23T18:59:15.060216",
+  "total": 338,
   "eventos": [
     {
       "titulo": "El lago de los cisnes",
@@ -53,6 +53,16 @@
       "visto": "2026-11-23"
     },
     {
+      "titulo": "DANI ALES – TABU",
+      "fecha": "2026-11-26",
+      "hora": "20:00",
+      "sala": "Belushi",
+      "url": "https://aragonenvivo.com/evento/dani-ales-tabu/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20261126DANIALES4444.jpg",
+      "descripcion": "",
+      "visto": "2026-11-23"
+    },
+    {
       "titulo": "Frankie and The Witch Fingers",
       "fecha": "2026-11-26",
       "hora": "21:00",
@@ -83,6 +93,16 @@
       "visto": "2026-11-23"
     },
     {
+      "titulo": "KAMIKAZES + INSURRECTOS + KALUMNIA",
+      "fecha": "2026-11-27",
+      "hora": "19:00",
+      "sala": "La Casa del Loco",
+      "url": "https://aragonenvivo.com/evento/kamikazes-insurrectos-kalumnia/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/sm_kPl7QzWqICq6.jpg",
+      "descripcion": "",
+      "visto": "2026-11-23"
+    },
+    {
       "titulo": "Amankay",
       "fecha": "2026-11-27",
       "hora": "19:00",
@@ -100,6 +120,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/124044-concierto-de-ano-nuevo",
       "imagen": "https://conciertos.club/doc/a/2022/a_conciertoclasica.jpg",
       "descripcion": "Clásica",
+      "visto": "2026-11-23"
+    },
+    {
+      "titulo": "DANI ALES – TABU",
+      "fecha": "2026-11-27",
+      "hora": "19:30",
+      "sala": "Belushi",
+      "url": "https://aragonenvivo.com/evento/dani-ales-tabu-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20261126DANIALES4444.jpg",
+      "descripcion": "",
       "visto": "2026-11-23"
     },
     {
@@ -123,6 +153,16 @@
       "visto": "2026-11-23"
     },
     {
+      "titulo": "Def Con Dos",
+      "fecha": "2026-11-27",
+      "hora": "21:00",
+      "sala": "Sala López",
+      "url": "https://conciertos.club/zaragoza/conciertos/125944-def-con-dos",
+      "imagen": "https://conciertos.club/doc/a/2023/a_defcondos.jpg",
+      "descripcion": "Hip-Hop · Entradas desde 30 €",
+      "visto": "2026-11-23"
+    },
+    {
       "titulo": "Miniver",
       "fecha": "2026-11-27",
       "hora": "21:00",
@@ -130,16 +170,6 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130388-miniver",
       "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794081301.jpg",
       "descripcion": "Entradas desde 10 €",
-      "visto": "2026-11-23"
-    },
-    {
-      "titulo": "Like a Stone. Tributo a Audioslave, R.A.T.M. y SoundGarden",
-      "fecha": "2026-11-27",
-      "hora": "21:00",
-      "sala": "Sala Z",
-      "url": "https://conciertos.club/zaragoza/conciertos/130449-like-a-stone-tributo-a-audioslave-r-a-t-m-y-soundgarden",
-      "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794088312.jpg",
-      "descripcion": "Versiones/Tributos · Entradas desde 12 €",
       "visto": "2026-11-23"
     },
     {
@@ -163,16 +193,6 @@
       "visto": "2026-11-23"
     },
     {
-      "titulo": "OBK",
-      "fecha": "2026-11-27",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://conciertos.club/zaragoza/conciertos/111161-obk/1795809600",
-      "imagen": "https://conciertos.club/doc/a/2025/a_obk.jpg",
-      "descripcion": "Post-Punk",
-      "visto": "2026-11-23"
-    },
-    {
       "titulo": "Volavent",
       "fecha": "2026-11-27",
       "hora": "21:00",
@@ -183,6 +203,26 @@
       "visto": "2026-11-23"
     },
     {
+      "titulo": "OBK",
+      "fecha": "2026-11-27",
+      "hora": "21:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://conciertos.club/zaragoza/conciertos/111161-obk/1795809600",
+      "imagen": "https://conciertos.club/doc/a/2025/a_obk.jpg",
+      "descripcion": "Post-Punk",
+      "visto": "2026-11-23"
+    },
+    {
+      "titulo": "Like a Stone. Tributo a Audioslave, R.A.T.M. y SoundGarden",
+      "fecha": "2026-11-27",
+      "hora": "21:00",
+      "sala": "Sala Z",
+      "url": "https://conciertos.club/zaragoza/conciertos/130449-like-a-stone-tributo-a-audioslave-r-a-t-m-y-soundgarden",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794088312.jpg",
+      "descripcion": "Versiones/Tributos · Entradas desde 12 €",
+      "visto": "2026-11-23"
+    },
+    {
       "titulo": "Kamikazes",
       "fecha": "2026-11-27",
       "hora": "21:00",
@@ -190,16 +230,6 @@
       "url": "https://conciertos.club/zaragoza/conciertos/125927-kamikazes",
       "imagen": "https://doc.conciertos.club/doc/c/2026/kamikazes_20261127.jpg",
       "descripcion": "Rock/Rock Alternativo · Entradas desde 16,50 €",
-      "visto": "2026-11-23"
-    },
-    {
-      "titulo": "Def Con Dos",
-      "fecha": "2026-11-27",
-      "hora": "21:00",
-      "sala": "Sala López",
-      "url": "https://conciertos.club/zaragoza/conciertos/125944-def-con-dos",
-      "imagen": "https://conciertos.club/doc/a/2023/a_defcondos.jpg",
-      "descripcion": "Hip-Hop · Entradas desde 30 €",
       "visto": "2026-11-23"
     },
     {
@@ -219,6 +249,16 @@
       "sala": "Sala Creedence",
       "url": "https://www.aragonmusical.com/agenda/the-fuzztones-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2017/03/The_Fuzztones.jpg",
+      "descripcion": "",
+      "visto": "2026-11-23"
+    },
+    {
+      "titulo": "BALKAN VIBES PARTY",
+      "fecha": "2026-11-27",
+      "hora": "23:30",
+      "sala": "Sala López",
+      "url": "https://aragonenvivo.com/evento/balkan-vibes-party/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/WhatsApp-Image-2026-11-10-at-02.20.16.jpeg",
       "descripcion": "",
       "visto": "2026-11-23"
     },
@@ -273,6 +313,26 @@
       "visto": "2026-11-23"
     },
     {
+      "titulo": "PEPI LABRADOR – VIVIENDO A TODO GASS",
+      "fecha": "2026-11-28",
+      "hora": "19:00",
+      "sala": "Belushi",
+      "url": "https://aragonenvivo.com/evento/pepi-labrador-viviendo-a-todo-gass-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20260425_pepilabrador.jpeg",
+      "descripcion": "",
+      "visto": "2026-11-23"
+    },
+    {
+      "titulo": "THE LOVED ONES",
+      "fecha": "2026-11-28",
+      "hora": "20:00",
+      "sala": "La Casa del Loco",
+      "url": "https://aragonenvivo.com/evento/the-loved-ones/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/s_poster-4.webp",
+      "descripcion": "",
+      "visto": "2026-11-23"
+    },
+    {
       "titulo": "Bloodorn + Alien Steel",
       "fecha": "2026-11-28",
       "hora": "20:00",
@@ -283,13 +343,23 @@
       "visto": "2026-11-23"
     },
     {
-      "titulo": "Contra El Viento + Maria Bonilla",
+      "titulo": "CONTRA EL VIENTO + MARÍA BONILLA",
       "fecha": "2026-11-28",
       "hora": "20:00",
       "sala": "Sala Creedence",
-      "url": "https://www.aragonmusical.com/agenda/contra-el-viento-maria-bonilla/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/01/20250129-San-Valero-04-Contra-el-viento-Plaza-de-San-Felipe-Luis-Lorente-02.jpg",
+      "url": "https://aragonenvivo.com/evento/contra-el-viento-maria-bonilla/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/cartel-cev-maria-bonilla-28nov-scaled-e1793174865639-1024x984-1.jpg",
       "descripcion": "",
+      "visto": "2026-11-23"
+    },
+    {
+      "titulo": "Migue de Antílopez",
+      "fecha": "2026-11-28",
+      "hora": "20:00",
+      "sala": "Sala López",
+      "url": "https://conciertos.club/zaragoza/conciertos/125924-migue-de-antilopez",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/miguedeant_20261128.jpg",
+      "descripcion": "Pop-rock/Indie · Entradas desde 24 €",
       "visto": "2026-11-23"
     },
     {
@@ -313,16 +383,6 @@
       "visto": "2026-11-23"
     },
     {
-      "titulo": "Migue de Antílopez",
-      "fecha": "2026-11-28",
-      "hora": "20:00",
-      "sala": "Sala López",
-      "url": "https://conciertos.club/zaragoza/conciertos/125924-migue-de-antilopez",
-      "imagen": "https://doc.conciertos.club/doc/c/2026/miguedeant_20261128.jpg",
-      "descripcion": "Pop-rock/Indie · Entradas desde 24 €",
-      "visto": "2026-11-23"
-    },
-    {
       "titulo": "Amante Laffón",
       "fecha": "2026-11-28",
       "hora": "21:00",
@@ -343,6 +403,16 @@
       "visto": "2026-11-23"
     },
     {
+      "titulo": "RAKO RAMOS – TARADA",
+      "fecha": "2026-11-28",
+      "hora": "21:00",
+      "sala": "Belushi",
+      "url": "https://aragonenvivo.com/evento/rako-ramos-tarada/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20261128rako_ramos_tarada_v4.jpg",
+      "descripcion": "",
+      "visto": "2026-11-23"
+    },
+    {
       "titulo": "Local Seis",
       "fecha": "2026-11-28",
       "hora": "21:00",
@@ -350,16 +420,6 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130387-local-seis",
       "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794081301.jpg",
       "descripcion": "Entradas desde 5 €",
-      "visto": "2026-11-23"
-    },
-    {
-      "titulo": "Francho Sarrablo & Los Indómitos Errantes",
-      "fecha": "2026-11-28",
-      "hora": "21:00",
-      "sala": "El Corazón Verde",
-      "url": "https://conciertos.club/zaragoza/conciertos/130414-francho-sarrablo-los-indomitos-errantes",
-      "imagen": "https://doc.conciertos.club/doc/c/2026/franchosarra_20261128.jpg",
-      "descripcion": "Americana/Folk Rock/Country · Entradas desde 10 €",
       "visto": "2026-11-23"
     },
     {
@@ -383,6 +443,16 @@
       "visto": "2026-11-23"
     },
     {
+      "titulo": "Francho Sarrablo & Los Indómitos Errantes",
+      "fecha": "2026-11-28",
+      "hora": "21:00",
+      "sala": "El Corazón Verde",
+      "url": "https://conciertos.club/zaragoza/conciertos/130414-francho-sarrablo-los-indomitos-errantes",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/franchosarra_20261128.jpg",
+      "descripcion": "Americana/Folk Rock/Country · Entradas desde 10 €",
+      "visto": "2026-11-23"
+    },
+    {
       "titulo": "Oasis Exist. Tributo a Oasis",
       "fecha": "2026-11-28",
       "hora": "21:00",
@@ -393,22 +463,22 @@
       "visto": "2026-11-23"
     },
     {
-      "titulo": "The Loved Ones",
-      "fecha": "2026-11-28",
-      "hora": "21:30",
-      "sala": "La Casa del Loco",
-      "url": "https://www.aragonmusical.com/agenda/the-loved-ones/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/The-Loved-Ones.jpeg",
-      "descripcion": "",
-      "visto": "2026-11-23"
-    },
-    {
       "titulo": "OBK",
       "fecha": "2026-11-28",
       "hora": "21:30",
       "sala": "Teatro de las Esquinas",
-      "url": "https://www.aragonmusical.com/agenda/obk-4/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2019/11/OBK-y-DJs-el-9-de-octubre-de-2019__12.jpg",
+      "url": "https://aragonenvivo.com/evento/obk-2/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/cartellimpioobk-1-scaled.webp",
+      "descripcion": "",
+      "visto": "2026-11-23"
+    },
+    {
+      "titulo": "flow 2000",
+      "fecha": "2026-11-28",
+      "hora": "23:30",
+      "sala": "Sala López",
+      "url": "https://aragonenvivo.com/evento/flow-2000/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/w1350.avif",
       "descripcion": "",
       "visto": "2026-11-23"
     },
@@ -449,6 +519,16 @@
       "sala": "La Lata de Bombillas",
       "url": "https://www.aragonmusical.com/agenda/desinteresse/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/desinteresse.jpg",
+      "descripcion": "",
+      "visto": "2026-11-23"
+    },
+    {
+      "titulo": "JOSEBA PEREZ – POR LO QUE SEA",
+      "fecha": "2026-11-29",
+      "hora": "19:00",
+      "sala": "Belushi",
+      "url": "https://aragonenvivo.com/evento/joseba-perez-por-lo-que-sea/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20261129_josebaperez3333.png",
       "descripcion": "",
       "visto": "2026-11-23"
     },
@@ -1070,6 +1150,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130367-copacabana",
       "imagen": "https://doc.conciertos.club/doc/c/2026/copacabana_20261218.jpg",
       "descripcion": "Versiones/Tributos · Entradas desde 25 €",
+      "visto": "2026-11-23"
+    },
+    {
+      "titulo": "Doctor Bailongo Y Los Hipertensos, De Zri Kin Magis",
+      "fecha": "2026-12-19",
+      "hora": "19:00",
+      "sala": "El Refugio del Crápula",
+      "url": "https://www.aragonmusical.com/agenda/doctor-bailongo-y-los-hipertensos-de-zri-kin-magis/",
+      "imagen": "",
+      "descripcion": "",
       "visto": "2026-11-23"
     },
     {
@@ -1859,6 +1949,16 @@
       "sala": "Rock & Blues Café",
       "url": "https://www.aragonmusical.com/agenda/young-fresh-fellows/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-12.jpg",
+      "descripcion": "",
+      "visto": "2026-11-23"
+    },
+    {
+      "titulo": "Molan Los 90 Festival Zaragoza",
+      "fecha": "2027-01-31",
+      "hora": "20:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://www.laganzua.net/conciertos/molan-los-90-festival-zaragoza-zaragoza-1017840",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/molan-los-90-zaragoza-2027.jpg",
       "descripcion": "",
       "visto": "2026-11-23"
     },
@@ -3239,6 +3339,16 @@
       "sala": "Rock & Blues Café",
       "url": "https://www.aragonmusical.com/agenda/the-maharajas/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-2.jpg",
+      "descripcion": "",
+      "visto": "2026-11-23"
+    },
+    {
+      "titulo": "Los Punsetes",
+      "fecha": "2027-05-21",
+      "hora": "22:00",
+      "sala": "Sala Oasis",
+      "url": "https://www.laganzua.net/conciertos/los-punsetes-zaragoza-1017886",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/los-punsetes-2027.jpg",
       "descripcion": "",
       "visto": "2026-11-23"
     },
