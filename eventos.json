@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-24T02:02:57.635999",
-  "total": 342,
+  "actualizado": "2026-11-24T04:33:14.492724",
+  "total": 343,
   "eventos": [
     {
       "titulo": "Concierto de Julio Iglesias Jr. en Zaragoza",
@@ -69,6 +69,16 @@
       "sala": "Sala Creedence",
       "url": "https://www.aragonmusical.com/agenda/michal-obrebski/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/event_l_MichaC582_ObrC499bski_-_Zdj._2.jpg",
+      "descripcion": "",
+      "visto": "2026-11-24"
+    },
+    {
+      "titulo": "Iguana Death Cult",
+      "fecha": "2026-11-26",
+      "hora": "",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.setlist.fm/setlist/iguana-death-cult/2026/rock-and-blues-cafe-zaragoza-spain-337cf8d9.html",
+      "imagen": "",
       "descripcion": "",
       "visto": "2026-11-24"
     },
@@ -2980,7 +2990,7 @@
       "url": "https://www.laganzua.net/conciertos/foyone-zaragoza-1017974",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/foyone-2027.jpg",
       "descripcion": "",
-      "visto": "2026-11-22"
+      "visto": "2026-11-24"
     },
     {
       "titulo": "Jessie Lee & The Alchemist",
