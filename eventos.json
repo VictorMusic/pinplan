@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-24T04:33:14.492724",
-  "total": 343,
+  "actualizado": "2026-11-24T18:39:03.125998",
+  "total": 361,
   "eventos": [
     {
       "titulo": "Concierto de Julio Iglesias Jr. en Zaragoza",
@@ -508,7 +508,7 @@
       "hora": "17:00",
       "sala": "El Corazón Verde",
       "url": "https://www.aragonmusical.com/agenda/de-vampiros-y-cowboys-3/",
-      "imagen": "",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/Sesion-DJ.webp",
       "descripcion": "",
       "visto": "2026-11-24"
     },
@@ -953,6 +953,16 @@
       "visto": "2026-11-24"
     },
     {
+      "titulo": "Reventador!",
+      "fecha": "2026-12-12",
+      "hora": "13:00",
+      "sala": "La Lata de Bombillas",
+      "url": "https://www.aragonmusical.com/agenda/reventador/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/reventador_88aa.jpg",
+      "descripcion": "",
+      "visto": "2026-11-24"
+    },
+    {
       "titulo": "El Chojín",
       "fecha": "2026-12-12",
       "hora": "20:00",
@@ -960,6 +970,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/119561-el-chojin",
       "imagen": "https://doc.conciertos.club/doc/c/2026/2026-9-25-concierto-de-el-chojin-en-bilbao-gira-balance-220261212.jpg",
       "descripcion": "Hip-Hop · Entradas desde 25,45 €",
+      "visto": "2026-11-24"
+    },
+    {
+      "titulo": "Ruido",
+      "fecha": "2026-12-12",
+      "hora": "20:00",
+      "sala": "El Refugio del Crápula",
+      "url": "https://www.aragonmusical.com/agenda/ruido/",
+      "imagen": "",
+      "descripcion": "",
       "visto": "2026-11-24"
     },
     {
@@ -973,16 +993,6 @@
       "visto": "2026-11-24"
     },
     {
-      "titulo": "Los Boltancheros",
-      "fecha": "2026-12-12",
-      "hora": "20:30",
-      "sala": "La Campana Underground",
-      "url": "https://www.aragonmusical.com/agenda/los-boltancheros-2/",
-      "imagen": "",
-      "descripcion": "",
-      "visto": "2026-11-24"
-    },
-    {
       "titulo": "Apartamentos Acapulco",
       "fecha": "2026-12-12",
       "hora": "20:30",
@@ -990,6 +1000,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/116377-apartamentos-acapulco",
       "imagen": "https://conciertos.club/doc/a/2024/a_apartamentosacapulco.jpg",
       "descripcion": "Pop-rock/Indie · Entradas desde 18 €",
+      "visto": "2026-11-24"
+    },
+    {
+      "titulo": "Los Boltancheros",
+      "fecha": "2026-12-12",
+      "hora": "20:30",
+      "sala": "La Campana Underground",
+      "url": "https://www.aragonmusical.com/agenda/los-boltancheros-2/",
+      "imagen": "",
+      "descripcion": "",
       "visto": "2026-11-24"
     },
     {
@@ -1433,6 +1453,16 @@
       "visto": "2026-11-24"
     },
     {
+      "titulo": "Clásica Inmersiva",
+      "fecha": "2026-12-30",
+      "hora": "20:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/clasica-inmersiva/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/11/utt_clasica_immersiva_zaragoza_30_12_1080x1350-e1795513256404-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-11-24"
+    },
+    {
       "titulo": "Lynn Milanés",
       "fecha": "2026-12-30",
       "hora": "21:00",
@@ -1470,6 +1500,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130302-the-roadhouse",
       "imagen": "https://doc.conciertos.club/doc/c/2027/theroadhouse_20270102.jpg",
       "descripcion": "Versiones/Tributos · Entrada libre",
+      "visto": "2026-11-24"
+    },
+    {
+      "titulo": "EL PRIMER CONCIERTO DEL AÑO",
+      "fecha": "2027-01-03",
+      "hora": "11:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/el-primer-concierto-del-ano-4/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/11/1_FC_2027_01_03-wpv_400x400_center_center.jpg",
+      "descripcion": "",
       "visto": "2026-11-24"
     },
     {
@@ -1513,6 +1553,16 @@
       "visto": "2026-11-24"
     },
     {
+      "titulo": "Derivas",
+      "fecha": "2027-01-09",
+      "hora": "21:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://www.aragonmusical.com/agenda/derivas-7/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/3789.png",
+      "descripcion": "",
+      "visto": "2026-11-24"
+    },
+    {
       "titulo": "Modelo",
       "fecha": "2027-01-09",
       "hora": "21:00",
@@ -1540,6 +1590,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130366-non-servium",
       "imagen": "https://doc.conciertos.club/doc/c/2027/nonservium_20270109.jpg",
       "descripcion": "Punk/Hardcore",
+      "visto": "2026-11-24"
+    },
+    {
+      "titulo": "Joven Orquesta y Coro de Bandas Sonoras",
+      "fecha": "2027-01-10",
+      "hora": "11:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/joven-orquesta-y-coro-de-bandas-sonoras-3/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/11/Foto-JOBS-scaled-wpv_400x400_center_center.jpg",
+      "descripcion": "",
       "visto": "2026-11-24"
     },
     {
@@ -1723,6 +1783,16 @@
       "visto": "2026-11-24"
     },
     {
+      "titulo": "Joven Orquesta Nacional de España (JONDE)",
+      "fecha": "2027-01-17",
+      "hora": "11:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/joven-orquesta-nacional-de-espana-jonde-3/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/06/Joven-Orquesta-Nacional-de-Espana-JONDE-2025-©-Michal-Novak-7-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-11-24"
+    },
+    {
       "titulo": "JD Harmo Quartet",
       "fecha": "2027-01-17",
       "hora": "20:00",
@@ -1730,6 +1800,26 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130296-jd-harmo-quartet",
       "imagen": "https://doc.conciertos.club/doc/c/2027/jdharmoquart_20270117.jpg",
       "descripcion": "Blues/RNB · Entrada libre",
+      "visto": "2026-11-24"
+    },
+    {
+      "titulo": "El cascanueces",
+      "fecha": "2027-01-19",
+      "hora": "20:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://conciertos.club/zaragoza/conciertos/130509-el-cascanueces",
+      "imagen": "https://doc.conciertos.club/doc/c/2027/elballetdeki_20270119.jpg",
+      "descripcion": "Danza/Ballet · Entradas desde 38 €",
+      "visto": "2026-11-24"
+    },
+    {
+      "titulo": "Blues Del Mediterráneo",
+      "fecha": "2027-01-20",
+      "hora": "21:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://www.aragonmusical.com/agenda/blues-del-mediterraneo/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/portadawebbluesdelmediterraneo.webp",
+      "descripcion": "",
       "visto": "2026-11-24"
     },
     {
@@ -1849,6 +1939,16 @@
       "sala": "Sala Oasis",
       "url": "https://www.aragonmusical.com/agenda/la-milagrosa-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/753582950_17950217112225463_7484149951631759434_n-e1785564940209.jpg",
+      "descripcion": "",
+      "visto": "2026-11-24"
+    },
+    {
+      "titulo": "BIELLA NUEI",
+      "fecha": "2027-01-24",
+      "hora": "11:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/biella-nuei/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/11/biella_nuei-e1795454516887-wpv_400x400_center_center.jpg",
       "descripcion": "",
       "visto": "2026-11-24"
     },
@@ -1973,12 +2073,12 @@
       "visto": "2026-11-24"
     },
     {
-      "titulo": "Young Fresh Fellows",
+      "titulo": "ORQUESTA SINFÓNICA CSMA",
       "fecha": "2027-01-31",
-      "hora": "20:00",
-      "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/young-fresh-fellows/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-12.jpg",
+      "hora": "11:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/orquesta-sinfonica-csma/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2022/10/SinfónicaCSMA-wpv_400x400_center_center.jpg",
       "descripcion": "",
       "visto": "2026-11-24"
     },
@@ -1991,6 +2091,16 @@
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/molan-los-90-zaragoza-2027.jpg",
       "descripcion": "",
       "visto": "2026-11-23"
+    },
+    {
+      "titulo": "Young Fresh Fellows",
+      "fecha": "2027-01-31",
+      "hora": "20:00",
+      "sala": "Rock & Blues Café",
+      "url": "https://www.aragonmusical.com/agenda/young-fresh-fellows/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-12.jpg",
+      "descripcion": "",
+      "visto": "2026-11-24"
     },
     {
       "titulo": "Marina Domínguez",
@@ -2119,6 +2229,16 @@
       "sala": "Sala Oasis",
       "url": "https://www.aragonmusical.com/agenda/la-cabra-mecanica/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/LA-CABRA-MECANICA-scaled-1.jpg",
+      "descripcion": "",
+      "visto": "2026-11-24"
+    },
+    {
+      "titulo": "SOLISTAS Y CORO SINFÓNICO AMICI MUSICAE",
+      "fecha": "2027-02-07",
+      "hora": "11:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/solistas-y-coro-sinfonico-amici-musicae-2/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/11/1b0594ae-a3de-47fe-8346-43d1e86d59a7-e1795455219531-wpv_400x400_center_center.jpg",
       "descripcion": "",
       "visto": "2026-11-24"
     },
@@ -2273,6 +2393,16 @@
       "visto": "2026-11-24"
     },
     {
+      "titulo": "ORQUESTRA FILHARMÒNICA DE LA UNIVERSITAT DE VALÈNCIA",
+      "fecha": "2027-02-14",
+      "hora": "11:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/orquestra-filharmonica-de-la-universitat-de-valencia/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/11/Diseno-sin-titulo-20-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-11-24"
+    },
+    {
       "titulo": "The Bronson",
       "fecha": "2027-02-14",
       "hora": "12:30",
@@ -2419,6 +2549,16 @@
       "sala": "Sala Oasis",
       "url": "https://www.aragonmusical.com/agenda/la-frontera-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/20260509-La-Frontera-Sala-Multiusos-Luis-Lorente-19.jpg",
+      "descripcion": "",
+      "visto": "2026-11-24"
+    },
+    {
+      "titulo": "Orquesta Reino Aragón",
+      "fecha": "2027-02-21",
+      "hora": "11:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/orquesta-reino-aragon/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2024/05/ORA_WEB-wpv_400x400_center_center.jpg",
       "descripcion": "",
       "visto": "2026-11-24"
     },
@@ -2573,6 +2713,16 @@
       "visto": "2026-11-24"
     },
     {
+      "titulo": "Grupo Enigma",
+      "fecha": "2027-02-28",
+      "hora": "11:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/grupo-enigma-4/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2025/01/enigma-adaptada-a-web-wpv_400x400_center_center.png",
+      "descripcion": "",
+      "visto": "2026-11-24"
+    },
+    {
       "titulo": "Orquesta Sinfónica de Amberes",
       "fecha": "2027-03-03",
       "hora": "19:30",
@@ -2703,6 +2853,16 @@
       "visto": "2026-11-24"
     },
     {
+      "titulo": "ORQUESTA SINFÓNICA CIUDAD DE ZARAGOZA",
+      "fecha": "2027-03-07",
+      "hora": "11:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/orquesta-sinfonica-ciudad-de-zaragoza-8/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2022/11/SINFONICA-CIUDAD-DE-ZARAGOZA-23-wpv_400x400_center_center.jpg",
+      "descripcion": "",
+      "visto": "2026-11-24"
+    },
+    {
       "titulo": "Con V De Voz",
       "fecha": "2027-03-09",
       "hora": "19:00",
@@ -2799,6 +2959,16 @@
       "sala": "Sala Oasis",
       "url": "https://www.aragonmusical.com/agenda/sons-of-aguirre-scila-3/",
       "imagen": "",
+      "descripcion": "",
+      "visto": "2026-11-24"
+    },
+    {
+      "titulo": "Banda Sinfónica del Conservatorio Superior de Música de Aragón",
+      "fecha": "2027-03-14",
+      "hora": "11:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/banda-sinfonica-del-conservatorio-superior-de-musica-de-aragon/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2022/10/SinfónicaCSMA-wpv_400x400_center_center.jpg",
       "descripcion": "",
       "visto": "2026-11-24"
     },
@@ -2909,6 +3079,16 @@
       "sala": "Rock & Blues Café",
       "url": "https://www.aragonmusical.com/agenda/sarria/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/foto-13-scaled.jpg",
+      "descripcion": "",
+      "visto": "2026-11-24"
+    },
+    {
+      "titulo": "Orquesta Sinfónica Reino de Aragón y Coro Sinfónico Amici Musicae",
+      "fecha": "2027-03-21",
+      "hora": "11:30",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://auditoriozaragoza.com/programacion/orquesta-sinfonica-reino-de-aragon-y-coro-sinfonico-amici-musicae/",
+      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2024/11/25.03.30-ORA-AMICI-para-web-wpv_400x400_center_center.jpg",
       "descripcion": "",
       "visto": "2026-11-24"
     },
