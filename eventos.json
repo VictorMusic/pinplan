@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-24T21:01:10.754921",
+  "actualizado": "2026-11-24T23:48:29.556645",
   "total": 361,
   "eventos": [
     {
@@ -673,16 +673,6 @@
       "visto": "2026-11-24"
     },
     {
-      "titulo": "Atroz",
-      "fecha": "2026-12-04",
-      "hora": "21:00",
-      "sala": "Sala Z",
-      "url": "https://conciertos.club/zaragoza/conciertos/127578-atroz",
-      "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1789909849.jpg",
-      "descripcion": "Rock/Rock Alternativo · Entradas desde 6 €",
-      "visto": "2026-11-24"
-    },
-    {
       "titulo": "Concierto de Macaco en Zaragoza",
       "fecha": "2026-12-04",
       "hora": "21:00",
@@ -690,6 +680,16 @@
       "url": "https://www.jacksonlive.es/concierto/concierto-de-macaco-en-zaragoza",
       "imagen": "https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/concerts/hd/517491780588218.jpg",
       "descripcion": "",
+      "visto": "2026-11-24"
+    },
+    {
+      "titulo": "Atroz",
+      "fecha": "2026-12-04",
+      "hora": "21:00",
+      "sala": "Sala Z",
+      "url": "https://conciertos.club/zaragoza/conciertos/127578-atroz",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1789909849.jpg",
+      "descripcion": "Rock/Rock Alternativo · Entradas desde 6 €",
       "visto": "2026-11-24"
     },
     {
