@@ -1,7 +1,17 @@
 {
-  "actualizado": "2026-11-25T03:17:52.453942",
-  "total": 362,
+  "actualizado": "2026-11-25T17:48:45.316683",
+  "total": 365,
   "eventos": [
+    {
+      "titulo": "INFO Y/O TICKETS AQUÍ",
+      "fecha": "2026-11-25",
+      "hora": "14:11",
+      "sala": "El Corazón Verde",
+      "url": "https://entradium.com/organizers/el-corazon-verde",
+      "imagen": "https://elcorazonverdebar.com/wp-content/uploads/2026/11/1000033167-1.jpg?w=400&h=300&crop=1",
+      "descripcion": "",
+      "visto": "2026-11-25"
+    },
     {
       "titulo": "Concierto de Julio Iglesias Jr. en Zaragoza",
       "fecha": "2026-11-25",
@@ -129,6 +139,16 @@
       "sala": "Belushi",
       "url": "https://aragonenvivo.com/evento/dani-ales-tabu-2/",
       "imagen": "https://aragonenvivo.com/wp-content/uploads/20261126DANIALES4444.jpg",
+      "descripcion": "",
+      "visto": "2026-11-25"
+    },
+    {
+      "titulo": "Direi + Mariano Casanova",
+      "fecha": "2026-11-27",
+      "hora": "20:00",
+      "sala": "El Túnel",
+      "url": "https://www.aragonmusical.com/agenda/direi-mariano-casanova/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2015/02/FotoMarianoCasanovaMayo2015.jpg",
       "descripcion": "",
       "visto": "2026-11-25"
     },
@@ -1670,6 +1690,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130423-pancho-varona",
       "imagen": "https://doc.conciertos.club/doc/c/2027/panchovarona_20270115.jpg",
       "descripcion": "Cantautores",
+      "visto": "2026-11-25"
+    },
+    {
+      "titulo": "Axolotes Mexicanos",
+      "fecha": "2027-01-15",
+      "hora": "20:30",
+      "sala": "La Lata de Bombillas",
+      "url": "https://www.laganzua.net/conciertos/axolotes-mexicanos-zaragoza-1018577",
+      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/axolotes-mexicanos-2026.jpg",
+      "descripcion": "",
       "visto": "2026-11-25"
     },
     {
