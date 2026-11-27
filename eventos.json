@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-27T17:13:51.586697",
-  "total": 361,
+  "actualizado": "2026-11-27T19:49:21.913852",
+  "total": 362,
   "eventos": [
     {
       "titulo": "PEAU D’HOMME",
@@ -23,6 +23,16 @@
       "visto": "2026-11-27"
     },
     {
+      "titulo": "Amankay",
+      "fecha": "2026-11-27",
+      "hora": "19:00",
+      "sala": "Estación del Norte",
+      "url": "https://www.aragonmusical.com/agenda/amankay-17/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/Amankay-scaled-1.jpg",
+      "descripcion": "",
+      "visto": "2026-11-27"
+    },
+    {
       "titulo": "Concierto de Año Nuevo",
       "fecha": "2026-11-27",
       "hora": "19:00",
@@ -31,16 +41,6 @@
       "imagen": "https://conciertos.club/doc/a/2022/a_conciertoclasica.jpg",
       "descripcion": "Clásica",
       "visto": "2026-11-27"
-    },
-    {
-      "titulo": "Amankay",
-      "fecha": "2026-11-27",
-      "hora": "19:00",
-      "sala": "Estación del Norte",
-      "url": "https://www.aragonmusical.com/agenda/amankay-17/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/Amankay-scaled-1.jpg",
-      "descripcion": "",
-      "visto": "2026-11-26"
     },
     {
       "titulo": "DANI ALES – TABU",
@@ -53,6 +53,16 @@
       "visto": "2026-11-27"
     },
     {
+      "titulo": "Direi + Mariano Casanova",
+      "fecha": "2026-11-27",
+      "hora": "20:00",
+      "sala": "El Túnel",
+      "url": "https://www.aragonmusical.com/agenda/direi-mariano-casanova/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2015/02/FotoMarianoCasanovaMayo2015.jpg",
+      "descripcion": "",
+      "visto": "2026-11-27"
+    },
+    {
       "titulo": "Martha Fields Band + Cardelina",
       "fecha": "2026-11-27",
       "hora": "20:00",
@@ -61,16 +71,6 @@
       "imagen": "https://doc.conciertos.club/doc/c/2026/marthafields_20261127.jpg",
       "descripcion": "Pop-rock/Indie · Entradas desde 18 €",
       "visto": "2026-11-27"
-    },
-    {
-      "titulo": "Direi + Mariano Casanova",
-      "fecha": "2026-11-27",
-      "hora": "20:00",
-      "sala": "El Túnel",
-      "url": "https://www.aragonmusical.com/agenda/direi-mariano-casanova/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2015/02/FotoMarianoCasanovaMayo2015.jpg",
-      "descripcion": "",
-      "visto": "2026-11-26"
     },
     {
       "titulo": "Fito & Fitipaldis",
@@ -143,16 +143,6 @@
       "visto": "2026-11-27"
     },
     {
-      "titulo": "Kamikazes",
-      "fecha": "2026-11-27",
-      "hora": "21:00",
-      "sala": "Roze",
-      "url": "https://conciertos.club/zaragoza/conciertos/125927-kamikazes",
-      "imagen": "https://doc.conciertos.club/doc/c/2026/kamikazes_20261127.jpg",
-      "descripcion": "Rock/Rock Alternativo · Entradas desde 16,50 €",
-      "visto": "2026-11-27"
-    },
-    {
       "titulo": "Like a Stone. Tributo a Audioslave, R.A.T.M. y SoundGarden",
       "fecha": "2026-11-27",
       "hora": "21:00",
@@ -160,6 +150,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130449-like-a-stone-tributo-a-audioslave-r-a-t-m-y-soundgarden",
       "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1794088312.jpg",
       "descripcion": "Versiones/Tributos · Entradas desde 12 €",
+      "visto": "2026-11-27"
+    },
+    {
+      "titulo": "Kamikazes",
+      "fecha": "2026-11-27",
+      "hora": "21:00",
+      "sala": "Roze",
+      "url": "https://conciertos.club/zaragoza/conciertos/125927-kamikazes",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/kamikazes_20261127.jpg",
+      "descripcion": "Rock/Rock Alternativo · Entradas desde 16,50 €",
       "visto": "2026-11-27"
     },
     {
@@ -193,13 +193,13 @@
       "visto": "2026-11-27"
     },
     {
-      "titulo": "JC Ondiviela",
+      "titulo": "Jc Ondiviela",
       "fecha": "2026-11-28",
       "hora": "13:00",
       "sala": "La Lata de Bombillas",
-      "url": "https://conciertos.club/zaragoza/conciertos/130407-jc-ondiviela",
-      "imagen": "",
-      "descripcion": "Cantautores",
+      "url": "https://www.aragonmusical.com/agenda/jc-ondiviela/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/jose_carlos.jpg",
+      "descripcion": "",
       "visto": "2026-11-27"
     },
     {
@@ -210,7 +210,7 @@
       "url": "https://www.aragonmusical.com/agenda/iii-festival-coros-gospel-aragon/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/festival_gospel_foto_horizontal_1400x875.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Anadie",
@@ -220,6 +220,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/125922-anadie",
       "imagen": "https://doc.conciertos.club/doc/c/2026/anadie20261128.jpg",
       "descripcion": "Urbana/Reggaeton/Trap",
+      "visto": "2026-11-27"
+    },
+    {
+      "titulo": "Musethica",
+      "fecha": "2026-11-28",
+      "hora": "19:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://conciertos.club/zaragoza/conciertos/130524-musethica",
+      "imagen": "",
+      "descripcion": "Clásica",
       "visto": "2026-11-27"
     },
     {
@@ -243,16 +253,6 @@
       "visto": "2026-11-27"
     },
     {
-      "titulo": "Musethica",
-      "fecha": "2026-11-28",
-      "hora": "19:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://conciertos.club/zaragoza/conciertos/130524-musethica",
-      "imagen": "",
-      "descripcion": "Clásica",
-      "visto": "2026-11-27"
-    },
-    {
       "titulo": "THE LOVED ONES",
       "fecha": "2026-11-28",
       "hora": "20:00",
@@ -270,7 +270,7 @@
       "url": "https://www.aragonmusical.com/agenda/bloodorn-alien-steel/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/Bloodorn.jpeg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "CONTRA EL VIENTO + MARÍA BONILLA",
@@ -310,7 +310,7 @@
       "url": "https://www.aragonmusical.com/agenda/la-fuina/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Amante Laffón",
@@ -323,16 +323,6 @@
       "visto": "2026-11-27"
     },
     {
-      "titulo": "RAKO RAMOS – TARADA",
-      "fecha": "2026-11-28",
-      "hora": "21:00",
-      "sala": "Belushi",
-      "url": "https://aragonenvivo.com/evento/rako-ramos-tarada/",
-      "imagen": "https://aragonenvivo.com/wp-content/uploads/20261128rako_ramos_tarada_v4.jpg",
-      "descripcion": "",
-      "visto": "2026-11-27"
-    },
-    {
       "titulo": "Fito & Fitipaldis",
       "fecha": "2026-11-28",
       "hora": "21:00",
@@ -340,6 +330,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/121822-fito-fitipaldis",
       "imagen": "https://conciertos.club/doc/c/2026/c_fito2026.jpg",
       "descripcion": "Rock and roll/Garage",
+      "visto": "2026-11-27"
+    },
+    {
+      "titulo": "RAKO RAMOS – TARADA",
+      "fecha": "2026-11-28",
+      "hora": "21:00",
+      "sala": "Belushi",
+      "url": "https://aragonenvivo.com/evento/rako-ramos-tarada/",
+      "imagen": "https://aragonenvivo.com/wp-content/uploads/20261128rako_ramos_tarada_v4.jpg",
+      "descripcion": "",
       "visto": "2026-11-27"
     },
     {
@@ -373,16 +373,6 @@
       "visto": "2026-11-27"
     },
     {
-      "titulo": "Oasis Exist. Tributo a Oasis",
-      "fecha": "2026-11-28",
-      "hora": "21:00",
-      "sala": "Sala Z",
-      "url": "https://conciertos.club/zaragoza/conciertos/125437-oasis-exist-tributo-a-oasis",
-      "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1785666329.jpg",
-      "descripcion": "Versiones/Tributos · Entrada libre",
-      "visto": "2026-11-27"
-    },
-    {
       "titulo": "Francho Sarrablo & Los Indómitos Errantes",
       "fecha": "2026-11-28",
       "hora": "21:00",
@@ -390,6 +380,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130414-francho-sarrablo-los-indomitos-errantes",
       "imagen": "https://doc.conciertos.club/doc/c/2026/franchosarra_20261128.jpg",
       "descripcion": "Americana/Folk Rock/Country · Entradas desde 10 €",
+      "visto": "2026-11-27"
+    },
+    {
+      "titulo": "Oasis Exist. Tributo a Oasis",
+      "fecha": "2026-11-28",
+      "hora": "21:00",
+      "sala": "Sala Z",
+      "url": "https://conciertos.club/zaragoza/conciertos/125437-oasis-exist-tributo-a-oasis",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1785666329.jpg",
+      "descripcion": "Versiones/Tributos · Entrada libre",
       "visto": "2026-11-27"
     },
     {
@@ -430,7 +430,7 @@
       "url": "https://www.aragonmusical.com/agenda/undergroove-big-band/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "De Vampiros y Cowboys",
@@ -440,7 +440,7 @@
       "url": "https://www.aragonmusical.com/agenda/de-vampiros-y-cowboys-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/Sesion-DJ.webp",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "NACHT TRÍO",
@@ -457,9 +457,9 @@
       "fecha": "2026-11-29",
       "hora": "19:00",
       "sala": "La Lata de Bombillas",
-      "url": "https://conciertos.club/zaragoza/conciertos/130406-desinteresse",
-      "imagen": "",
-      "descripcion": "Post-Punk · Entradas desde 14 €",
+      "url": "https://www.aragonmusical.com/agenda/desinteresse/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/desinteresse.jpg",
+      "descripcion": "",
       "visto": "2026-11-27"
     },
     {
@@ -520,7 +520,7 @@
       "url": "https://www.aragonmusical.com/agenda/delacueva-19/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2021/05/Delacueva-el-17-de-mayo-de-2021-en-el-Teatro-Principal__10.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Francisco",
@@ -537,8 +537,8 @@
       "fecha": "2026-12-02",
       "hora": "21:00",
       "sala": "Sala Creedence",
-      "url": "https://conciertos.club/zaragoza/conciertos/130343-kosmetika",
-      "imagen": "",
+      "url": "https://www.aragonmusical.com/agenda/kosmetika/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2016/06/ticket-icon-30.png",
       "descripcion": "",
       "visto": "2026-11-27"
     },
@@ -567,9 +567,9 @@
       "fecha": "2026-12-03",
       "hora": "21:00",
       "sala": "La Lata de Bombillas",
-      "url": "https://conciertos.club/zaragoza/conciertos/123930-little-barrie",
-      "imagen": "",
-      "descripcion": "Rock/Rock Alternativo · Entradas desde 18 €",
+      "url": "https://www.aragonmusical.com/agenda/little-barrie/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/IMG_20260508_093137.jpg",
+      "descripcion": "",
       "visto": "2026-11-27"
     },
     {
@@ -780,7 +780,7 @@
       "url": "https://www.aragonmusical.com/agenda/winston-mario-bailon/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Mikkey Dee & Friends. Tributo a Motörhead",
@@ -820,7 +820,7 @@
       "url": "https://www.aragonmusical.com/agenda/noche-flamenco-11/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-29.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Eva Mcbel",
@@ -830,7 +830,7 @@
       "url": "https://www.aragonmusical.com/agenda/eva-mcbel-18/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/event_l_DSC_1753_VeraValentin.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Diego Escusol",
@@ -840,7 +840,7 @@
       "url": "https://www.aragonmusical.com/agenda/diego-escusol-5/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/event_l_cartel_cantautoradas.png",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Las Novias",
@@ -850,6 +850,26 @@
       "url": "https://conciertos.club/zaragoza/conciertos/123950-las-novias",
       "imagen": "https://doc.conciertos.club/doc/c/2026/lasnovias_20261211.jpg",
       "descripcion": "Rock/Rock Alternativo",
+      "visto": "2026-11-27"
+    },
+    {
+      "titulo": "Daniel Higiénico",
+      "fecha": "2026-12-11",
+      "hora": "21:00",
+      "sala": "El Refugio del Crápula",
+      "url": "https://conciertos.club/zaragoza/conciertos/130528-daniel-higienico",
+      "imagen": "https://conciertos.club/doc/a/2018/a_danielhigienico.jpg",
+      "descripcion": "Cantautores",
+      "visto": "2026-11-27"
+    },
+    {
+      "titulo": "Fuet!",
+      "fecha": "2026-12-11",
+      "hora": "21:00",
+      "sala": "Roze",
+      "url": "https://conciertos.club/zaragoza/conciertos/130481-fuet",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/fuet_20261211.jpg",
+      "descripcion": "Punk/Hardcore · Entradas desde 16,50 €",
       "visto": "2026-11-27"
     },
     {
@@ -873,26 +893,6 @@
       "visto": "2026-11-27"
     },
     {
-      "titulo": "Fuet!",
-      "fecha": "2026-12-11",
-      "hora": "21:00",
-      "sala": "Roze",
-      "url": "https://conciertos.club/zaragoza/conciertos/130481-fuet",
-      "imagen": "https://doc.conciertos.club/doc/c/2026/fuet_20261211.jpg",
-      "descripcion": "Punk/Hardcore · Entradas desde 16,50 €",
-      "visto": "2026-11-27"
-    },
-    {
-      "titulo": "Daniel Higiénico",
-      "fecha": "2026-12-11",
-      "hora": "21:00",
-      "sala": "El Refugio del Crápula",
-      "url": "https://conciertos.club/zaragoza/conciertos/130528-daniel-higienico",
-      "imagen": "https://conciertos.club/doc/a/2018/a_danielhigienico.jpg",
-      "descripcion": "Cantautores",
-      "visto": "2026-11-27"
-    },
-    {
       "titulo": "Reventador!",
       "fecha": "2026-12-12",
       "hora": "13:00",
@@ -900,7 +900,7 @@
       "url": "https://www.aragonmusical.com/agenda/reventador/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/reventador_88aa.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "El Chojín",
@@ -913,6 +913,16 @@
       "visto": "2026-11-27"
     },
     {
+      "titulo": "Ruido",
+      "fecha": "2026-12-12",
+      "hora": "20:00",
+      "sala": "El Refugio del Crápula",
+      "url": "https://www.aragonmusical.com/agenda/ruido/",
+      "imagen": "",
+      "descripcion": "",
+      "visto": "2026-11-27"
+    },
+    {
       "titulo": "Semohé",
       "fecha": "2026-12-12",
       "hora": "20:00",
@@ -921,16 +931,6 @@
       "imagen": "https://doc.conciertos.club/doc/c/2026/elultimoping_20261212.jpg",
       "descripcion": "Mestizaje/Fusión · Entradas desde 10 €",
       "visto": "2026-11-27"
-    },
-    {
-      "titulo": "Ruido",
-      "fecha": "2026-12-12",
-      "hora": "20:00",
-      "sala": "El Refugio del Crápula",
-      "url": "https://www.aragonmusical.com/agenda/ruido/",
-      "imagen": "",
-      "descripcion": "",
-      "visto": "2026-11-26"
     },
     {
       "titulo": "Apartamentos Acapulco",
@@ -950,7 +950,7 @@
       "url": "https://www.aragonmusical.com/agenda/los-boltancheros-2/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Bunbury",
@@ -960,16 +960,6 @@
       "url": "https://conciertos.club/zaragoza/conciertos/114264-bunbury",
       "imagen": "https://conciertos.club/doc/a/2020/a_bunbury.jpg",
       "descripcion": "Pop-rock/Indie · Entradas desde 88 €",
-      "visto": "2026-11-27"
-    },
-    {
-      "titulo": "Lizzy and The Banshees. Tributo a Siouxsie & The Banshees",
-      "fecha": "2026-12-12",
-      "hora": "21:00",
-      "sala": "La Casa Del Loco",
-      "url": "https://conciertos.club/zaragoza/conciertos/115892-lizzy-and-the-banshees-tributo-a-siouxsie-the-banshees",
-      "imagen": "",
-      "descripcion": "Versiones/Tributos · Entradas desde 24,64 €",
       "visto": "2026-11-27"
     },
     {
@@ -990,7 +980,17 @@
       "url": "https://www.aragonmusical.com/agenda/surstromming-eli-lovis-dreem-ripper/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2023/12/Eli-Lovis-scaled.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
+    },
+    {
+      "titulo": "Lizzy and The Banshees. Tributo a Siouxsie & The Banshees",
+      "fecha": "2026-12-12",
+      "hora": "21:00",
+      "sala": "La Casa Del Loco",
+      "url": "https://conciertos.club/zaragoza/conciertos/115892-lizzy-and-the-banshees-tributo-a-siouxsie-the-banshees",
+      "imagen": "",
+      "descripcion": "Versiones/Tributos · Entradas desde 24,64 €",
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Klack. Tributo a Motorhead",
@@ -1010,7 +1010,7 @@
       "url": "https://www.aragonmusical.com/agenda/ester-vallejo-29/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/event_l_images-6.jpeg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "BRENNO AMBROSINI",
@@ -1093,6 +1093,16 @@
       "visto": "2026-11-27"
     },
     {
+      "titulo": "Entreveradas",
+      "fecha": "2026-12-18",
+      "hora": "21:00",
+      "sala": "El Corazón Verde",
+      "url": "https://conciertos.club/zaragoza/conciertos/130413-entreveradas",
+      "imagen": "https://doc.conciertos.club/doc/c/2026/entreveradas_20261218.jpg",
+      "descripcion": "Folk · Entradas desde 12 €",
+      "visto": "2026-11-27"
+    },
+    {
       "titulo": "Fernandocosta",
       "fecha": "2026-12-18",
       "hora": "21:00",
@@ -1110,16 +1120,6 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130308-sex-museum",
       "imagen": "https://conciertos.club/doc/a/2026/a_sexmuseum40.jpg",
       "descripcion": "Rock and roll/Garage · Entradas desde 25 €",
-      "visto": "2026-11-27"
-    },
-    {
-      "titulo": "Entreveradas",
-      "fecha": "2026-12-18",
-      "hora": "21:00",
-      "sala": "El Corazón Verde",
-      "url": "https://conciertos.club/zaragoza/conciertos/130413-entreveradas",
-      "imagen": "https://doc.conciertos.club/doc/c/2026/entreveradas_20261218.jpg",
-      "descripcion": "Folk · Entradas desde 12 €",
       "visto": "2026-11-27"
     },
     {
@@ -1150,7 +1150,7 @@
       "url": "https://www.aragonmusical.com/agenda/doctor-bailongo-y-los-hipertensos-de-zri-kin-magis/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Depedro",
@@ -1193,22 +1193,22 @@
       "visto": "2026-11-27"
     },
     {
+      "titulo": "El Bis Y Los Preslis",
+      "fecha": "2026-12-19",
+      "hora": "21:00",
+      "sala": "Sala Creedence",
+      "url": "https://www.aragonmusical.com/agenda/el-bis-y-los-preslis/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2014/10/Elbis-y-los-Preslis.jpg",
+      "descripcion": "",
+      "visto": "2026-11-27"
+    },
+    {
       "titulo": "Blue Brothers Tribute Band",
       "fecha": "2026-12-19",
       "hora": "21:00",
       "sala": "Sala Z",
       "url": "https://conciertos.club/zaragoza/conciertos/125436-blue-brothers-tribute-band",
       "imagen": "https://doc.conciertos.club/doc/c/2026/poster-1785666329.jpg",
-      "descripcion": "",
-      "visto": "2026-11-27"
-    },
-    {
-      "titulo": "El BIS y los Preslis",
-      "fecha": "2026-12-19",
-      "hora": "21:00",
-      "sala": "Sala Creedence",
-      "url": "https://conciertos.club/zaragoza/conciertos/130341-el-bis-y-los-preslis-blue-christmas",
-      "imagen": "",
       "descripcion": "",
       "visto": "2026-11-27"
     },
@@ -1280,7 +1280,7 @@
       "url": "https://www.aragonmusical.com/agenda/nelson-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/foto-22.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Cállese señora. Tributo a Siniestro Total",
@@ -1300,7 +1300,7 @@
       "url": "https://www.aragonmusical.com/agenda/te-debo-un-baile/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "MORRICONE Y 100 AÑOS DE CINE",
@@ -1337,8 +1337,8 @@
       "fecha": "2026-12-26",
       "hora": "21:00",
       "sala": "La Ley Seca",
-      "url": "https://conciertos.club/zaragoza/conciertos/130534-la-septima-farola",
-      "imagen": "",
+      "url": "https://www.aragonmusical.com/agenda/la-septima-farola-7/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2023/05/WhatsApp-Image-2026-03-10-at-21.22.48.jpeg",
       "descripcion": "",
       "visto": "2026-11-27"
     },
@@ -1380,7 +1380,7 @@
       "url": "https://www.aragonmusical.com/agenda/tergal-3/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Concierto de Navidad",
@@ -1420,7 +1420,7 @@
       "url": "https://www.aragonmusical.com/agenda/lynn-milanes/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/03/IMG_3671.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Nice Fellas",
@@ -1440,7 +1440,7 @@
       "url": "https://www.aragonmusical.com/agenda/la-doloritas-the-hermetics-start-apart/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/02/21-20260205-La-doloritas-Rock-and-Blues-Luis-Lorente_.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "The Roadhouse",
@@ -1470,7 +1470,7 @@
       "url": "https://www.aragonmusical.com/agenda/ariadna-redondo-32/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-9.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "AMAR ES COMBATIR SHOW – 20 ANIVERSARIO",
@@ -1503,16 +1503,6 @@
       "visto": "2026-11-27"
     },
     {
-      "titulo": "Modelo",
-      "fecha": "2027-01-09",
-      "hora": "21:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://www.laganzua.net/conciertos/modelo-zaragoza-1016056",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/modelo-band-2026.jpg",
-      "descripcion": "",
-      "visto": "2026-11-27"
-    },
-    {
       "titulo": "Derivas",
       "fecha": "2027-01-09",
       "hora": "21:00",
@@ -1520,7 +1510,17 @@
       "url": "https://www.aragonmusical.com/agenda/derivas-7/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/3789.png",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
+    },
+    {
+      "titulo": "Modelo",
+      "fecha": "2027-01-09",
+      "hora": "21:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://www.aragonmusical.com/agenda/modelo-31/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/09/Vive-Latino-2025.-Recinto-Expo-de-Zaragoza-6925.-Por-Mariano-Val-para-Aragon-Musical-153.jpg",
+      "descripcion": "",
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Moonshine Wagon",
@@ -1530,7 +1530,7 @@
       "url": "https://www.aragonmusical.com/agenda/moonshine-wagon-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-10.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Non Servium",
@@ -1590,7 +1590,7 @@
       "url": "https://www.aragonmusical.com/agenda/cosimo-the-hot-coals/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-26.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Los Swingin Calaveras",
@@ -1603,16 +1603,6 @@
       "visto": "2026-11-27"
     },
     {
-      "titulo": "Pancho Varona",
-      "fecha": "2027-01-15",
-      "hora": "20:00",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://conciertos.club/zaragoza/conciertos/130423-pancho-varona",
-      "imagen": "https://doc.conciertos.club/doc/c/2027/panchovarona_20270115.jpg",
-      "descripcion": "Cantautores",
-      "visto": "2026-11-27"
-    },
-    {
       "titulo": "Miguel Costas",
       "fecha": "2027-01-15",
       "hora": "20:00",
@@ -1620,6 +1610,16 @@
       "url": "https://conciertos.club/zaragoza/conciertos/130474-miguel-costas",
       "imagen": "https://doc.conciertos.club/doc/c/2027/miguelcostas_20270115.jpg",
       "descripcion": "Pop-rock/Indie · Entradas desde 22,70 €",
+      "visto": "2026-11-27"
+    },
+    {
+      "titulo": "Pancho Varona",
+      "fecha": "2027-01-15",
+      "hora": "20:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://conciertos.club/zaragoza/conciertos/130423-pancho-varona",
+      "imagen": "https://doc.conciertos.club/doc/c/2027/panchovarona_20270115.jpg",
+      "descripcion": "Cantautores",
       "visto": "2026-11-27"
     },
     {
@@ -1647,8 +1647,8 @@
       "fecha": "2027-01-15",
       "hora": "21:00",
       "sala": "Teatro de las Esquinas",
-      "url": "https://conciertos.club/zaragoza/conciertos/130616-violinisticas",
-      "imagen": "",
+      "url": "https://www.aragonmusical.com/agenda/violinisticas/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/violinisticas3.webp",
       "descripcion": "",
       "visto": "2026-11-27"
     },
@@ -1780,7 +1780,7 @@
       "url": "https://www.aragonmusical.com/agenda/blues-del-mediterraneo/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/portadawebbluesdelmediterraneo.webp",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "The Pink Stones + Restos",
@@ -1803,13 +1803,13 @@
       "visto": "2026-11-27"
     },
     {
-      "titulo": "Funambulista",
+      "titulo": "MaiteQuiero",
       "fecha": "2027-01-22",
       "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://conciertos.club/zaragoza/conciertos/130493-funambulista",
-      "imagen": "https://conciertos.club/doc/a/2017/a_funambulista.jpg",
-      "descripcion": "Cantautores · Entradas desde 27,50 €",
+      "sala": "La Lata de Bombillas",
+      "url": "https://conciertos.club/zaragoza/conciertos/130492-maitequiero",
+      "imagen": "",
+      "descripcion": "Entradas desde 16,50 €",
       "visto": "2026-11-27"
     },
     {
@@ -1823,13 +1823,13 @@
       "visto": "2026-11-27"
     },
     {
-      "titulo": "MaiteQuiero",
+      "titulo": "Funambulista",
       "fecha": "2027-01-22",
       "hora": "21:00",
-      "sala": "La Lata de Bombillas",
-      "url": "https://conciertos.club/zaragoza/conciertos/130492-maitequiero",
-      "imagen": "",
-      "descripcion": "Entradas desde 16,50 €",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://conciertos.club/zaragoza/conciertos/130493-funambulista",
+      "imagen": "https://conciertos.club/doc/a/2017/a_funambulista.jpg",
+      "descripcion": "Cantautores · Entradas desde 27,50 €",
       "visto": "2026-11-27"
     },
     {
@@ -1863,16 +1863,6 @@
       "visto": "2026-11-27"
     },
     {
-      "titulo": "Xoel López",
-      "fecha": "2027-01-23",
-      "hora": "21:00",
-      "sala": "Teatro de las Esquinas",
-      "url": "https://www.laganzua.net/conciertos/xoel-lopez-zaragoza-1018133",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/xoel-lopez-2026.jpg",
-      "descripcion": "",
-      "visto": "2026-11-27"
-    },
-    {
       "titulo": "Band Of Friends",
       "fecha": "2027-01-23",
       "hora": "21:00",
@@ -1880,7 +1870,7 @@
       "url": "https://www.aragonmusical.com/agenda/band-of-friends-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/foto-9.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Mandragora Negra + Ethernal",
@@ -1890,15 +1880,25 @@
       "url": "https://www.aragonmusical.com/agenda/mandragora-negra-ethernal/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
+    },
+    {
+      "titulo": "Xoel López",
+      "fecha": "2027-01-23",
+      "hora": "21:00",
+      "sala": "Teatro de las Esquinas",
+      "url": "https://www.aragonmusical.com/agenda/xoel-lopez-7/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/09/20240913-Xoel-Lopez-Luis-Lorente-26.jpg",
+      "descripcion": "",
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Rubén Pozo",
       "fecha": "2027-01-23",
-      "hora": "22:00",
+      "hora": "21:30",
       "sala": "La Lata de Bombillas",
-      "url": "https://www.laganzua.net/conciertos/ruben-pozo-zaragoza-1018134",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/ruben-pozo-2026.jpg",
+      "url": "https://www.aragonmusical.com/agenda/ruben-pozo-4/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2018/03/XIX-Gala-de-los-PMA-6-de-marzo-de-2018__70-e1520459649364.jpg",
       "descripcion": "",
       "visto": "2026-11-27"
     },
@@ -1910,7 +1910,7 @@
       "url": "https://www.aragonmusical.com/agenda/la-milagrosa-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/08/753582950_17950217112225463_7484149951631759434_n-e1785564940209.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "BIELLA NUEI",
@@ -1940,7 +1940,7 @@
       "url": "https://www.aragonmusical.com/agenda/pacome-rotondo/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-11.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Orquesta Sinfónica de Viena",
@@ -1960,7 +1960,7 @@
       "url": "https://www.aragonmusical.com/agenda/el-altar-del-holocausto-3/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Los Coringas",
@@ -1970,7 +1970,7 @@
       "url": "https://www.aragonmusical.com/agenda/los-coringas-8/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-7.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Perfecto Miserable",
@@ -1980,7 +1980,7 @@
       "url": "https://www.aragonmusical.com/agenda/perfecto-miserable/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/perfecto_miserable.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Cupido",
@@ -1990,7 +1990,7 @@
       "url": "https://www.aragonmusical.com/agenda/cupido-4/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2019/02/Cupido.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Carmen 113",
@@ -2000,7 +2000,7 @@
       "url": "https://www.aragonmusical.com/agenda/carmen-113-5/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2023/09/carmen_113_marcel_asso.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Shad Demn + Karuma",
@@ -2010,7 +2010,7 @@
       "url": "https://www.aragonmusical.com/agenda/shad-demn-karuma/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Levitants",
@@ -2020,7 +2020,7 @@
       "url": "https://www.aragonmusical.com/agenda/levitants-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2020/01/The-Levitants.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Polvora",
@@ -2030,7 +2030,7 @@
       "url": "https://www.aragonmusical.com/agenda/polvora-6/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-8.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Elyella",
@@ -2040,7 +2040,7 @@
       "url": "https://www.aragonmusical.com/agenda/elyella-4/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2020/02/ELYELLA-scaled-e1581006630649.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "ORQUESTA SINFÓNICA CSMA",
@@ -2070,7 +2070,7 @@
       "url": "https://www.aragonmusical.com/agenda/young-fresh-fellows/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-12.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Marina Domínguez",
@@ -2080,7 +2080,7 @@
       "url": "https://www.aragonmusical.com/agenda/marina-dominguez-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/marina_feb_27.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "MOTOWN",
@@ -2100,7 +2100,7 @@
       "url": "https://www.aragonmusical.com/agenda/festival-de-tributos-american-rock-stars/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Ester Vallejo",
@@ -2110,7 +2110,7 @@
       "url": "https://www.aragonmusical.com/agenda/ester-vallejo-27/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/20261016-Ester-Vallejo-Plaza-de-Salamero-Luis-Lorente-19.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Nuei",
@@ -2120,7 +2120,7 @@
       "url": "https://www.aragonmusical.com/agenda/nuei-7/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-6.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Tanxugueiras",
@@ -2130,7 +2130,7 @@
       "url": "https://www.aragonmusical.com/agenda/tanxugueiras/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/04/Tanxugueiras.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Tu Otra Bonita",
@@ -2140,7 +2140,7 @@
       "url": "https://www.aragonmusical.com/agenda/tu-otra-bonita-4/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/06/Tu-Otra-Bonita-e1718221420317.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Sienna",
@@ -2153,6 +2153,16 @@
       "visto": "2026-11-27"
     },
     {
+      "titulo": "Belqu Festival",
+      "fecha": "2027-02-06",
+      "hora": "20:00",
+      "sala": "Auditorio de Zaragoza",
+      "url": "https://www.aragonmusical.com/agenda/belqu-festival/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/11/Slappy.webp",
+      "descripcion": "",
+      "visto": "2026-11-27"
+    },
+    {
       "titulo": "Niños",
       "fecha": "2027-02-06",
       "hora": "21:00",
@@ -2160,7 +2170,7 @@
       "url": "https://www.aragonmusical.com/agenda/ninos-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/ninosbravos800.webp",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Puño Dragón",
@@ -2170,7 +2180,7 @@
       "url": "https://www.aragonmusical.com/agenda/puno-dragon-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/10/punodragon800.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "The Steepwater Band",
@@ -2180,7 +2190,7 @@
       "url": "https://www.aragonmusical.com/agenda/the-steepwater-band-4/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "La Cabra Mecánica",
@@ -2189,16 +2199,6 @@
       "sala": "Sala Oasis",
       "url": "https://www.aragonmusical.com/agenda/la-cabra-mecanica/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/LA-CABRA-MECANICA-scaled-1.jpg",
-      "descripcion": "",
-      "visto": "2026-11-26"
-    },
-    {
-      "titulo": "BELQU Festival",
-      "fecha": "2027-02-06",
-      "hora": "",
-      "sala": "Auditorio de Zaragoza",
-      "url": "https://auditoriozaragoza.com/programacion/belqu-festival/",
-      "imagen": "https://auditoriozaragoza.com/wp-content/uploads/2026/09/Banner-Web-Multiusos-wpv_400x400_center_center.jpeg",
       "descripcion": "",
       "visto": "2026-11-27"
     },
@@ -2220,7 +2220,7 @@
       "url": "https://www.aragonmusical.com/agenda/nadia-sheikh-comanche/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-13.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "LA GUIRLANDE",
@@ -2250,7 +2250,7 @@
       "url": "https://www.aragonmusical.com/agenda/con-v-de-voz-6/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-9.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Freddies Kings",
@@ -2260,7 +2260,7 @@
       "url": "https://www.aragonmusical.com/agenda/freddies-kings/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-30.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "KIKO VENENO",
@@ -2280,7 +2280,7 @@
       "url": "https://www.aragonmusical.com/agenda/laaza-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/3866.png",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "True Strays",
@@ -2290,7 +2290,7 @@
       "url": "https://www.aragonmusical.com/agenda/true-strays/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-10.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Carlangas",
@@ -2300,7 +2300,7 @@
       "url": "https://www.aragonmusical.com/agenda/carlangas-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/12/Carlangas.webp",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Los Invaders",
@@ -2310,7 +2310,7 @@
       "url": "https://www.aragonmusical.com/agenda/los-invaders-8/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/los_invaders_26.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Streamer + Redshark",
@@ -2320,7 +2320,17 @@
       "url": "https://www.aragonmusical.com/agenda/streamer-redshark/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
+    },
+    {
+      "titulo": "El Último Vecino",
+      "fecha": "2027-02-13",
+      "hora": "20:00",
+      "sala": "La Lata de Bombillas",
+      "url": "https://www.aragonmusical.com/agenda/el-ultimo-vecino-2/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/1a101e32-2658-46bd-bb2b-6777d1e8dce7.jpg",
+      "descripcion": "",
+      "visto": "2026-11-27"
     },
     {
       "titulo": "ANTOÑITO MOLINA",
@@ -2333,16 +2343,6 @@
       "visto": "2026-11-27"
     },
     {
-      "titulo": "El Último Vecino",
-      "fecha": "2027-02-13",
-      "hora": "20:00",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/el-ultimo-vecino-2/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/1a101e32-2658-46bd-bb2b-6777d1e8dce7.jpg",
-      "descripcion": "",
-      "visto": "2026-11-26"
-    },
-    {
       "titulo": "Uncle Sal",
       "fecha": "2027-02-13",
       "hora": "21:00",
@@ -2350,7 +2350,7 @@
       "url": "https://www.aragonmusical.com/agenda/uncle-sal-5/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-11.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Standstill",
@@ -2360,7 +2360,7 @@
       "url": "https://www.aragonmusical.com/agenda/standstill-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/11/Standstill.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "ORQUESTRA FILHARMÒNICA DE LA UNIVERSITAT DE VALÈNCIA",
@@ -2380,7 +2380,7 @@
       "url": "https://www.aragonmusical.com/agenda/the-bronson-11/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-14.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "James Oliver Band",
@@ -2390,7 +2390,7 @@
       "url": "https://www.aragonmusical.com/agenda/james-oliver-band/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-12.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Mujeres",
@@ -2410,7 +2410,7 @@
       "url": "https://www.aragonmusical.com/agenda/cretino-the-cretiners-8/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-13.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Begut",
@@ -2420,7 +2420,7 @@
       "url": "https://www.aragonmusical.com/agenda/begut-9/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2017/10/PILAR-2017__ARAGONMUSICAL-XIII__26.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Corazones Electricos",
@@ -2430,7 +2430,7 @@
       "url": "https://www.aragonmusical.com/agenda/corazones-electricos-8/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-14.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Paco Pecado",
@@ -2440,7 +2440,7 @@
       "url": "https://www.aragonmusical.com/agenda/paco-pecado-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/Paco-Pecado.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Carlos Sadness",
@@ -2450,7 +2450,7 @@
       "url": "https://www.aragonmusical.com/agenda/carlos-sadness-7/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2023/04/24PMA-web-3.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Lendakaris Muertos",
@@ -2460,7 +2460,7 @@
       "url": "https://www.aragonmusical.com/agenda/lendakaris-muertos-4/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/3779.png",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Los Estanques",
@@ -2470,7 +2470,7 @@
       "url": "https://www.aragonmusical.com/agenda/los-estanques-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-3.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Nepal Nepal",
@@ -2480,7 +2480,7 @@
       "url": "https://www.aragonmusical.com/agenda/nepal-nepal/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Spino + Cöntraband",
@@ -2490,7 +2490,7 @@
       "url": "https://www.aragonmusical.com/agenda/spino-contraband/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Kase.O",
@@ -2500,7 +2500,7 @@
       "url": "https://www.aragonmusical.com/agenda/kase-o-camisa-de-fuerza/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/12/20251220-KaseO-Pabellon-Principe-Felipe-Luis-Lorente-17.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Pignoise",
@@ -2510,7 +2510,7 @@
       "url": "https://www.aragonmusical.com/agenda/pignoise-4/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/12/Pignoise.-Sala-Oasis-Club-281124.-Por-@phastor_art-para-Aragon-Musical-1.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "La Frontera",
@@ -2520,7 +2520,7 @@
       "url": "https://www.aragonmusical.com/agenda/la-frontera-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/20260509-La-Frontera-Sala-Multiusos-Luis-Lorente-19.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Orquesta Reino Aragón",
@@ -2540,7 +2540,7 @@
       "url": "https://www.aragonmusical.com/agenda/she-cant-afford-mascara-ebm-minimal-synth-darkwave/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/event_l_Captura_de_pantalla_2026-11-19_a_las_23.14.40.png",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "The Pickin Boppers",
@@ -2550,7 +2550,7 @@
       "url": "https://www.aragonmusical.com/agenda/the-pickin-boppers/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-15.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "The Monsters",
@@ -2560,7 +2560,7 @@
       "url": "https://www.aragonmusical.com/agenda/the-monsters-2/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "WDR Funkhausorchester",
@@ -2590,7 +2590,7 @@
       "url": "https://www.aragonmusical.com/agenda/macaco-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/05/27o-Premios-de-la-Musica-Aragonesa.-Auditorio-San-Francisco-de-Monzon-18426-Por-Jal-Lux-para-Aragon-Musical-3.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Martin Bruhn",
@@ -2600,7 +2600,7 @@
       "url": "https://www.aragonmusical.com/agenda/martin-bruhn/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-15.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Gara Durán",
@@ -2610,7 +2610,7 @@
       "url": "https://www.laganzua.net/conciertos/gara-duran-zaragoza-1018139",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/gara-duran-2026.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "D.VALENTINO",
@@ -2630,7 +2630,7 @@
       "url": "https://www.aragonmusical.com/agenda/error-97-capros/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/Para_La_Lata.png",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Ginebras",
@@ -2640,7 +2640,7 @@
       "url": "https://www.aragonmusical.com/agenda/ginebras-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/10/Ginebras.png",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "The Cherry Boppers & Patricia Reckless",
@@ -2650,7 +2650,7 @@
       "url": "https://www.aragonmusical.com/agenda/the-cherry-boppers-patricia-reckless/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-16.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "RODRIGO CUEVAS",
@@ -2670,7 +2670,7 @@
       "url": "https://www.aragonmusical.com/agenda/patronato/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/PATRONATO_27.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Metrika",
@@ -2680,7 +2680,7 @@
       "url": "https://www.aragonmusical.com/agenda/metrika/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/SaveClip.App_799601895_18036331604833164_1508183846929361225_n_896.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Grupo Enigma",
@@ -2710,7 +2710,7 @@
       "url": "https://www.aragonmusical.com/agenda/balkan-paradise-orchestra-4/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/Balkan-Paradise-Orchestra-e1788975661563.avif",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Leif De Leeuw Band",
@@ -2720,7 +2720,7 @@
       "url": "https://www.aragonmusical.com/agenda/leif-de-leeuw-band/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-16.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Alison Darwin + Supercremalleras",
@@ -2730,7 +2730,7 @@
       "url": "https://www.aragonmusical.com/agenda/alison-darwin-supercremalleras/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/event_l_1000270197.png",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "The Summit",
@@ -2740,7 +2740,7 @@
       "url": "https://www.aragonmusical.com/agenda/the-summit/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-17.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Terminal Violence & Radity",
@@ -2750,7 +2750,7 @@
       "url": "https://www.aragonmusical.com/agenda/terminal-violence-radity/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/event_l_WhatsApp_Image_2026-11-11_at_11.05.27__2_.jpeg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Ill Pekeño & Ergo Pro",
@@ -2760,7 +2760,7 @@
       "url": "https://www.aragonmusical.com/agenda/ill-pekeno-ergo-pro-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/un-balon-perdido-e1790098158721.jpeg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "PURO RELAJO",
@@ -2780,7 +2780,7 @@
       "url": "https://www.aragonmusical.com/agenda/anabel-lee-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/08/Anabel-Lee-Luis-Lorente-15.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Iñigo Quintero",
@@ -2790,7 +2790,7 @@
       "url": "https://www.aragonmusical.com/agenda/inigo-quintero-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/10/Inigo-Quintero-Espacio-Zity-71024.-Por-Luis-Lopez-Latorre-11.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "DA IGUAL",
@@ -2800,7 +2800,7 @@
       "url": "https://www.aragonmusical.com/agenda/da-igual-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/ARAGON-MUSICAL-da-igual-COCIERTOS-ZARAGOZA-2027-arena-rock-la-casa-del-loco-.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Jodie Cash",
@@ -2810,7 +2810,7 @@
       "url": "https://www.aragonmusical.com/agenda/jodie-cash-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-17.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Mafalda Cardenal",
@@ -2820,7 +2820,7 @@
       "url": "https://www.aragonmusical.com/agenda/mafalda-cardenal-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/06/Mafalda-Cardenal.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "ORQUESTA SINFÓNICA CIUDAD DE ZARAGOZA",
@@ -2840,7 +2840,7 @@
       "url": "https://www.aragonmusical.com/agenda/con-v-de-voz-5/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-18.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "LEO DE MARÍA & ZORNITSA ILARIONOVA",
@@ -2860,7 +2860,7 @@
       "url": "https://www.aragonmusical.com/agenda/johnny-mafia-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-19.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "A Contra Blues",
@@ -2870,7 +2870,7 @@
       "url": "https://www.aragonmusical.com/agenda/a-contra-blues-6/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-18.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Elliot Murphy & Band",
@@ -2880,7 +2880,7 @@
       "url": "https://www.aragonmusical.com/agenda/elliot-murphy-band/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/3806.png",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "500 noches",
@@ -2890,7 +2890,7 @@
       "url": "https://www.aragonmusical.com/agenda/500-noches/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "J Teixi Band",
@@ -2900,7 +2900,7 @@
       "url": "https://www.aragonmusical.com/agenda/j-teixi-band-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-20.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Álvaro De Luna",
@@ -2910,7 +2910,7 @@
       "url": "https://www.aragonmusical.com/agenda/alvaro-de-luna-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/igexport-Dfo5GvfApDZ.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Greasy Belly",
@@ -2920,7 +2920,7 @@
       "url": "https://www.aragonmusical.com/agenda/greasy-belly/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-21.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Sons Of Aguirre & Scila",
@@ -2930,7 +2930,7 @@
       "url": "https://www.aragonmusical.com/agenda/sons-of-aguirre-scila-3/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Banda Sinfónica del Conservatorio Superior de Música de Aragón",
@@ -2950,7 +2950,7 @@
       "url": "https://www.aragonmusical.com/agenda/hoehn/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-19.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Silvia Solans & The Beerleaders",
@@ -2960,7 +2960,7 @@
       "url": "https://www.aragonmusical.com/agenda/silvia-solans-the-beerleaders/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2015/07/FotoSilviaSolansJulio2015.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Paula Koops",
@@ -2970,7 +2970,7 @@
       "url": "https://www.aragonmusical.com/agenda/paula-koops-4/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/paula.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Al Ayre Español",
@@ -3000,7 +3000,7 @@
       "url": "https://www.aragonmusical.com/agenda/connie-and-the-rockets/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-22.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Nadie Patín",
@@ -3010,7 +3010,7 @@
       "url": "https://www.aragonmusical.com/agenda/nadie-patin/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2016/06/ticket-icon-30.png",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Siempre Héroes",
@@ -3020,7 +3020,7 @@
       "url": "https://www.aragonmusical.com/agenda/siempre-heroes/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/Siempre-Heroes.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "De Acero",
@@ -3030,7 +3030,7 @@
       "url": "https://www.aragonmusical.com/agenda/de-acero/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "DJ SYMPHONIC – NEW EDITION",
@@ -3050,7 +3050,7 @@
       "url": "https://www.aragonmusical.com/agenda/hermanos-martinez-ninos-del-brasil-nacha-pop/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2024/09/20240927-Vive-Latino-Sabado-Luis-Lorente-072.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Sarria",
@@ -3060,7 +3060,7 @@
       "url": "https://www.aragonmusical.com/agenda/sarria/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/foto-13-scaled.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Orquesta Sinfónica Reino de Aragón y Coro Sinfónico Amici Musicae",
@@ -3080,7 +3080,7 @@
       "url": "https://www.aragonmusical.com/agenda/humphrey-the-farmers-7/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-4.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Barry B",
@@ -3100,7 +3100,7 @@
       "url": "https://www.aragonmusical.com/agenda/barry-b-6/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/02/Barry-B.-Sala-Lopez-de-Zaragoza-20226.-Foto-de-Alejandro-Meavilla-para-Aragon-Musical-98.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Zetazen",
@@ -3120,7 +3120,7 @@
       "url": "https://www.aragonmusical.com/agenda/la-azotea-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/960x360px_La_Lata_de_Bombillas.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Los Brioles",
@@ -3130,7 +3130,7 @@
       "url": "https://www.aragonmusical.com/agenda/los-brioles/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-5.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Barry B",
@@ -3140,7 +3140,7 @@
       "url": "https://www.aragonmusical.com/agenda/barry-b-5/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/02/Barry-B.-Sala-Lopez-de-Zaragoza-20226.-Foto-de-Alejandro-Meavilla-para-Aragon-Musical-100.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Foyone",
@@ -3160,7 +3160,7 @@
       "url": "https://www.aragonmusical.com/agenda/jessie-lee-the-alchemist/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-23.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Kind Of Metal 5tet",
@@ -3170,7 +3170,7 @@
       "url": "https://www.aragonmusical.com/agenda/kind-of-metal-5tet/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-20.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Mda",
@@ -3180,7 +3180,7 @@
       "url": "https://www.aragonmusical.com/agenda/mda-3/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/MDA-scaled-1-e1793991289240.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Netherlands Philharmonic Orchestra",
@@ -3210,7 +3210,7 @@
       "url": "https://www.aragonmusical.com/agenda/luis-fercan-11/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-25.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Kenneth Brian Band",
@@ -3220,7 +3220,7 @@
       "url": "https://www.aragonmusical.com/agenda/kenneth-brian-band-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-24-scaled.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "DIRE STRAITS: HOMENAJE POR ALCHEMY PROJECT",
@@ -3240,7 +3240,7 @@
       "url": "https://www.aragonmusical.com/agenda/amor-liquido-porfa/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/07/AMOR_LIQUIDO.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Valiente Bosque + Vuelo Fidji",
@@ -3250,7 +3250,7 @@
       "url": "https://www.aragonmusical.com/agenda/valiente-bosque-vuelo-fidji/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Novena sinfonía de Beethoven",
@@ -3270,7 +3270,7 @@
       "url": "https://www.aragonmusical.com/agenda/the-hanging-stars-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-25.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "The Skatalites",
@@ -3280,7 +3280,7 @@
       "url": "https://www.aragonmusical.com/agenda/the-skatalites-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-21.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Elephant Stone",
@@ -3290,7 +3290,7 @@
       "url": "https://www.aragonmusical.com/agenda/elephant-stone/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2016/06/ticket-icon-30.png",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "The Watch Plays Genesis",
@@ -3300,7 +3300,7 @@
       "url": "https://www.aragonmusical.com/agenda/the-watch-plays-genesis/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/06/portadawebthewatchgenesis.webp",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Rulo Y La Contrabanda",
@@ -3310,7 +3310,7 @@
       "url": "https://www.aragonmusical.com/agenda/rulo-y-la-contrabanda-7/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2025/02/Rulo-y-la-Contrabanda.-Teatro-de-las-Esquinas.-Zaragoza-13-2-25.-Por-Alejandro-Meavilla-para-Aragon-Musical-65.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Ashley Sherlock",
@@ -3320,7 +3320,7 @@
       "url": "https://www.aragonmusical.com/agenda/ashley-sherlock/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-26.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Andreu Domenech 4tet",
@@ -3330,7 +3330,7 @@
       "url": "https://www.aragonmusical.com/agenda/andreu-domenech-4tet/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-22.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "PHILHARMONISCHES STREICHQUINTETT BERLIN (PSB)",
@@ -3350,7 +3350,7 @@
       "url": "https://www.aragonmusical.com/agenda/con-v-de-voz-4/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-27.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Berner Symphonieorchester",
@@ -3370,7 +3370,7 @@
       "url": "https://www.aragonmusical.com/agenda/felis/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Marwán",
@@ -3380,7 +3380,7 @@
       "url": "https://www.aragonmusical.com/agenda/marwan-9/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2018/09/343401_description_Marwan_foto1_169_JPG_baja.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Mind Traveller + No Drop For Us",
@@ -3390,7 +3390,7 @@
       "url": "https://www.aragonmusical.com/agenda/mind-traveller-no-drop-for-us/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Ana Carla Maza",
@@ -3400,7 +3400,7 @@
       "url": "https://www.aragonmusical.com/agenda/ana-carla-maza/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/ANA-CARLA-MAZA-e1793991240730.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Thomas Kretzschmar 4tet",
@@ -3410,7 +3410,7 @@
       "url": "https://www.aragonmusical.com/agenda/thomas-kretzschmar-4tet-5/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-23.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "The Cruz & The Dukes Of Harlem",
@@ -3420,7 +3420,7 @@
       "url": "https://www.aragonmusical.com/agenda/the-cruz-the-dukes-of-harlem-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-24-scaled.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "JUAN PARDO & LARISA TEDTOEVA",
@@ -3440,7 +3440,7 @@
       "url": "https://www.aragonmusical.com/agenda/nerve-agent/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/na.avif",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "DIEGO RAMOS. HOMENAJE A JULIO IGLESIAS.",
@@ -3460,7 +3460,7 @@
       "url": "https://www.aragonmusical.com/agenda/la-banda-sabinera-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/04/3250.png",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Estados De Ánimo",
@@ -3470,7 +3470,7 @@
       "url": "https://www.aragonmusical.com/agenda/estados-de-animo-2/",
       "imagen": "",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "CUARTETO SZYMANOWSK",
@@ -3490,7 +3490,7 @@
       "url": "https://www.aragonmusical.com/agenda/linkoln-park-5/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/ARAGON-MUSICAL-Linkoln-Park-Tributo-a-Linkin-Park-COCIERTOS-ZARAGOZA-2027-arena-rock-la-casa-del-loco-.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "SDFK",
@@ -3500,7 +3500,7 @@
       "url": "https://www.aragonmusical.com/agenda/sdfk/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/09/sfdk.webp",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "SFDK",
@@ -3520,7 +3520,7 @@
       "url": "https://www.aragonmusical.com/agenda/indigo-8/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-31.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Viva Belgrado",
@@ -3530,7 +3530,7 @@
       "url": "https://www.aragonmusical.com/agenda/viva-belgrado-5/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/Viva-Belgrado.webp",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "English Chamber Orchestra",
@@ -3550,7 +3550,7 @@
       "url": "https://www.aragonmusical.com/agenda/the-maharajas/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/foto-2.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Los Punsetes",
@@ -3590,7 +3590,7 @@
       "url": "https://www.aragonmusical.com/agenda/los-punsetes-4/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2017/12/Los-Punsetes.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "MusicAeterna",
@@ -3610,7 +3610,17 @@
       "url": "https://www.aragonmusical.com/agenda/rata-blanca-2/",
       "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/11/Rata-Blanca.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
+    },
+    {
+      "titulo": "Los Secretos",
+      "fecha": "2027-05-26",
+      "hora": "21:30",
+      "sala": "Por determinar",
+      "url": "https://www.aragonmusical.com/agenda/los-secretos-11/",
+      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2022/02/IMG_R_0007.jpg",
+      "descripcion": "",
+      "visto": "2026-11-27"
     }
   ]
 }
