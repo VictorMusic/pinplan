@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-27T02:35:46.312396",
-  "total": 360,
+  "actualizado": "2026-11-27T17:13:51.586697",
+  "total": 361,
   "eventos": [
     {
       "titulo": "PEAU D’HOMME",
@@ -1793,43 +1793,53 @@
       "visto": "2026-11-27"
     },
     {
+      "titulo": "CIENTOCERO. Tributo a Supersubmarina",
+      "fecha": "2027-01-22",
+      "hora": "20:15",
+      "sala": "Sala López",
+      "url": "https://conciertos.club/zaragoza/conciertos/130476-cientocero-tributo-a-supersubmarina",
+      "imagen": "https://doc.conciertos.club/doc/c/2027/conciertocie_20270122.jpg",
+      "descripcion": "Versiones/Tributos · Entradas desde 16,50 €",
+      "visto": "2026-11-27"
+    },
+    {
       "titulo": "Funambulista",
       "fecha": "2027-01-22",
       "hora": "21:00",
       "sala": "Teatro de las Esquinas",
-      "url": "https://www.laganzua.net/conciertos/funambulista-zaragoza-1018131",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/funambulista-2026.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/130493-funambulista",
+      "imagen": "https://conciertos.club/doc/a/2017/a_funambulista.jpg",
+      "descripcion": "Cantautores · Entradas desde 27,50 €",
       "visto": "2026-11-27"
     },
     {
-      "titulo": "Maitequiero",
-      "fecha": "2027-01-22",
-      "hora": "21:00",
-      "sala": "La Lata de Bombillas",
-      "url": "https://www.aragonmusical.com/agenda/maitequiero/",
-      "imagen": "",
-      "descripcion": "",
-      "visto": "2026-11-26"
-    },
-    {
-      "titulo": "Ron Vudu",
+      "titulo": "RON Vudu",
       "fecha": "2027-01-22",
       "hora": "21:00",
       "sala": "Rock & Blues Café",
-      "url": "https://www.aragonmusical.com/agenda/ron-vudu/",
-      "imagen": "https://cdn.aragonmusical.com/wp-content/uploads/2026/10/foto-6.jpg",
-      "descripcion": "",
-      "visto": "2026-11-26"
+      "url": "https://conciertos.club/zaragoza/conciertos/130294-ron-vudu",
+      "imagen": "https://doc.conciertos.club/doc/c/2027/ronvudu_20270122.jpg",
+      "descripcion": "Rock/Rock Alternativo · Entrada libre",
+      "visto": "2026-11-27"
+    },
+    {
+      "titulo": "MaiteQuiero",
+      "fecha": "2027-01-22",
+      "hora": "21:00",
+      "sala": "La Lata de Bombillas",
+      "url": "https://conciertos.club/zaragoza/conciertos/130492-maitequiero",
+      "imagen": "",
+      "descripcion": "Entradas desde 16,50 €",
+      "visto": "2026-11-27"
     },
     {
       "titulo": "La Bien Querida",
       "fecha": "2027-01-22",
       "hora": "22:00",
       "sala": "Sala Oasis",
-      "url": "https://www.laganzua.net/conciertos/la-bien-querida-zaragoza-1018174",
-      "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/la-bien-querida-2026.jpg",
-      "descripcion": "",
+      "url": "https://conciertos.club/zaragoza/conciertos/125865-la-bien-querida",
+      "imagen": "https://doc.conciertos.club/doc/c/2027/labienquer_20270122.jpg",
+      "descripcion": "Pop-rock/Indie · Entradas desde 27,50 €",
       "visto": "2026-11-27"
     },
     {
@@ -3570,7 +3580,7 @@
       "url": "https://www.laganzua.net/conciertos/mago-de-oz-stratovarius-obus-zaragoza-1017692",
       "imagen": "https://www.laganzua.net/conciertosbdnew/fotosnoticias/certamen-pop-rock-zaragoza-2027.jpg",
       "descripcion": "",
-      "visto": "2026-11-26"
+      "visto": "2026-11-27"
     },
     {
       "titulo": "Los Punsetes",
